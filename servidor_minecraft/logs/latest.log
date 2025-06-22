@@ -1062,3 +1062,67 @@ This item will not be added to the menu!
 [19:17:22] [Server thread/INFO]: Dilan_Rios issued server command: /reward
 [19:17:25] [Server thread/INFO]: Dilan_Rios issued server command: /rewards
 [19:17:37] [Server thread/INFO]: Dilan_Rios issued server command: /?
+[19:18:54] [Server thread/INFO]: Dilan_Rios issued server command: /lp
+[19:19:17] [Server thread/INFO]: Made Dilan_Rios a server operator
+[19:19:32] [Server thread/INFO]: Dilan_Rios issued server command: /reload
+[19:19:32] [Server thread/INFO]: Dilan_Rios: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[19:20:03] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[19:20:26] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:29] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:30] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:33] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:38] [Server thread/INFO]: Dilan_Rios issued server command: /
+[19:20:41] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:42] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:44] [Server thread/INFO]: Dilan_Rios issued server command: /top
+[19:20:54] [Server thread/INFO]: Dilan_Rios issued server command: /top Dilan_Rios
+[19:21:03] [Server thread/INFO]: Dilan_Rios issued server command: /killall
+[19:21:11] [Server thread/INFO]: Dilan_Rios issued server command: /killall custom Arena
+[19:21:23] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops
+[19:23:15] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate Dilan_Rios
+[19:23:33] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate Vip Vip
+[19:23:41] [Server thread/INFO]: Dilan_Rios issued server command: /kits
+[19:23:44] [Server thread/INFO]: Dilan_Rios issued server command: /kitreset
+[19:23:50] [Server thread/INFO]: Dilan_Rios issued server command: /kitreset tools Dilan_Rios 1
+[19:23:52] [Server thread/INFO]: Dilan_Rios issued server command: /kitreset tools Dilan_Rios 3
+[19:24:01] [Server thread/INFO]: Dilan_Rios issued server command: /kitpreview
+[19:24:06] [Server thread/INFO]: Dilan_Rios issued server command: /kitpreview tools
+[19:24:16] [Server thread/INFO]: Dilan_Rios issued server command: /kittycannon
+[19:24:19] [Server thread/INFO]: Dilan_Rios issued server command: /kittycannon
+[19:24:22] [Server thread/INFO]: Dilan_Rios issued server command: /kittycannon
+[19:24:27] [Server thread/INFO]: Dilan_Rios issued server command: /spawn
+[19:24:33] [Server thread/INFO]: Dilan_Rios issued server command: /home
+[19:24:40] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
+[19:24:40] [Server thread/INFO]: RTP | Teleporting... please wait while we find a safe location!
+[19:24:40] [Server thread/INFO]: RTP | Dilan_Rios has been tp'd to x=936 y=70 z=-410
+[19:24:44] [Server thread/INFO]: Dilan_Rios issued server command: /spawn
+[19:24:47] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
+[19:24:49] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
+[19:24:50] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
+[19:24:53] [Server thread/INFO]: Dilan_Rios issued server command: /kittycannon
+[19:24:57] [Server thread/INFO]: Dilan_Rios issued server command: /kittycannon
+[19:25:05] [Server thread/INFO]: Dilan_Rios issued server command: /kitshow
+[19:25:11] [Server thread/INFO]: Dilan_Rios issued server command: /kitshow tools
+[19:25:15] [Server thread/INFO]: Dilan_Rios issued server command: /k
+[19:25:19] [Server thread/INFO]: Dilan_Rios issued server command: /kitr
+[19:25:28] [Server thread/INFO]: Dilan_Rios issued server command: /kitr tools Dilan_Rios 3
+[19:25:54] [Server thread/INFO]: Dilan_Rios issued server command: /crates
+[19:26:01] [Server thread/INFO]: Dilan_Rios issued server command: /crates help
+[19:26:11] [Server thread/INFO]: Dilan_Rios issued server command: /crates dropkey
+[19:26:27] [Server thread/INFO]: Dilan_Rios issued server command: /crates dropkey vote -1 100 -7 spawn
+[19:26:31] [Server thread/INFO]: Dilan_Rios issued server command: /crates dropkey vote -1 100 -7 spawn
+[19:26:45] [Server thread/INFO]: Dilan_Rios issued server command: /crates key
+[19:26:50] [Server thread/INFO]: Dilan_Rios issued server command: /crates key set Dilan_Rios
+[19:27:01] [Server thread/INFO]: Dilan_Rios issued server command: /crates resetcooldown
+[19:27:12] [Server thread/INFO]: Dilan_Rios issued server command: /crates resetcooldown Dilan_Rios wild
+[19:27:22] [Server thread/INFO]: Dilan_Rios issued server command: /crates resetcooldown Dilan_Rios fire
+[19:27:36] [Server thread/INFO]: Dilan_Rios issued server command: /crates open
+[19:27:42] [Server thread/INFO]: Dilan_Rios issued server command: /crates open wild
+[19:27:54] [Server thread/INFO]: Dilan_Rios issued server command: /crates menu default
+[19:27:54] [Server thread/ERROR]: [ExcellentCrates] Invalid crate 'your_crate_id' in 'default.yml' menu!
+[19:28:00] [Server thread/INFO]: Dilan_Rios issued server command: /crates menu
+[19:28:00] [Server thread/ERROR]: [ExcellentCrates] Invalid crate 'your_crate_id' in 'default.yml' menu!
+[19:28:15] [Server thread/INFO]: Dilan_Rios issued server command: /crates menu default Dilan_Rios
+[19:28:15] [Server thread/ERROR]: [ExcellentCrates] Invalid crate 'your_crate_id' in 'default.yml' menu!
+[19:28:24] [Server thread/INFO]: Dilan_Rios issued server command: /crates editor
+[19:28:40] [Server thread/INFO]: Dilan_Rios issued server command: /#exit

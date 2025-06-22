@@ -22,3 +22,5 @@
 2025-06-22 18:26:58 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=803.5,y=75.0,z=-735.5,pitch=35.549965,yaw=-138.17984}
 2025-06-22 18:39:02 [INFO]: CONSOLE executed: /betterrtp player Dilan_Rios world
 2025-06-22 18:39:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-559.5,y=68.0,z=708.5,pitch=21.44087,yaw=-122.282555}
+2025-06-22 19:24:40 [INFO]: CONSOLE executed: /betterrtp player Dilan_Rios world
+2025-06-22 19:24:40 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=936.5,y=70.0,z=-409.5,pitch=13.790844,yaw=175.61739}
