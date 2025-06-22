@@ -267,5 +267,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-22 19:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-22 19:30:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

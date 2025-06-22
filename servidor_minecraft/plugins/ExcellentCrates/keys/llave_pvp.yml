@@ -1,0 +1,5 @@
+Name: Pvp
+Virtual: false
+Item:
+  Material: TRIPWIRE_HOOK
+  Name: '&fLlave_pvp Key'
