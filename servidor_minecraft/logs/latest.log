@@ -1317,3 +1317,101 @@ This item will not be added to the menu!
 [07:58:50] [Server thread/INFO]: Dilan_Rios issued server command: /points pay Dilan_Rios 100000
 [07:58:53] [Server thread/INFO]: Dilan_Rios issued server command: /points pay Dilan_Rios 1000
 [07:58:55] [Server thread/INFO]: Dilan_Rios issued server command: /points help
+[07:59:10] [Server thread/INFO]: Dilan_Rios issued server command: /points set Dilan_Rios 1
+[07:59:14] [Server thread/INFO]: Dilan_Rios issued server command: /points set Dilan_Rios 10000000
+[07:59:18] [Server thread/INFO]: Dilan_Rios issued server command: /points
+[07:59:19] [Server thread/INFO]: Dilan_Rios issued server command: /pointss
+[07:59:20] [Server thread/INFO]: [PlayerPoints] Took 100 Points from Dilan_Rios.
+[07:59:20] [Server thread/INFO]: LIFESTEAL | Given x1 of Wild Key key(s) to Dilan_Rios.
+[07:59:22] [Server thread/INFO]: Dilan_Rios issued server command: /pointss
+[07:59:24] [Server thread/INFO]: [PlayerPoints] Took 2,000 Points from Dilan_Rios.
+[07:59:24] [Server thread/INFO]: LIFESTEAL | Given x12 of Insane Key key(s) to Dilan_Rios.
+[07:59:25] [Server thread/INFO]: Dilan_Rios issued server command: /pointss
+[07:59:26] [Server thread/INFO]: [PlayerPoints] Took 1,000 Points from Dilan_Rios.
+[07:59:26] [Server thread/INFO]: LIFESTEAL | Given x12 of Wild Key key(s) to Dilan_Rios.
+[07:59:28] [Server thread/INFO]: Dilan_Rios issued server command: /pointss
+[07:59:29] [Server thread/INFO]: [PlayerPoints] Took 400 Points from Dilan_Rios.
+[07:59:29] [Server thread/INFO]: LIFESTEAL | Given x12 of Vote Key key(s) to Dilan_Rios.
+[07:59:58] [Server thread/INFO]: Dilan_Rios issued server command: /gamemode survival
+[08:00:06] [Server thread/INFO]: Dilan_Rios has completed the challenge [Serious Dedication]
+[08:00:54] [Server thread/INFO]: Dilan_Rios issued server command: /gamemode creative
+[08:01:24] [Server thread/INFO]: Dilan_Rios issued server command: /money
+[08:01:26] [Server thread/INFO]: Dilan_Rios issued server command: /money
+[08:01:27] [Server thread/INFO]: Dilan_Rios issued server command: /money
+[08:01:29] [Server thread/INFO]: Dilan_Rios issued server command: /money
+[08:01:40] [Server thread/INFO]: Dilan_Rios issued server command: /money set Dilan_Rios
+[08:01:46] [Server thread/INFO]: Dilan_Rios issued server command: /money
+[08:01:50] [Server thread/INFO]: Dilan_Rios issued server command: /money Dilan_Rios
+[08:02:07] [Server thread/INFO]: Dilan_Rios issued server command: /money help
+[08:02:52] [Server thread/INFO]: Dilan_Rios issued server command: /kit
+[08:02:58] [Server thread/INFO]: Dilan_Rios issued server command: /kit tools
+[08:03:12] [Server thread/INFO]: Dilan_Rios issued server command: /killall
+[08:03:25] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops
+[08:03:40] [Server thread/INFO]: Dilan_Rios issued server command: /killall custom
+[08:03:57] [Server thread/INFO]: Dilan_Rios issued server command: /killall mobs
+[08:04:03] [Server thread/INFO]: Dilan_Rios issued server command: /killall mobs Arena
+[08:04:15] [Server thread/INFO]: Dilan_Rios issued server command: /team
+[08:04:23] [Server thread/INFO]: Dilan_Rios issued server command: /team add f
+[08:04:23] [Server thread/INFO]: [Dilan_Rios: Created team [f]]
+[08:04:26] [Server thread/INFO]: Dilan_Rios issued server command: /team add
+[08:04:29] [Server thread/INFO]: Dilan_Rios issued server command: /team
+[08:04:35] [Server thread/INFO]: Dilan_Rios issued server command: /claim
+[08:04:43] [Server thread/INFO]: Dilan_Rios issued server command: /c
+[08:04:44] [Server thread/INFO]: Dilan_Rios issued server command: /c
+[08:04:51] [Server thread/INFO]: Dilan_Rios issued server command: /songoda
+[08:04:53] [Server thread/ERROR]: Could not pass event InventoryClickEvent to UltimateClaims v2.3.0-SNAPSHOT
+java.lang.IllegalArgumentException: message cannot be null
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:385) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendRawMessage(CraftPlayer.java:380) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.entity.CraftPlayer.sendMessage(CraftPlayer.java:397) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at UltimateClaims-2.3.0.jar/com.craftaro.ultimateclaims.core.core.SongodaCoreOverviewGUI.lambda$new$2(SongodaCoreOverviewGUI.java:52) ~[UltimateClaims-2.3.0.jar:?]
+	at UltimateClaims-2.3.0.jar/com.craftaro.ultimateclaims.core.gui.Gui.onClick(Gui.java:916) ~[UltimateClaims-2.3.0.jar:?]
+	at UltimateClaims-2.3.0.jar/com.craftaro.ultimateclaims.core.gui.GuiManager$GuiListener.onClickGUI(GuiManager.java:240) ~[UltimateClaims-2.3.0.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:05:07] [Server thread/INFO]: Dilan_Rios issued server command: /kill Dilan_Rios
+[08:05:22] [Server thread/INFO]: Dilan_Rios issued server command: /trp
+[08:05:26] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
+[08:05:26] [Server thread/INFO]: RTP | Teleporting... please wait while we find a safe location!
+[08:05:30] [Server thread/INFO]: RTP | Dilan_Rios has been tp'd to x=-952 y=77 z=763
+[08:06:33] [Server thread/INFO]: Dilan_Rios issued server command: /kill Dilan_Rios
+[08:06:48] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops world
+[08:06:50] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops
+[08:06:59] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops Arena
+[08:07:11] [Server thread/INFO]: Dilan_Rios issued server command: /tpa
+[08:07:34] [Server thread/INFO]: Dilan_Rios issued server command: /create
+[08:07:38] [Server thread/INFO]: Dilan_Rios issued server command: /createkit
+[08:08:04] [Server thread/INFO]: Dilan_Rios issued server command: /createkit Prueba user
+[08:08:08] [Server thread/INFO]: Dilan_Rios issued server command: /createkit Prueba
+[08:08:14] [Server thread/INFO]: Dilan_Rios issued server command: /delay
+[08:08:20] [Server thread/INFO]: Dilan_Rios issued server command: /redo
+[08:08:33] [Server thread/INFO]: Dilan_Rios issued server command: /kit
+[08:08:35] [Server thread/INFO]: Dilan_Rios issued server command: /kits
+[08:08:49] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate
+[08:09:02] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate Prueba Tools
+[08:09:05] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate Prueba Tool
+[08:09:11] [Server thread/INFO]: Dilan_Rios issued server command: /kitcreate Prueba Dilan_Rios
+[08:09:29] [Server thread/INFO]: Dilan_Rios issued server command: /createkit

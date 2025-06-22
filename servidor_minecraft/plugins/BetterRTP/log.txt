@@ -25,3 +25,8 @@
 2025-06-22 07:53:39 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=176.0,y=69.0,z=-436.0,pitch=0.0,yaw=0.0}
 2025-06-22 07:53:39 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=176.0,y=69.0,z=-436.0,pitch=0.0,yaw=0.0}
 2025-06-22 07:53:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=927.5,y=79.0,z=-538.5,pitch=10.041299,yaw=5.505554}
+2025-06-22 08:05:09 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
+2025-06-22 08:05:26 [INFO]: CONSOLE executed: /betterrtp player Dilan_Rios world
+2025-06-22 08:05:28 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-931.0,y=69.0,z=-391.0,pitch=0.0,yaw=0.0}
+2025-06-22 08:05:29 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-806.0,y=69.0,z=461.0,pitch=0.0,yaw=0.0}
+2025-06-22 08:05:30 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-951.5,y=77.0,z=763.5,pitch=6.1408806,yaw=0.86728173}
