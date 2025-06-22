@@ -2986,3 +2986,10 @@
 [Sun Jun 22 18:07:43 UTC 2025] Dilan_Rios: /fly
 [Sun Jun 22 18:07:49 UTC 2025] Dilan_Rios: /lp
 [Sun Jun 22 18:07:53 UTC 2025] Dilan_Rios: /lp set
+[Sun Jun 22 18:08:41 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 18:08:47 UTC 2025] Dilan_Rios: /flyspeed
+[Sun Jun 22 18:08:55 UTC 2025] Dilan_Rios: /fly Dilan_Rios
+[Sun Jun 22 18:09:00 UTC 2025] Dilan_Rios: /fly Dilan
+[Sun Jun 22 18:09:16 UTC 2025] Dilan_Rios: /kit
+[Sun Jun 22 18:09:20 UTC 2025] Dilan_Rios: /kitshow
+[Sun Jun 22 18:09:24 UTC 2025] Dilan_Rios: /kit vip

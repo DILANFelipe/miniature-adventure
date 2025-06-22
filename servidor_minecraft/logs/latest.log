@@ -833,3 +833,11 @@ java.lang.NullPointerException: null
 [18:07:43] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ Dilan_Rios was denied access to command.
 [18:07:49] [Server thread/INFO]: Dilan_Rios issued server command: /lp
 [18:07:53] [Server thread/INFO]: Dilan_Rios issued server command: /lp set
+[18:08:36] [Server thread/INFO]: Made Dilan_Rios a server operator
+[18:08:41] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:08:47] [Server thread/INFO]: Dilan_Rios issued server command: /flyspeed
+[18:08:55] [Server thread/INFO]: Dilan_Rios issued server command: /fly Dilan_Rios
+[18:09:00] [Server thread/INFO]: Dilan_Rios issued server command: /fly Dilan
+[18:09:16] [Server thread/INFO]: Dilan_Rios issued server command: /kit
+[18:09:20] [Server thread/INFO]: Dilan_Rios issued server command: /kitshow
+[18:09:24] [Server thread/INFO]: Dilan_Rios issued server command: /kit vip
