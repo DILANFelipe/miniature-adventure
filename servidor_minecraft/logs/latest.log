@@ -1982,3 +1982,38 @@ Outdated versions are no longer supported, get the latest one here: https://www.
 [19:38:39] [Server thread/INFO]: Dilan_Rios[/127.28.12.45:48377] logged in with entity id 8980 at ([spawn]16.266113596612175, 100.0, -28.637117839569857)
 [19:38:39] [Server thread/INFO]: [+] Dilan_Rios
 [19:38:39] [Craft Scheduler Thread - 72 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's quests have been loaded.
+[19:39:35] [Server thread/INFO]: Dilan_Rios issued server command: /crates editor
+[19:39:39] [Server thread/INFO]: Dilan_Rios issued server command: /tab
+[19:39:47] [Server thread/INFO]: Dilan_Rios issued server command: /tab:tab
+[19:39:58] [Server thread/INFO]: Dilan_Rios issued server command: /tab help
+[19:40:05] [Server thread/INFO]: Dilan_Rios issued server command: /tab:tab
+[19:40:14] [Server thread/INFO]: Dilan_Rios issued server command: /tab group Owner
+[19:40:26] [Server thread/INFO]: Dilan_Rios issued server command: /tab cpu
+[19:40:32] [Server thread/INFO]: Dilan_Rios issued server command: /tab mysql
+[19:40:34] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.3.0 (Running 5.3.0-SNAPSHOT-726). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[19:40:39] [Server thread/INFO]: Dilan_Rios issued server command: /tab player
+[19:41:28] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set owner
+[19:41:28] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:41:28] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[19:41:31] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set owner
+[19:41:31] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:41:31] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[19:41:46] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mod
+[19:41:46] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:41:46] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[19:41:54] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set admin
+[19:41:54] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:41:54] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[19:42:01] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set elite
+[19:42:01] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:42:01] [luckperms-command-executor/INFO]: [LP] LOG > parent set elite
+[19:42:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (elite) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:42:08] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set vip
+[19:42:08] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:42:08] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[19:42:12] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mpd
+[19:42:14] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mpv
+[19:42:17] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mvp
+[19:42:17] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[19:42:17] [luckperms-command-executor/INFO]: [LP] LOG > parent set mvp
+[19:42:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
