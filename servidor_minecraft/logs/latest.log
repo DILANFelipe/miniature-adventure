@@ -818,3 +818,18 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [17:55:15] [Server thread/INFO]: Dilan_Rios issued server command: /lp
+[18:01:09] [Server thread/INFO]: Dilan_Rios issued server command: /lp reloadconfig
+[18:02:32] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios info
+[18:03:28] [Server thread/INFO]: Dilan_Rios issued server command: /lp creategroup Vip
+[18:03:38] [Server thread/INFO]: Dilan_Rios issued server command: /lp info
+[18:03:58] [Server thread/INFO]: Dilan_Rios issued server command: /lp group
+[18:05:15] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set owner
+[18:05:15] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[18:05:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[18:07:29] [Server thread/INFO]: Made Dilan_Rios no longer a server operator
+[18:07:39] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:07:39] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ Dilan_Rios was denied access to command.
+[18:07:43] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:07:43] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ Dilan_Rios was denied access to command.
+[18:07:49] [Server thread/INFO]: Dilan_Rios issued server command: /lp
+[18:07:53] [Server thread/INFO]: Dilan_Rios issued server command: /lp set
