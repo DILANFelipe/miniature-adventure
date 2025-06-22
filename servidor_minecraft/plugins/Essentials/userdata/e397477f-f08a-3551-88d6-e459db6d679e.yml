@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.28.12.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1750579014222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750578925499
+  login: 1750578953900
+money: '1000'
+last-account-name: Dilan_Rios
+lastlocation:
+  world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+  world-name: world
+  x: 886.0738719112604
+  y: 72.38152030336676
+  z: -449.5302416596469
+  yaw: 105.85491943359375
+  pitch: 0.4412676692008972
+logoutlocation:
+  world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+  world-name: world
+  x: 892.3214993968095
+  y: 66.0
+  z: -460.1362890745662
+  yaw: 124.45531463623047
+  pitch: 40.04126739501953
