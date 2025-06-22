@@ -1032,3 +1032,19 @@ This item will not be added to the menu!
 [18:50:51] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mvp
 [18:51:00] [Server thread/INFO]: Dilan_Rios issued server command: /lp group info mvp
 [18:51:08] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mvp info
+[19:01:35] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mvp parent set vip
+[19:01:35] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (mvp)
+[19:01:35] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[19:01:53] [Server thread/INFO]: Dilan_Rios issued server command: /lp group elite parent set mvp
+[19:01:53] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (elite)
+[19:01:53] [luckperms-command-executor/INFO]: [LP] LOG > parent set mvp
+[19:02:55] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mod parent set elite
+[19:02:55] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (mod)
+[19:02:55] [luckperms-command-executor/INFO]: [LP] LOG > parent set elite
+[19:03:07] [Server thread/INFO]: Dilan_Rios issued server command: /lp group admin parent set mod
+[19:03:07] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (admin)
+[19:03:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[19:03:21] [Server thread/INFO]: Dilan_Rios issued server command: /lp group owner parent set admin
+[19:03:21] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (owner)
+[19:03:21] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[19:07:42] [Server thread/INFO]: Dilan_Rios issued server command: /spawn

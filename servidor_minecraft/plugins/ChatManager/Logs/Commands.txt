@@ -3034,3 +3034,9 @@
 [Sun Jun 22 18:50:51 UTC 2025] Dilan_Rios: /lp group mvp
 [Sun Jun 22 18:51:00 UTC 2025] Dilan_Rios: /lp group info mvp
 [Sun Jun 22 18:51:08 UTC 2025] Dilan_Rios: /lp group mvp info
+[Sun Jun 22 19:01:35 UTC 2025] Dilan_Rios: /lp group mvp parent set vip
+[Sun Jun 22 19:01:53 UTC 2025] Dilan_Rios: /lp group elite parent set mvp
+[Sun Jun 22 19:02:55 UTC 2025] Dilan_Rios: /lp group mod parent set elite
+[Sun Jun 22 19:03:07 UTC 2025] Dilan_Rios: /lp group admin parent set mod
+[Sun Jun 22 19:03:21 UTC 2025] Dilan_Rios: /lp group owner parent set admin
+[Sun Jun 22 19:07:42 UTC 2025] Dilan_Rios: /spawn
