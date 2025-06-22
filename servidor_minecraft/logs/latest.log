@@ -885,3 +885,144 @@ java.lang.NullPointerException: null
 [18:32:43] [Server thread/INFO]: Made Dilan_Rios a server operator
 [18:32:58] [Server thread/INFO]: Dilan_Rios issued server command: /killall
 [18:33:04] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops
+[18:38:57] [Server thread/INFO]: Dilan_Rios issued server command: /tab
+[18:39:02] [Server thread/INFO]: Dilan_Rios issued server command: /randomtp
+[18:39:02] [Server thread/INFO]: RTP | Teleporting... please wait while we find a safe location!
+[18:39:04] [Server thread/INFO]: RTP | Dilan_Rios has been tp'd to x=-560 y=68 z=708
+[18:39:20] [Server thread/INFO]: Dilan_Rios issued server command: /spark
+[18:39:38] [Server thread/INFO]: Dilan_Rios issued server command: /warp BUILD
+[18:39:42] [Server thread/INFO]: Dilan_Rios issued server command: /warp
+[18:39:44] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-Server
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:44] [Craft Scheduler Thread - 37 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:47] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[18:39:48] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-RTP
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:48] [Craft Scheduler Thread - 36 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:50] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[18:39:52] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-Server
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:39:52] [Craft Scheduler Thread - 31 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[18:40:08] [Server thread/INFO]: Dilan_Rios issued server command: /warp LEADERBOARD
+[18:40:22] [Server thread/INFO]: Dilan_Rios issued server command: /warp FISHING
+[18:40:31] [Server thread/INFO]: Dilan_Rios issued server command: /warp arena
+[18:41:03] [Server thread/INFO]: Dilan_Rios lost connection: Disconnected
+[18:41:03] [Server thread/INFO]: [-] Dilan_Rios
+[18:41:03] [Craft Scheduler Thread - 29 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's data saved.
+[18:43:08] [User Authenticator #2/INFO]: UUID of player Dilan_Rios is e397477f-f08a-3551-88d6-e459db6d679e
+[18:43:17] [Server thread/INFO]: Dilan_Rios[/127.28.12.45:46513] logged in with entity id 5699 at ([Arena]27.88411803127782, 60.0, 7.528993937538032)
+[18:43:17] [Server thread/INFO]: [+] Dilan_Rios
+[18:43:17] [Craft Scheduler Thread - 36 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's quests have been loaded.
+[18:44:42] [Server thread/INFO]: Dilan_Rios issued server command: /lp group info
+[18:44:51] [Server thread/INFO]: Dilan_Rios issued server command: /lp group owner info
+[18:45:25] [Server thread/INFO]: Dilan_Rios issued server command: /lp group admin info
+[18:45:46] [Server thread/INFO]: Dilan_Rios issued server command: /lp group elite info
+[18:46:12] [Server thread/INFO]: Dilan_Rios issued server command: /lp group owner permission *
+[18:46:43] [luckperms-command-executor/INFO]: [LP] Command not recognised.
+[18:47:16] [luckperms-command-executor/INFO]: [LP] Command not recognised.
+[18:47:21] [luckperms-command-executor/INFO]: [LP] Command not recognised.
+[18:47:42] [Server thread/INFO]: Dilan_Rios issued server command: /lp group owner permission set *
+[18:47:42] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (owner)
+[18:47:42] [luckperms-command-executor/INFO]: [LP] LOG > permission set * true
