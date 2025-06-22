@@ -3005,3 +3005,15 @@
 [Sun Jun 22 18:25:47 UTC 2025] Dilan_Rios: /kit tools
 [Sun Jun 22 18:25:48 UTC 2025] Dilan_Rios: /kit tools
 [Sun Jun 22 18:26:56 UTC 2025] Dilan_Rios: /rtp
+[Sun Jun 22 18:29:15 UTC 2025] Dilan_Rios: /lp user Dilan_Rios info
+[Sun Jun 22 18:29:33 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 18:29:38 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 18:29:55 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 18:30:52 UTC 2025] Dilan_Rios: /spawn
+[Sun Jun 22 18:31:16 UTC 2025] Dilan_Rios: /kill
+[Sun Jun 22 18:31:21 UTC 2025] Dilan_Rios: /keys
+[Sun Jun 22 18:31:34 UTC 2025] Dilan_Rios: /afk
+[Sun Jun 22 18:31:43 UTC 2025] Dilan_Rios: /ah
+[Sun Jun 22 18:32:28 UTC 2025] Dilan_Rios: /cm
+[Sun Jun 22 18:32:58 UTC 2025] Dilan_Rios: /killall
+[Sun Jun 22 18:33:04 UTC 2025] Dilan_Rios: /killall drops

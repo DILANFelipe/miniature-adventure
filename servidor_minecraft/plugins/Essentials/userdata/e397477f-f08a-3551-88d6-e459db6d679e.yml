@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1750579793799
+  lastteleport: 1750617058082
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,13 +23,13 @@ timestamps:
 money: '1000'
 last-account-name: Dilan_Rios
 lastlocation:
-  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
-  world-name: spawn
-  x: 7.300000011920929
-  y: 100.0
-  z: -18.92009338864401
-  yaw: -138.17984008789062
-  pitch: 35.549964904785156
+  world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+  world-name: world
+  x: 921.7299770387075
+  y: 70.0
+  z: -705.3384282275374
+  yaw: -71.12983703613281
+  pitch: 35.099998474121094
 logoutlocation:
   world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
   world-name: spawn

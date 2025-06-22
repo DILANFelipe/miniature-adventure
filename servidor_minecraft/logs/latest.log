@@ -866,3 +866,22 @@ java.lang.NullPointerException: null
 [18:26:56] [Server thread/INFO]: Dilan_Rios issued server command: /rtp
 [18:26:56] [Server thread/INFO]: RTP | Teleporting... please wait while we find a safe location!
 [18:26:58] [Server thread/INFO]: RTP | Dilan_Rios has been tp'd to x=803 y=75 z=-736
+[18:29:15] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios info
+[18:29:33] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:29:38] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:29:48] [Server thread/INFO]: Made Dilan_Rios no longer a server operator
+[18:29:55] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[18:29:55] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ Dilan_Rios was denied access to command.
+[18:30:52] [Server thread/INFO]: Dilan_Rios issued server command: /spawn
+[18:31:16] [Server thread/INFO]: Dilan_Rios issued server command: /kill
+[18:31:16] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ Dilan_Rios was denied access to command.
+[18:31:21] [Server thread/INFO]: Dilan_Rios issued server command: /keys
+[18:31:25] [Server thread/INFO]: [PlayerPoints] Took 400 Points from Dilan_Rios.
+[18:31:25] [Server thread/INFO]: LIFESTEAL | Given x12 of Vote Key key(s) to Dilan_Rios.
+[18:31:34] [Server thread/INFO]: Dilan_Rios issued server command: /afk
+[18:31:40] [Server thread/INFO]: Dilan_Rios issued server command: /
+[18:31:43] [Server thread/INFO]: Dilan_Rios issued server command: /ah
+[18:32:28] [Server thread/INFO]: Dilan_Rios issued server command: /cm
+[18:32:43] [Server thread/INFO]: Made Dilan_Rios a server operator
+[18:32:58] [Server thread/INFO]: Dilan_Rios issued server command: /killall
+[18:33:04] [Server thread/INFO]: Dilan_Rios issued server command: /killall drops

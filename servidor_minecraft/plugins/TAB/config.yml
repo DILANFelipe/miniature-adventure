@@ -9,20 +9,6 @@ header-footer:
   - ''
   - '&fʏᴏᴜʀɴᴇᴛᴡᴏʀᴋ.xʏᴢ'
   - '&c&m                                                       '
-  per-world:
-    world1:
-      header:
-      - an example of world with custom
-      footer:
-      - header/footer and prefix/suffix
-    world2;world3:
-      header:
-      - This is a shared header for
-      - world2 and world3
-  per-server:
-    server1:
-      header:
-      - an example of server with custom header
   disable-condition: '%world%=disabledworld|%server%=disabledserver'
 tablist-name-formatting:
   enabled: true
