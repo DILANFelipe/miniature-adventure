@@ -3040,3 +3040,15 @@
 [Sun Jun 22 19:03:07 UTC 2025] Dilan_Rios: /lp group admin parent set mod
 [Sun Jun 22 19:03:21 UTC 2025] Dilan_Rios: /lp group owner parent set admin
 [Sun Jun 22 19:07:42 UTC 2025] Dilan_Rios: /spawn
+[Sun Jun 22 19:10:40 UTC 2025] Dilan_Rios: /lp group vip permission set
+[Sun Jun 22 19:10:48 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 19:10:50 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 19:10:57 UTC 2025] Dilan_Rios: /flyspeed
+[Sun Jun 22 19:11:08 UTC 2025] Dilan_Rios: /flood
+[Sun Jun 22 19:11:16 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 19:11:21 UTC 2025] Dilan_Rios: /floodfill
+[Sun Jun 22 19:11:29 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 19:12:21 UTC 2025] Dilan_Rios: /fly
+[Sun Jun 22 19:17:22 UTC 2025] Dilan_Rios: /reward
+[Sun Jun 22 19:17:25 UTC 2025] Dilan_Rios: /rewards
+[Sun Jun 22 19:17:37 UTC 2025] Dilan_Rios: /?
