@@ -1026,3 +1026,9 @@ This item will not be added to the menu!
 [18:47:42] [Server thread/INFO]: Dilan_Rios issued server command: /lp group owner permission set *
 [18:47:42] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (owner)
 [18:47:42] [luckperms-command-executor/INFO]: [LP] LOG > permission set * true
+[18:50:15] [Server thread/INFO]: Dilan_Rios issued server command: /lp group vip parent set default
+[18:50:15] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [G] (vip)
+[18:50:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[18:50:51] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mvp
+[18:51:00] [Server thread/INFO]: Dilan_Rios issued server command: /lp group info mvp
+[18:51:08] [Server thread/INFO]: Dilan_Rios issued server command: /lp group mvp info
