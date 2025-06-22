@@ -2118,3 +2118,60 @@ java.lang.NullPointerException: null
 [19:58:27] [Server thread/INFO]: [TAB] Disabled in 1ms
 [19:58:27] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [19:58:27] [Server thread/INFO]: [TAB] Enabled in 5ms
+[19:59:01] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[19:59:01] [Server thread/INFO]: [TAB] Disabled in 0ms
+[19:59:01] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:59:01] [Server thread/INFO]: [TAB] Enabled in 5ms
+[19:59:20] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[19:59:20] [Server thread/INFO]: [TAB] Disabled in 1ms
+[19:59:20] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:59:20] [Server thread/INFO]: [TAB] Enabled in 4ms
+[20:01:42] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:01:42] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:01:42] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:01:42] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:02:34] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:02:34] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:02:34] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:02:34] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:04:53] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:04:53] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:04:53] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:04:53] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:05:47] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:05:47] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:05:47] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:05:47] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:07:10] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:07:10] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:07:10] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:07:10] [Server thread/INFO]: [TAB] Enabled in 4ms
+[20:07:45] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:07:45] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:07:45] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[20:07:45] [Server thread/INFO]: [TAB] Error message from yaml parser: while parsing a block mapping
+ in 'reader', line 3, column 3:
+      enabled: true
+      ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 24, column 5:
+        world2;world3:
+        ^
+
+[20:07:45] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[20:07:45] [Server thread/INFO]: [TAB] - Remove 2 space(s) from line 20
+[20:07:45] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[20:07:49] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[20:07:49] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[20:07:49] [Server thread/INFO]: [TAB] Error message from yaml parser: while parsing a block mapping
+ in 'reader', line 3, column 3:
+      enabled: true
+      ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 24, column 5:
+        world2;world3:
+        ^
+
+[20:07:49] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[20:07:49] [Server thread/INFO]: [TAB] - Remove 2 space(s) from line 20
+[20:07:49] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
