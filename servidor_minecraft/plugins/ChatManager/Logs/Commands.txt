@@ -2993,3 +2993,15 @@
 [Sun Jun 22 18:09:16 UTC 2025] Dilan_Rios: /kit
 [Sun Jun 22 18:09:20 UTC 2025] Dilan_Rios: /kitshow
 [Sun Jun 22 18:09:24 UTC 2025] Dilan_Rios: /kit vip
+[Sun Jun 22 18:22:53 UTC 2025] Dilan_Rios: /lp user
+[Sun Jun 22 18:23:21 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent
+[Sun Jun 22 18:25:09 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set vip
+[Sun Jun 22 18:25:24 UTC 2025] Dilan_Rios: /kit
+[Sun Jun 22 18:25:28 UTC 2025] Dilan_Rios: /kit vip
+[Sun Jun 22 18:25:37 UTC 2025] Dilan_Rios: /kit tools
+[Sun Jun 22 18:25:41 UTC 2025] Dilan_Rios: /kit vip
+[Sun Jun 22 18:25:43 UTC 2025] Dilan_Rios: /kit tools
+[Sun Jun 22 18:25:45 UTC 2025] Dilan_Rios: /kit tools
+[Sun Jun 22 18:25:47 UTC 2025] Dilan_Rios: /kit tools
+[Sun Jun 22 18:25:48 UTC 2025] Dilan_Rios: /kit tools
+[Sun Jun 22 18:26:56 UTC 2025] Dilan_Rios: /rtp
