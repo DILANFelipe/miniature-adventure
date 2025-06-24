@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1750617663236
+  logout: 1750673111835
   login: 1750672443175
   kits:
     tools: 0
@@ -31,10 +31,10 @@ lastlocation:
   yaw: 167.9673614501953
   pitch: 13.190845489501953
 logoutlocation:
-  world: 1a74786a-fc9a-4b08-9c45-a8fdcc3a7581
-  world-name: Arena
-  x: 27.88411803127782
-  y: 60.0
-  z: 7.528993937538032
-  yaw: 93.57333374023438
-  pitch: 21.542709350585938
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 24.802208665793568
+  y: 99.0
+  z: -99.72954670678304
+  yaw: 25.316112518310547
+  pitch: 5.399951457977295

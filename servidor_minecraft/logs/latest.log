@@ -805,3 +805,27 @@ Outdated versions are no longer supported, get the latest one here: https://www.
 [09:58:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: Animations [1.0.5]
 [09:58:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
 [09:58:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.1]
+[10:04:24] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[10:04:24] [Server thread/INFO]: [TAB] Disabled in 0ms
+[10:04:24] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .barcolors: Configuration section ".barcolors" has unknown key "logo". Valid keys: [change-interval, texts]
+[10:04:24] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[10:04:24] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[10:04:24] [Server thread/INFO]: [TAB] Enabled in 11ms
+[10:04:30] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[10:04:30] [Server thread/INFO]: [TAB] Disabled in 0ms
+[10:04:30] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .barcolors: Configuration section ".barcolors" has unknown key "logo". Valid keys: [change-interval, texts]
+[10:04:30] [Server thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[10:04:30] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[10:04:30] [Server thread/INFO]: [TAB] Enabled in 9ms
+[10:04:32] [Server thread/INFO]: Dilan_Rios issued server command: /papi reload
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: kdratio [1.1.0]
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: Animations [1.0.5]
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[10:04:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.1]
+[10:05:11] [Server thread/INFO]: Dilan_Rios lost connection: Disconnected
+[10:05:11] [Server thread/INFO]: [-] Dilan_Rios
+[10:05:11] [Craft Scheduler Thread - 7 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's data saved.
