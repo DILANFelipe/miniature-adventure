@@ -3460,3 +3460,6 @@
 [Fri Jun 27 20:31:20 UTC 2025] Dilan_Rios: //undo
 [Fri Jun 27 20:31:34 UTC 2025] Dilan_Rios: //copy
 [Fri Jun 27 20:33:50 UTC 2025] Dilan_Rios: //copy
+[Fri Jun 27 20:39:13 UTC 2025] Dilan_Rios: /warp shop
+[Fri Jun 27 20:43:50 UTC 2025] Dilan_Rios: /gamemode survival
+[Fri Jun 27 20:44:02 UTC 2025] Dilan_Rios: /gamemode creative
