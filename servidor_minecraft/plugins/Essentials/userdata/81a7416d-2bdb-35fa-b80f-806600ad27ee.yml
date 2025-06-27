@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.28.12.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751005425696
+  login: 1751005296460
+money: '0'
+last-account-name: xRDilan
+lastlocation:
+  world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+  world-name: world
+  x: -82.0
+  y: 66.0
+  z: -362.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 10.302312568741929
+  y: 99.0
+  z: -50.91500275570112
+  yaw: 19.76767921447754
+  pitch: 11.540848731994629

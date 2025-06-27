@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.245.87.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1750956713506
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750957536489
+  login: 1750954388310
+  kits:
+    tools: 0
+money: '0'
+last-account-name: frayy_dogs
+lastlocation:
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 9.112387331062816
+  y: 100.0
+  z: -20.948687902503984
+  yaw: -177.6327667236328
+  pitch: 17.690841674804688
+logoutlocation:
+  world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+  world-name: world
+  x: 215.3988978872613
+  y: 78.0
+  z: 740.892537397089
+  yaw: 14.101165771484375
+  pitch: 17.24995231628418
+homes:
+  home:
+    world: 04f9558e-d7e8-430d-a95c-352ae9fe299b
+    world-name: world
+    x: 182.19737847479556
+    y: 79.0
+    z: 773.1885354452764
+    yaw: 101.10128784179688
+    pitch: 13.04994010925293

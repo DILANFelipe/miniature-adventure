@@ -33,8 +33,8 @@ MyAnimation1:
 ServerName:
   change-interval: 300
   texts:
-  - '&c&lServerName'
-  - '&c&n&lServerName'
+  - '&c&lMegaMC'
+  - '&c&n&lMegaMC'
   - '&b&lServerName'
   - '&b&l&nServerName'
   - '&e&lServerName'
@@ -74,28 +74,28 @@ vote:
   - '&avote.domain.com'
   - '&a&nvote.domain.com'
   - '&5vote.domain.com'
-  - '&5&nvote.domain.com'
-Welcome:
+  - '&5&nvote.Dilan.com'
+Bienvenido_:
   change-interval: 400
   texts:
-  - '&7&lW_'
-  - '&7&lW_'
-  - '&7&lWe_'
-  - '&7&lWel_'
-  - '&7&lWelc_'
-  - '&7&lWelco_'
-  - '&7&lWelcom_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcom_'
-  - '&7&lWelco_'
-  - '&7&lWelc_'
-  - '&7&lWel_'
-  - '&7&lWe_'
-  - '&7&lW_'
-  - '&7&lW_'
+  - '&7&lB_'
+  - '&7&lB_'
+  - '&7&lBi_'
+  - '&7&lBien_'
+  - '&7&lBienv_'
+  - '&7&lBienve_'
+  - '&7&lBienveni_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenido_'
+  - '&7&lBienveni_'
+  - '&7&lBienve_'
+  - '&7&lBienv_'
+  - '&7&lBien_'
+  - '&7&lBi_'
+  - '&7&lB_'
+  - '&7&lB_'
 time:
   change-interval: 3000
   texts:
@@ -108,19 +108,99 @@ barcolors:
     - BLUE
     - GREEN
     - YELLOW
-  
-  logo:
-  change-interval: 50
+ip:
+  change-interval: 150
   texts:
-  - "&#7F3F7FM&#545EB6e&#7F3F7Fg&#AB1F47e&#D60010m&#C92828c "
-  - "&#AB1F47M&#7F3F7Fe&#545EB6g&#7F3F7Fe&#AB1F47m&#D60010c "
-  - "&#D60010M&#AB1F47e&#7F3F7Fg&#545EB6e&#7F3F7Fm&#AB1F47c "
-  - "&#C92828M&#D60010e&#AB1F47g&#7F3F7Fe&#545EB6m&#7F3F7Fc "
-  - "&#D92E2FM&#C92828e&#D60010g&#AB1F47e&#7F3F7Fm&#545EB6c "
-  - "&#E83336M&#D92E2Fe&#C92828g&#D60010e&#AB1F47m&#7F3F7Fc "
-  - "&#D92E2FM&#E83336e&#D92E2Fg&#C92828e&#D60010m&#AB1F47c "
-  - "&#C92828M&#D92E2Fe&#E83336g&#D92E2Fe&#C92828m&#D60010c "
-  - "&#D60010M&#C92828e&#D92E2Fg&#E83336e&#D92E2Fm&#C92828c "
-  - "&#AB1F47M&#D60010e&#C92828g&#D92E2Fe&#E83336m&#D92E2Fc "
-  - "&#7F3F7FM&#AB1F47e&#D60010g&#C92828e&#D92E2Fm&#E83336c "
-  - "&#545EB6M&#7F3F7Fe&#AB1F47g&#D60010e&#C92828m&#D92E2Fc "
+  - "&#6E4B95&or&#545EB6&o-&#6E4B95&om&#883874&oi&#A22652&ol&#BC1331&oa&#D60010&on&#D40714&o.&#D20D18&og&#D0141C&ol&#CD1B20&o.&#CB2124&oj&#C92828&oo&#CF2A2B&oi&#D52C2E&on&#DC2F30&om&#E23133&oc&#E83336&o.&#CA3C50&ol&#AD4469&oi&#8F4D83&on&#72559C&ok"
+  - "&#883874&or&#6E4B95&o-&#545EB6&om&#6E4B95&oi&#883874&ol&#A22652&oa&#BC1331&on&#D60010&o.&#D40714&og&#D20D18&ol&#D0141C&o.&#CD1B20&oj&#CB2124&oo&#C92828&oi&#CF2A2B&on&#D52C2E&om&#DC2F30&oc&#E23133&o.&#E83336&ol&#CA3C50&oi&#AD4469&on&#8F4D83&ok"
+  - "&#A22652&or&#883874&o-&#6E4B95&om&#545EB6&oi&#6E4B95&ol&#883874&oa&#A22652&on&#BC1331&o.&#D60010&og&#D40714&ol&#D20D18&o.&#D0141C&oj&#CD1B20&oo&#CB2124&oi&#C92828&on&#CF2A2B&om&#D52C2E&oc&#DC2F30&o.&#E23133&ol&#E83336&oi&#CA3C50&on&#AD4469&ok"
+  - "&#BC1331&or&#A22652&o-&#883874&om&#6E4B95&oi&#545EB6&ol&#6E4B95&oa&#883874&on&#A22652&o.&#BC1331&og&#D60010&ol&#D40714&o.&#D20D18&oj&#D0141C&oo&#CD1B20&oi&#CB2124&on&#C92828&om&#CF2A2B&oc&#D52C2E&o.&#DC2F30&ol&#E23133&oi&#E83336&on&#CA3C50&ok"
+  - "&#D60010&or&#BC1331&o-&#A22652&om&#883874&oi&#6E4B95&ol&#545EB6&oa&#6E4B95&on&#883874&o.&#A22652&og&#BC1331&ol&#D60010&o.&#D40714&oj&#D20D18&oo&#D0141C&oi&#CD1B20&on&#CB2124&om&#C92828&oc&#CF2A2B&o.&#D52C2E&ol&#DC2F30&oi&#E23133&on&#E83336&ok"
+  - "&#D40714&or&#D60010&o-&#BC1331&om&#A22652&oi&#883874&ol&#6E4B95&oa&#545EB6&on&#6E4B95&o.&#883874&og&#A22652&ol&#BC1331&o.&#D60010&oj&#D40714&oo&#D20D18&oi&#D0141C&on&#CD1B20&om&#CB2124&oc&#C92828&o.&#CF2A2B&ol&#D52C2E&oi&#DC2F30&on&#E23133&ok"
+  - "&#D20D18&or&#D40714&o-&#D60010&om&#BC1331&oi&#A22652&ol&#883874&oa&#6E4B95&on&#545EB6&o.&#6E4B95&og&#883874&ol&#A22652&o.&#BC1331&oj&#D60010&oo&#D40714&oi&#D20D18&on&#D0141C&om&#CD1B20&oc&#CB2124&o.&#C92828&ol&#CF2A2B&oi&#D52C2E&on&#DC2F30&ok"
+  - "&#D0141C&or&#D20D18&o-&#D40714&om&#D60010&oi&#BC1331&ol&#A22652&oa&#883874&on&#6E4B95&o.&#545EB6&og&#6E4B95&ol&#883874&o.&#A22652&oj&#BC1331&oo&#D60010&oi&#D40714&on&#D20D18&om&#D0141C&oc&#CD1B20&o.&#CB2124&ol&#C92828&oi&#CF2A2B&on&#D52C2E&ok"
+  - "&#CD1B20&or&#D0141C&o-&#D20D18&om&#D40714&oi&#D60010&ol&#BC1331&oa&#A22652&on&#883874&o.&#6E4B95&og&#545EB6&ol&#6E4B95&o.&#883874&oj&#A22652&oo&#BC1331&oi&#D60010&on&#D40714&om&#D20D18&oc&#D0141C&o.&#CD1B20&ol&#CB2124&oi&#C92828&on&#CF2A2B&ok"
+  - "&#CB2124&or&#CD1B20&o-&#D0141C&om&#D20D18&oi&#D40714&ol&#D60010&oa&#BC1331&on&#A22652&o.&#883874&og&#6E4B95&ol&#545EB6&o.&#6E4B95&oj&#883874&oo&#A22652&oi&#BC1331&on&#D60010&om&#D40714&oc&#D20D18&o.&#D0141C&ol&#CD1B20&oi&#CB2124&on&#C92828&ok"
+  - "&#C92828&or&#CB2124&o-&#CD1B20&om&#D0141C&oi&#D20D18&ol&#D40714&oa&#D60010&on&#BC1331&o.&#A22652&og&#883874&ol&#6E4B95&o.&#545EB6&oj&#6E4B95&oo&#883874&oi&#A22652&on&#BC1331&om&#D60010&oc&#D40714&o.&#D20D18&ol&#D0141C&oi&#CD1B20&on&#CB2124&ok"
+  - "&#CF2A2B&or&#C92828&o-&#CB2124&om&#CD1B20&oi&#D0141C&ol&#D20D18&oa&#D40714&on&#D60010&o.&#BC1331&og&#A22652&ol&#883874&o.&#6E4B95&oj&#545EB6&oo&#6E4B95&oi&#883874&on&#A22652&om&#BC1331&oc&#D60010&o.&#D40714&ol&#D20D18&oi&#D0141C&on&#CD1B20&ok"
+  - "&#D52C2E&or&#CF2A2B&o-&#C92828&om&#CB2124&oi&#CD1B20&ol&#D0141C&oa&#D20D18&on&#D40714&o.&#D60010&og&#BC1331&ol&#A22652&o.&#883874&oj&#6E4B95&oo&#545EB6&oi&#6E4B95&on&#883874&om&#A22652&oc&#BC1331&o.&#D60010&ol&#D40714&oi&#D20D18&on&#D0141C&ok"
+  - "&#DC2F30&or&#D52C2E&o-&#CF2A2B&om&#C92828&oi&#CB2124&ol&#CD1B20&oa&#D0141C&on&#D20D18&o.&#D40714&og&#D60010&ol&#BC1331&o.&#A22652&oj&#883874&oo&#6E4B95&oi&#545EB6&on&#6E4B95&om&#883874&oc&#A22652&o.&#BC1331&ol&#D60010&oi&#D40714&on&#D20D18&ok"
+  - "&#E23133&or&#DC2F30&o-&#D52C2E&om&#CF2A2B&oi&#C92828&ol&#CB2124&oa&#CD1B20&on&#D0141C&o.&#D20D18&og&#D40714&ol&#D60010&o.&#BC1331&oj&#A22652&oo&#883874&oi&#6E4B95&on&#545EB6&om&#6E4B95&oc&#883874&o.&#A22652&ol&#BC1331&oi&#D60010&on&#D40714&ok"
+  - "&#E83336&or&#E23133&o-&#DC2F30&om&#D52C2E&oi&#CF2A2B&ol&#C92828&oa&#CB2124&on&#CD1B20&o.&#D0141C&og&#D20D18&ol&#D40714&o.&#D60010&oj&#BC1331&oo&#A22652&oi&#883874&on&#6E4B95&om&#545EB6&oc&#6E4B95&o.&#883874&ol&#A22652&oi&#BC1331&on&#D60010&ok"
+  - "&#CA3C50&or&#E83336&o-&#E23133&om&#DC2F30&oi&#D52C2E&ol&#CF2A2B&oa&#C92828&on&#CB2124&o.&#CD1B20&og&#D0141C&ol&#D20D18&o.&#D40714&oj&#D60010&oo&#BC1331&oi&#A22652&on&#883874&om&#6E4B95&oc&#545EB6&o.&#6E4B95&ol&#883874&oi&#A22652&on&#BC1331&ok"
+  - "&#AD4469&or&#CA3C50&o-&#E83336&om&#E23133&oi&#DC2F30&ol&#D52C2E&oa&#CF2A2B&on&#C92828&o.&#CB2124&og&#CD1B20&ol&#D0141C&o.&#D20D18&oj&#D40714&oo&#D60010&oi&#BC1331&on&#A22652&om&#883874&oc&#6E4B95&o.&#545EB6&ol&#6E4B95&oi&#883874&on&#A22652&ok"
+  - "&#8F4D83&or&#AD4469&o-&#CA3C50&om&#E83336&oi&#E23133&ol&#DC2F30&oa&#D52C2E&on&#CF2A2B&o.&#C92828&og&#CB2124&ol&#CD1B20&o.&#D0141C&oj&#D20D18&oo&#D40714&oi&#D60010&on&#BC1331&om&#A22652&oc&#883874&o.&#6E4B95&ol&#545EB6&oi&#6E4B95&on&#883874&ok"
+  - "&#72559C&or&#8F4D83&o-&#AD4469&om&#CA3C50&oi&#E83336&ol&#E23133&oa&#DC2F30&on&#D52C2E&o.&#CF2A2B&og&#C92828&ol&#CB2124&o.&#CD1B20&oj&#D0141C&oo&#D20D18&oi&#D40714&on&#D60010&om&#BC1331&oc&#A22652&o.&#883874&ol&#6E4B95&oi&#545EB6&on&#6E4B95&ok"
+  - "&#545EB6&or&#72559C&o-&#8F4D83&om&#AD4469&oi&#CA3C50&ol&#E83336&oa&#E23133&on&#DC2F30&o.&#D52C2E&og&#CF2A2B&ol&#C92828&o.&#CB2124&oj&#CD1B20&oo&#D0141C&oi&#D20D18&on&#D40714&om&#D60010&oc&#BC1331&o.&#A22652&ol&#883874&oi&#6E4B95&on&#545EB6&ok"
+  - "&#72559C&or&#545EB6&o-&#72559C&om&#8F4D83&oi&#AD4469&ol&#CA3C50&oa&#E83336&on&#E23133&o.&#DC2F30&og&#D52C2E&ol&#CF2A2B&o.&#C92828&oj&#CB2124&oo&#CD1B20&oi&#D0141C&on&#D20D18&om&#D40714&oc&#D60010&o.&#BC1331&ol&#A22652&oi&#883874&on&#6E4B95&ok"
+  - "&#8F4D83&or&#72559C&o-&#545EB6&om&#72559C&oi&#8F4D83&ol&#AD4469&oa&#CA3C50&on&#E83336&o.&#E23133&og&#DC2F30&ol&#D52C2E&o.&#CF2A2B&oj&#C92828&oo&#CB2124&oi&#CD1B20&on&#D0141C&om&#D20D18&oc&#D40714&o.&#D60010&ol&#BC1331&oi&#A22652&on&#883874&ok"
+  - "&#AD4469&or&#8F4D83&o-&#72559C&om&#545EB6&oi&#72559C&ol&#8F4D83&oa&#AD4469&on&#CA3C50&o.&#E83336&og&#E23133&ol&#DC2F30&o.&#D52C2E&oj&#CF2A2B&oo&#C92828&oi&#CB2124&on&#CD1B20&om&#D0141C&oc&#D20D18&o.&#D40714&ol&#D60010&oi&#BC1331&on&#A22652&ok"
+  - "&#CA3C50&or&#AD4469&o-&#8F4D83&om&#72559C&oi&#545EB6&ol&#72559C&oa&#8F4D83&on&#AD4469&o.&#CA3C50&og&#E83336&ol&#E23133&o.&#DC2F30&oj&#D52C2E&oo&#CF2A2B&oi&#C92828&on&#CB2124&om&#CD1B20&oc&#D0141C&o.&#D20D18&ol&#D40714&oi&#D60010&on&#BC1331&ok"
+  - "&#E83336&or&#CA3C50&o-&#AD4469&om&#8F4D83&oi&#72559C&ol&#545EB6&oa&#72559C&on&#8F4D83&o.&#AD4469&og&#CA3C50&ol&#E83336&o.&#E23133&oj&#DC2F30&oo&#D52C2E&oi&#CF2A2B&on&#C92828&om&#CB2124&oc&#CD1B20&o.&#D0141C&ol&#D20D18&oi&#D40714&on&#D60010&ok"
+  - "&#E23133&or&#E83336&o-&#CA3C50&om&#AD4469&oi&#8F4D83&ol&#72559C&oa&#545EB6&on&#72559C&o.&#8F4D83&og&#AD4469&ol&#CA3C50&o.&#E83336&oj&#E23133&oo&#DC2F30&oi&#D52C2E&on&#CF2A2B&om&#C92828&oc&#CB2124&o.&#CD1B20&ol&#D0141C&oi&#D20D18&on&#D40714&ok"
+  - "&#DC2F30&or&#E23133&o-&#E83336&om&#CA3C50&oi&#AD4469&ol&#8F4D83&oa&#72559C&on&#545EB6&o.&#72559C&og&#8F4D83&ol&#AD4469&o.&#CA3C50&oj&#E83336&oo&#E23133&oi&#DC2F30&on&#D52C2E&om&#CF2A2B&oc&#C92828&o.&#CB2124&ol&#CD1B20&oi&#D0141C&on&#D20D18&ok"
+  - "&#D52C2E&or&#DC2F30&o-&#E23133&om&#E83336&oi&#CA3C50&ol&#AD4469&oa&#8F4D83&on&#72559C&o.&#545EB6&og&#72559C&ol&#8F4D83&o.&#AD4469&oj&#CA3C50&oo&#E83336&oi&#E23133&on&#DC2F30&om&#D52C2E&oc&#CF2A2B&o.&#C92828&ol&#CB2124&oi&#CD1B20&on&#D0141C&ok"
+  - "&#CF2A2B&or&#D52C2E&o-&#DC2F30&om&#E23133&oi&#E83336&ol&#CA3C50&oa&#AD4469&on&#8F4D83&o.&#72559C&og&#545EB6&ol&#72559C&o.&#8F4D83&oj&#AD4469&oo&#CA3C50&oi&#E83336&on&#E23133&om&#DC2F30&oc&#D52C2E&o.&#CF2A2B&ol&#C92828&oi&#CB2124&on&#CD1B20&ok"
+  - "&#C92828&or&#CF2A2B&o-&#D52C2E&om&#DC2F30&oi&#E23133&ol&#E83336&oa&#CA3C50&on&#AD4469&o.&#8F4D83&og&#72559C&ol&#545EB6&o.&#72559C&oj&#8F4D83&oo&#AD4469&oi&#CA3C50&on&#E83336&om&#E23133&oc&#DC2F30&o.&#D52C2E&ol&#CF2A2B&oi&#C92828&on&#CB2124&ok"
+  - "&#CB2124&or&#C92828&o-&#CF2A2B&om&#D52C2E&oi&#DC2F30&ol&#E23133&oa&#E83336&on&#CA3C50&o.&#AD4469&og&#8F4D83&ol&#72559C&o.&#545EB6&oj&#72559C&oo&#8F4D83&oi&#AD4469&on&#CA3C50&om&#E83336&oc&#E23133&o.&#DC2F30&ol&#D52C2E&oi&#CF2A2B&on&#C92828&ok"
+  - "&#CD1B20&or&#CB2124&o-&#C92828&om&#CF2A2B&oi&#D52C2E&ol&#DC2F30&oa&#E23133&on&#E83336&o.&#CA3C50&og&#AD4469&ol&#8F4D83&o.&#72559C&oj&#545EB6&oo&#72559C&oi&#8F4D83&on&#AD4469&om&#CA3C50&oc&#E83336&o.&#E23133&ol&#DC2F30&oi&#D52C2E&on&#CF2A2B&ok"
+  - "&#D0141C&or&#CD1B20&o-&#CB2124&om&#C92828&oi&#CF2A2B&ol&#D52C2E&oa&#DC2F30&on&#E23133&o.&#E83336&og&#CA3C50&ol&#AD4469&o.&#8F4D83&oj&#72559C&oo&#545EB6&oi&#72559C&on&#8F4D83&om&#AD4469&oc&#CA3C50&o.&#E83336&ol&#E23133&oi&#DC2F30&on&#D52C2E&ok"
+  - "&#D20D18&or&#D0141C&o-&#CD1B20&om&#CB2124&oi&#C92828&ol&#CF2A2B&oa&#D52C2E&on&#DC2F30&o.&#E23133&og&#E83336&ol&#CA3C50&o.&#AD4469&oj&#8F4D83&oo&#72559C&oi&#545EB6&on&#72559C&om&#8F4D83&oc&#AD4469&o.&#CA3C50&ol&#E83336&oi&#E23133&on&#DC2F30&ok"
+  - "&#D40714&or&#D20D18&o-&#D0141C&om&#CD1B20&oi&#CB2124&ol&#C92828&oa&#CF2A2B&on&#D52C2E&o.&#DC2F30&og&#E23133&ol&#E83336&o.&#CA3C50&oj&#AD4469&oo&#8F4D83&oi&#72559C&on&#545EB6&om&#72559C&oc&#8F4D83&o.&#AD4469&ol&#CA3C50&oi&#E83336&on&#E23133&ok"
+  - "&#D60010&or&#D40714&o-&#D20D18&om&#D0141C&oi&#CD1B20&ol&#CB2124&oa&#C92828&on&#CF2A2B&o.&#D52C2E&og&#DC2F30&ol&#E23133&o.&#E83336&oj&#CA3C50&oo&#AD4469&oi&#8F4D83&on&#72559C&om&#545EB6&oc&#72559C&o.&#8F4D83&ol&#AD4469&oi&#CA3C50&on&#E83336&ok"
+  - "&#BC1331&or&#D60010&o-&#D40714&om&#D20D18&oi&#D0141C&ol&#CD1B20&oa&#CB2124&on&#C92828&o.&#CF2A2B&og&#D52C2E&ol&#DC2F30&o.&#E23133&oj&#E83336&oo&#CA3C50&oi&#AD4469&on&#8F4D83&om&#72559C&oc&#545EB6&o.&#72559C&ol&#8F4D83&oi&#AD4469&on&#CA3C50&ok"
+  - "&#A22652&or&#BC1331&o-&#D60010&om&#D40714&oi&#D20D18&ol&#D0141C&oa&#CD1B20&on&#CB2124&o.&#C92828&og&#CF2A2B&ol&#D52C2E&o.&#DC2F30&oj&#E23133&oo&#E83336&oi&#CA3C50&on&#AD4469&om&#8F4D83&oc&#72559C&o.&#545EB6&ol&#72559C&oi&#8F4D83&on&#AD4469&ok"
+  - "&#883874&or&#A22652&o-&#BC1331&om&#D60010&oi&#D40714&ol&#D20D18&oa&#D0141C&on&#CD1B20&o.&#CB2124&og&#C92828&ol&#CF2A2B&o.&#D52C2E&oj&#DC2F30&oo&#E23133&oi&#E83336&on&#CA3C50&om&#AD4469&oc&#8F4D83&o.&#72559C&ol&#545EB6&oi&#72559C&on&#8F4D83&ok"
+  - "&#6E4B95&or&#883874&o-&#A22652&om&#BC1331&oi&#D60010&ol&#D40714&oa&#D20D18&on&#D0141C&o.&#CD1B20&og&#CB2124&ol&#C92828&o.&#CF2A2B&oj&#D52C2E&oo&#DC2F30&oi&#E23133&on&#E83336&om&#CA3C50&oc&#AD4469&o.&#8F4D83&ol&#72559C&oi&#545EB6&on&#72559C&ok"
+  - "&#545EB6&or&#6E4B95&o-&#883874&om&#A22652&oi&#BC1331&ol&#D60010&oa&#D40714&on&#D20D18&o.&#D0141C&og&#CD1B20&ol&#CB2124&o.&#C92828&oj&#CF2A2B&oo&#D52C2E&oi&#DC2F30&on&#E23133&om&#E83336&oc&#CA3C50&o.&#AD4469&ol&#8F4D83&oi&#72559C&on&#545EB6&ok"
+logo:
+  change-interval: 150
+  texts:
+  - "&#75478D&ot&#545EB6&oi&#75478D&oe&#952F63&on&#B6183A&od&#D60010&oa&#D30A16&o.&#D0141C&om&#CC1E22&oe&#C92828&og&#D12B2C&oa&#D92E2F&om&#E03033&oc&#E83336&o.&#C33E56&oc&#9E4976&oo&#795396&om"
+  - "&#952F63&ot&#75478D&oi&#545EB6&oe&#75478D&on&#952F63&od&#B6183A&oa&#D60010&o.&#D30A16&om&#D0141C&oe&#CC1E22&og&#C92828&oa&#D12B2C&om&#D92E2F&oc&#E03033&o.&#E83336&oc&#C33E56&oo&#9E4976&om"
+  - "&#B6183A&ot&#952F63&oi&#75478D&oe&#545EB6&on&#75478D&od&#952F63&oa&#B6183A&o.&#D60010&om&#D30A16&oe&#D0141C&og&#CC1E22&oa&#C92828&om&#D12B2C&oc&#D92E2F&o.&#E03033&oc&#E83336&oo&#C33E56&om"
+  - "&#D60010&ot&#B6183A&oi&#952F63&oe&#75478D&on&#545EB6&od&#75478D&oa&#952F63&o.&#B6183A&om&#D60010&oe&#D30A16&og&#D0141C&oa&#CC1E22&om&#C92828&oc&#D12B2C&o.&#D92E2F&oc&#E03033&oo&#E83336&om"
+  - "&#D30A16&ot&#D60010&oi&#B6183A&oe&#952F63&on&#75478D&od&#545EB6&oa&#75478D&o.&#952F63&om&#B6183A&oe&#D60010&og&#D30A16&oa&#D0141C&om&#CC1E22&oc&#C92828&o.&#D12B2C&oc&#D92E2F&oo&#E03033&om"
+  - "&#D0141C&ot&#D30A16&oi&#D60010&oe&#B6183A&on&#952F63&od&#75478D&oa&#545EB6&o.&#75478D&om&#952F63&oe&#B6183A&og&#D60010&oa&#D30A16&om&#D0141C&oc&#CC1E22&o.&#C92828&oc&#D12B2C&oo&#D92E2F&om"
+  - "&#CC1E22&ot&#D0141C&oi&#D30A16&oe&#D60010&on&#B6183A&od&#952F63&oa&#75478D&o.&#545EB6&om&#75478D&oe&#952F63&og&#B6183A&oa&#D60010&om&#D30A16&oc&#D0141C&o.&#CC1E22&oc&#C92828&oo&#D12B2C&om"
+  - "&#C92828&ot&#CC1E22&oi&#D0141C&oe&#D30A16&on&#D60010&od&#B6183A&oa&#952F63&o.&#75478D&om&#545EB6&oe&#75478D&og&#952F63&oa&#B6183A&om&#D60010&oc&#D30A16&o.&#D0141C&oc&#CC1E22&oo&#C92828&om"
+  - "&#D12B2C&ot&#C92828&oi&#CC1E22&oe&#D0141C&on&#D30A16&od&#D60010&oa&#B6183A&o.&#952F63&om&#75478D&oe&#545EB6&og&#75478D&oa&#952F63&om&#B6183A&oc&#D60010&o.&#D30A16&oc&#D0141C&oo&#CC1E22&om"
+  - "&#D92E2F&ot&#D12B2C&oi&#C92828&oe&#CC1E22&on&#D0141C&od&#D30A16&oa&#D60010&o.&#B6183A&om&#952F63&oe&#75478D&og&#545EB6&oa&#75478D&om&#952F63&oc&#B6183A&o.&#D60010&oc&#D30A16&oo&#D0141C&om"
+  - "&#E03033&ot&#D92E2F&oi&#D12B2C&oe&#C92828&on&#CC1E22&od&#D0141C&oa&#D30A16&o.&#D60010&om&#B6183A&oe&#952F63&og&#75478D&oa&#545EB6&om&#75478D&oc&#952F63&o.&#B6183A&oc&#D60010&oo&#D30A16&om"
+  - "&#E83336&ot&#E03033&oi&#D92E2F&oe&#D12B2C&on&#C92828&od&#CC1E22&oa&#D0141C&o.&#D30A16&om&#D60010&oe&#B6183A&og&#952F63&oa&#75478D&om&#545EB6&oc&#75478D&o.&#952F63&oc&#B6183A&oo&#D60010&om"
+  - "&#C33E56&ot&#E83336&oi&#E03033&oe&#D92E2F&on&#D12B2C&od&#C92828&oa&#CC1E22&o.&#D0141C&om&#D30A16&oe&#D60010&og&#B6183A&oa&#952F63&om&#75478D&oc&#545EB6&o.&#75478D&oc&#952F63&oo&#B6183A&om"
+  - "&#9E4976&ot&#C33E56&oi&#E83336&oe&#E03033&on&#D92E2F&od&#D12B2C&oa&#C92828&o.&#CC1E22&om&#D0141C&oe&#D30A16&og&#D60010&oa&#B6183A&om&#952F63&oc&#75478D&o.&#545EB6&oc&#75478D&oo&#952F63&om"
+  - "&#795396&ot&#9E4976&oi&#C33E56&oe&#E83336&on&#E03033&od&#D92E2F&oa&#D12B2C&o.&#C92828&om&#CC1E22&oe&#D0141C&og&#D30A16&oa&#D60010&om&#B6183A&oc&#952F63&o.&#75478D&oc&#545EB6&oo&#75478D&om"
+  - "&#545EB6&ot&#795396&oi&#9E4976&oe&#C33E56&on&#E83336&od&#E03033&oa&#D92E2F&o.&#D12B2C&om&#C92828&oe&#CC1E22&og&#D0141C&oa&#D30A16&om&#D60010&oc&#B6183A&o.&#952F63&oc&#75478D&oo&#545EB6&om"
+  - "&#795396&ot&#545EB6&oi&#795396&oe&#9E4976&on&#C33E56&od&#E83336&oa&#E03033&o.&#D92E2F&om&#D12B2C&oe&#C92828&og&#CC1E22&oa&#D0141C&om&#D30A16&oc&#D60010&o.&#B6183A&oc&#952F63&oo&#75478D&om"
+  - "&#9E4976&ot&#795396&oi&#545EB6&oe&#795396&on&#9E4976&od&#C33E56&oa&#E83336&o.&#E03033&om&#D92E2F&oe&#D12B2C&og&#C92828&oa&#CC1E22&om&#D0141C&oc&#D30A16&o.&#D60010&oc&#B6183A&oo&#952F63&om"
+  - "&#C33E56&ot&#9E4976&oi&#795396&oe&#545EB6&on&#795396&od&#9E4976&oa&#C33E56&o.&#E83336&om&#E03033&oe&#D92E2F&og&#D12B2C&oa&#C92828&om&#CC1E22&oc&#D0141C&o.&#D30A16&oc&#D60010&oo&#B6183A&om"
+  - "&#E83336&ot&#C33E56&oi&#9E4976&oe&#795396&on&#545EB6&od&#795396&oa&#9E4976&o.&#C33E56&om&#E83336&oe&#E03033&og&#D92E2F&oa&#D12B2C&om&#C92828&oc&#CC1E22&o.&#D0141C&oc&#D30A16&oo&#D60010&om"
+  - "&#E03033&ot&#E83336&oi&#C33E56&oe&#9E4976&on&#795396&od&#545EB6&oa&#795396&o.&#9E4976&om&#C33E56&oe&#E83336&og&#E03033&oa&#D92E2F&om&#D12B2C&oc&#C92828&o.&#CC1E22&oc&#D0141C&oo&#D30A16&om"
+  - "&#D92E2F&ot&#E03033&oi&#E83336&oe&#C33E56&on&#9E4976&od&#795396&oa&#545EB6&o.&#795396&om&#9E4976&oe&#C33E56&og&#E83336&oa&#E03033&om&#D92E2F&oc&#D12B2C&o.&#C92828&oc&#CC1E22&oo&#D0141C&om"
+  - "&#D12B2C&ot&#D92E2F&oi&#E03033&oe&#E83336&on&#C33E56&od&#9E4976&oa&#795396&o.&#545EB6&om&#795396&oe&#9E4976&og&#C33E56&oa&#E83336&om&#E03033&oc&#D92E2F&o.&#D12B2C&oc&#C92828&oo&#CC1E22&om"
+  - "&#C92828&ot&#D12B2C&oi&#D92E2F&oe&#E03033&on&#E83336&od&#C33E56&oa&#9E4976&o.&#795396&om&#545EB6&oe&#795396&og&#9E4976&oa&#C33E56&om&#E83336&oc&#E03033&o.&#D92E2F&oc&#D12B2C&oo&#C92828&om"
+  - "&#CC1E22&ot&#C92828&oi&#D12B2C&oe&#D92E2F&on&#E03033&od&#E83336&oa&#C33E56&o.&#9E4976&om&#795396&oe&#545EB6&og&#795396&oa&#9E4976&om&#C33E56&oc&#E83336&o.&#E03033&oc&#D92E2F&oo&#D12B2C&om"
+  - "&#D0141C&ot&#CC1E22&oi&#C92828&oe&#D12B2C&on&#D92E2F&od&#E03033&oa&#E83336&o.&#C33E56&om&#9E4976&oe&#795396&og&#545EB6&oa&#795396&om&#9E4976&oc&#C33E56&o.&#E83336&oc&#E03033&oo&#D92E2F&om"
+  - "&#D30A16&ot&#D0141C&oi&#CC1E22&oe&#C92828&on&#D12B2C&od&#D92E2F&oa&#E03033&o.&#E83336&om&#C33E56&oe&#9E4976&og&#795396&oa&#545EB6&om&#795396&oc&#9E4976&o.&#C33E56&oc&#E83336&oo&#E03033&om"
+  - "&#D60010&ot&#D30A16&oi&#D0141C&oe&#CC1E22&on&#C92828&od&#D12B2C&oa&#D92E2F&o.&#E03033&om&#E83336&oe&#C33E56&og&#9E4976&oa&#795396&om&#545EB6&oc&#795396&o.&#9E4976&oc&#C33E56&oo&#E83336&om"
+  - "&#B6183A&ot&#D60010&oi&#D30A16&oe&#D0141C&on&#CC1E22&od&#C92828&oa&#D12B2C&o.&#D92E2F&om&#E03033&oe&#E83336&og&#C33E56&oa&#9E4976&om&#795396&oc&#545EB6&o.&#795396&oc&#9E4976&oo&#C33E56&om"
+  - "&#952F63&ot&#B6183A&oi&#D60010&oe&#D30A16&on&#D0141C&od&#CC1E22&oa&#C92828&o.&#D12B2C&om&#D92E2F&oe&#E03033&og&#E83336&oa&#C33E56&om&#9E4976&oc&#795396&o.&#545EB6&oc&#795396&oo&#9E4976&om"
+  - "&#75478D&ot&#952F63&oi&#B6183A&oe&#D60010&on&#D30A16&od&#D0141C&oa&#CC1E22&o.&#C92828&om&#D12B2C&oe&#D92E2F&og&#E03033&oa&#E83336&om&#C33E56&oc&#9E4976&o.&#795396&oc&#545EB6&oo&#795396&om"
+  - "&#545EB6&ot&#75478D&oi&#952F63&oe&#B6183A&on&#D60010&od&#D30A16&oa&#D0141C&o.&#CC1E22&om&#C92828&oe&#D12B2C&og&#D92E2F&oa&#E03033&om&#E83336&oc&#C33E56&o.&#9E4976&oc&#795396&oo&#545EB6&om"
+server:
+  change-interval: 150
+  texts:
+  - "&#952F63&oM&#545EB6&oe&#952F63&og&#D60010&oa&#C92828&om&#D92E2F&oc "
+  - "&#D60010&oM&#952F63&oe&#545EB6&og&#952F63&oa&#D60010&om&#C92828&oc "
+  - "&#C92828&oM&#D60010&oe&#952F63&og&#545EB6&oa&#952F63&om&#D60010&oc "
+  - "&#D92E2F&oM&#C92828&oe&#D60010&og&#952F63&oa&#545EB6&om&#952F63&oc "
+  - "&#E83336&oM&#D92E2F&oe&#C92828&og&#D60010&oa&#952F63&om&#545EB6&oc "
+  - "&#545EB6&oM&#E83336&oe&#D92E2F&og&#C92828&oa&#D60010&om&#952F63&oc "
+  - "&#E83336&oM&#545EB6&oe&#E83336&og&#D92E2F&oa&#C92828&om&#D60010&oc "
+  - "&#D92E2F&oM&#E83336&oe&#545EB6&og&#E83336&oa&#D92E2F&om&#C92828&oc "
+  - "&#C92828&oM&#D92E2F&oe&#E83336&og&#545EB6&oa&#E83336&om&#D92E2F&oc "
+  - "&#D60010&oM&#C92828&oe&#D92E2F&og&#E83336&oa&#545EB6&om&#E83336&oc "
+  - "&#952F63&oM&#D60010&oe&#C92828&og&#D92E2F&oa&#E83336&om&#545EB6&oc "
+  - "&#545EB6&oM&#952F63&oe&#D60010&og&#C92828&oa&#D92E2F&om&#E83336&oc "
+  
