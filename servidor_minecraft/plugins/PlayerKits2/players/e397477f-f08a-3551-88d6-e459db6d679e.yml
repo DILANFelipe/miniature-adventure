@@ -1,1 +1,14 @@
 name: Dilan_Rios
+kits:
+  iron:
+    cooldown: 1751066184017
+    one_time: false
+    bought: false
+  Inicion:
+    cooldown: 1751058985721
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1751058989102
+    one_time: false
+    bought: false

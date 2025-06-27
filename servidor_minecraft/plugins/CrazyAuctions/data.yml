@@ -1,2 +1,11 @@
-Items: {}
+Items:
+  '1':
+    Price: 1000
+    Seller: e397477f-f08a-3551-88d6-e459db6d679e
+    Time-Till-Expire: 1751228370402
+    Full-Time: 1751919570402
+    StoreID: 505529
+    Biddable: false
+    TopBidder: None
+    Item: H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2DgL+ZgYMpMYZDIzcxLTS5KTCuxSs7Pz05NiU/OyEzOTs1jZmBNzi/NK2FgYNBgAAAOlxpFQQAAAA==
 OutOfTime/Cancelled: {}

@@ -926,3 +926,727 @@ java.lang.NullPointerException: null
 [20:16:22] [Server thread/INFO]: Dilan_Rios issued server command: /kit
 [20:17:29] [luckperms-command-executor/INFO]: [LP] Command not recognised.
 [20:17:38] [Server thread/INFO]: Made Dilan_Rios a server operator
+[20:18:11] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set vip
+[20:18:11] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:18:11] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[20:18:16] [Server thread/INFO]: Dilan_Rios issued server command: /kit
+[20:18:38] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set usuario
+[20:18:38] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:18:38] [luckperms-command-executor/INFO]: [LP] LOG > parent set usuario
+[20:18:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (usuario) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:18:44] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set default
+[20:18:44] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:18:44] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[20:18:50] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set elite
+[20:18:50] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:18:50] [luckperms-command-executor/INFO]: [LP] LOG > parent set elite
+[20:18:50] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (elite) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:18:55] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mod
+[20:18:55] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:18:55] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[20:19:01] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set mvp
+[20:19:01] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[20:19:01] [luckperms-command-executor/INFO]: [LP] LOG > parent set mvp
+[20:19:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Dilan_Rios's group (mvp) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:19:01] [Server thread/WARN]: Failed to save player data for Dilan_Rios
+java.nio.file.NoSuchFileException: ./world/playerdata/e397477f-f08a-3551-88d6-e459db6d679e-1436677128397657585.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:658) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:879) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:42) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.save(PlayerList.java:573) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.lambda$saveAll$3(PlayerList.java:1202) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:128) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:1195) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1615) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:19:13] [Server thread/INFO]: Dilan_Rios issued server command: /craft
+[20:19:20] [Server thread/INFO]: Dilan_Rios issued server command: /ah
+[20:19:30] [Server thread/INFO]: Dilan_Rios issued server command: /ah sell 1000
+[20:19:30] [DimensionDataIO - ./world - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@522113e6
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:19:34] [Server thread/INFO]: Dilan_Rios issued server command: /ah
+[20:20:16] [Server thread/INFO]: Dilan_Rios issued server command: /geyser
+[20:20:34] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[20:20:36] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-RTP
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:36] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-RTP exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:39] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[20:20:41] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[20:20:42] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-Server
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:42] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:49] [Server thread/INFO]: Dilan_Rios issued server command: /warps auctions
+[20:20:53] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[20:20:54] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-Server
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:54] [Craft Scheduler Thread - 27 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:20:57] [Server thread/INFO]: Dilan_Rios issued server command: /warp shop
+[20:20:59] [Server thread/INFO]: Dilan_Rios issued server command: /warps
+[20:21:00] [Server thread/INFO]: Dilan_Rios issued server command: /Warp-Server
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 27 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 28 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 29 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 30 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 31 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 32 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 33 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 34 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 35 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 36 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 37 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 38 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 39 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 40 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 41 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 42 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 43 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:00] [Craft Scheduler Thread - 30 - DeluxeMenus/WARN]: [DeluxeMenus] Item set to slot 44 for menu: Warp-Server exceeds the inventory size!
+This item will not be added to the menu!
+[20:21:11] [Server thread/INFO]: Dilan_Rios issued server command: /warps crates
+[20:21:18] [Server thread/INFO]: Dilan_Rios issued server command: /warpinfo
+[20:21:20] [Server thread/INFO]: Dilan_Rios issued server command: /warpinfo
+[20:21:29] [Server thread/INFO]: Dilan_Rios issued server command: /warpinfo BUILD
+[20:21:36] [Server thread/INFO]: Dilan_Rios issued server command: /warpinfo spawn
+[20:21:53] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[20:22:14] [Server thread/INFO]: Dilan_Rios issued server command: /gamemode creative
+[20:23:34] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockPlaceListener.onBlockPlaceEvent(BlockPlaceListener.java:48) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor563.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:459) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:487) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:603) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1942) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:23:35] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockPlaceListener.onBlockPlaceEvent(BlockPlaceListener.java:48) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor563.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:459) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:487) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:603) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1942) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:23:50] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockPlaceListener.onBlockPlaceEvent(BlockPlaceListener.java:48) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor563.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:459) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:487) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:603) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1942) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:01] [Server thread/ERROR]: Could not pass event BlockBreakEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockBreakListener.onBlockBreakEvent(BlockBreakListener.java:65) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor562.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.destroyBlock(ServerPlayerGameMode.java:383) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.destroyAndAck(ServerPlayerGameMode.java:342) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.handleBlockBreakAction(ServerPlayerGameMode.java:215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handlePlayerAction(ServerGamePacketListenerImpl.java:1856) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.handle(ServerboundPlayerActionPacket.java:51) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.handle(ServerboundPlayerActionPacket.java:20) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1629) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:01] [Server thread/WARN]: Failed to save player data for Dilan_Rios
+java.nio.file.NoSuchFileException: ./world/playerdata/e397477f-f08a-3551-88d6-e459db6d679e-15525133516867499751.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:658) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:879) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:42) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.save(PlayerList.java:573) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.lambda$saveAll$3(PlayerList.java:1202) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:128) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:1195) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1615) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:30] [DimensionDataIO - ./world - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@522113e6
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:25:35] [Server thread/INFO]: Dilan_Rios issued server command: /undo
+[20:25:36] [Server thread/INFO]: Dilan_Rios issued server command: /undo
+[20:25:38] [Server thread/INFO]: Dilan_Rios issued server command: /undo 1
+[20:27:09] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockPlaceListener.onBlockPlaceEvent(BlockPlaceListener.java:48) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor563.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:459) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:487) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:603) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1942) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:27:24] [Server thread/INFO]: Dilan_Rios issued server command: /shop
+[20:29:01] [Server thread/WARN]: Failed to save player data for Dilan_Rios
+java.nio.file.NoSuchFileException: ./world/playerdata/e397477f-f08a-3551-88d6-e459db6d679e-280250439002865223.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:658) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:879) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:42) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.save(PlayerList.java:573) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.lambda$saveAll$3(PlayerList.java:1202) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:128) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:1195) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1615) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:29:30] [DimensionDataIO - ./world - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@522113e6
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:30:42] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to ODailyQuests v2.2.5
+java.lang.IllegalArgumentException: WALL_TORCH isn't an item
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.inventory.ItemStack.of(ItemStack.java:58) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:138) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:117) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:104) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.inventory.ItemStack.<init>(ItemStack.java:87) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at ODailyQuests-2.2.5.jar/com.ordwen.odailyquests.events.listeners.item.BlockPlaceListener.onBlockPlaceEvent(BlockPlaceListener.java:48) ~[ODailyQuests-2.2.5.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor563.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:459) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:487) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:603) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1942) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:30:57] [Server thread/INFO]: Dilan_Rios issued server command: //copy
+[20:30:58] [AsyncNotifyKeyedQueue - 1/ERROR]: An unexpected error while handling a FastAsyncWorldEdit command
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:140) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.lambda$register$1(Bindings.java:95) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.lambda$injectedValue$0(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.injectedValue(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.lambda$injectedValue$0(MergedValueAccess.java:54) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1034) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.injectedValue(MergedValueAccess.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MemoizingValueAccess.injectedValue(MemoizingValueAccess.java:84) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.impl.CommandParametersImpl.injectedValue(CommandParametersImpl.java:109) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.InjectedValueAccess.injectedValue(InjectedValueAccess.java:44) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.util.annotation.PreloadHandler.beforeCall(PreloadHandler.java:25) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.internal.RegistrationUtil.listenersBeforeCall(RegistrationUtil.java:53) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.ClipboardCommandsRegistration.cmd$_copy(ClipboardCommandsRegistration.java:274) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.CommandManager.execute(CommandManager.java:157) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommandOnCurrentThread$16(PlatformCommandManager.java:727) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:748) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:729) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommand$14(PlatformCommandManager.java:700) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:672) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$run$0(AsyncNotifyKeyedQueue.java:48) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$call$1(AsyncNotifyKeyedQueue.java:58) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.KeyQueuedExecutorService$KeyRunner.lambda$run$0(KeyQueuedExecutorService.java:150) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.sk89q.worldedit.bukkit.adapter.BukkitImplAdapter.getRelighterFactory()" because the return value of "com.sk89q.worldedit.bukkit.WorldEditPlugin.getBukkitImplAdapter()" is null
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.bukkit.BukkitServerInterface.getRelighterFactory(BukkitServerInterface.java:288) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.compile(EditSessionBuilder.java:552) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSession.<init>(EditSession.java:262) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.build(EditSessionBuilder.java:234) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.LocalSession.createEditSession(LocalSession.java:1753) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.ProvideBindings.editSession(ProvideBindings.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+[20:31:18] [Server thread/INFO]: Dilan_Rios issued server command: //undo
+[20:31:19] [Server thread/INFO]: Dilan_Rios issued server command: //undo
+[20:31:20] [Server thread/INFO]: Dilan_Rios issued server command: //undo
+[20:31:34] [Server thread/INFO]: Dilan_Rios issued server command: //copy
+[20:31:34] [AsyncNotifyKeyedQueue - 1/ERROR]: An unexpected error while handling a FastAsyncWorldEdit command
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:140) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.lambda$register$1(Bindings.java:95) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.lambda$injectedValue$0(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.injectedValue(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.lambda$injectedValue$0(MergedValueAccess.java:54) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1034) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.injectedValue(MergedValueAccess.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MemoizingValueAccess.injectedValue(MemoizingValueAccess.java:84) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.impl.CommandParametersImpl.injectedValue(CommandParametersImpl.java:109) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.InjectedValueAccess.injectedValue(InjectedValueAccess.java:44) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.util.annotation.PreloadHandler.beforeCall(PreloadHandler.java:25) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.internal.RegistrationUtil.listenersBeforeCall(RegistrationUtil.java:53) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.ClipboardCommandsRegistration.cmd$_copy(ClipboardCommandsRegistration.java:274) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.CommandManager.execute(CommandManager.java:157) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommandOnCurrentThread$16(PlatformCommandManager.java:727) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:748) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:729) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommand$14(PlatformCommandManager.java:700) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:672) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$run$0(AsyncNotifyKeyedQueue.java:48) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$call$1(AsyncNotifyKeyedQueue.java:58) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.KeyQueuedExecutorService$KeyRunner.lambda$run$0(KeyQueuedExecutorService.java:150) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.sk89q.worldedit.bukkit.adapter.BukkitImplAdapter.getRelighterFactory()" because the return value of "com.sk89q.worldedit.bukkit.WorldEditPlugin.getBukkitImplAdapter()" is null
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.bukkit.BukkitServerInterface.getRelighterFactory(BukkitServerInterface.java:288) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.compile(EditSessionBuilder.java:552) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSession.<init>(EditSession.java:262) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.build(EditSessionBuilder.java:234) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.LocalSession.createEditSession(LocalSession.java:1753) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.ProvideBindings.editSession(ProvideBindings.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+[20:33:50] [Server thread/INFO]: Dilan_Rios issued server command: //copy
+[20:33:50] [AsyncNotifyKeyedQueue - 2/ERROR]: An unexpected error while handling a FastAsyncWorldEdit command
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:140) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.lambda$register$1(Bindings.java:95) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.lambda$injectedValue$0(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MapBackedValueStore.injectedValue(MapBackedValueStore.java:56) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.lambda$injectedValue$0(MergedValueAccess.java:54) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1034) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MergedValueAccess.injectedValue(MergedValueAccess.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.MemoizingValueAccess.injectedValue(MemoizingValueAccess.java:84) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.impl.CommandParametersImpl.injectedValue(CommandParametersImpl.java:109) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.inject.InjectedValueAccess.injectedValue(InjectedValueAccess.java:44) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.util.annotation.PreloadHandler.beforeCall(PreloadHandler.java:25) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.internal.RegistrationUtil.listenersBeforeCall(RegistrationUtil.java:53) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.command.ClipboardCommandsRegistration.cmd$_copy(ClipboardCommandsRegistration.java:274) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/org.enginehub.piston.CommandManager.execute(CommandManager.java:157) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommandOnCurrentThread$16(PlatformCommandManager.java:727) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandTask(PlatformCommandManager.java:748) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommandOnCurrentThread(PlatformCommandManager.java:729) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformCommandManager.lambda$handleCommand$14(PlatformCommandManager.java:700) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.AbstractPlayerActor.lambda$runAction$1(AbstractPlayerActor.java:672) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$run$0(AsyncNotifyKeyedQueue.java:48) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.AsyncNotifyKeyedQueue.lambda$call$1(AsyncNotifyKeyedQueue.java:58) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.util.task.KeyQueuedExecutorService$KeyRunner.lambda$run$0(KeyQueuedExecutorService.java:150) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.sk89q.worldedit.bukkit.adapter.BukkitImplAdapter.getRelighterFactory()" because the return value of "com.sk89q.worldedit.bukkit.WorldEditPlugin.getBukkitImplAdapter()" is null
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.bukkit.BukkitServerInterface.getRelighterFactory(BukkitServerInterface.java:288) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.compile(EditSessionBuilder.java:552) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSession.<init>(EditSession.java:262) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.EditSessionBuilder.build(EditSessionBuilder.java:234) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.LocalSession.createEditSession(LocalSession.java:1753) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.ProvideBindings.editSession(ProvideBindings.java:57) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.core.extension.platform.binding.Bindings.invoke(Bindings.java:137) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	... 37 more
+[20:34:01] [Server thread/WARN]: Failed to save player data for Dilan_Rios
+java.nio.file.NoSuchFileException: ./world/playerdata/e397477f-f08a-3551-88d6-e459db6d679e-17076306771178168941.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.base/java.nio.file.Files.createFile(Files.java:658) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.create(TempFileHelper.java:136) ~[?:?]
+	at java.base/java.nio.file.TempFileHelper.createTempFile(TempFileHelper.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.createTempFile(Files.java:879) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:42) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.save(PlayerList.java:573) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.lambda$saveAll$3(PlayerList.java:1202) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:128) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:1195) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1615) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:34:30] [DimensionDataIO - ./world - 0/ERROR]: Could not save data net.minecraft.world.entity.raid.Raids@522113e6
+java.nio.file.NoSuchFileException: ./world/data/raids.dat
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:168) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.world.level.saveddata.SavedData.lambda$save$0(SavedData.java:48) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
