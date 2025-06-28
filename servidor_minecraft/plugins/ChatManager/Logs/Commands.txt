@@ -3463,3 +3463,15 @@
 [Fri Jun 27 20:39:13 UTC 2025] Dilan_Rios: /warp shop
 [Fri Jun 27 20:43:50 UTC 2025] Dilan_Rios: /gamemode survival
 [Fri Jun 27 20:44:02 UTC 2025] Dilan_Rios: /gamemode creative
+[Sat Jun 28 06:19:05 UTC 2025] Dilan_Rios: /rewards
+[Sat Jun 28 06:19:58 UTC 2025] Dilan_Rios: /mv Dilan_Rios
+[Sat Jun 28 06:20:05 UTC 2025] Dilan_Rios: /mv help
+[Sat Jun 28 06:20:33 UTC 2025] Dilan_Rios: /mv import lobby
+[Sat Jun 28 06:20:47 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set owner
+[Sat Jun 28 06:21:36 UTC 2025] Dilan_Rios: /mv import lobby
+[Sat Jun 28 06:22:02 UTC 2025] Dilan_Rios: /mv import lobby gargame
+[Sat Jun 28 06:22:13 UTC 2025] Dilan_Rios: /mv import lobby gargamel normal
+[Sat Jun 28 06:22:15 UTC 2025] Dilan_Rios: /mv import lobby gargamel normal
+[Sat Jun 28 06:22:21 UTC 2025] Dilan_Rios: /mv import lobby normal
+[Sat Jun 28 06:22:32 UTC 2025] Dilan_Rios: /mv tp lobby
+[Sat Jun 28 06:22:42 UTC 2025] Dilan_Rios: /fly
