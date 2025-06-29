@@ -1143,3 +1143,42 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[09:10:03] [Server thread/INFO]: Dilan_Rios issued server command: /papi ecloud download Statz
+[09:10:05] [Server thread/INFO]: Dilan_Rios issued server command: /papi ecloud download Statz
+[09:10:19] [Server thread/INFO]: Dilan_Rios issued server command: /papi ecloud download Statistic
+[09:10:19] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[09:10:23] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:10:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:10:23] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:10:32] [Server thread/INFO]: Dilan_Rios issued server command: /papi reload
+[09:10:32] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[09:10:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: kdratio [1.1.0]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: Animations [1.0.5]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[09:10:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[09:10:35] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:10:35] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:10:35] [Server thread/INFO]: [TAB] Enabled in 8ms
+[09:10:49] [Server thread/INFO]: Dilan_Rios issued server command: /papi ecloud download Statz
+[09:11:31] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:11:31] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:11:31] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:13:19] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:13:19] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:13:19] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:15:35] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:15:35] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:15:35] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:15:37] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:15:37] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:15:37] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:15:54] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:15:54] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:15:54] [Server thread/INFO]: [TAB] Enabled in 7ms
+[09:16:13] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:16:13] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:16:13] [Server thread/INFO]: [TAB] Enabled in 6ms
