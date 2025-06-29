@@ -1214,3 +1214,26 @@ could not find expected ':'
 [09:28:55] [Server thread/INFO]: [TAB] - Add a space after the ":" at line 85.
 [09:28:55] [Server thread/INFO]: [TAB] - Remove 4 space(s) from line 86
 [09:28:55] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[09:29:53] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:29:53] [Server thread/INFO]: [TAB] Enabled in 8ms
+[09:31:29] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:31:29] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:31:29] [Server thread/INFO]: [TAB] Enabled in 7ms
+[09:32:01] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:32:01] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:32:01] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:32:09] [Server thread/INFO]: Dilan_Rios lost connection: Disconnected
+[09:32:09] [Craft Scheduler Thread - 75 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's data saved.
+[09:33:31] [User Authenticator #3/INFO]: UUID of player Dilan_Rios is e397477f-f08a-3551-88d6-e459db6d679e
+[09:33:33] [Server thread/INFO]: Dilan_Rios[/127.28.12.45:34915] logged in with entity id 7208 at ([lobby]191.52076265350772, 38.0, 195.5855327870344)
+[09:33:34] [Craft Scheduler Thread - 75 - ODailyQuests/INFO]: [O'DailyQuests] Dilan_Rios's quests have been loaded.
+[09:33:53] [Folia Async Scheduler Thread #0/INFO]: [nLogin] The user Dilan_Rios has successfully logged in.
+[09:34:00] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:34:00] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:34:00] [Server thread/INFO]: [TAB] Enabled in 4ms
+[09:35:20] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:35:20] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:35:20] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:39:26] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:39:26] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:39:26] [Server thread/INFO]: [TAB] Enabled in 6ms

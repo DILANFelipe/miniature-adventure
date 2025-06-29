@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1751185629731
-  login: 1751185682377
+  logout: 1751189529270
+  login: 1751189613748
   kits:
     tools: 1750954989454
 money: '4991000.0'
@@ -31,10 +31,10 @@ lastlocation:
   yaw: 165.8680877685547
   pitch: 76.04993438720703
 logoutlocation:
-  world: fd16ee49-f3db-4e84-a462-91b2fb61d37f
-  world-name: lobby
-  x: 191.62462838073483
-  y: 38.0
-  z: 195.38289481404405
-  yaw: 88.50047302246094
-  pitch: 14.549969673156738
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 5.046797561720981
+  y: 99.0
+  z: -63.586522805021296
+  yaw: -177.632080078125
+  pitch: -5.859145164489746
