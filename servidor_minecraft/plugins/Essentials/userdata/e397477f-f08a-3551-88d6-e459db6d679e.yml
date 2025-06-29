@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1751185478962
+  lastteleport: 1751186004714
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,13 +23,13 @@ timestamps:
 money: '4991000.0'
 last-account-name: Dilan_Rios
 lastlocation:
-  world: fd16ee49-f3db-4e84-a462-91b2fb61d37f
-  world-name: lobby
-  x: 192.69701205356407
-  y: 38.0
-  z: 195.3700712395819
-  yaw: 88.50047302246094
-  pitch: 14.549969673156738
+  world: 92158d52-5eae-44b8-b3eb-56a83513fba1
+  world-name: world_nether
+  x: -276.4955247474317
+  y: 25.028521746407826
+  z: -665.1913812383059
+  yaw: 165.8680877685547
+  pitch: 76.04993438720703
 logoutlocation:
   world: fd16ee49-f3db-4e84-a462-91b2fb61d37f
   world-name: lobby

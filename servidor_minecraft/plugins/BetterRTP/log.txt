@@ -53,3 +53,8 @@
 2025-06-29 08:21:40 [INFO]: Queue position generated: id= default_lobby, database_ID= 206, location= x: -186, y: 4, z: -476, world: lobby
 2025-06-29 08:21:41 [INFO]: Max queue reached for default_lobby (amount: 32) lastCount: 0
 2025-06-29 08:21:41 [INFO]: Queueing paused, max queue limit reached!
+2025-06-29 08:33:15 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
+2025-06-29 08:33:42 [INFO]: CONSOLE executed: /betterrtp player Dilan_Rios world
+2025-06-29 08:33:45 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=594.5,y=85.0,z=40.5,pitch=-6.1591544,yaw=-178.38264}
+2025-06-29 08:34:05 [INFO]: CONSOLE executed: /betterrtp player Dilan_Rios world_nether
+2025-06-29 08:34:06 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_nether},x=-277.5,y=50.0,z=-641.5,pitch=-4.9591413,yaw=-127.08268}
