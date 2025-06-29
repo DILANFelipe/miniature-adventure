@@ -78,7 +78,9 @@ scoreboard:
     scoreboard:
       title: "%animation:server%"
       lines:
-        - "Scoreboard for admins"
+        - "#D60010&lJugador:"
+        - "#fff000» &7Rango: #eeee%luckperms_prefix%"
+        - "#fff000» &7Dinero:"
         
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:
