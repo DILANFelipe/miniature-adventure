@@ -1254,3 +1254,41 @@ could not find expected ':'
 [09:46:24] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
 [09:46:24] [Server thread/INFO]: [TAB] Disabled in 0ms
 [09:46:24] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:50:09] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:50:09] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:50:09] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:50:37] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:50:37] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:50:37] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:51:08] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:51:08] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:51:08] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:53:02] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:53:02] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:53:02] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:53:43] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:53:43] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:53:43] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:54:07] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:54:07] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:54:07] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:54:20] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:54:20] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:54:20] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:54:44] [Server thread/INFO]: Dilan_Rios issued server command: /fly
+[09:55:01] [Server thread/INFO]: Dilan_Rios issued server command: /rewards
+[09:55:03] [Server thread/INFO]: LIFESTEAL | Given x2 of Vote Key key(s) to Dilan_Rios.
+[09:55:03] [Server thread/INFO]: LIFESTEAL | Given x1 of Wild Key key(s) to Dilan_Rios.
+[09:55:03] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give Dilan_Rios 5000
+[09:55:03] [Server thread/INFO]: LIFESTEAL ┃ $5,000 added to OWNER Dilan_Rios account.
+[09:55:03] [Server thread/INFO]: Dilan_Rios collected his premium weekly reward!
+[09:55:04] [Server thread/INFO]: LIFESTEAL | Given x1 of Vote Key key(s) to Dilan_Rios.
+[09:55:04] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give Dilan_Rios 1000
+[09:55:04] [Server thread/INFO]: LIFESTEAL ┃ $1,000 added to OWNER Dilan_Rios account.
+[09:55:04] [Server thread/INFO]: Dilan_Rios collected his premium daily reward!
+[09:55:54] [Server thread/INFO]: Dilan_Rios fell out of the world
+[09:56:13] [Server thread/INFO]: Dilan_Rios issued server command: /lp user Dilan_Rios parent set default
+[09:56:13] [luckperms-command-executor/INFO]: [LP] LOG > (Dilan_Rios) [U] (dilan_rios)
+[09:56:13] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[09:56:37] [Server thread/INFO]: Made Dilan_Rios no longer a server operator
+[09:57:09] [Server thread/INFO]: Dilan_Rios fell out of the world

@@ -83,11 +83,12 @@ scoreboard:
         - " #fff000» &7Rango: %luckperms_prefix%"
         - " #fff000» &7Dinero: $%vault_eco_balance_formatted%"
         - "#D60010&lStats:"
-        - " #fff000» #f00004»⚔&7Kills: %statistic_player_kills%"
-        - " #fff000» #f00004»☠&7Muertes: %statistic_deaths%"
-        - " #fff000» #00d8fa🕑&7Tiempo De Juego:#00d8fa%statistic_time_played:hours%h"
+        - " #fff000» #f00004⚔&7Kills: %statistic_player_kills%"
+        - " #fff000» #f00004☠&7Muertes: %statistic_deaths%"
+        - " #fff000» #00d8fa🕑&7Tiempo De Juego: #00d8fa%statistic_time_played:hours%h"
         - "#D60010&lServer:"
-        - " #00d8fa "&7» &fOline:  #D60010%server_online%/ %server_max_players%"        
+        - "&7» &fOline: #D60010%server_online%/ %server_max_players%"
+        - "&7» &fIP%animation:ip%"      
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:
   enabled: false

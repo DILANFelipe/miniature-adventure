@@ -20,16 +20,16 @@ timestamps:
   login: 1751189613748
   kits:
     tools: 1750954989454
-money: '4991000.0'
+money: '4997000.0'
 last-account-name: Dilan_Rios
 lastlocation:
-  world: 92158d52-5eae-44b8-b3eb-56a83513fba1
-  world-name: world_nether
-  x: -276.4955247474317
-  y: 25.028521746407826
-  z: -665.1913812383059
-  yaw: 165.8680877685547
-  pitch: 76.04993438720703
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 172.09428268692008
+  y: -161.9403265004872
+  z: 3.2114691105109814
+  yaw: 86.81513214111328
+  pitch: -46.50000762939453
 logoutlocation:
   world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
   world-name: spawn
