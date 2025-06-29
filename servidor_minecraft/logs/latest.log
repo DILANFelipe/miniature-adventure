@@ -1090,3 +1090,56 @@ This item will not be added to the menu!
 [08:59:20] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
 [08:59:20] [Server thread/INFO]: [TAB] Disabled in 0ms
 [08:59:20] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:00:08] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:00:08] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:00:08] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:02:00] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:02:00] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:02:00] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:03:12] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:03:12] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:03:12] [Server thread/INFO]: [TAB] Enabled in 8ms
+[09:04:14] [Server thread/ERROR]: [com.fastasyncworldedit.bukkit.FaweBukkit] Persistent Brushes Failed
+java.lang.NullPointerException: null
+	at com.google.gson.internal.$Gson$Preconditions.checkNotNull($Gson$Preconditions.java:47) ~[gson-2.10.1.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.bukkit.util.ItemUtil.<init>(ItemUtil.java:32) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.bukkit.FaweBukkit.getItemUtil(FaweBukkit.java:146) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.fastasyncworldedit.bukkit.util.BukkitItemStack.getNativeItem(BukkitItemStack.java:37) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.LocalSession.getTool(LocalSession.java:1246) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.LocalSession.getTool(LocalSession.java:1239) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.extension.platform.PlatformManager.handlePlayerInput(PlatformManager.java:481) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.WorldEdit.handleArmSwing(WorldEdit.java:753) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar/com.sk89q.worldedit.bukkit.WorldEditListener.onPlayerInteract(WorldEditListener.java:165) ~[FastAsyncWorldEdit-Bukkit-2.11.1-SNAPSHOT-866.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor28.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:84) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:604) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:560) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:555) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:551) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleAnimate(ServerGamePacketListenerImpl.java:2584) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:34) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:16) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
