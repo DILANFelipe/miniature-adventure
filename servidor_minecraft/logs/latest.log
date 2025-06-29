@@ -1182,3 +1182,35 @@ java.lang.NullPointerException: null
 [09:16:13] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
 [09:16:13] [Server thread/INFO]: [TAB] Disabled in 0ms
 [09:16:13] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:20:39] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:20:39] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:20:39] [Server thread/INFO]: [TAB] Enabled in 4ms
+[09:20:43] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:20:43] [Server thread/INFO]: [TAB] Disabled in 1ms
+[09:20:43] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:20:52] [Server thread/INFO]: Dilan_Rios issued server command: /playtime
+[09:21:26] [Server thread/INFO]: Dilan_Rios issued server command: /playtime
+[09:21:29] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:21:29] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:21:29] [Server thread/INFO]: [TAB] Enabled in 5ms
+[09:23:04] [Async Chat Thread - #0/INFO]: [Not Secure] OWNER Dilan_Rios: ⚔
+[09:24:21] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:24:21] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:24:21] [Server thread/INFO]: [TAB] Enabled in 6ms
+[09:28:55] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[09:28:55] [Server thread/INFO]: [TAB] Disabled in 0ms
+[09:28:55] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[09:28:55] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning a simple key
+ in 'reader', line 85, column 5:
+        "#D60010&lStats:""
+        ^
+could not find expected ':'
+ in 'reader', line 86, column 12:
+            - " #f00004⚔&7Kills: %statistic_pla ... 
+               ^
+
+[09:28:55] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[09:28:55] [Server thread/INFO]: [TAB] - Add "- " at the beginning of line 85
+[09:28:55] [Server thread/INFO]: [TAB] - Add a space after the ":" at line 85.
+[09:28:55] [Server thread/INFO]: [TAB] - Remove 4 space(s) from line 86
+[09:28:55] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
