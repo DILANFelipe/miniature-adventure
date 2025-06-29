@@ -471,7 +471,6 @@ advanced:
 
     # Establece la lista de comandos permitidos antes de autenticar.
     allowed-commands:
-      - "/loginstaff"
 
 #     ___                                    _
 #    / _ \__ _ ___ _____      _____  _ __ __| |___

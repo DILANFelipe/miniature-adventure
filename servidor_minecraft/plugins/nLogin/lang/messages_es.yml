@@ -24,7 +24,7 @@ pending:
     singular: '&cTiene {0} segundo para {iniciar sesión///registrarte}.'
     plural: '&cTiene {0} segundos para {iniciar sesión///registrarte}.'
 success:
-  login: '&aTe has logueado con éxito.'
+  login: '&#D60010Te has logueado con éxito.'
   register: '&aTe has registrado con éxito.'
   session: '&aSu sesión de inicio de sesión ha sido resumida.'
   premium: '&aUsted inicia sesión automáticamente ya que está utilizando una cuenta original.'
