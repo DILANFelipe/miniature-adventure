@@ -198,5 +198,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-06-29 09:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-29 09:44:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
