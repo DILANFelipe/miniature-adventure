@@ -75,15 +75,11 @@ scoreboard:
   static-number: 0
   delay-on-join-milliseconds: 0
   scoreboards:
-    scoreboard-1.20.3+:
+    scoreboard:
       title: "%animation:server%"
-      display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
       lines:
-       -hola
-       
-      title: "<#E0B11E>MyServer</#FF0000>"
-      lines:
-
+        - "Scoreboard for admins"
+        
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:
   enabled: false

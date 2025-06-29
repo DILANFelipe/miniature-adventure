@@ -1042,3 +1042,29 @@ This item will not be added to the menu!
 [08:38:49] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard.scoreboards.scoreboard-1.20.3+: Missing configuration section "scoreboard.scoreboards.scoreboard-1.20.3+.lines" of type List, using default value [scoreboard "scoreboard-1.20.3+" is missing "lines" property!, did you forget to configure it or just your spacing is wrong?].
 [08:38:49] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
 [08:38:49] [Server thread/INFO]: [TAB] Enabled in 17ms
+[08:42:39] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:42:39] [Server thread/INFO]: [TAB] Disabled in 1ms
+[08:42:39] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard.scoreboards.scoreboard: Missing configuration section "scoreboard.scoreboards.scoreboard.lines" of type List, using default value [scoreboard "scoreboard" is missing "lines" property!, did you forget to configure it or just your spacing is wrong?].
+[08:42:39] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[08:42:39] [Server thread/INFO]: [TAB] Enabled in 13ms
+[08:44:22] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:44:22] [Server thread/INFO]: [TAB] Disabled in 1ms
+[08:44:22] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard.scoreboards.scoreboard: Configuration section "scoreboard.scoreboards.scoreboard.lines" is expected to be of type List, but was String (-"ola"). Using default value "[scoreboard "scoreboard" is missing "lines" property!, did you forget to configure it or just your spacing is wrong?]".
+[08:44:22] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[08:44:22] [Server thread/INFO]: [TAB] Enabled in 14ms
+[08:44:24] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:44:24] [Server thread/INFO]: [TAB] Disabled in 1ms
+[08:44:24] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard.scoreboards.scoreboard: Configuration section "scoreboard.scoreboards.scoreboard.lines" is expected to be of type List, but was String (-"ola"). Using default value "[scoreboard "scoreboard" is missing "lines" property!, did you forget to configure it or just your spacing is wrong?]".
+[08:44:24] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[08:44:24] [Server thread/INFO]: [TAB] Enabled in 9ms
+[08:45:58] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:45:58] [Server thread/INFO]: [TAB] Disabled in 1ms
+[08:45:58] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard.scoreboards.scoreboard: Configuration section "scoreboard.scoreboards.scoreboard.lines" is expected to be of type List, but was String (-"ola" - '1|&3Website&f:'). Using default value "[scoreboard "scoreboard" is missing "lines" property!, did you forget to configure it or just your spacing is wrong?]".
+[08:45:58] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[08:45:58] [Server thread/INFO]: [TAB] Enabled in 12ms
+[08:47:20] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:47:20] [Server thread/INFO]: [TAB] Disabled in 0ms
+[08:47:20] [Server thread/INFO]: [TAB] Enabled in 11ms
+[08:47:23] [Server thread/INFO]: Dilan_Rios issued server command: /tab reload
+[08:47:23] [Server thread/INFO]: [TAB] Disabled in 0ms
+[08:47:23] [Server thread/INFO]: [TAB] Enabled in 10ms
