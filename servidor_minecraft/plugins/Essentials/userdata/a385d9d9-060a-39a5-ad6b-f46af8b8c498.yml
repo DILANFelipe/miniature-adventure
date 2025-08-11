@@ -21,10 +21,10 @@ timestamps:
 money: '0'
 last-account-name: gunardo
 lastlocation:
-  world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
-  world-name: world
-  x: -82.0
-  y: 66.0
-  z: -362.0
-  yaw: 0.0
-  pitch: 0.0
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: 9.57280030731269
+  y: 100.1212968405392
+  z: -45.16071290325987
+  yaw: 121.617431640625
+  pitch: 40.19084930419922

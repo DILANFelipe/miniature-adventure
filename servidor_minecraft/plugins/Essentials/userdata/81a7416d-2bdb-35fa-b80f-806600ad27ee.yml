@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1754879178410
   lastheal: 0
   mute: 0
   jail: 0
@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: xRDilan
 lastlocation:
-  world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
-  world-name: world
-  x: -82.0
-  y: 66.0
-  z: -362.0
-  yaw: 0.0
-  pitch: 0.0
+  world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
+  world-name: spawn
+  x: -4.495117646958191
+  y: 100.5
+  z: -15.44412313602671
+  yaw: -105.33306884765625
+  pitch: 31.190887451171875
 logoutlocation:
   world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
   world-name: world

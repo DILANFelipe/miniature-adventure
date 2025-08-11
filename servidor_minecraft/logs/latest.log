@@ -904,3 +904,37 @@ java.lang.NullPointerException: null
 [02:22:12] [Server thread/INFO]: gunardo has made the advancement [Suit Up]
 [02:22:13] [Craft Scheduler Thread - 30 - ODailyQuests/INFO]: [O'DailyQuests] gunardo's quests have been renewed.
 [02:22:24] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user gunardo has successfully registered.
+[02:23:18] [Server thread/INFO]: Made xRDilan a server operator
+[02:24:12] [Server thread/INFO]: xRDilan issued server command: /kit
+[02:24:52] [Server thread/INFO]: gunardo issued server command: /warp arena
+[02:24:52] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:24:54] [Server thread/INFO]: xRDilan issued server command: /warp arena
+[02:25:04] [Async Chat Thread - #0/INFO]: [Not Secure] xRDilan: ./warp arena
+[02:25:10] [Server thread/INFO]: gunardo issued server command: /help
+[02:25:16] [Server thread/INFO]: xRDilan issued server command: /player
+[02:25:22] [Server thread/INFO]: xRDilan issued server command: /homes
+[02:25:28] [Server thread/INFO]: gunardo issued server command: /warp arena
+[02:25:28] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:25:41] [Server thread/INFO]: xRDilan issued server command: /warp
+[02:25:52] [Server thread/INFO]: xRDilan issued server command: /warp arena
+[02:25:59] [Server thread/INFO]: gunardo issued server command: /raid arena
+[02:26:01] [Server thread/INFO]: xRDilan issued server command: /tp xRDilan
+[02:26:10] [Server thread/INFO]: xRDilan issued server command: /tp2p gunardo
+[02:26:18] [Server thread/INFO]: xRDilan issued server command: /back
+[02:26:22] [Server thread/INFO]: xRDilan issued server command: /backup
+[02:26:31] [Server thread/INFO]: xRDilan issued server command: /tp gunardo xRDilan
+[02:27:21] [Server thread/INFO]: xRDilan issued server command: /fly
+[02:27:29] [Server thread/INFO]: xRDilan issued server command: /kits
+[02:27:51] [Server thread/INFO]: xRDilan issued server command: /survival
+[02:27:58] [Server thread/INFO]: xRDilan issued server command: /range
+[02:28:02] [Server thread/INFO]: xRDilan issued server command: /range 1
+[02:28:08] [Server thread/INFO]: gunardo was slain by xRDilan
+[02:28:23] [Server thread/INFO]: xRDilan issued server command: /tp gunardo xRDilan
+[02:30:41] [Server thread/INFO]: gunardo issued server command: /spawn
+[02:30:42] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:30:50] [Server thread/INFO]: gunardo issued server command: /spawn
+[02:30:50] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:31:08] [Server thread/INFO]: xRDilan issued server command: /luckperms group vip setweight
+[02:31:13] [Server thread/INFO]: gunardo drowned
+[02:31:17] [Async Chat Thread - #1/INFO]: [Not Secure] gunardo: xd
+[02:32:45] [Server thread/INFO]: xRDilan issued server command: /lp user gunardo
