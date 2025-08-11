@@ -3663,3 +3663,33 @@
 [Mon Aug 11 02:30:50 UTC 2025] gunardo: /spawn
 [Mon Aug 11 02:31:08 UTC 2025] xRDilan: /luckperms group vip setweight
 [Mon Aug 11 02:32:45 UTC 2025] xRDilan: /lp user gunardo
+[Mon Aug 11 02:33:30 UTC 2025] xRDilan: /lp group mvp parent set vip
+[Mon Aug 11 02:33:54 UTC 2025] xRDilan: /lp user gunardo parent set owner
+[Mon Aug 11 02:34:07 UTC 2025] xRDilan: /lp user xRDilan parent set owner
+[Mon Aug 11 02:34:34 UTC 2025] gunardo: /fly
+[Mon Aug 11 02:34:58 UTC 2025] xRDilan: /spawn
+[Mon Aug 11 02:35:06 UTC 2025] gunardo: /warp arena
+[Mon Aug 11 02:35:11 UTC 2025] gunardo: /kits
+[Mon Aug 11 02:35:12 UTC 2025] xRDilan: /keus
+[Mon Aug 11 02:35:14 UTC 2025] xRDilan: /key
+[Mon Aug 11 02:35:16 UTC 2025] xRDilan: /keys
+[Mon Aug 11 02:35:27 UTC 2025] gunardo: /pay gunardo 5000
+[Mon Aug 11 02:36:00 UTC 2025] gunardo: /money gunardo 5000
+[Mon Aug 11 02:36:46 UTC 2025] gunardo: /pr
+[Mon Aug 11 02:36:46 UTC 2025] xRDilan: /feed
+[Mon Aug 11 02:37:06 UTC 2025] xRDilan: /fly
+[Mon Aug 11 02:37:21 UTC 2025] gunardo: /fly
+[Mon Aug 11 02:37:31 UTC 2025] gunardo: /tpa xRDilan
+[Mon Aug 11 02:37:37 UTC 2025] gunardo: /tp gunardo xRDilan
+[Mon Aug 11 02:37:45 UTC 2025] gunardo: /fly
+[Mon Aug 11 02:38:34 UTC 2025] gunardo: /range protection zone 500
+[Mon Aug 11 02:38:36 UTC 2025] xRDilan: /lp user gunardo parent set mod
+[Mon Aug 11 02:39:11 UTC 2025] gunardo: /staff
+[Mon Aug 11 02:39:21 UTC 2025] gunardo: /staffchat xd
+[Mon Aug 11 02:39:52 UTC 2025] gunardo: /rtp
+[Mon Aug 11 02:40:03 UTC 2025] gunardo: /fly
+[Mon Aug 11 02:40:05 UTC 2025] gunardo: /fly
+[Mon Aug 11 02:40:18 UTC 2025] gunardo: /spawn
+[Mon Aug 11 02:41:03 UTC 2025] gunardo: /back
+[Mon Aug 11 02:42:23 UTC 2025] xRDilan: /lp user gunardo parent set owner
+[Mon Aug 11 02:42:32 UTC 2025] gunardo: /fly

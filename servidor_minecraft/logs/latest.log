@@ -938,3 +938,62 @@ java.lang.NullPointerException: null
 [02:31:13] [Server thread/INFO]: gunardo drowned
 [02:31:17] [Async Chat Thread - #1/INFO]: [Not Secure] gunardo: xd
 [02:32:45] [Server thread/INFO]: xRDilan issued server command: /lp user gunardo
+[02:33:30] [Server thread/INFO]: xRDilan issued server command: /lp group mvp parent set vip
+[02:33:30] [luckperms-command-executor/INFO]: [LP] LOG > (xRDilan) [G] (mvp)
+[02:33:30] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[02:33:54] [Server thread/INFO]: xRDilan issued server command: /lp user gunardo parent set owner
+[02:33:54] [luckperms-command-executor/INFO]: [LP] LOG > (xRDilan) [U] (gunardo)
+[02:33:54] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[02:34:07] [Server thread/INFO]: xRDilan issued server command: /lp user xRDilan parent set owner
+[02:34:07] [luckperms-command-executor/INFO]: [LP] LOG > (xRDilan) [U] (xrdilan)
+[02:34:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[02:34:34] [Server thread/INFO]: gunardo issued server command: /fly
+[02:34:58] [Server thread/INFO]: xRDilan issued server command: /spawn
+[02:35:06] [Server thread/INFO]: gunardo issued server command: /warp arena
+[02:35:11] [Server thread/INFO]: gunardo issued server command: /kits
+[02:35:12] [Server thread/INFO]: xRDilan issued server command: /keus
+[02:35:14] [Server thread/INFO]: xRDilan issued server command: /key
+[02:35:16] [Server thread/INFO]: xRDilan issued server command: /keys
+[02:35:27] [Server thread/INFO]: gunardo issued server command: /pay gunardo 5000
+[02:35:28] [Async Chat Thread - #3/INFO]: [Not Secure] OWNER xRDilan: [bal]
+[02:36:00] [Server thread/INFO]: gunardo issued server command: /money gunardo 5000
+[02:36:46] [Server thread/INFO]: gunardo issued server command: /pr
+[02:36:46] [Server thread/INFO]: xRDilan issued server command: /feed
+[02:37:06] [Server thread/INFO]: xRDilan issued server command: /fly
+[02:37:21] [Server thread/INFO]: gunardo issued server command: /fly
+[02:37:31] [Server thread/INFO]: gunardo issued server command: /tpa xRDilan
+[02:37:37] [Server thread/INFO]: gunardo issued server command: /tp gunardo xRDilan
+[02:37:45] [Server thread/INFO]: gunardo issued server command: /fly
+[02:37:49] [Async Chat Thread - #5/INFO]: [Not Secure] OWNER gunardo: ??
+[02:37:55] [Async Chat Thread - #5/INFO]: [Not Secure] OWNER xRDilan: qlq
+[02:38:09] [Async Chat Thread - #5/INFO]: [Not Secure] OWNER gunardo: pon prote de los lugares
+[02:38:34] [Server thread/INFO]: gunardo issued server command: /range protection zone 500
+[02:38:36] [Server thread/INFO]: xRDilan issued server command: /lp user gunardo parent set mod
+[02:38:36] [luckperms-command-executor/INFO]: [LP] LOG > (xRDilan) [U] (gunardo)
+[02:38:36] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[02:39:11] [Server thread/INFO]: gunardo issued server command: /staff
+[02:39:21] [Server thread/INFO]: gunardo issued server command: /staffchat xd
+[02:39:49] [Server thread/INFO]: gunardo issued server command: /help
+[02:39:52] [Server thread/INFO]: gunardo issued server command: /rtp
+[02:39:58] [Server thread/INFO]: [BetterRTP] ¡gunardo ha sido teletransportado a x=904 y=63 z=-861!
+[02:40:03] [Server thread/INFO]: gunardo issued server command: /fly
+[02:40:03] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:40:05] [Server thread/INFO]: gunardo issued server command: /fly
+[02:40:05] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:40:18] [Server thread/INFO]: gunardo issued server command: /spawn
+[02:40:18] [Server thread/INFO]: [Essentials] LIFESTEAL ┃ gunardo was denied access to command.
+[02:41:01] [Server thread/INFO]: gunardo issued server command: /
+[02:41:03] [Server thread/INFO]: gunardo issued server command: /back
+[02:41:21] [Async Chat Thread - #7/INFO]: [Not Secure] MOD gunardo: oe
+[02:41:25] [Async Chat Thread - #7/INFO]: [Not Secure] MOD gunardo: Dame mi owner >:C. 
+[02:41:32] [Async Chat Thread - #7/INFO]: [Not Secure] MOD gunardo: &b&l xd. 
+[02:41:35] [Async Chat Thread - #7/INFO]: [Not Secure] MOD gunardo: A no sirve. 
+[02:41:40] [Async Chat Thread - #8/INFO]: [Not Secure] MOD gunardo: Que nub. 
+[02:42:13] [Async Chat Thread - #8/INFO]: [Not Secure] MOD gunardo: Dame owner y te ayudo xd. 
+[02:42:23] [Server thread/INFO]: xRDilan issued server command: /lp user gunardo parent set owner
+[02:42:23] [luckperms-command-executor/INFO]: [LP] LOG > (xRDilan) [U] (gunardo)
+[02:42:23] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[02:42:30] [Async Chat Thread - #8/INFO]: [Not Secure] OWNER gunardo: es de host?
+[02:42:32] [Server thread/INFO]: gunardo issued server command: /fly
+[02:42:43] [Async Chat Thread - #8/INFO]: [Not Secure] OWNER xRDilan: algo asi
+[02:42:50] [Async Chat Thread - #8/INFO]: [Not Secure] OWNER gunardo: como que algo asi...
