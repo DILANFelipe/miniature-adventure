@@ -3579,3 +3579,64 @@
 [Sun Jun 29 09:54:44 UTC 2025] Dilan_Rios: /fly
 [Sun Jun 29 09:55:01 UTC 2025] Dilan_Rios: /rewards
 [Sun Jun 29 09:56:13 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set default
+[Sun Jun 29 10:01:05 UTC 2025] Dilan_Rios: /op
+[Sun Jun 29 10:01:11 UTC 2025] Dilan_Rios: /deop
+[Sun Jun 29 10:01:24 UTC 2025] Dilan_Rios: /realname
+[Sun Jun 29 10:01:38 UTC 2025] Dilan_Rios: /reload confirms
+[Sun Jun 29 10:01:42 UTC 2025] Dilan_Rios: /reload
+[Sun Jun 29 10:01:49 UTC 2025] Dilan_Rios: /reload confirm
+[Sun Jun 29 10:11:37 UTC 2025] Dilan_Rios: /reload confirm
+[Sun Jun 29 10:15:44 UTC 2025] Dilan_Rios: /dailyquests
+[Sun Jun 29 10:16:19 UTC 2025] Dilan_Rios: /create
+[Sun Jun 29 10:16:48 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set
+[Sun Jun 29 10:16:54 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set usuario
+[Sun Jun 29 10:17:02 UTC 2025] Dilan_Rios: /tab reload
+[Sun Jun 29 10:17:09 UTC 2025] Dilan_Rios: /lp user Dilan_Rios parent set owner
+[Sun Jun 29 10:17:11 UTC 2025] Dilan_Rios: /tab reload
+[Sun Jun 29 10:17:53 UTC 2025] Dilan_Rios: /keys
+[Sun Jun 29 10:18:00 UTC 2025] Dilan_Rios: /keyscreate
+[Sun Jun 29 10:18:17 UTC 2025] Dilan_Rios: /creative
+[Sun Jun 29 10:18:22 UTC 2025] Dilan_Rios: /creativemode
+[Sun Jun 29 10:18:34 UTC 2025] Dilan_Rios: /superpickaxe
+[Sun Jun 29 10:18:42 UTC 2025] Dilan_Rios: /survival
+[Sun Jun 29 10:19:01 UTC 2025] Dilan_Rios: //flood
+[Sun Jun 29 10:19:08 UTC 2025] Dilan_Rios: //1
+[Sun Jun 29 10:19:14 UTC 2025] Dilan_Rios: /qadmin
+[Sun Jun 29 10:19:27 UTC 2025] Dilan_Rios: /createkit
+[Sun Jun 29 10:19:37 UTC 2025] Dilan_Rios: /crates
+[Sun Jun 29 10:19:42 UTC 2025] Dilan_Rios: /crates drop
+[Sun Jun 29 10:19:47 UTC 2025] Dilan_Rios: /crates reload
+[Sun Jun 29 10:19:48 UTC 2025] Dilan_Rios: /crates reload
+[Sun Jun 29 10:19:54 UTC 2025] Dilan_Rios: /crates create
+[Sun Jun 29 10:20:02 UTC 2025] Dilan_Rios: /crates help
+[Sun Jun 29 10:20:20 UTC 2025] Dilan_Rios: /crates open wild
+[Sun Jun 29 10:20:28 UTC 2025] Dilan_Rios: /rtp
+[Sun Jun 29 10:20:53 UTC 2025] Dilan_Rios: /crates openfor wild
+[Sun Jun 29 10:21:07 UTC 2025] Dilan_Rios: /crates openfor vote -f -s
+[Sun Jun 29 10:21:11 UTC 2025] Dilan_Rios: /crates openfor vote 1 2
+[Sun Jun 29 10:21:18 UTC 2025] Dilan_Rios: /crates openfor vote -f
+[Sun Jun 29 10:21:27 UTC 2025] Dilan_Rios: /crates
+[Sun Jun 29 10:21:30 UTC 2025] Dilan_Rios: /crates menu
+[Sun Jun 29 10:21:53 UTC 2025] Dilan_Rios: /crates editor
+[Sun Jun 29 10:23:24 UTC 2025] Dilan_Rios: /preview tools
+[Sun Jun 29 10:23:26 UTC 2025] Dilan_Rios: /preview
+[Sun Jun 29 10:23:30 UTC 2025] Dilan_Rios: /crates editor
+[Sun Jun 29 10:24:39 UTC 2025] Dilan_Rios: /crates editor
+[Sun Jun 29 10:25:40 UTC 2025] Dilan_Rios: /crates preview
+[Sun Jun 29 10:25:46 UTC 2025] Dilan_Rios: /crates preview pvp Dilan_Rios
+[Sun Jun 29 10:25:53 UTC 2025] Dilan_Rios: /crates preview pvp
+[Sun Jun 29 10:26:04 UTC 2025] Dilan_Rios: /crates resetcooldown Dilan_Rios
+[Sun Jun 29 10:26:26 UTC 2025] Dilan_Rios: /crates resetcooldown Dilan_Rios pvp
+[Sun Jun 29 10:27:03 UTC 2025] Dilan_Rios: /crates resetcooldown Dilan_Rios pvp
+[Sun Jun 29 10:27:14 UTC 2025] Dilan_Rios: /crates resetlimit
+[Sun Jun 29 10:27:25 UTC 2025] Dilan_Rios: /crates resetlimit Dilan_Rios pvp crates_editor
+[Sun Jun 29 10:27:30 UTC 2025] Dilan_Rios: /crates resetlimit Dilan_Rios pvp raw_mutton
+[Sun Jun 29 10:28:44 UTC 2025] Dilan_Rios: /crates editor
+[Sun Jun 29 10:29:40 UTC 2025] Dilan_Rios: /crates editor
+[Sun Jun 29 10:29:50 UTC 2025] Dilan_Rios: /kits
+[Sun Jun 29 10:32:50 UTC 2025] Dilan_Rios: /tool
+[Sun Jun 29 10:33:01 UTC 2025] Dilan_Rios: /teammsg
+[Sun Jun 29 10:33:07 UTC 2025] Dilan_Rios: /tab
+[Sun Jun 29 10:33:54 UTC 2025] Dilan_Rios: /attribute
+[Sun Jun 29 10:34:00 UTC 2025] Dilan_Rios: //air
+[Sun Jun 29 10:34:06 UTC 2025] Dilan_Rios: /stop

@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-06-29 08:33:45 +0000",
+      "minecraft:sparse_jungle": "2025-06-29 10:20:33 +0000",
       "minecraft:plains": "2025-06-28 06:22:32 +0000"
     },
     "done": false
@@ -198,6 +199,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-06-29 09:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-29 09:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-29 09:55:16 +0000"
@@ -252,21 +265,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_chicken": "2025-06-29 09:44:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-06-29 09:55:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-29 09:44:01 +0000"
     },
     "done": true
   },

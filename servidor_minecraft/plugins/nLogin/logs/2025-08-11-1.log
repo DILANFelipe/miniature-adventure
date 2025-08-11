@@ -1,0 +1,23 @@
+[2025/08/11 02:13:01]: §9          __             _       
+[2025/08/11 02:13:01]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/08/11 02:13:01]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/08/11 02:13:01]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/08/11 02:13:01]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/08/11 02:13:01]: §9                  |___/            
+[2025/08/11 02:13:01]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/08/11 02:13:01]: §9 
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] All settings were loaded in 121 ms.
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] All plugin messages were loaded in 63 ms (languageByClient=false).
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] Loading database...
+[2025/08/11 02:13:02]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/08/11 02:15:44]: §3[nLogin] [DEBUG] The xRDilan (127.28.12.45) player entered an incorrect password
+[2025/08/11 02:16:49]: §3[nLogin] [DEBUG] The xRDilan (127.28.12.45) player entered an incorrect password
+[2025/08/11 02:19:39]: §3[nLogin] [DEBUG] [SQLite] [UNREGISTER]: Removing the xRDilan's account...
+[2025/08/11 02:19:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'xRDilan', `unique_id` = 81a7416d2bdb35fab80f806600ad27ee,  `mojang_id` = null,  `bedrock_id` = null,  `password` = null, `last_ip` = null, `creation_date` = 1970-01-01 00:00:00.0, `last_seen` = 1970-01-01 00:00:00.0, `email` = null, `discord` = null, `settings` = null WHERE `ai` = 1" (applied to all columns)
+[2025/08/11 02:19:39]: §3[nLogin] [DEBUG] The xRDilan player had his account unregistered by CONSOLE.
+[2025/08/11 02:20:08]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'xRDilan', `unique_id` = 81a7416d2bdb35fab80f806600ad27ee,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$N9QsE4rh6qTMjxBLUCQst.6iw0vPi0OZGdgRFG24aAICOShb2GHeW', `last_ip` = '127.28.12.45', `creation_date` = 2025-08-11 02:20:08.424, `last_seen` = 2025-08-11 02:20:08.424, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}' WHERE `ai` = 1" (applied to all columns)
+[2025/08/11 02:20:08]: [nLogin] The user xRDilan has successfully registered.
+[2025/08/11 02:22:24]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('gunardo', a385d9d9060a39a5ad6bf46af8b8c498, null, null, '$2a$10$Ws2j93s3ztiGTcB3b41wg./KBPpjoBdU96xZsCXBUj.xet8LzTW6K', '127.224.129.96', '2025-08-11 02:22:24.778', '2025-08-11 02:22:24.778', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2025/08/11 02:22:24]: [nLogin] The user gunardo has successfully registered.

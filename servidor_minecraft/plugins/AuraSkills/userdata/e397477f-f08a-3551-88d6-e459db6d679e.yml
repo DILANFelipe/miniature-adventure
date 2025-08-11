@@ -2,7 +2,7 @@ uuid: e397477f-f08a-3551-88d6-e459db6d679e
 skills:
   auraskills/excavation:
     level: 0
-    xp: 3.7
+    xp: 6.0
   auraskills/farming:
     level: 0
     xp: 38.0
@@ -11,7 +11,7 @@ skills:
     xp: 10.0
   auraskills/agility:
     level: 2
-    xp: 251.87680000000006
+    xp: 293.61080000000004
   auraskills/mining:
     level: 0
     xp: 1.0999999999999999
