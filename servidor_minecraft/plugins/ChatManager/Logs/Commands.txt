@@ -10770,3 +10770,30 @@
 [Wed Aug 13 04:08:51 UTC 2025] xRDilan: /spawn
 [Wed Aug 13 04:09:15 UTC 2025] xRDilan: /back
 [Wed Aug 13 04:22:29 UTC 2025] xRDilan: /rangos
+[Wed Aug 13 04:36:14 UTC 2025] xRDilan: /sell
+[Wed Aug 13 04:36:20 UTC 2025] xRDilan: /shop
+[Wed Aug 13 04:36:20 UTC 2025] xRDilan: /economyshopgui:shop
+[Wed Aug 13 04:37:36 UTC 2025] xRDilan: /bottom
+[Wed Aug 13 04:37:40 UTC 2025] xRDilan: /bottom
+[Wed Aug 13 04:37:45 UTC 2025] xRDilan: /back
+[Wed Aug 13 04:37:50 UTC 2025] xRDilan: /back
+[Wed Aug 13 04:37:52 UTC 2025] xRDilan: /back
+[Wed Aug 13 04:38:44 UTC 2025] xRDilan: /undo
+[Wed Aug 13 04:38:45 UTC 2025] xRDilan: /undo
+[Wed Aug 13 04:38:46 UTC 2025] xRDilan: /undo
+[Wed Aug 13 04:38:47 UTC 2025] xRDilan: /undo
+[Wed Aug 13 04:38:47 UTC 2025] xRDilan: /undo
+[Wed Aug 13 17:09:56 UTC 2025] xRDilan: /crates
+[Wed Aug 13 17:10:15 UTC 2025] xRDilan: /crates give xRDilan
+[Wed Aug 13 17:10:21 UTC 2025] xRDilan: /crates give xRDilan vote
+[Wed Aug 13 17:11:07 UTC 2025] xRDilan: /crates editor
+[Wed Aug 13 17:11:39 UTC 2025] xRDilan: /crates editor
+[Wed Aug 13 17:12:25 UTC 2025] xRDilan: /crates editor
+[Wed Aug 13 17:12:29 UTC 2025] xRDilan: /crates editor
+[Wed Aug 13 17:13:11 UTC 2025] xRDilan: /crates
+[Wed Aug 13 17:13:38 UTC 2025] xRDilan: /crate crate
+[Wed Aug 13 17:13:45 UTC 2025] xRDilan: /crate menu
+[Wed Aug 13 17:13:53 UTC 2025] xRDilan: /crate menu
+[Wed Aug 13 17:13:59 UTC 2025] xRDilan: /crate drop
+[Wed Aug 13 17:14:15 UTC 2025] xRDilan: /crate preview
+[Wed Aug 13 17:14:21 UTC 2025] xRDilan: /crate preview vote

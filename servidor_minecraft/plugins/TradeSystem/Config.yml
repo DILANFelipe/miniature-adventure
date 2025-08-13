@@ -1,6 +1,6 @@
 TradeSystem:
   Prefix: '&c&lLIFESTEAL &8&l|'
-  Language: ENG
+  Language:   ES
   # Permissions:
   #   "tradesystem.trade": Can accept/deny/toggle trade requests
   #   "tradesystem.trade.initiate": Can invite players for trades

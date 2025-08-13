@@ -344,5 +344,11 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-13 04:35:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

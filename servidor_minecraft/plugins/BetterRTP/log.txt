@@ -1,26 +1,21 @@
-2025-08-13 03:41:53 [INFO]: Loading Overrides...
-2025-08-13 03:41:53 [INFO]: Loading World Types...
-2025-08-13 03:41:53 [INFO]: - World Type for 'world' set to 'NORMAL'
-2025-08-13 03:41:53 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2025-08-13 03:41:53 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2025-08-13 03:41:53 [INFO]: Loading Defaults...
-2025-08-13 03:41:53 [INFO]: Loading Custom Worlds...
-2025-08-13 03:41:53 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-08-13 03:41:53 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-08-13 03:41:53 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:world configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:lobby configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:spawn configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database COOLDOWN:Arena configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database QUEUE:Queue configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-08-13 03:42:09 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-08-13 03:42:12 [INFO]: Attempting to queue up some more safe locations...
-2025-08-13 03:42:14 [INFO]: Queueing paused, max queue limit reached!
-2025-08-13 03:47:03 [INFO]: CONSOLE executed: /betterrtp player xRDilan world
-2025-08-13 03:47:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=132.0,y=69.0,z=678.0,pitch=0.0,yaw=0.0}
-2025-08-13 03:47:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=61.5,y=151.0,z=136.5,pitch=-0.15914917,yaw=162.11717}
-2025-08-13 04:04:48 [INFO]: CONSOLE executed: /betterrtp player xRDilan world
-2025-08-13 04:04:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=239.5,y=69.0,z=-108.5,pitch=22.040869,yaw=-41.582886}
+2025-08-13 17:05:40 [INFO]: Loading Overrides...
+2025-08-13 17:05:40 [INFO]: Loading World Types...
+2025-08-13 17:05:40 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-08-13 17:05:40 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-08-13 17:05:40 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-08-13 17:05:40 [INFO]: Loading Defaults...
+2025-08-13 17:05:40 [INFO]: Loading Custom Worlds...
+2025-08-13 17:05:40 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-08-13 17:05:40 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-08-13 17:05:40 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-08-13 17:05:56 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:spawn configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database COOLDOWN:Arena configured and loaded!
+2025-08-13 17:05:56 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-08-13 17:05:59 [INFO]: Attempting to queue up some more safe locations...
+2025-08-13 17:06:01 [INFO]: Queueing paused, max queue limit reached!
