@@ -892,3 +892,5 @@ java.lang.NullPointerException: null
 [03:47:04] [Server thread/INFO]: [BetterRTP] ¡Teletransportandote... por favor, espere mientras encontramos un lugar seguro!
 [03:47:04] [Server thread/INFO]: [BetterRTP] ¡xRDilan ha sido teletransportado a x=61 y=151 z=136!
 [03:47:56] [Server thread/INFO]: xRDilan issued server command: /spawn
+[04:01:02] [Server thread/INFO]: xRDilan lost connection: Timed out
+[04:01:02] [Craft Scheduler Thread - 30 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
