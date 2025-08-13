@@ -1243,3 +1243,6 @@ java.lang.IllegalArgumentException: OAK_WALL_SIGN isn't an item
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:22:29] [Server thread/INFO]: xRDilan issued server command: /rangos
+[04:31:02] [Server thread/INFO]: xRDilan lost connection: Disconnected
+[04:31:02] [Craft Scheduler Thread - 51 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
