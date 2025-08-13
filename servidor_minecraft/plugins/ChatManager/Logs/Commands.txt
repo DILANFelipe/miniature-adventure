@@ -10798,3 +10798,7 @@
 [Wed Aug 13 17:14:15 UTC 2025] xRDilan: /crate preview
 [Wed Aug 13 17:14:21 UTC 2025] xRDilan: /crate preview vote
 [Wed Aug 13 17:16:45 UTC 2025] xRDilan: /warpinfo
+[Wed Aug 13 18:29:18 UTC 2025] xRDilan: /sethome
+[Wed Aug 13 18:29:22 UTC 2025] xRDilan: /sethome s
+[Wed Aug 13 18:29:30 UTC 2025] xRDilan: /homes h
+[Wed Aug 13 18:29:33 UTC 2025] xRDilan: /homes s

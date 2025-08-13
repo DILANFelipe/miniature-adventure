@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755059872670
+  lastteleport: 1755109773874
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755106003078
-  login: 1755105959042
+  logout: 1755109480427
+  login: 1755109493770
 money: '0'
 last-account-name: xRDilan
 lastlocation:
   world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
   world-name: world
-  x: 206.5
-  y: -38.0
-  z: -161.5
-  yaw: 63.56806945800781
-  pitch: 29.099973678588867
+  x: 204.48444237083154
+  y: 74.55889053402228
+  z: -152.2721545268611
+  yaw: -157.681396484375
+  pitch: 15.449966430664062
 logoutlocation:
   world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
   world-name: world
@@ -36,3 +36,20 @@ logoutlocation:
   z: -155.9913020065335
   yaw: 174.26824951171875
   pitch: 21.30003547668457
+homes:
+  home:
+    world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
+    world-name: world
+    x: 209.48719528728992
+    y: 72.0
+    z: -158.41319897814844
+    yaw: 171.1190185546875
+    pitch: 27.89996337890625
+  s:
+    world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
+    world-name: world
+    x: 209.48719528728992
+    y: 72.0
+    z: -158.41319897814844
+    yaw: 171.1190185546875
+    pitch: 27.89996337890625
