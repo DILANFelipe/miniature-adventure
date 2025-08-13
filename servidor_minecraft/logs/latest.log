@@ -898,3 +898,8 @@ java.lang.NullPointerException: null
 [17:16:45] [Server thread/INFO]: xRDilan issued server command: /warpinfo
 [17:19:25] [Server thread/INFO]: xRDilan lost connection: Timed out
 [17:19:25] [Craft Scheduler Thread - 29 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
+[17:25:52] [User Authenticator #2/INFO]: UUID of player xRDilan is 81a7416d-2bdb-35fa-b80f-806600ad27ee
+[17:25:59] [Server thread/INFO]: xRDilan[/127.28.12.45:43519] logged in with entity id 874 at ([lobby]191.52076265350772, 38.0, 195.5855327870344)
+[17:25:59] [Craft Scheduler Thread - 31 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's quests have been loaded.
+[17:26:43] [Server thread/INFO]: xRDilan lost connection: Te has tardado mucho en iniciar sesión.
+[17:26:43] [Craft Scheduler Thread - 36 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
