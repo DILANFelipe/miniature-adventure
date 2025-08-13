@@ -72,3 +72,8 @@
 [Mon Aug 11 02:42:30 UTC 2025] gunardo: es de host?
 [Mon Aug 11 02:42:43 UTC 2025] xRDilan: algo asi
 [Mon Aug 11 02:42:50 UTC 2025] gunardo: como que algo asi...
+[Mon Aug 11 02:42:55 UTC 2025] gunardo: si o no
+[Mon Aug 11 02:42:59 UTC 2025] xRDilan: digamos que no
+[Mon Aug 11 02:43:03 UTC 2025] gunardo: ...
+[Mon Aug 11 02:43:07 UTC 2025] gunardo: bn vale vrg
+[Mon Aug 11 02:43:13 UTC 2025] gunardo: dame 1seg

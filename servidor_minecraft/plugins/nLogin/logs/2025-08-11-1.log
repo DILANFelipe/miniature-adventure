@@ -21,3 +21,4 @@
 [2025/08/11 02:20:08]: [nLogin] The user xRDilan has successfully registered.
 [2025/08/11 02:22:24]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('gunardo', a385d9d9060a39a5ad6bf46af8b8c498, null, null, '$2a$10$Ws2j93s3ztiGTcB3b41wg./KBPpjoBdU96xZsCXBUj.xet8LzTW6K', '127.224.129.96', '2025-08-11 02:22:24.778', '2025-08-11 02:22:24.778', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
 [2025/08/11 02:22:24]: [nLogin] The user gunardo has successfully registered.
+[2025/08/11 02:43:54]: [nLogin] Successful plugin core shutdown (took 0.00s)
