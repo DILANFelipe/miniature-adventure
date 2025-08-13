@@ -22,3 +22,5 @@
 2025-08-13 03:47:03 [INFO]: CONSOLE executed: /betterrtp player xRDilan world
 2025-08-13 03:47:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=132.0,y=69.0,z=678.0,pitch=0.0,yaw=0.0}
 2025-08-13 03:47:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=61.5,y=151.0,z=136.5,pitch=-0.15914917,yaw=162.11717}
+2025-08-13 04:04:48 [INFO]: CONSOLE executed: /betterrtp player xRDilan world
+2025-08-13 04:04:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=239.5,y=69.0,z=-108.5,pitch=22.040869,yaw=-41.582886}

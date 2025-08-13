@@ -36,6 +36,7 @@
       "minecraft:desert": "2025-08-11 03:02:32 +0000",
       "minecraft:stony_peaks": "2025-08-13 03:44:54 +0000",
       "minecraft:forest": "2025-08-11 02:16:49 +0000",
+      "minecraft:sparse_jungle": "2025-08-13 04:07:17 +0000",
       "minecraft:river": "2025-08-13 03:47:18 +0000",
       "minecraft:stony_shore": "2025-08-11 02:53:25 +0000",
       "minecraft:plains": "2025-08-11 02:15:27 +0000",
@@ -289,27 +290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-13 03:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-08-13 03:45:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-08-13 03:45:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-13 03:45:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-08-13 03:45:19 +0000"
     },
     "done": true
   },
@@ -322,6 +317,30 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-08-13 03:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-13 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 04:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-13 04:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-13 04:07:17 +0000"
     },
     "done": true
   },

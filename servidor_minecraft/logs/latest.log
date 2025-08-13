@@ -894,3 +894,17 @@ java.lang.NullPointerException: null
 [03:47:56] [Server thread/INFO]: xRDilan issued server command: /spawn
 [04:01:02] [Server thread/INFO]: xRDilan lost connection: Timed out
 [04:01:02] [Craft Scheduler Thread - 30 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
+[04:02:10] [User Authenticator #1/INFO]: UUID of player xRDilan is 81a7416d-2bdb-35fa-b80f-806600ad27ee
+[04:02:14] [Server thread/INFO]: xRDilan[/127.28.12.45:51631] logged in with entity id 2218 at ([lobby]191.52076265350772, 38.0, 195.5855327870344)
+[04:02:14] [Craft Scheduler Thread - 30 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's quests have been loaded.
+[04:02:39] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user xRDilan has successfully logged in.
+[04:04:48] [Server thread/INFO]: xRDilan issued server command: /rtp
+[04:04:48] [Server thread/INFO]: [BetterRTP] ¡Teletransportandote... por favor, espere mientras encontramos un lugar seguro!
+[04:04:48] [Server thread/INFO]: [BetterRTP] ¡xRDilan ha sido teletransportado a x=239 y=69 z=-109!
+[04:05:55] [Server thread/INFO]: xRDilan issued server command: /kit
+[04:06:43] [Server thread/INFO]: xRDilan issued server command: /daily
+[04:06:46] [Server thread/INFO]: xRDilan issued server command: /dailyquests
+[04:08:22] [Server thread/INFO]: xRDilan issued server command: /pay xRDilan
+[04:08:40] [Server thread/INFO]: xRDilan issued server command: /is
+[04:08:51] [Server thread/INFO]: xRDilan issued server command: /spawn
+[04:09:15] [Server thread/INFO]: xRDilan issued server command: /back
