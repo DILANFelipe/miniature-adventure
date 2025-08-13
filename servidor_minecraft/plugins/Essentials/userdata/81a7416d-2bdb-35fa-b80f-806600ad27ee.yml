@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755104885579
+  logout: 1755105565468
   login: 1755104913889
 money: '0'
 last-account-name: xRDilan
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 9b22c882-4af5-41a3-a2bb-a206b1a9d5a3
   world-name: world
-  x: 205.89861678277938
-  y: 72.875
-  z: -162.79445070603347
-  yaw: -176.73193359375
-  pitch: 24.749988555908203
+  x: 208.96017559488413
+  y: 72.0
+  z: -155.9913020065335
+  yaw: 174.26824951171875
+  pitch: 21.30003547668457

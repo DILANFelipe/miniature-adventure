@@ -10797,3 +10797,4 @@
 [Wed Aug 13 17:13:59 UTC 2025] xRDilan: /crate drop
 [Wed Aug 13 17:14:15 UTC 2025] xRDilan: /crate preview
 [Wed Aug 13 17:14:21 UTC 2025] xRDilan: /crate preview vote
+[Wed Aug 13 17:16:45 UTC 2025] xRDilan: /warpinfo

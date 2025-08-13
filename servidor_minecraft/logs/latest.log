@@ -893,3 +893,8 @@ java.lang.NullPointerException: null
 [17:13:59] [Server thread/INFO]: xRDilan issued server command: /crate drop
 [17:14:15] [Server thread/INFO]: xRDilan issued server command: /crate preview
 [17:14:21] [Server thread/INFO]: xRDilan issued server command: /crate preview vote
+[17:16:12] [Server thread/INFO]: xRDilan has completed the challenge [Cover Me in Debris]
+[17:16:39] [Server thread/INFO]: xRDilan issued server command: /warp
+[17:16:45] [Server thread/INFO]: xRDilan issued server command: /warpinfo
+[17:19:25] [Server thread/INFO]: xRDilan lost connection: Timed out
+[17:19:25] [Craft Scheduler Thread - 29 - ODailyQuests/INFO]: [O'DailyQuests] xRDilan's data saved.
