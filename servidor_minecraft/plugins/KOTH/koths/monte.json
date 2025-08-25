@@ -35,7 +35,7 @@ koth: |-
               }
             },
             "offset": {
-              "totalSeconds": -18000
+              "totalSeconds": -21600
             },
             "zone": {
               "id": "America/Mexico_City"
@@ -64,7 +64,7 @@ koth: |-
               }
             },
             "offset": {
-              "totalSeconds": -18000
+              "totalSeconds": -21600
             },
             "zone": {
               "id": "America/Mexico_City"
@@ -93,7 +93,7 @@ koth: |-
               }
             },
             "offset": {
-              "totalSeconds": -18000
+              "totalSeconds": -21600
             },
             "zone": {
               "id": "America/Mexico_City"
@@ -122,7 +122,7 @@ koth: |-
               }
             },
             "offset": {
-              "totalSeconds": -18000
+              "totalSeconds": -21600
             },
             "zone": {
               "id": "America/Mexico_City"

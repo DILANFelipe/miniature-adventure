@@ -1,11 +1,7 @@
-#  Staff+ | Made with love by Shortninja continued by Qball - ♥
-#  Your configuration file has been automatically updated to file version #6204!
-#  Unfortunately, all information comments reset when an update occurs, so you will
-#  have to completely regenerate your config by deleting it to get comments back.
-#  Though your settings should have been copied, your old config file was saved as
-#  'backup.yml' in the plugin folder, so your old settings can be reviewed. 
-# For a config with comments looks here https://github.com/Qballl/StaffPlus/blob/master/StaffPlusCore/src/main/resources/config.yml
-# The storage types are flatfile and mysql also under the MySQL section there is a field called migrated do not ever touch that unless told.
+# Staff+ | Made with love by Shortninja and continued by Qball - ?
+# 
+# If you're having trouble with item type names, refer to here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# All item slots are how they "should be", meaning the first slot of an inventory will be one. Maximum is 36.
 
 lang: lang_es
 bungee: false
@@ -43,8 +39,7 @@ chat-module:
     hoverable: false
     character: '*'
     merging: true
-    words: fuck, shit, ass, bitch, dick, cock, piss, cunt, fag, faggot, slut, nigger,
-      nigga
+    words: fuck, shit, ass, bitch, dick, cock, piss, cunt, fag, faggot, slut, nigger, nigga
     characters: å��, å��
     domains: com, net, org
     periods: (), (dot),

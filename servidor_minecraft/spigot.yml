@@ -11,32 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
-settings:
-  debug: false
-  bungeecord: false
-  late-bind: true
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  save-user-cache-on-stop-only: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  moved-too-quickly-multiplier: 10.0
-  log-villager-deaths: true
-  log-named-deaths: true
 messages:
   whitelist: '&6&l&nÂ¡MANTENIMIENTO! &e(discord.gg/hycube)'
   unknown-command: '&8(&6&lSURVIVAL&8) &8&lâ–¸ &fÂ¡Comando no encontrado!'
@@ -48,8 +22,8 @@ stats:
   disable-saving: false
   forced-stats: {}
 commands:
-  log: true
   tab-complete: 0
+  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -59,6 +33,32 @@ commands:
   - testforblock
   - tellraw
   send-namespaced: true
+settings:
+  moved-too-quickly-threshold: 100.0
+  bungeecord: false
+  late-bind: true
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  save-user-cache-on-stop-only: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  debug: false
+  moved-too-quickly-multiplier: 10.0
+  log-villager-deaths: true
+  log-named-deaths: true
 timings:
   enabled: true
   verbose: true
@@ -71,32 +71,7 @@ timings:
 world-settings:
   default:
     verbose: true
-    entity-activation-range:
-      animals: z
-      monsters: 18
-      misc: 4
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    ticks-per:
-      hopper-transfer: 44
-      hopper-check: 44
-    hopper-amount: 4
-    random-light-updates: false
-    save-structure-info: true
     nerf-spawner-mobs: true
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -119,6 +94,31 @@ world-settings:
       - 1
       - 5
     mob-spawn-range: 3
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+    entity-activation-range:
+      animals: z
+      monsters: 18
+      misc: 4
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    ticks-per:
+      hopper-transfer: 44
+      hopper-check: 44
+    hopper-amount: 4
+    random-light-updates: false
+    save-structure-info: true
     max-bulk-chunks: 10
     max-entity-collisions: 2
     dragon-death-sound-radius: 0
@@ -138,9 +138,9 @@ world-settings:
       item: 4.0
       exp: 6.0
     arrow-despawn-rate: 300
+    view-distance: 8
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
-    view-distance: 8
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     chunks-per-tick: 650

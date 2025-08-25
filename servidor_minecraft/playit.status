@@ -1,106 +1,2662 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1756162408681 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1756163938112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162411770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163941233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162414861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163944338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162417984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163947435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162421097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163950541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162424199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163953645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162427307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163956769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162430405 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163959881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162433600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163962980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162436725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163966122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162439817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163969230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162442911 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163972332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162446022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163975431 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162449124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163978524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162452239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163981627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162455369 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163984731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162458511 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163987866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1756162461635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1756163990968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756163994081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756163997188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164000286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164003398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164006498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164009594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164012692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164015792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164018884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164021988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164025091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164028190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164031291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164034397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164037493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164040603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164043709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164046809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164049929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164053046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164056152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164059250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164062348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164065463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164068568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164071666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164074809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164078050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164081169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164084291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164087388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164090486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164093594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164096696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164099797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164102894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164105995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164109095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164112201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164115326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164118426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164121529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164124634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164127742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164130843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164133947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164137047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164140147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164143391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164146496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164149610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164152709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164155813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164158939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164162061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164165166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164168267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164171374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164174474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164177582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164180689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164183799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164186897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164189997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164193115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164196210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164199356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164202458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164205596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164208703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164211826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164214931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164218033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164221131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164224228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164227330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164230431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164233541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164236646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164239758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164242865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164245973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164249076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164252177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164255275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164258372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164261478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164264583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164267681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164270809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164273905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164277008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164280109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164283218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164286313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164289416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164292520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164295619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164298776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164301888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164304989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164308087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164311184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164314303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164317405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164320511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164323620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164326721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164329822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164332928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164336037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164339151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164342255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164345358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164348467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164351590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164354697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164357805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164360913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164364031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164367144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164370238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164373347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164376443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164379548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164382655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164385759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164388861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164391966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164395077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164398174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164401268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164404372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164407479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164410575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164413677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164416785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164419879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164422999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164426113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164429219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164432324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164435420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164438521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164441619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164444759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164447861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164450997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164454109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164457216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164460312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164463407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164466504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164469626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164472725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164475823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164478931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164482040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164485137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164488243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164491348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164494447 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164497547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164500652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164503765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164506863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164509966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164513058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164516164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164519272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164522379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164525478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164528591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164531712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164534819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164537923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164541022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164544118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164547221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164550342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164553440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164556541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164559645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164562741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164565847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164568940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164572050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164575145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164578248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164581351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164584457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164587557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164590675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164593771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164596900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164600058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164603186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164606319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164609446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164612584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164615705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164618832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164621959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164625084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164628221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164631328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164634430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164637526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164640653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164643754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164646849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164649969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164653067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164656170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164659276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164662402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164665528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164668628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164671722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164674826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164677922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164681022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164684123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164687230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164690323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164693463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164696584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164699693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164702795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164705916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164709023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164712121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164715222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164718328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164721433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164724541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164727640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164730749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164733850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164736948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164740063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164743162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164746260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164749357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164752457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164755568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164758665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164761761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164764866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164767964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164771061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164774163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164777266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164780415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164783512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164786620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164789717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164792821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164795920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164799032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164802125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164805221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164808320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164811417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164814520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164817629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164820728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164823829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164826925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164830023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164833119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164836224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164839320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164842420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164845518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164848625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164851727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164854828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164857927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164861029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164864132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164867237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164870347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164873442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164876539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164879652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164882750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164885860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164888966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164892060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164895162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164898274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164901367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164904470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164907576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164910706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164913804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164916902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164920008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164923132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164926228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164929332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164932436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164935535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164938634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164941741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164944843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164947943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164951053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164954160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164957260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164960369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164963468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164966573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164969668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164972783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164975886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164978999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164982100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164985210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164988318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164991422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164994542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756164997641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165000749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165003862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165006969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165010098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165013206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165016320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165019423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165022537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165025640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165028751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165031864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165035015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165038116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165041216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165044322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165047428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165050556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165053659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165056767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165059871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165062970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165066091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165069187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165072299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165075408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165078836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165081948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165085075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165088231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165091330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165094431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165097556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165100658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165103770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165106881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165110003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165113105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165116213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165119314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165122422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165125525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165128635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165131738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165134851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165137959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165141080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165144181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165147285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165150380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165153477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165156579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165159694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165162794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165165896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165169002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165172099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165175197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165178293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165181392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165184486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165187583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165190703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165193809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165196908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165200011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165203108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165206207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165209303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165212413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165215518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165218625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165221738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165224846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165227982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165231104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165234218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165237329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165240442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165243552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165246649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165249767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165252886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165255996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165259097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165262214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165265331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165268436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165271578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165274706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165277810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165280927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165284036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165287163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165290279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165293397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165296507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165299617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165302746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165305872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165308998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165312121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+r-milan.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+writing-criterion.gl.at.ply.gg:3342 => 127.0.0.1:3342 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1756165315273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
