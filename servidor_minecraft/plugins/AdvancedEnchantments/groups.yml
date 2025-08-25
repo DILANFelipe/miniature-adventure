@@ -1,0 +1,99 @@
+# Enchantment groups are used for enchanter, to sell specific type books. You can group them
+# and give each group global color.
+# YOU CAN DELETE THESE GROUPS AND CREATE YOUR OWN
+settings:
+  magic-dust:
+    limit-applying-per-group: true
+  randomization-scrolls:
+    limit-applying-per-group: true
+  fallback-group: SIMPLE
+groups:
+  SIMPLE:
+    global-color: '&d'
+    group-name: Simple
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      id: 0
+      rgb-color: 200;200;200
+  UNIQUE:
+    global-color: '&d'
+    group-name: Unique
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 122;255;80
+  ELITE:
+    global-color: '&d'
+    group-name: Elite
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 20;250;255
+  ULTIMATE:
+    global-color: '&d'
+    group-name: Ultimate
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 250;255;0
+  LEGENDARY:
+    global-color: '&d'
+    group-name: Legendary
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 255;182;0
+  SOUL:
+    global-color: '&d'
+    group-name: Soul
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 255;0;0
+  HEROIC:
+    global-color: '&d'
+    group-name: Heroic
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 133;50;168
+  MASTERY:
+    global-color: '&d'
+    group-name: Mastery
+    slot-increaser:
+      slots: 1
+    magic-dust:
+      success: 1-15
+      chance: 22
+    item:
+      type: FIREWORK_CHARGE
+      rgb-color: 255;0;0

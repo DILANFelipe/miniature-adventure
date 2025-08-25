@@ -1,0 +1,27 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 359
+  maxY: 191
+  maxX: 524
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 158
+  resetWarnings: []
+  minX: 492
+  composition:
+    '57:0': 0.22
+    '129:0': 0.2
+    '1:0': 0.1
+    '16:0': 0.15
+    '133:0': 0.22
+    '56:0': 0.2
+  name: Mercenario
+  resetClock: 3
+  minZ: 327
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

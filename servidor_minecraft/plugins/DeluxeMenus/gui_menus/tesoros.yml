@@ -1,0 +1,62 @@
+menu_title: '&8Menú | &e&lWARPS'
+open_command:
+- tesoros
+- tesoro
+- paquetes
+- paquete
+size: 27
+items:
+  'Survival':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ2Zjk5ZjNjNWQ5ODJlYmRlOGRhNjU3ZDA2NTJhYTA4MDY0YmY2ZDZiNDk1ZmRhMjNjNmU0NzEyM2MwOTNlNyJ9fX0='
+    slot: 11
+    priority: 2
+    display_name: '&a▪ &l&nTESOROS&7 (Sin PVP)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEncuentra tesoros por todo'
+    - '&fel mapa, puedes encontrar de'
+    - '&fvarios niveles con mejores'
+    - '&frecompensas, solo recogelos.'
+    - '&e'
+    - '&a(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp tesoros'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp tesoros'
+  'Survival1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM2MjMzZDU3Yzk1ZTg1ZTExZDRkYmRjOGJhODIxMjUyZDE0ZDViZmFmY2NkNGViZmE2YWMyNzA3OWFiMzVmNyJ9fX0='
+    slot: 15
+    priority: 2
+    display_name: '&c▪ &l&nTESOROS&7 (Con PVP)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fCuidado, aquí hay combate y'
+    - '&fte pueden matar si vienes con'
+    - '&farmadura muy mala o sin amigos.'
+    - '&e'
+    - '&c(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp tesorospvp'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp tesorospvp'
+  'Survival12':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBhYmQ1ZTQzMDY1MjU1MzRjYWY0ZGY1NzJjN2QzNzZmNWU0MTcyYzYwNTk5YjEzODg3YjEwMjYzNjg4N2EifX19'
+    slot: 13
+    priority: 2
+    display_name: '&e▪ &l&nMENSAJES&7 (Comando)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&6- /tesoros ignore'
+    - '&fDesactiva los mensajes de'
+    - '&flos tesoros al ser recogidos.'
+    left_click_commands:
+    - '[close]'
+    right_click_commands:
+    - '[close]'

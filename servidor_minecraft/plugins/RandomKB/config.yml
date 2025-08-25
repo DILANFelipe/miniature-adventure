@@ -1,0 +1,34 @@
+knockback-horizontal:
+  HorizontalMin: 0.65
+  HorizontalMax: 0.675
+  ExtraHorizontalMin: 0.1
+  ExtraHorizontalMax: 0.125
+  KnockbackReduction: 0.65
+
+knockback-vertical:
+  VerticalMin: 0.36
+  VerticalMax: 0.37
+  AirVerticalMin: 0.36
+  AirVerticalMax: 0.4
+  ExtraVerticalMin: 0.01
+  ExtraVerticalMax: 0.015
+  KnockbackReduction: 1.0
+  VerticalLimit: 0.4
+  DistanceKBFrictionMin: 3.5
+  DistanceKBFrictionMax: 4.0
+  AirKnockback: true
+  EnableDistanceKB: false
+
+other:
+  FrictionMin: 3.25
+  FrictionMax: 3.35
+  BetterSprint: true
+  SprintStatusReset: true # This option is only available for spigot
+  BetterSprintStatusReset: true # ---- Ignored while BetterSprint is disabled ----
+  KnockbackResistance: true # It will only work in minecraft version 1.16 and above.
+  DeltaKnockback: false
+  UseTrigonometryOnAllKB: false
+  BetterSprintReductionOnAllKB: true
+
+experimental:
+  DoNotGoBackToOldVelocity: false

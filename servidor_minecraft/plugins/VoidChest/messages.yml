@@ -1,0 +1,83 @@
+Messages:
+  No-Permission: '&8(&e&lSURVIVAL&8) &8&l▸ &fComando desconocido.'
+  Reload: '&8(&e&lSURVIVAL&8) &8&l▸ &fPlugin recargado correctamente. &7(%ms% ms)'
+  Help:
+  - ''
+  - '&a&lRECOLECTORES &7| &fComandos'
+  - ''
+  - " &a&l\xbb &f/voidchest reload &7- &eRecarga todos los archivos del plugin."
+  - " &a&l\xbb &f/voidchest toggle/ignore &7- &eEvita que se envien mensajes de venta."
+  - " &a&l\xbb &f/voidchest stats (jugador) &7- &eMuestra las estadísticas de otra persona o las tuyas."
+  - " &a&l\xbb &f/voidchest list &7- &eListar todos los nombres de cofres vacíos disponibles."
+  - " &a&l\xbb &f/voidchest mode &7- &eMuestra el modo actual que se está utilizando."
+  - " &a&l\xbb &f/voidchest chunk &7- &eMuestra el borde del trozo con un efecto."
+  - " &a&l\xbb &f/voidchest give (tipo) (jugador) (cantidad) (tiempo de carga) &7- &eObten un recolector."
+  - " &a&l\xbb &f/voidchest boost (jugador) (cantidad) (segundos) &7- &eAumenta los ingresos de un jugador."
+  - " &a&l\xbb &f/voidchest locate (jugador) (pagina) &7- &eLocaliza los recolectores de un jugador."
+  - ''
+Sell:
+  Inventory-sell: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Recolector ganancias! &a+$%money% &7(&a%items_sold% &f/ &c%items_purged%&7)'
+  Offline: '&8(&e&lSURVIVAL&8) &8&l▸ &fHas ganado &a&l$%money% &fmientras estabas desconectado. &7(&a%items_sold% &f/ &c%items_purged%&7)'
+  Notify-sell:
+    enabled: '&8(&e&lSURVIVAL&8) &8&l▸ &fHas &aactivado &flas notificaciones de venta.'
+    disabled: '&8(&e&lSURVIVAL&8) &8&l▸ &fHas &cdesactivado&f las notificaciones de venta.'
+  No-VoidChests: '&8(&e&lSURVIVAL&8) &8&l▸ &fNo tienes ningún recolector.'
+Player:
+  Offline: '&8(&e&lSURVIVAL&8) &8&l▸ &c%player% &fse encuentra desconectado.'
+  Invalid: '&8(&e&lSURVIVAL&8) &8&l▸ &c%player% &fnunca se ha conectado al servidor.'
+  no-data: '&8(&e&lSURVIVAL&8) &8&l▸ &c%player% &fno tiene datos para mostrar.'
+  No-VoidChests: '&8(&e&lSURVIVAL&8) &8&l▸ &c%player%&f no tiene ningun recolector.'
+VoidChest:
+  Limit-Reached: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡No puedes colocar más recolectores!'
+  not-owner: '&8(&e&lSURVIVAL&8) &8&l▸ &fEste recolector no es tuyo.'
+  Give: '&8(&e&lSURVIVAL&8) &8&l▸ &fSe ha dado &ex%amount% &frecolector tipo &e%voidchest% &fal jugador &e%player%&f.'
+  Give-Invalid: '&8(&e&lSURVIVAL&8) &8&l▸ &fEse tipo de recolector no existe.'
+  Give-Invalid-ChargeTime: '&8(&e&lSURVIVAL&8) &8&l▸ &fNo se ha proporcionado bien el tiempo en segundos.'
+  Receive: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Has adquirido un &erecolector&f automático! &7(Nivel %voidchest%)'
+  List: '&8(&e&lSURVIVAL&8) &8&l▸ &fActualmente tienes &ex%amount% &frecolector(es). &e%voidchests%'
+  Money-Logging: The player %player% has made %amount%$ from a voidchest located in %location_world%, %location_x%, %location_y%, %location_z%
+  Mode:
+  - ''
+  - ' &a&l\xbb &7El modo del recolector que se esta utilizando es: &e%voidchest_mode%'
+  - ' &a&l\xbb &7El plugin de economia que se esta utilizando es: &e%economy_mode%'
+  - ' &a&l\xbb &7El plugin de apilamiento que se esta utilizando es: &e%stack_mode%'
+  - ' &a&l\xbb &7El plugin de banco actual que se esta utilizando es: &e%bank_mode%'
+  - ' &a&l\xbb &7El plugin de banco de tnt que se esta utilizando es: &e%tnt_bank_mode%'
+  - ''
+  Locate:
+    Top-Line: '&8&m             &m&7(&e%player%&f: Pagina: &a%current%/%max%&7)&8&m             '
+    Information: '&e(x%count%) &e%voidchest%&f; Mundo: &e%world%&f, X: &e%x%&f, Y: &e%y%&f, Z: &e%z%'
+Charge:
+  Maxed-out: '&8(&e&lSURVIVAL&8) &8&l▸ &fNo puedes poner mas combustible al recolector.'
+  Add: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Has comprado &e&lGASOLINA! &6&n(%charge_timeleft%)'
+Chunk:
+  enable: '&8(&e&lSURVIVAL&8) &8&l▸ &fHas &aactivado&f la vista de los chunks.'
+  disable: '&8(&e&lSURVIVAL&8) &8&l▸ &fHas &cdesactivado &fla vista de los chunks.'
+Boost:
+  Usage: '&8(&e&lSURVIVAL&8) &8&l▸ &fUso correcto: &c/vc boost <jugador>
+    <boost_amount> <time_in_seconds>'
+  Limit: '&c&l(!) &cYou need to specify a boost higher than 1.0!'
+  Applied: '&8(&e&lSURVIVAL&8) &8&l▸ &fSe ha agregado la mejora de &ex%boost% &fal jugador &e%player% &fpor &e%booster_timeleft%'
+  Time-Limit: '&8(&e&lSURVIVAL&8) &8&l▸ &fEl tiempo de mejora debe ser mayor a 0.'
+Stats:
+  Self:
+  - ''
+  - '&a&lRECOLECTORES &7| &fTus estadisticas'
+  - ''
+  - ' &a&l» &fRecolectores: &e%voidchests%'
+  - ' &a&l» &fMejora: &ex%booster%'
+  - ' &a&l» &fDinero total: &e$%money%'
+  - ' &a&l» &fObjetos vendidos: &e%items_sold%'
+  - ' &a&l» &fObjetos descartados: &e%items_purged%'
+  - ''
+  Other:
+  - ''
+  - '&a&lRECOLECTORES &7| &fEstadisticas ajenas'
+  - ''
+  - ' &a&l» &fJugador: &e%player%'
+  - ' &a&l» &fRecolectores: &e%voidchests%'
+  - ' &a&l» &fMejora: &ex%booster%'
+  - ' &a&l» &fDinero total: &e$%money%'
+  - ' &a&l» &fObjetos vendidos: &e%items_sold%'
+  - ' &a&l» &fObjetos descartados: &e%items_purged%'
+  - ''

@@ -1,0 +1,3808 @@
+# Create as many tags as you want here.
+# Just make sure you FOLLOW the format.
+# Tags will appear in the same order.
+Tags:
+  kawaii:
+    Material: NAME_TAG
+    Tag: '&4o(≧▽≦)o'
+    Displayname: '&fKawaii: &4o(≧▽≦)o'
+    Permission: unblock.tag.kawaii
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  kawaii2:
+    Material: NAME_TAG
+    Tag: '&d(p≧w≦q)'
+    Displayname: '&fKawaii: &d(p≧w≦q)'
+    Permission: unblock.tag.kawaii2
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  kawaii3:
+    Material: NAME_TAG
+    Tag: '&d(❁´◡`❁)'
+    Displayname: '&fKawaii: &d(❁´◡`❁)'
+    Permission: unblock.tag.kawaii3
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  lengua:
+    Material: NAME_TAG
+    Tag: '&b(╹ڡ╹ )'
+    Displayname: '&fLengua afuera: &b(╹ڡ╹ )'
+    Permission: unblock.tag.lengua
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  ojosdinero:
+    Material: NAME_TAG
+    Tag: '&2( $ _ $ )'
+    Displayname: '&fDinero: &2( $ _ $ )'
+    Permission: unblock.tag.lengua
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  nose:
+    Material: NAME_TAG
+    Tag: '&6ƪ(˘⌣˘)ʃ'
+    Displayname: '&fNo se: &6ƪ(˘⌣˘)ʃ'
+    Permission: unblock.tag.nose
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  inlove:
+    Material: NAME_TAG
+    Tag: '&dღ'
+    Displayname: '&fIn love: &dღ'
+    Permission: unblock.tag.inlove
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  corazoness:
+    Material: NAME_TAG
+    Tag: '&d(¸.•´¸♥➷♥.•*¨)'
+    Displayname: '&fCorazones: &d(¸.•´¸♥➷♥.•*¨)'
+    Permission: unblock.tag.corazones
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  amoroso:
+    Material: NAME_TAG
+    Tag: '&d❣'
+    Displayname: '&fAmoroso: &d❣'
+    Permission: unblock.tag.amoroso
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  trebol:
+    Material: NAME_TAG
+    Tag: '&2♣'
+    Displayname: '&fTrébol: &2♣'
+    Permission: unblock.tag.trebol
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  picas:
+    Material: NAME_TAG
+    Tag: '&a♠'
+    Displayname: '&fPicas: &a♠'
+    Permission: unblock.tag.picas
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  corazon:
+    Material: NAME_TAG
+    Tag: '&4♥'
+    Displayname: '&fCorazón: &4♥'
+    Permission: unblock.tag.corazon
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  rombo:
+    Material: NAME_TAG
+    Tag: '&3♦'
+    Displayname: '&fRombo: &3♦'
+    Permission: unblock.tag.rombo
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  flor:
+    Material: NAME_TAG
+    Tag: '&5❁'
+    Displayname: '&fFlor: &5❁'
+    Permission: unblock.tag.flor
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  sky:
+    Material: NAME_TAG
+    Tag: '&b&l#SKYBLOCK'
+    Displayname: '&fSKY: &b&l#SKYBLOCK'
+    Permission: unblock.tag.sky
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  2023:
+    Material: NAME_TAG
+    Tag: '&c&l#2023'
+    Displayname: '&f2023: &c&l#2023'
+    Permission: unblock.tag.2023
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  minero:
+    Material: NAME_TAG
+    Tag: '&7&l#MINERO&r'
+    Displayname: '&fMinero: &7&l#MINERO&r'
+    Permission: unblock.tag.minero
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  hycube:
+    Material: NAME_TAG
+    Tag: '&6&l#MINEVY'
+    Displayname: '&fMinevy: &6&l#MINEVY'
+    Permission: unblock.tag.minevy
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  toxic:
+    Material: NAME_TAG
+    Tag: '&8[&2☣&8]'
+    Displayname: '&fToxic: &8[&2☣&8]'
+    Permission: unblock.tag.toxic
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  sword:
+    Material: NAME_TAG
+    Tag: '&8[&b⚔&8]'
+    Displayname: '&fSword: &8[&b⚔&8]'
+    Permission: unblock.tag.sword
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  danger:
+    Material: NAME_TAG
+    Tag: '&8[&c☠&8]'
+    Displayname: '&fDanger: &8[&c☠&8]'
+    Permission: unblock.tag.danger
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  recycle:
+    Material: NAME_TAG
+    Tag: '&8[&a♻&8]'
+    Displayname: '&fRecycle: &8[&a♻&8]'
+    Permission: unblock.tag.recycle
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  agree:
+    Material: NAME_TAG
+    Tag: '&8[&a✔&8]'
+    Displayname: '&fAgree: &8[&a✔&8]'
+    Permission: unblock.tag.agree
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  meteorite:
+    Material: NAME_TAG
+    Tag: '&8[&c☄&8]'
+    Displayname: '&fMeteorite: &8[&c☄&8]'
+    Permission: unblock.tag.meteorite
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  leaf:
+    Material: NAME_TAG
+    Tag: '&8[&a☘&8]'
+    Displayname: '&fLeaf: &8[&a☘&8]'
+    Permission: unblock.tag.leaf
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  music:
+    Material: NAME_TAG
+    Tag: '&8[&d♫&8]'
+    Displayname: '&fMusic: &8[&d♫&8]'
+    Permission: unblock.tag.music
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  snowman:
+    Material: NAME_TAG
+    Tag: '&8[&b☃&8]'
+    Displayname: '&fSnowman: &8[&b☃&8]'
+    Permission: unblock.tag.snowman
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  disagree:
+    Material: NAME_TAG
+    Tag: '&8[&c✘&8]'
+    Displayname: '&fDisagree: &8[&c✘&8]'
+    Permission: unblock.tag.disagree
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  karma:
+    Material: NAME_TAG
+    Tag: '&8[&d☯&8]'
+    Displayname: '&fKarma: &8[&d☯&8]'
+    Permission: unblock.tag.karma
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  warning:
+    Material: NAME_TAG
+    Tag: '&8[&e⚠&8]'
+    Displayname: '&fWarning: &8[&e⚠&8]'
+    Permission: unblock.tag.warning
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false  
+  flor2:
+    Material: NAME_TAG
+    Tag: '&5✽'
+    Displayname: '&fFlor: &5✽'
+    Permission: unblock.tag.flor2
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  carita:
+    Material: NAME_TAG
+    Tag: '&6&lツ'
+    Displayname: '&fCarita feliz: &6&lツ'
+    Permission: unblock.tag.caritafeliz
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  dado:
+    Material: NAME_TAG
+    Tag: '&b⚄'
+    Displayname: '&fDado: &b⚄'
+    Permission: unblock.tag.dado
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  dinero:
+    Material: NAME_TAG
+    Tag: '&a⛃'
+    Displayname: '&fDinero: &a⛃'
+    Permission: unblock.tag.money
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  estrellita:
+    Material: NAME_TAG
+    Tag: '&6&l⚝'
+    Displayname: '&fEstrellita: &6&l⚝'
+    Permission: unblock.tag.estrellita
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  destello:
+    Material: NAME_TAG
+    Tag: '&e&l❇'
+    Displayname: '&fDestello: &e&l❇'
+    Permission: unblock.tag.destello
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  cruz:
+    Material: NAME_TAG
+    Tag: '&6✞'
+    Displayname: '&fCruz: &6✞'
+    Permission: unblock.tag.cruz
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  cruzcristiana:
+    Material: NAME_TAG
+    Tag: '&4&l†'
+    Displayname: '&fCruz: &4&l†'
+    Permission: unblock.tag.cristiana
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  satanico:
+    Material: NAME_TAG
+    Tag: '&4✡'
+    Displayname: '&fSatánico: &4✡'
+    Permission: unblock.tag.satánico
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  yingyang:
+    Material: NAME_TAG
+    Tag: '&7☯'
+    Displayname: '&fYing & Yang: &7☯'
+    Permission: unblock.tag.yingyang
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  pazyamor:
+    Material: NAME_TAG
+    Tag: '&4☮'
+    Displayname: '&fPaz y amor: &4☮'
+    Permission: unblock.tag.pazyamor
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  obelisco:
+    Material: NAME_TAG
+    Tag: '&7۩'
+    Displayname: '&fObelisco: &7۩'
+    Permission: unblock.tag.obelisco
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  aspa:
+    Material: NAME_TAG
+    Tag: '&4✠'
+    Displayname: '&fAspa: &4✠'
+    Permission: unblock.tag.aspa
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  florecita:
+    Material: NAME_TAG
+    Tag: '&b✿'
+    Displayname: '&fFlorecita: &b✿'
+    Permission: unblock.tag.florecita
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  florecita2:
+    Material: NAME_TAG
+    Tag: '&b✾'
+    Displayname: '&fFlorecita: &b✾'
+    Permission: unblock.tag.florecita2
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  flordelis:
+    Material: NAME_TAG
+    Tag: '&e⚜'
+    Displayname: '&fFlor de lis: &e⚜'
+    Permission: unblock.tag.flordelis
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    Not-enough-money-message: '&cYou don''t have enough money to purchase this tag!'
+  solecito:
+    Material: NAME_TAG
+    Tag: '&e☀'
+    Displayname: '&fSolecito: &e☀'
+    Permission: unblock.tag.solecito
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  luna:
+    Material: NAME_TAG
+    Tag: '&8☽'
+    Displayname: '&fLuna: &8☽'
+    Permission: unblock.tag.luna
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  rey:
+    Material: NAME_TAG
+    Tag: '&6&l♛'
+    Displayname: '&fRey: &6&l♛'
+    Permission: unblock.tag.rey
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  reina:
+    Material: NAME_TAG
+    Tag: '&6&l♚'
+    Displayname: '&fReina: &6&l♚'
+    Permission: unblock.tag.reina
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  meteorito:
+    Material: NAME_TAG
+    Tag: '&4☄'
+    Displayname: '&fMeteorito: &4☄'
+    Permission: unblock.tag.meteorito
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  nube:
+    Material: NAME_TAG
+    Tag: '&f☁'
+    Displayname: '&fNube: &f☁'
+    Permission: unblock.tag.nube
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  paraguas:
+    Material: NAME_TAG
+    Tag: '&5☂'
+    Displayname: '&fParaguas: &5☂'
+    Permission: unblock.tag.paraguas
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  copodenieve:
+    Material: NAME_TAG
+    Tag: '&b❆'
+    Displayname: '&fCopo de nieve: &b❆'
+    Permission: unblock.tag.copodenieve
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  furro:
+    Material: NAME_TAG
+    Tag: '&d&l#FURRO'
+    Displayname: '&d&l#FURRO'
+    Permission: unblock.tag.furro
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  tier1:
+    Material: NAME_TAG
+    Tag: '&6&l#TIER I'
+    Displayname: '&6&l#TIER I'
+    Permission: unblock.tag.tier1
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  femboy:
+    Material: NAME_TAG
+    Tag: '&5&l#FEMBOY'
+    Displayname: '&5&l#FEMBOY'
+    Permission: unblock.tag.femboy
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  proplayer:
+    Material: NAME_TAG
+    Tag: '&4&l#PROPLAYER&r'
+    Displayname: '&4&l#PROPLAYER&r'
+    Permission: unblock.tag.proplayer
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  latino:
+    Material: NAME_TAG
+    Tag: '&e&l#LATINO'
+    Displayname: '&e&l#LATINO'
+    Permission: unblock.tag.latino
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  vivido:
+    Material: NAME_TAG
+    Tag: '&9&l#VIVIDO'
+    Displayname: '&9&l#VIVIDO'
+    Permission: unblock.tag.vivido
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  flasheando:
+    Material: NAME_TAG
+    Tag: '&e&l#FLASHEANDO'
+    Displayname: '&e&l#FLASHEANDO'
+    Permission: unblock.tag.flasheando
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  nasheee:
+    Material: NAME_TAG
+    Tag: '&d&l#NASHEEE'
+    Displayname: '&d&l#NASHEEE'
+    Permission: unblock.tag.nashe
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  nomames:
+    Material: NAME_TAG
+    Tag: '&a&l#NO NAMES'
+    Displayname: '&a&l#NO NAMES'
+    Permission: unblock.tag.nomames
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  jopelines:
+    Material: NAME_TAG
+    Tag: '&d&l#JOPELINES'
+    Displayname: '&d&l#JOPELINES'
+    Permission: unblock.tag.jopelines
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  afk:
+    Material: NAME_TAG
+    Tag: '&4&l#AFK'
+    Displayname: '&4&l#AFK'
+    Permission: unblock.tag.afk
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  ausente:
+    Material: NAME_TAG
+    Tag: '&6&l#AUSENTE'
+    Displayname: '&6&l#AUSENTE'
+    Permission: unblock.tag.ausente
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  paseando:
+    Material: NAME_TAG
+    Tag: '&9&l#PASEANDO AL PERRO'
+    Displayname: '&9&l#PASEANDO AL PERRO'
+    Permission: unblock.tag.paseando
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  hacker:
+    Material: NAME_TAG
+    Tag: '&2&l#HA&a&lCK&2&lER'
+    Displayname: '&2&l#HA&a&lCK&2&lER'
+    Permission: unblock.tag.hacker
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  chitero:
+    Material: NAME_TAG
+    Tag: '&9&l#CHITERO'
+    Displayname: '&9&l#CHITERO'
+    Permission: unblock.tag.chitero
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  violento:
+    Material: NAME_TAG
+    Tag: '&5&l#VIOLENTO'
+    Displayname: '&5&l#VIOLENTO'
+    Permission: unblock.tag.violento
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  old:
+    Material: NAME_TAG
+    Tag: '&e&l#OLD'
+    Displayname: '&e&l#OLD'
+    Permission: unblock.tag.old
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  llorando:
+    Material: NAME_TAG
+    Tag: '&9&l#LLORANDO'
+    Displayname: '&9&l#LLORANDO'
+    Permission: unblock.tag.llorando
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  ez:
+    Material: NAME_TAG
+    Tag: '&2&l#EZ'
+    Displayname: '&2&l#EZ'
+    Permission: unblock.tag.ez
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  gg:
+    Material: NAME_TAG
+    Tag: '&9&l#GG'
+    Displayname: '&9&l#GG'
+    Permission: unblock.tag.gg
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  ggez:
+    Material: NAME_TAG
+    Tag: '&5&l#GGEZ'
+    Displayname: '&5&l#GGEZ'
+    Permission: unblock.tag.ggez
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  lmao:
+    Material: NAME_TAG
+    Tag: '&4&l#LAMO'
+    Displayname: '&4&l#LAMO'
+    Permission: unblock.tag.lmao
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  basado:
+    Material: NAME_TAG
+    Tag: '&d&l#BASADO'
+    Displayname: '&d&l#BASADO'
+    Permission: unblock.tag.basado
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  chicop:
+    Material: NAME_TAG
+    Tag: '&6&l#CHICO PROMISCUO'
+    Displayname: '&6&l#CHICO PROMISCUO'
+    Permission: unblock.tag.chicop
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  chicap:
+    Material: NAME_TAG
+    Tag: '&5&l#CHICA PROMISCUA'
+    Displayname: '&5&l#CHICA PROMISCUA'
+    Permission: unblock.tag.chicap
+    Lore:
+      Locked:
+      - ''
+      - '  &l&c&l[BLOQUEADO]'
+      - ''
+      - '&f● Categoría: &dMística'
+      - '&f● Vista previa: &f{TAG}'
+      - ''
+      Unlocked:
+      - ''
+      - '  &l&a&l[DESBLOQUEADO]'
+      - ''
+      - '&f● Categoría: &eSuprema'
+      - '&f● Vista previa: &f{TAG}'
+      - ''
+      Selected:
+      - ''
+      - '  &6&l[SELECCIONADO]'
+      - ''
+      - '&f● Categoría: &dMística'
+      - '&f● Vista previa: &f{TAG}'
+      - ''
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  elle:
+    Material: NAME_TAG
+    Tag: '&a&l#ELLE'
+    Displayname: '&a&l#ELLE'
+    Permission: unblock.tag.elle
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  keyall:
+    Material: NAME_TAG
+    Tag: '&c&l#K&6&lE&e&lY&a&lA&b&lL&3&lL'
+    Displayname: '&c&l#K&6&lE&e&lY&a&lA&b&lL&3&lL'
+    Permission: unblock.tag.keyall
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  lgbt:
+    Material: NAME_TAG
+    Tag: '&4&l#L&e&lG&2&lB&9&lT'
+    Displayname: '&4&l#L&e&lG&2&lB&9&lT'
+    Permission: unblock.tag.lgbt
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  bestlag:
+    Material: NAME_TAG
+    Tag: '&e&l#BESTLAG'
+    Displayname: '&e&l#BESTLAG'
+    Permission: unblock.tag.lgbt
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  argentina:
+    Material: NAME_TAG
+    Tag: '&b&lA&f&lR&b&lG'
+    Displayname: '&fArgentina: &b&lA&f&lR&b&lG'
+    Permission: unblock.tag.argentina
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  bolivia:
+    Material: NAME_TAG
+    Tag: '&4&lB&e&lL&2&lV'
+    Displayname: '&fBolivia: &4&lB&e&lL&2&lV'
+    Permission: unblock.tag.bolivia
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  brasil:
+    Material: NAME_TAG
+    Tag: '&2&lB&e&lR'
+    Displayname: '&fBrasil: &2&lB&e&lR'
+    Permission: unblock.tag.brasil
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  chile:
+    Material: NAME_TAG
+    Tag: '&9&lC&f&lH&4&lL'
+    Displayname: '&fChile: &9&lC&f&lH&4&lL'
+    Permission: unblock.tag.chile
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  colombia:
+    Material: NAME_TAG
+    Tag: '&e&lC&9&lO&4&lL'
+    Displayname: '&fColombia: &e&lC&9&lO&4&lL'
+    Permission: unblock.tag.colombia
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  costarica:
+    Material: NAME_TAG
+    Tag: '&4&lC&9&lR'
+    Displayname: '&fCosta Rica: &4&lC&9&lR'
+    Permission: unblock.tag.costarica
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  cuba:
+    Material: NAME_TAG
+    Tag: '&f&lC&9&lB'
+    Displayname: '&fCuba: &f&lC&9&lB'
+    Permission: unblock.tag.cuba
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  ecuador:
+    Material: NAME_TAG
+    Tag: '&e&lE&9&lC&4&lU'
+    Displayname: '&fEcuador: &e&lE&9&lC&4&lU'
+    Permission: unblock.tag.ecuador
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  elsalvador:
+    Material: NAME_TAG
+    Tag: '&9&lS&f&lV'
+    Displayname: '&fEl Salvador: &9&lS&f&lV'
+    Permission: unblock.tag.salvador
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  guatemala:
+    Material: NAME_TAG
+    Tag: '&b&lG&f&lT'
+    Displayname: '&fGuatemala: &b&lG&f&lT'
+    Permission: unblock.tag.guatemala
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  honduras:
+    Material: NAME_TAG
+    Tag: '&3&lH&f&lD'
+    Displayname: '&fHonduras: &3&lH&f&lD'
+    Permission: unblock.tag.honduras
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  mexico:
+    Material: NAME_TAG
+    Tag: '&2&lM&f&lE&4&lX'
+    Displayname: '&fMéxico: &2&lM&f&lE&4&lX'
+    Permission: unblock.tag.mexico
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  nicaragua:
+    Material: NAME_TAG
+    Tag: '&9&lN&f&lG'
+    Displayname: '&fNicaragua: &9&lN&f&lG'
+    Permission: unblock.tag.nicaragua
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  panama:
+    Material: NAME_TAG
+    Tag: '&4&lP&f&lA&9&lN'
+    Displayname: '&fPanamá: &4&lP&f&lA&9&lN'
+    Permission: unblock.tag.panama
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  paraguay:
+    Material: NAME_TAG
+    Tag: '&4&lP&f&lA&9&lR'
+    Displayname: '&fParaguay: &4&lP&f&lA&9&lR'
+    Permission: unblock.tag.paraguay
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  peru:
+    Material: NAME_TAG
+    Tag: '&4&lP&f&lE&4&lR'
+    Displayname: '&fPerú: &4&lP&f&lE&4&lR'
+    Permission: unblock.tag.peru
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  puertorico:
+    Material: NAME_TAG
+    Tag: '&9&lP&4&lR'
+    Displayname: '&fPuerto Rico: &9&lP&4&lR'
+    Permission: unblock.tag.puertorico
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  republicadominicana:
+    Material: NAME_TAG
+    Tag: '&9&lR&4&lD'
+    Displayname: '&fRepública Dominicana: &9&lR&4&lD'
+    Permission: unblock.tag.republicadominicana
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  uruguay:
+    Material: NAME_TAG
+    Tag: '&f&lU&e&lR&9&lU'
+    Displayname: '&fUruguay: &f&lU&e&lR&9&lU'
+    Permission: unblock.tag.uruguay
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  venezuela:
+    Material: NAME_TAG
+    Tag: '&e&lV&9&lE&4&lN'
+    Displayname: '&fVenezuela: &e&lV&9&lE&4&lN'
+    Permission: unblock.tag.venezuela
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  usa:
+    Material: NAME_TAG
+    Tag: '&4&lU&f&lS&9&lA'
+    Displayname: '&fEstados Unidos: &4&lU&f&lS&9&lA'
+    Permission: unblock.tag.usa
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  esp:
+    Material: NAME_TAG
+    Tag: '&4&lE&e&lS&4&lP'
+    Displayname: '&fEspaña: &4&lE&e&lS&4&lP'
+    Permission: unblock.tag.esp
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  francia:
+    Material: NAME_TAG
+    Tag: '&9&lF&f&lR&4&lA'
+    Displayname: '&fFrancia: &9&lF&f&lR&4&lA'
+    Permission: unblock.tag.francia
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  rusia:
+    Material: NAME_TAG
+    Tag: '&f&lR&9&lU&4&lS'
+    Displayname: '&fRusia: &f&lR&9&lU&4&lS'
+    Permission: unblock.tag.rusia
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  alemania:
+    Material: NAME_TAG
+    Tag: '&4&lG&c&lE&6&lR'
+    Displayname: '&fAlemania: &4&lG&c&lE&6&lR'
+    Permission: unblock.tag.alemania
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  japon:
+    Material: NAME_TAG
+    Tag: '&f&lJ&4&lP&f&lN'
+    Displayname: '&fJapon: &f&lJ&4&lP&f&lN'
+    Permission: unblock.tag.japon
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  australia:
+    Material: NAME_TAG
+    Tag: '&9&lA&4&lU&f&lS'
+    Displayname: '&fAustralia: &9&lA&4&lU&f&lS'
+    Permission: unblock.tag.australia
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  paisesbajos:
+    Material: NAME_TAG
+    Tag: '&4&lP&f&lB&9&lJ'
+    Displayname: '&fPaises Bajos: &4&lP&f&lB&9&lJ'
+    Permission: unblock.tag.paisesbajos
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false
+  canada:
+    Material: NAME_TAG
+    Tag: '&c&lC&f&lA&c&lN'
+    Displayname: '&fCanada: &c&lC&f&lA&c&lN'
+    Permission: unblock.tag.canada
+    Lore:
+      Locked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &c¡Bloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&7Compralo en:'
+      - '&e&ntienda.hycube.us'
+      Unlocked:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &6¡Desbloqueado!'
+      - '&3▐ &fVista previa: {TAG}'
+      - ''
+      - '&e► ¡Click para seleccionar!'
+      Selected:
+      - '&8Información'
+      - ''
+      - '&f» Estado: &aSeleccionado'
+      - '&3▐ &fVista previa: {TAG}'
+    No-permission-message: '&8(&b&lTAG&8) &8&l▸ &f¡No tienes esta etiqueta! &btienda.minevy.xyz'
+    Not-enough-money-message: '&8(&b&lTAGS&8) &8&l▸ &f¡No tienes suficiente dinero!'
+    Custom-model-data: 0
+    Dyeable: false
+    Price: 0
+    Default-color: ''
+    Hide-flags: true
+    Unbreakable: false

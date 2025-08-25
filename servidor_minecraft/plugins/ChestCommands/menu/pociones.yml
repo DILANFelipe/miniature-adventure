@@ -1,0 +1,162 @@
+menu-settings:
+  name: '&8Tienda | &e&lPOCIONES'
+  rows: 5
+  commands:
+  - potis
+  - pociones
+  auto-refresh: 0
+  open-actions:
+  - 'sound: note pling'
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+Usuario: null
+salto:
+  ACTIONS:
+  - 'console: give {player} 373:8203 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Salto I)'
+  NAME: '&a▪ &lSALTO &7(Nivel I)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fSaltaras más alto con está poción'
+  - '&fcomo un gran y super conejo.'
+  - ''
+  - '&a» &fPrecio: &a$3,000'
+  - ''
+  - '&a(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"192b918e-34fc-4c5b-a57c-7a97d34dd01d",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJmNTdjOWVlZDlmOTBiN2MzM2IwYTQ0NzU2ODE1MGNiN2I1ZWM2MmFmZGRmMjgwYjRmOTgxZmZkNDgwYTc2NiJ9fX0="}]}}}'
+  POSITION-X: 2
+  POSITION-Y: 2
+  PRICE: 3000
+  KEEP-OPEN: true
+  DURABILITY: 3
+salto2:
+  ACTIONS:
+  - 'console: give {player} 373:8235 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Salto II)'
+  NAME: '&a▪ &lSALTO &7(Nivel II)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fSaltaras más alto con está poción'
+  - '&fcomo un gran y super conejo.'
+  - ''
+  - '&a» &fPrecio: &a$3,800'
+  - ''
+  - '&a(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"192b918e-34fc-4c5b-a57c-7a97d34dd01d",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJmNTdjOWVlZDlmOTBiN2MzM2IwYTQ0NzU2ODE1MGNiN2I1ZWM2MmFmZGRmMjgwYjRmOTgxZmZkNDgwYTc2NiJ9fX0="}]}}}'
+  POSITION-X: 6
+  POSITION-Y: 2
+  PRICE: 3800
+  KEEP-OPEN: true
+  DURABILITY: 3
+fuerza:
+  ACTIONS:
+  - 'console: give {player} 373:8201 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Fuerza I)'
+  NAME: '&c▪ &lFUERZA &7(Nivel I)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fIncrementa el daño de tu ataque'
+  - '&fpara ganar cualquier combate.'
+  - ''
+  - '&c» &fPrecio: &c$3,000'
+  - ''
+  - '&c(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"9e8aae06-1842-49f9-b4f2-5c895cea901e",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBhMTRhOGNmMDkyZDBjZDE2OTMzYmUyZGM5ZDQ0MGZiMzBiNTE1OTIxZmM2YjY4Y2RjYzE5YWJmODY0NmZjZiJ9fX0="}]}}}'
+  POSITION-X: 3
+  POSITION-Y: 2
+  PRICE: 3000
+  KEEP-OPEN: true
+  DURABILITY: 3
+fuerza2:
+  ACTIONS:
+  - 'console: give {player} 373:8233 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Fuerza II)'
+  NAME: '&c▪ &lFUERZA &7(Nivel II)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fIncrementa el daño de tu ataque'
+  - '&fpara ganar cualquier combate.'
+  - ''
+  - '&c» &fPrecio: &c$3,800'
+  - ''
+  - '&c(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"9e8aae06-1842-49f9-b4f2-5c895cea901e",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBhMTRhOGNmMDkyZDBjZDE2OTMzYmUyZGM5ZDQ0MGZiMzBiNTE1OTIxZmM2YjY4Y2RjYzE5YWJmODY0NmZjZiJ9fX0="}]}}}'
+  POSITION-X: 7
+  POSITION-Y: 2
+  PRICE: 3800
+  KEEP-OPEN: true
+  DURABILITY: 3
+speed2:
+  ACTIONS:
+  - 'console: give {player} 373:8226 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Velocidad II)'
+  NAME: '&b▪ &lVELOCIDAD &7(Nivel II)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fAumenta tu velocidad al correr'
+  - '&fcomo un grande y veloz jaguar.'
+  - ''
+  - '&b» &fPrecio: &b$3,800'
+  - ''
+  - '&b(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"babbc40b-c97e-4290-9534-dabb126defdc",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRjOWZmMTg0YWU3NjdkM2NiZmQ5YzNhYTJjN2U4OGIxMGY5YjU5MTI5N2ZmNjc2ZGE2MzlmYjQ0NDYyMzhjOCJ9fX0="}]}}}'
+  POSITION-X: 8
+  POSITION-Y: 2
+  PRICE: 3800
+  KEEP-OPEN: true
+  DURABILITY: 3
+speed:
+  ACTIONS:
+  - 'console: give {player} 373:8194 1'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &e(Velocidad I)'
+  NAME: '&b▪ &lVELOCIDAD &7(Nivel I)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&fAumenta tu velocidad al correr'
+  - '&fcomo un grande y veloz jaguar.'
+  - ''
+  - '&b» &fPrecio: &b$3,000'
+  - ''
+  - '&b(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"babbc40b-c97e-4290-9534-dabb126defdc",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRjOWZmMTg0YWU3NjdkM2NiZmQ5YzNhYTJjN2U4OGIxMGY5YjU5MTI5N2ZmNjc2ZGE2MzlmYjQ0NDYyMzhjOCJ9fX0="}]}}}'
+  POSITION-X: 4
+  POSITION-Y: 2
+  PRICE: 3000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Pocima:
+  ACTIONS:
+  - 'console: vouch give Moneys1 1 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una poción! &7(&b▪ &lSUPER POCIMA&7)'
+  NAME: '&b▪ &lSUPER POCIMA'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&e▐ &fDuración: &e120s'
+  - '&7» &fVelocidad: &62'
+  - '&7» &fFuerza: &63'
+  - ''
+  - '&b» &fPrecio: &b$300,000'
+  - ''
+  - '&b(Haz click para comprar una)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"8b8b585d-c5f6-4865-8c7f-76a13bb6b9c4",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 4
+  PRICE: 300000
+  KEEP-OPEN: true
+  DURABILITY: 3

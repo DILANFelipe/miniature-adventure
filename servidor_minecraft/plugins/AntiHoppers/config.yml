@@ -1,0 +1,7 @@
+reload-message: '&aAnti Hoppers has been reloaded.'
+no-permission-message: '&c¡Las tolvas estan desactivadas, usa /recolectores!'
+craft-message: '&c¡Las tolvas estan desactivadas, usa /recolectores!'
+craft-permission: hoppders.crdafts
+enable-permission: hoppsdrs.enadsble
+disable-permission: hoppers.disable
+reload-permission: hoppers.reload

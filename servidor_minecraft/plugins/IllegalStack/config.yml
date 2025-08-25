@@ -1,0 +1,115 @@
+ConfigVersion: '2.0'
+UserRequested:
+  ItemRemoval:
+    RemoveItemsMatchingName: false
+    NameLoreStrictMatchMode: false
+    BlockRepairsInstead: false
+    ItemNamesToRemove: []
+    ItemLoresToRemove: []
+    BlockEnchantingInstead: false
+  Obsure:
+    Misc:
+      RemoveAllRenamedItems: false
+  Cobble:
+    PreventCobbleGenerators: false
+  Misc:
+    NotifyInsteadOfBlock: []
+  NetherDamage:
+    DamageDelay: 2
+    DamagePlayersAboveNether: false
+    DamageAmount: 2
+  Obscure:
+    HopperCheck:
+      IgnoreAllHopperChecks: false
+    HackedShulker: {}
+  Mobs:
+    PreventZombieItemPickup: false
+Misc:
+  LogOffensesInSeparateFile: true
+  BreakMachinesInsteadOfDroppingItems: true
+  InGameOffenseNotifications: true
+  ItemScanTimer: 10
+  NotifyNearbyPlayers: false
+  DisableInWorlds: []
+Exploits:
+  FishMod:
+    MaxFishToNotifyStaffThenBlock: 5
+    MaxFishAllowedBeforeKick: 5
+    WatchForAutoFishMod: true
+    WarnPlayerThenKickInsteadOfNotify: false
+  Enchants:
+    FixIllegalEnchants: false
+    CustomEnchantOverride: []
+    RemoveUnbreakableFlag: false
+    OnlyFunctionInWorlds: []
+    RemoveCustomAttributes: false
+    DestroyIllegallyEnchantedItemsInstead: false
+    AllowBypass: false
+    EnchantedItemWhitelist: []
+  PortalDupe:
+    BlockNonPlayersInNetherPortal: true
+    EndWhiteListMode: true
+    EndWhiteList: []
+    BlockNonPlayersInEndPortal: true
+    NotifyBlockedPortalAttempts: false
+    NetherWhiteList: []
+    NetherWhiteListMode: true
+  Other:
+    PreventCommandsInBed: true
+    DisableRidingExploitableMobs: true
+    PreventBedrockDestruction: true
+    PreventEndPortalDestruction: true
+    PreventMinecartsInBoats: true
+    PreventHoppersToUnloadedChunks: true
+    PunishForChestsOnMobs: false
+    PreventBedExplosions: true
+    DisableChestsOnMobs: true
+  BookExploit:
+    DisableBookWriting: true
+    ValidCharset: US-ASCII
+    BookAuthorWhitelist: []
+    PageCountThreshold: 5
+    RemoveBooksNotMatchingCharset: true
+    LimitNumberOfPages: 0
+  Nether:
+    BlockPlayersAboveNether: true
+    BlockBuildingAboveNether: true
+    EnsureSafeTeleportLocationIfAboveCeiling: true
+    KillPlayersBelowNether: false
+    ExcludeNetherWorldFromHeightCheck: []
+    NetherYLevel: 128
+  OverStack:
+    FixOverstackedItemInstead: true
+    RemoveItemsOfType: []
+    RemoveOverstackedItems: true
+    GroupStack: []
+    StackWhiteListMode: true
+    AllowStack:
+    - POTION
+    PreventOverStackedItemInHoppers: true
+  NegativeDurability: true
+  SignExploit:
+    DestroyBadSignsOnChunkLoad: false
+  NetherPortal:
+    PreventPortalTrap: true
+  Looting:
+    PreventLootingExploit: true
+  3rdParty:
+    BlockCMIShulkerStacking: true
+  Fishing:
+    KickForAutoClickerFishing: true
+  MineCart:
+    PreventHeadInsideBlocks: false
+    RemoveExistingGlitchedMinecarts: false
+    MinecartBlockWhiteList: []
+    PreventMinecartGlitch: true
+  DropperDupe:
+    BlockLoopedDroppers: false
+  Minecart:
+    AlsoPreventHeadInside:
+    - COMPOSTER
+  LavaDupe:
+    PreventLavaDupe: true
+  TNTDupe:
+    PreventIndirectTNTPowerDupe: true
+  RecordDupe: true

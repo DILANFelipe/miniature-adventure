@@ -1,0 +1,106 @@
+Settings:
+  HookIntoStackMob: false
+  DisableEndermanBossTeleport: true
+  DisablePotionsAffectingBosses: true
+
+  KillAll:
+    onCommand: true
+    onRestart: true
+
+  BroadcastRange:
+    onSpawn: -1
+    onDeath: -1
+
+  KilledMessage:
+    amountOfPlayers: 6
+
+  ActionBar:
+    enabled: true
+    healthMessage: '&6&l⚔ {boss} &7| &c{current}&f/&a{max} &4&l❤'
+    radius: 100
+
+  SpawnRegions:
+    useWarzone: false
+    useRegions: false
+    spawnRegions:
+    - 'asdasd'
+
+    ASkyBlock:
+      enabled: false
+      onOwnIslandOnly: false
+
+  BlockedRegions:
+    enabled: false
+    blockedRegions:
+    - 'blocked_region1'
+    - 'blocked_region2'
+
+  BlockedWorlds:
+    enabled: false
+    blockedWorlds:
+    - 'NoPvP'
+    - 'world'
+    - 'world_nether'
+    - 'world_the_end'
+
+  Skills:
+    minionCount: 10
+    maxMinionsPerBoss: 20
+    disableBlockBreakInCage: true
+
+  broadcastOnSpawnCommand: true
+
+BossGUI:
+  name: '&8Menú | &a&lJEFES'
+  slots: 54
+  Items:
+    '54':
+      type: PAPER
+      name: '&a&lSiguiente pagina'
+      lore:
+      - '&8Información'
+      - ''
+      - '&7Cambia de pagina para ver'
+      - '&7mas variedad de jefes.'
+      - ''
+      - '&e&n¡Haz click para interactuar!'
+      NextPage: true
+    '53':
+      type: 160
+      name: '&e'
+      lore: []
+    '52':
+      type: 160
+      name: '&e'
+      lore: []
+    '51':
+      type: 160
+      name: '&e'
+      lore: []
+    '50':
+      type: 160
+      name: '&e'
+      lore: []
+    '49':
+      type: 160
+      name: '&e'
+      lore: []
+    '48':
+      type: 160
+      name: '&e'
+      lore: []
+    '47':
+      type: 160
+      name: '&e'
+      lore: []
+    '46':
+      type: PAPER
+      name: '&a&lPagina anterior'
+      lore:
+      - '&8Información'
+      - ''
+      - '&7Cambia de pagina para ver'
+      - '&7mas variedad de jefes.'
+      - ''
+      - '&e&n¡Haz click para interactuar!'
+      PreviousPage: true

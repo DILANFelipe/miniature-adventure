@@ -1,0 +1,36 @@
+location: NoPvP:-0.5:83.000:0.5
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8(&e&l&nLUGAR AFK&8)&r'
+    height: 0.3
+  - content: '&7'
+    height: 0.25
+  - content: '&f¡Quédate &e&lAFK&r aquí para ganar premios!'
+    height: 0.25
+  - content: '&fCada &e30 minutos&f obtendrás lo siguiente:'
+    height: 0.25
+  - content: '&f'
+    height: 0.25
+  - content: '&e+ $1,200,000 de dinero ✔'
+    height: 0.25
+  - content: '&f'
+    height: 0.25
+  - content: '&fProbabilidades de ganar:'
+    height: 0.25
+  - content: '&61x &lMONEDA INFERNAL'
+    height: 0.25
+  - content: '&61x &LSUPER POCIMA'
+    height: 0.25
+  - content: '&f'
+    height: 0.25
+  - content: '&fRevisa el tiempo restante en tu barra'
+    height: 0.25
+  - content: '&fde experiencia, ahí marca el tiempo restante.'
+    height: 0.25
+  actions: {}

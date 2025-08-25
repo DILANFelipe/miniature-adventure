@@ -1,0 +1,236 @@
+license: "SOI2-5RLY-H2EU-ZEKW"
+
+messages:
+  prefix: "&6LPX >>&7"
+  message: "%prefix% &e%player% &7%message%"
+  kick: "%prefix% &e%player% &7was kicked."
+  kick-message: "%prefix% &eYou sent suspicious packets"
+  alert-on: "%prefix% &7Notifications &aenabled"
+  alert-off: "%prefix% &7Notifications &cdisabled"
+  no-permission: "%prefix% &cNo permission (%permission%)"
+  #Commands to be execute when a player gets kicked, example:
+  # - "ban %player%"
+  kick-commands: [ ]
+
+options:
+  #If this option is set to true players won't be able to see the output of /lpx
+  hide-commands: false
+  #Check if the plugin can be updated. Update message will be sent to players with "lpx.alerts"
+  check-updates: true
+
+  # Whether bStats should be loaded (https://bstats.org/plugin/bukkit/LPX/9156)
+  bstats: true
+
+  # Server name, used as placeholder for messages (%server%)
+  server: unnamed
+
+  #Enable this only if you have fake players that gives error when injected
+  ignore-uninjected: false
+
+  #Decide to always block a specific packet
+  #Every packet you will put here will be completely ignored from the server
+  blocks: { }
+
+checks:
+  modes:
+    # Strict Mode types:
+    # AUTOMATIC - Will detect your server version and choose a mode
+    # HARD - Very strict checks, recommended on 1.8
+    # AVERAGE - Generally common checks, recommended on 1.12
+    # SOFT - Permissible checks, recommended on 1.13+
+    strictness: AUTOMATIC
+
+    #Enable this if your server allows the use of printer/schematica mod and you are not using our Printer API (Automatic)
+    allow-printer: false
+    #Lower this value if player doesn't enter in printer mode correctly (Automatic only)
+    place-threshold: 11
+    #Idle time after exiting printer mode (Automatic only)
+    disable-delay: 2000
+
+    #Add support for Geyser players
+    geyser: false
+  netty:
+    #Max packet per seconds, set to -1 if you wanna use ViaVersion's packet limiter
+    max-pps: 900
+
+    #Checks the size of every packet received, it could "false flag" on 1.13+ servers because they have big items, you can increase it
+    max-size: 12288
+
+    #Max packet per 2 second over the threshold
+    max-large-pps: 6
+    #Anything over this size will be rate limited.
+    large-packet-threshold: 2560
+
+    #Values taken from Paper 1.12
+    #Max bytes for every page with Paper's check
+    page-max: 2560
+    #Multiplier for every byte
+    total-multiplier: 0.98
+
+    #Maximum number of iterations a book page can have
+    max-iterations: 8
+    #Maximum number of iterations a book can have
+    max-total-iterations: 50
+    #Maximum milliseconds it takes to handle a book
+    max-iteration-time: 70
+
+  # ----------------------------------------
+  # GENERAL SETTINGS EXPLANATION
+  # max | Packet count, when you reach this value it will start increasing VL
+  # max-vl | VL count, when the VL reach this value you will get alert/kick
+  # reset-vl | Time in milliseconds to wait to reset VL to 0, it applies only if you stop increasing VL
+  # add-delay | Minimum time in milliseconds to wait before adding a new VL, this is used for checks that needs more time.
+  # enabled | Whether the check is enabled or not
+  # kick | Whether a player should be kicked
+  # ----------------------------------------
+
+  #Sent when left clicking
+  arm-animation:
+    max: 90
+    max-vl: 3
+    reset-vl: 1000
+    kick: false
+  #Sent when someone places a block
+  block-place:
+    max: 50
+    max-vl: 4
+    reset-vl: 50
+    #When you place a block that you don't have
+    desync:
+      enabled: true
+      kick: false
+    #When you place a block too far away
+    long:
+      max: 3
+      enabled: true
+      kick: false
+  #Sent when you click an inventory
+  window-click:
+    max: 40
+    max-vl: 4
+    reset-vl: 300
+    #When you click an item that doesn't exists
+    desync:
+      enabled: true
+      kick: false
+  #Sent in certain cases like: writing a book, renaming on anvil, bungeecord's pluginmessage
+  payload:
+    #Time to wait to enable this check after a player joined in milliseconds
+    start-delay: 500
+    max: 50
+    #Payload sent by the client
+    max-vanilla: 10
+    max-vl: 3
+    reset-vl: 800
+    empty-buf: true
+    max-channels: true
+  #Sent when a player moves
+  position:
+    max: 90
+    max-vl: 3
+    reset-vl: 1000
+    kick: false
+    #When you teleport to high coordinates
+    anti-cheat: true
+    # Check if the player went over the border
+    over-border: false
+    head-position: true
+  #When you move too fast
+  invalid-position:
+    enabled: false
+    kick: false
+    max-vl: 3
+    reset-vl: 1000
+    add-delay: 50
+  #When you move into an unloaded chunk
+  unloaded-chunk:
+    enabled: true
+    kick: false
+    max-vl: 5
+    reset-vl: 1000
+    add-delay: 300
+  #FAWE Crash exploit
+  tab-complete:
+    world-edit:
+      enabled: true
+      kick: false
+  #When you use the recipe crafting book
+  recipe:
+    max: 12
+    kick: false
+  inventory:
+    #Check if the inventory is opened before handling inventory clicks
+    open-check: true
+    #Check if the inventory click is on an empty slot
+    empty-slot-check: true
+    #Check if the inventory click is on an invalid slot
+    invalid-slot-check: false
+    #Check if the inventory click is on an higher slot than maximum
+    max-slot-check: true
+    #Check if the player is in creative before handling SetCreativeSlot, Disable this if it causes issues with Printer mode
+    creative-check: true
+  item-checker:
+    flood:
+      #Max item per seconds, this applies for all the packets containing items
+      max-ips: 60
+      max-vl: 3
+      reset-vl: 1000
+      add-delay: 250
+      kick: true
+    #Max size of an ItemStack in bytes
+    max-size: 12288
+    #Max enchantment
+    max-enchantment: 127
+    #Min enchantment
+    min-enchantment: 0
+    #Max name size in bytes
+    max-name: 128
+    #Max lore size in bytes
+    max-lore: 1024
+    #Max amount of an ItemStack
+    max-amount: 64
+    #Whether to kick for any of these violations
+    kick: true
+  books:
+    #Max number of pages allowed
+    max-pages: 50
+    #Max number of bytes allowed per page
+    max-bytes: 512
+    #Destroys books that forces player to execute commands
+    destroy-command: false
+    #Destroys books with invalid translations that can crash certain clients
+    destroy-invalid-translation: false
+    #Enable this if players have creative mode and you don't want illegal items
+    destroy: false
+  signs:
+    #Max rows for a sign
+    max-rows: 4
+    #Max number of bytes allowed per sign row
+    max-characters: 70
+
+#Packet logger
+logger:
+  enabled: false
+  #These players won't be packet logged
+  whitelist:
+  #  - Ytnoos
+  #  - bbydox
+
+  #List of packets to ignore
+  #open spigot jar and find net.minecraft.server.PacketPlayIn.####)
+  ignore:
+    - PacketPlayInFlying
+    - PacketPlayInKeepAlive
+    - PacketPlayInLook
+    - PacketPlayInPosition
+    - PacketPlayInPositionLook
+    - PacketPlayInArmAnimation
+    - PacketPlayInTransaction
+
+  settings:
+    #Max files can be created in a run (newer files will replace older once reached the limit)
+    max-files: 20
+    #Max packets to log on each file
+    max-ppfs: 1500
+    #Number in days before folder get auto removed
+    old-folders: 3

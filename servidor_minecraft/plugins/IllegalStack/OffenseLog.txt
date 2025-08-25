@@ -1,0 +1,360 @@
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: BOW (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Summery.
+April 17 2023 (0:45:18) - Fixed an illegal stack of: BOW (2) triggered by player: Summery.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: EDY_ROY.
+April 18 2023 (5:18:38) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: EDY_ROY.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SOYMUYCHULOOOOO.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SiempreHorny.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: camii_o.
+April 18 2023 (6:12:53) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iraan1221.
+April 18 2023 (6:12:53) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-7.0,y=90.0,z=7.0,pitch=0.0,yaw=0.0}
+April 18 2023 (6:12:53) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-7.0,y=90.0,z=7.0,pitch=0.0,yaw=0.0}
+April 18 2023 (6:12:53) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=3.0,y=61.0,z=-20.0,pitch=0.0,yaw=0.0}
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 0hLinekq.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: 0hLinekq.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 0hLinekq.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Sentidohh.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XjsueRM.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: lolipop.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: uSheepx.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: uSheepx.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: uSheepx.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: uSheepx.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iDesgraciado_O.
+April 19 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: iDesgraciado_O.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: XTA_SiempreLeal.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_HELMET (3) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (3) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_LEGGINGS (3) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_BOOTS (3) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: SnoopySQL.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: vaporized.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (26) triggered by player: vaporized.
+April 20 2023 (9:19:27) - SkyBlack was prevented from accessing the top of the nether @ Location{world=CraftWorld{name=world_nether},x=126.30000001192093,y=128.0,z=322.69999998807907,pitch=14.693036,yaw=23.57314}
+April 20 2023 (9:19:27) - SkyBlack was prevented from accessing the top of the nether @ Location{world=CraftWorld{name=world_nether},x=103.67277149369039,y=128.59852947777725,z=366.3497620333335,pitch=14.693036,yaw=23.57314}
+April 20 2023 (9:19:27) - SkyBlack has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=103.34418663816616,y=128.0,z=365.0529185590081,pitch=35.72295,yaw=15.642367}
+April 20 2023 (9:19:27) - SkyBlack has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=103.24454278252622,y=128.0,z=364.1304096576289,pitch=48.55476,yaw=-15.991609}
+April 20 2023 (9:19:27) - SkyBlack has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=102.98967407523733,y=128.0,z=363.68160416246724,pitch=35.099174,yaw=-16.971813}
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: zSanor.
+April 20 2023 (9:19:27) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: zSanor.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SuperS3x.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: SuperS3x.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: prufed.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: prufed.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: lKronos.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: lKronos.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: Colombianitoo.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: Colombianitoo.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Colombianitoo.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Colombianitoo.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Colombianitoo.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: mannuga_.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: mannuga_.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: mannuga_.
+April 21 2023 (9:9:33) - Fixed an illegal stack of: RABBIT_STEW (26) triggered by player: mannuga_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: elwilly.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: perritoraro.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: perritoraro.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: perritoraro.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: perritoraro.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Origined.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: raynond.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: raynond.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Ghip.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Ghip.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: xVexz.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: xVexz.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 22 2023 (9:9:38) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Jacksitoh_.
+April 23 2023 (0:22:25) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Marito500k.
+April 23 2023 (0:22:25) - Fixed an illegal stack of: RABBIT_STEW (2) triggered by player: Marito500k.
+April 23 2023 (0:22:25) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Marito500k.
+April 23 2023 (0:22:25) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Marito500k.
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: xVexz.
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: xVexz.
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: MAZO322.
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: MAZO322.
+April 23 2023 (9:9:39) - Removed a writable book from player: BetterHits_ because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: BetterHits_ because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: BetterHits_ because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: SnoopySQL because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: SnoopySQL because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: SnoopySQL because player book creation is disabled!
+April 23 2023 (9:9:39) - Removed a writable book from player: SnoopySQL because player book creation is disabled!
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: camii_o.
+April 23 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: camii_o.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 14Mircq.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: 14Mircq.
+April 24 2023 (9:9:34) - Removed a writable book from player: xEMPERADORx because player book creation is disabled!
+April 24 2023 (9:9:34) - Removed a writable book from player: xEMPERADORx because player book creation is disabled!
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: jd_eg0.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sentimentalismo.
+April 24 2023 (9:9:34) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: sentimentalismo.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 2lrs.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: 2lrs.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 14Mircq.
+April 25 2023 (9:19:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: 14Mircq.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_SWORD (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: BOW (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Summery.
+April 26 2023 (5:26:47) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Summery.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: ZonaGanjah.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: zPocu.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: DobleWTap.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: DobleWTap.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: DobleWTap.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: DobleWTap.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+April 26 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+April 26 2023 (9:9:36) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-127.0,y=57.0,z=-585.0,pitch=0.0,yaw=0.0}
+April 26 2023 (9:9:36) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-126.0,y=57.0,z=-585.0,pitch=0.0,yaw=0.0}
+April 26 2023 (9:9:36) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-258.0,y=12.0,z=-719.0,pitch=0.0,yaw=0.0}
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: TioSamsung.
+April 27 2023 (9:9:39) - CastleOwsMe has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-807.4420582880448,y=128.0,z=598.9263118340259,pitch=7.0632005,yaw=82.26302}
+April 27 2023 (9:9:39) - CastleOwsMe has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-807.3021181104315,y=128.0,z=599.9559354291711,pitch=7.0632005,yaw=82.26302}
+April 27 2023 (9:9:39) - CastleOwsMe has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-807.0777726551906,y=128.0,z=600.3000000119209,pitch=44.54135,yaw=154.01266}
+April 27 2023 (9:9:39) - CastleOwsMe has been teleported down from above the nether ceiling @ Location{world=CraftWorld{name=world_nether},x=-806.9777726537005,y=128.0,z=600.3000000119209,pitch=37.32631,yaw=193.09416}
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Cillianz.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Cillianz.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Nyzuu.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: LCRACKTENTEN_.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: FFARRA.
+April 27 2023 (9:9:39) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: FFARRA.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Yekh.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Mike123xd.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Mike123xd.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Mike123xd.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: SicaryCarry.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: sebasEX18919.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Marito500k.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: TaladrodelaBOX.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: TaladrodelaBOX.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: xKzass.
+April 27 2023 (6:48:58) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: xKzass.
+April 28 2023 (9:19:24) - Removed a writable book from player: SuperS3x because player book creation is disabled!
+April 28 2023 (9:19:24) - Fixed an illegal stack of: MAGMA_CREAM (64) triggered by player: Alqnsito.
+April 28 2023 (9:19:24) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: zGuest_.
+April 28 2023 (9:19:24) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: zGuest_.
+April 28 2023 (9:19:24) - Fixed an illegal stack of: RABBIT_STEW (17) triggered by player: zGuest_.
+April 28 2023 (9:19:24) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: zGuest_.
+April 28 2023 (9:19:24) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: zGuest_.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: SPONGE (64) triggered by player: casitota321.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: SPONGE (64) triggered by player: casitota321.
+April 29 2023 (6:31:38) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-294.0,y=115.0,z=-762.0,pitch=0.0,yaw=0.0}
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: BOW (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: BOW (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Summery.
+April 29 2023 (6:31:38) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-248.0,y=12.0,z=-746.0,pitch=0.0,yaw=0.0}
+April 29 2023 (6:31:38) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-297.0,y=13.0,z=-716.0,pitch=0.0,yaw=0.0}
+April 29 2023 (6:31:38) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-288.0,y=13.0,z=-716.0,pitch=0.0,yaw=0.0}
+April 30 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: ChestEnder.
+April 30 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: ChestEnder.
+April 30 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: ChestEnder.
+April 30 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: ChestEnder.
+April 30 2023 (9:9:36) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: ChestEnder.
+April 30 2023 (2:58:17) - Removed a writable book from player: jano47yakuza because player book creation is disabled!
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_SWORD (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_HELMET (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_CHESTPLATE (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_LEGGINGS (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_BOOTS (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_PICKAXE (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_SPADE (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: DIAMOND_AXE (2) triggered by player: Namecito.
+April 31 2023 (5:21:42) - Fixed an illegal stack of: BOW (2) triggered by player: Namecito.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (64) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: iNeutron.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Frankilpa.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Frankilpa.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Frankilpa.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Frankilpa.
+April 31 2023 (9:9:26) - Removed a writable book from player: SuperS3x because player book creation is disabled!
+April 31 2023 (9:9:26) - Removed a writable book from player: Liquidador because player book creation is disabled!
+April 31 2023 (9:9:26) - Removed a writable book from player: Liquidador because player book creation is disabled!
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: lKronos.
+April 31 2023 (9:9:26) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: lKronos.
+April 31 2023 (9:9:26) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-234.0,y=110.0,z=-724.0,pitch=0.0,yaw=0.0}
+April 31 2023 (9:9:26) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-235.0,y=110.0,z=-725.0,pitch=0.0,yaw=0.0}
+April 31 2023 (9:9:26) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-235.0,y=110.0,z=-726.0,pitch=0.0,yaw=0.0}
+April 31 2023 (9:9:26) - Prevented a bed from being used as an explosive @Location{world=CraftWorld{name=world_the_end},x=-251.0,y=111.0,z=-715.0,pitch=0.0,yaw=0.0}
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Desvinculado.
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: Desvinculado.
+May 1 2023 (9:9:29) - Removed a writable book from player: BestSNS because player book creation is disabled!
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: Zippete.
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: uSheepx.
+May 1 2023 (9:9:29) - Fixed an illegal stack of: RABBIT_STEW (16) triggered by player: uSheepx.
+May 1 2023 (9:9:29) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 1 2023 (9:9:29) - Removed a writable book from player: zFlash_MC because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Removed a writable book from player: belcechin because player book creation is disabled!
+May 2 2023 (9:19:23) - Fixed an illegal stack of: RABBIT_STEW (1) triggered by player: atemorizado.

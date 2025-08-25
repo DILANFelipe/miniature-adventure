@@ -1,29 +1,670 @@
-# EssentialsX kit configuration.
-# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
-
-# Note: All items MUST be followed by a quantity!
-# All kit names should be lower case, and will be treated as lower in permissions/costs.
-# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
-# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
-# To make the kit execute a command, add /<command> to the items list. Use {USERNAME} to specify the player receiving the kit.
-# {PLAYER} will show the player's displayname instead of username.
-# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
-# Set delay to -1 for a one time kit.
-#
-# In addition, you can also organize your kits into separate files under the `kits` subdirectory.
-# Essentials will treat all .yml files in the `kits` subdirectory as kits files, and will add any kits from those files along with the kits in `kits.yml`.
-# Any file in the `kits` subdirectory must be formatted in the same way as this file. This allows you to define multiple kits in each file.
-# For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
-  tools:
-    delay: 10
+  Miembro:
+    delay: 604800
     items:
-      - ironsword 1 sharpness:1
-      - ironshovel 1 efficiency:1
-      - ironpickaxe 1 efficiency:1 fortune:1
-      - ironaxe 1 efficiency:1
-      - ironhelmet 1 protection:1
-      - ironchestplate 1 protection:1
-      - ironleggings 1 protection:1
-      - ironboots 1 protection:1
-      - Cooked_Beef 16
+    - 276 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) damage_all:3 loot_bonus_mobs:2
+    - 310 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) protection_environmental:3 durability:2
+    - 311 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) protection_environmental:3 durability:2
+    - 312 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) protection_environmental:3 durability:2
+    - 313 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) protection_environmental:3 durability:2
+    - 278 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) lore:&cPrisa_I dig_speed:6 durability:3 loot_bonus_blocks:3 custom enchantment:0
+    - 153 1 name:&7▪_&lMENA_&7&n(Nivel_/) lore:&8Información||&fCuida_tu_hogar_con_esta_gran|&fmena_de_protección._Así_evitas|&c&l&nROBOS/GRIFEOS&f_en_tu_casa._&c&n✘||&e&l¡MODO_DE_USO!_&n✔|&7Colócala_en_el_centro_de_la|&7zona_que_quieres_proteger.||&7»_&fRadio:_&78x8|&7▐_&fMineral:_&7Cuarzo
+    - 373:8233 1
+    - 322:1 6
+    - 277 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) dig_speed:3 durability:1
+    - 279 1 name:&r&e▪_&lMIEMBRO_&7&n(Inicial) dig_speed:3 durability:1
+    - 17 64
+    - 373:8226 1
+    - 262 64
+  Snovery:
+    delay: 432000
+    items:
+    - 276 1 name:&r&4▪_&lSNOVERY lore:&cDesangramiento_I|&cRobo_de_vida_I damage_all:12 durability:3 fire_aspect:3 loot_bonus_mobs:8
+    - 310 1 name:&r&4▪_&lSNOVERY lore:&cAutorepair_IV|&cLentitud_Enemiga_II protection_environmental:10 durability:5 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&4▪_&lSNOVERY lore:&cAutorepair_IV|&cLentitud_Enemiga_I protection_environmental:10 durability:5 custom enchantment:0
+    - 312 1 name:&r&4▪_&lSNOVERY lore:&cAutorepair_IV|&cLentitud_Enemiga_I protection_environmental:10 durability:5 custom enchantment:0
+    - 313 1 name:&r&4▪_&lSNOVERY lore:&cAutorepair_IV|&cLentitud_Enemiga_II protection_environmental:10 protection_fall:4 durability:5 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&4▪_&lSNOVERY lore:&cPrisa_II dig_speed:20 durability:4 loot_bonus_blocks:8
+    - 322:1 64
+    - 322 32
+    - 261 1 name:&r&4▪_&lSNOVERY lore:&cTriple_Tiro_II arrow_damage:40 arrow_knockback:3 durability:3 arrow_fire:1 arrow_infinite:1
+    - 364 16
+    - 373:8226 1
+    - 279 1 name:&r&4▪_&lSNOVERY dig_speed:8 durability:4
+    - 277 1 name:&r&4▪_&lSNOVERY dig_speed:8 durability:4
+    - 373:8233 1
+    - 262 64
+  granjero:
+    delay: 86400
+    items:
+    - 272 1 name:&r&a▪_&aGranjero
+    - 302 1 name:&r&a▪_&aGranjero protection_environmental:1 
+    - 303 1 name:&r&a▪_&aGranjero protection_environmental:1
+    - 304 1 name:&r&a▪_&aGranjero protection_environmental:1 
+    - 305 1 name:&r&a▪_&aGranjero protection_environmental:1 
+    - 274 1 name:&r&a▪_&aGranjero
+    - 364 4
+    - 322 1
+    - 261 1 name:&r&a▪_&aGranjero
+    - 373:8233 1
+    - 275 1 name:&r&a▪_&aGranjero
+    - 273 1 name:&r&a▪_&aGranjero
+    - 373:8226 1
+    - 262 64
+  campesino:
+    delay: 86400
+    items:
+    - 272 1 name:&r&e▪_&eCampesino damage_all:1
+    - 302 1 name:&r&e▪_&eCampesino protection_environmental:2 durability:1
+    - 303 1 name:&r&e▪_&eCampesino protection_environmental:1 durability:1
+    - 304 1 name:&r&e▪_&eCampesino protection_environmental:1 durability:1
+    - 305 1 name:&r&e▪_&eCampesino protection_environmental:2 durability:1
+    - 274 1 name:&r&e▪_&eCampesino dig_speed:1
+    - 322 2
+    - 364 6
+    - 261 1 name:&r&e▪_&eCampesino arrow_damage:1
+    - 373:8226 1
+    - 273 1 name:&r&e▪_&eCampesino dig_speed:1
+    - 275 1 name:&r&e▪_&eCampesino dig_speed:1
+    - 373:8233 1
+    - 262 64
+  comerciante:
+    delay: 86400
+    items:
+    - 272 1 name:&r&b▪_&bComerciante damage_all:1
+    - 302 1 name:&r&e▪_&bComerciante protection_environmental:2 durability:1
+    - 303 1 name:&r&e▪_&bComerciante protection_environmental:2 durability:1
+    - 304 1 name:&r&e▪_&bComerciante protection_environmental:2 durability:1
+    - 305 1 name:&r&e▪_&bComerciante protection_environmental:2 durability:1
+    - 257 1 name:&r&b▪_&bComerciante durability:1
+    - 322 3
+    - 364 8
+    - 261 1 name:&r&b▪_&bComerciante arrow_damage:2 durability:1
+    - 373:8233 1
+    - 273 1 name:&r&b▪_&bComerciante dig_speed:1 durability:1
+    - 373:8226 1
+    - 275 1 name:&r&b▪_&bComerciante dig_speed:1 durability:1
+    - 262 64
+  guerrero:
+    delay: 86400
+    items:
+    - 272 1 name:&r&6▪_&6Guerrero damage_all:2 fire_aspect:1
+    - 306 1 name:&r&6▪_&6Guerrero protection_environmental:3 durability:2 oxygen:2
+    - 307 1 name:&r&6▪_&6Guerrero protection_environmental:3 durability:2
+    - 308 1 name:&r&6▪_&6Guerrero protection_environmental:3 durability:2
+    - 309 1 name:&r&6▪_&6Guerrero protection_environmental:3 protection_fall:2 durability:2 water_worker:2
+    - 257 1 name:&r&6▪_&6Guerrero dig_speed:1 durability:1 loot_bonus_blocks:1
+    - 322 5
+    - 364 12
+    - 261 1 name:&r&6▪_&6Guerrero arrow_damage:2 durability:1 arrow_fire:1
+    - 373:8226 1
+    - 273 1 name:&r&6▪_&6Guerrero dig_speed:2 durability:1
+    - 275 1 name:&r&6▪_&6Guerrero dig_speed:2 durability:1
+    - 373:8233 1
+    - 262 64
+  caballero:
+    delay: 86400
+    items:
+    - 267 1 name:&r&c▪_&cCaballero damage_all:2 fire_aspect:2 loot_bonus_mobs:1
+    - 306 1 name:&r&c▪_&cCaballero protection_environmental:3 durability:3 oxygen:2
+    - 311 1 name:&r&c▪_&cCaballero protection_environmental:4 durability:2
+    - 308 1 name:&r&c▪_&cCaballero protection_environmental:4 durability:3
+    - 309 1 name:&r&c▪_&cCaballero protection_environmental:3 protection_fall:2 durability:2 water_worker:2
+    - 257 1 name:&r&c▪_&cCaballero dig_speed:2 durability:1 loot_bonus_blocks:1
+    - 322 6
+    - 322:1 1
+    - 261 1 name:&r&c▪_&cCaballero arrow_damage:3 durability:1 arrow_fire:1
+    - 373:8233 1
+    - 275 1 name:&r&c▪_&cCaballero dig_speed:2 durability:1
+    - 273 1 name:&r&c▪_&cCaballero dig_speed:2 durability:1
+    - 373:8226 1
+    - 364 16
+    - 262 64
+  mercenario:
+    delay: 86400
+    items:
+    - 272 1 name:&r&4▪_&4Mercenario damage_all:2 fire_aspect:1 loot_bonus_mobs:1
+    - 310 1 name:&r&4▪_&4Mercenario protection_environmental:2 durability:2 oxygen:1
+    - 311 1 name:&r&4▪_&4Mercenario protection_environmental:2 durability:1
+    - 312 1 name:&r&4▪_&4Mercenario protection_environmental:2 durability:2
+    - 313 1 name:&r&4▪_&4Mercenario protection_environmental:2 durability:1 water_worker:1
+    - 257 1 name:&r&4▪_&4Mercenario dig_speed:3 durability:1 loot_bonus_blocks:1
+    - 322 8
+    - 322:1 2
+    - 261 1 name:&r&4▪_&4Mercenario arrow_damage:4 durability:1 arrow_fire:1
+    - 364 16
+    - 275 1 name:&r&4▪_&4Mercenario dig_speed:2 durability:2
+    - 273 1 name:&r&4▪_&4Mercenario dig_speed:2 durability:2
+    - 373:8233 1
+    - 373:8226 1
+    - 262 64
+  brujo:
+    delay: 86400
+    items:
+    - 267 1 name:&r&5▪_&5Brujo damage_all:3 fire_aspect:2 loot_bonus_mobs:2
+    - 310 1 name:&r&5▪_&5Brujo protection_environmental:3 durability:2 oxygen:1
+    - 311 1 name:&r&5▪_&5Brujo protection_environmental:2 durability:2
+    - 312 1 name:&r&5▪_&5Brujo protection_environmental:3 durability:2
+    - 313 1 name:&r&5▪_&5Brujo protection_environmental:2 durability:2 protection_fall:1 water_worker:1
+    - 257 1 name:&r&5▪_&5Brujo dig_speed:4 durability:1 loot_bonus_blocks:2
+    - 322 10
+    - 322:1 3
+    - 261 1 name:&r&5▪_&5Brujo arrow_damage:5 durability:1 arrow_fire:1
+    - 373:8226 1
+    - 275 1 name:&r&5▪_&5Brujo dig_speed:3 durability:2
+    - 273 1 name:&r&5▪_&5Brujo dig_speed:3 durability:2
+    - 364 16
+    - 373:8233 1
+    - 262 64
+  noble:
+    delay: 86400
+    items:
+    - 267 1 name:&r&d▪_&dNoble damage_all:4 fire_aspect:2 loot_bonus_mobs:2
+    - 310 1 name:&r&d▪_&dNoble protection_environmental:3 durability:2 oxygen:2
+    - 311 1 name:&r&d▪_&dNoble protection_environmental:3 durability:2
+    - 312 1 name:&r&d▪_&dNoble protection_environmental:3 durability:2
+    - 313 1 name:&r&d▪_&dNoble protection_environmental:3 protection_fall:2 durability:2 water_worker:2
+    - 257 1 name:&r&d▪_&dNoble dig_speed:5 durability:2 loot_bonus_blocks:2
+    - 322 12
+    - 322:1 5
+    - 261 1 name:&r&d▪_&dNoble arrow_damage:6 durability:1 arrow_fire:1
+    - 373:8233 1
+    - 373:8226 1
+    - 258 1 name:&r&d▪_&dNoble dig_speed:3 durability:2
+    - 256 1 name:&r&d▪_&dNoble dig_speed:3 durability:2
+    - 364 16
+    - 262 64
+  baron:
+    delay: 86400
+    items:
+    - 276 1 name:&r&9▪_&9Baron damage_all:5 fire_aspect:2 loot_bonus_mobs:2
+    - 310 1 name:&r&9▪_&9Baron protection_environmental:3 durability:3 oxygen:2
+    - 311 1 name:&r&9▪_&9Baron protection_environmental:4 durability:2
+    - 312 1 name:&r&9▪_&9Baron protection_environmental:4 durability:3
+    - 313 1 name:&r&9▪_&9Baron protection_environmental:3 protection_fall:2 durability:2 water_worker:2
+    - 257 1 name:&r&9▪_&9Baron dig_speed:6 durability:2 loot_bonus_blocks:3
+    - 322 16
+    - 322:1 8
+    - 261 1 name:&r&9▪_&9Baron arrow_damage:8 arrow_knockback:1 durability:1 arrow_fire:1
+    - 364 16
+    - 258 1 name:&r&9▪_&9Baron dig_speed:3 durability:2
+    - 256 1 name:&r&9▪_&9Baron dig_speed:3 durability:2
+    - 373:8226 1
+    - 373:8233 1
+    - 262 64
+  marques:
+    delay: 86400
+    items:
+    - 276 1 name:&r&3▪_&3Marques damage_all:5 fire_aspect:2 loot_bonus_mobs:2
+    - 310 1 name:&r&3▪_&3Marques protection_environmental:4 durability:3 oxygen:2
+    - 311 1 name:&r&3▪_&3Marques protection_environmental:4 durability:3
+    - 312 1 name:&r&3▪_&3Marques protection_environmental:4 durability:3
+    - 313 1 name:&r&3▪_&3Marques protection_environmental:4 protection_fall:3 durability:3 water_worker:2
+    - 278 1 name:&r&3▪_&3Marques dig_speed:7 durability:3 loot_bonus_blocks:3
+    - 322 18
+    - 322:1 10
+    - 261 1 name:&r&3▪_&3Marques arrow_damage:10 arrow_knockback:1 durability:2 arrow_fire:1
+    - 373:8226 1
+    - 364 16
+    - 277 1 name:&r&3▪_&3Marques dig_speed:3 durability:3
+    - 279 1 name:&r&3▪_&3Marques dig_speed:3 durability:3
+    - 373:8233 1
+    - 262 64
+  conde:
+    delay: 86400
+    items:
+    - 276 1 name:&r&b▪_&bConde damage_all:6 durability:2 fire_aspect:2 loot_bonus_mobs:2
+    - 310 1 name:&r&b▪_&bConde protection_environmental:5 durability:3 oxygen:3
+    - 311 1 name:&r&b▪_&bConde protection_environmental:4 durability:3
+    - 312 1 name:&r&b▪_&bConde protection_environmental:4 durability:3
+    - 313 1 name:&r&b▪_&bConde protection_environmental:5 protection_fall:3 durability:3 water_worker:2
+    - 278 1 name:&r&b▪_&bConde dig_speed:8 durability:3 loot_bonus_blocks:3
+    - 322 20
+    - 261 1 name:&r&b▪_&bConde arrow_damage:12 arrow_knockback:2 durability:2 arrow_fire:1
+    - 322:1 12
+    - 364 16
+    - 279 1 name:&r&b▪_&bConde dig_speed:4 durability:3
+    - 277 1 name:&r&b▪_&bConde dig_speed:4 durability:3
+    - 373:8226 1
+    - 373:8233 1
+    - 262 64
+  duque:
+    delay: 86400
+    items:
+    - 276 1 name:&r&2▪_&2Duque damage_all:7 durability:3 fire_aspect:2 loot_bonus_mobs:3
+    - 310 1 name:&r&2▪_&2Duque protection_environmental:5 durability:3 oxygen:3
+    - 311 1 name:&r&2▪_&2Duque protection_environmental:5 durability:3
+    - 312 1 name:&r&2▪_&2Duque protection_environmental:5 durability:3
+    - 313 1 name:&r&2▪_&2Duque protection_environmental:5 protection_fall:3 durability:3 water_worker:2
+    - 278 1 name:&r&2▪_&2Duque dig_speed:9 durability:3 loot_bonus_blocks:4
+    - 322:1 16
+    - 322 26
+    - 261 1 name:&r&2▪_&2Duque arrow_damage:15 arrow_knockback:2 durability:2 arrow_fire:1
+    - 373:8226 1
+    - 373:8233 1
+    - 277 1 name:&r&2▪_&2Duque dig_speed:4 durability:3
+    - 279 1 name:&r&2▪_&2Duque dig_speed:4 durability:3
+    - 364 16
+    - 262 64
+  principe:
+    delay: 86400
+    items:
+    - 276 1 name:&r&6▪_&6Principe lore:&cVeneno_I damage_all:7 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:4
+    - 310 1 name:&r&6▪_&6Principe protection_environmental:6 durability:3 oxygen:3
+    - 311 1 name:&r&6▪_&6Principe lore:&cLentitud_Enemiga_I protection_environmental:5 durability:3 custom enchantment:0
+    - 312 1 name:&r&6▪_&6Principe lore:&cLentitud_Enemiga_I protection_environmental:5 durability:3 custom enchantment:0
+    - 313 1 name:&r&6▪_&6Principe protection_environmental:6 protection_fall:4 durability:3 water_worker:3
+    - 278 1 name:&r&6▪_&6Principe dig_speed:10 durability:4 loot_bonus_blocks:4
+    - 322 28
+    - 261 1 name:&r&6▪_&6Principe arrow_damage:18 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1
+    - 322:1 18
+    - 373:8233 1
+    - 373:8226 1
+    - 279 1 name:&r&6▪_&6Principe dig_speed:4 durability:3
+    - 277 1 name:&r&6▪_&6Principe dig_speed:4 durability:3
+    - 364 16
+    - 262 64
+  monarca:
+    delay: 86400
+    items:
+    - 276 1 name:&r&c▪_&cMonarca lore:&cIce_Aspect_I damage_all:8 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:4
+    - 310 1 name:&r&c▪_&cMonarca lore:&cAturdido_I protection_environmental:6 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&c▪_&cMonarca lore:&cAturdido_I protection_environmental:6 durability:3 custom enchantment:0
+    - 312 1 name:&r&c▪_&cMonarca lore:&cAturdido_I protection_environmental:6 durability:3 custom enchantment:0
+    - 313 1 name:&r&c▪_&cMonarca lore:&cAturdido_I protection_environmental:6 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&c▪_&cMonarca dig_speed:11 durability:4 loot_bonus_blocks:5
+    - 322 32
+    - 261 1 name:&r&c▪_&cMonarca arrow_damage:22 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1
+    - 322:1 20
+    - 373:8226 1
+    - 373:8233 1
+    - 277 1 name:&r&c▪_&cMonarca dig_speed:4 durability:3
+    - 279 1 name:&r&c▪_&cMonarca dig_speed:4 durability:3
+    - 364 16
+    - 262 64
+  rey:
+    delay: 86400
+    items:
+    - 276 1 name:&r&4▪_&4Rey lore:&cRobo_de_vida_I damage_all:8 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:5
+    - 310 1 name:&r&4▪_&4Rey lore:&cEndurecido_I protection_environmental:7 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&4▪_&4Rey protection_environmental:7 durability:3 custom enchantment:0
+    - 312 1 name:&r&4▪_&4Rey lore:&cEndurecido_I protection_environmental:7 durability:3 custom enchantment:0
+    - 313 1 name:&r&4▪_&4Rey protection_environmental:7 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&4▪_&4Rey dig_speed:12 durability:4 loot_bonus_blocks:5
+    - 322:1 22
+    - 322 32
+    - 261 1 name:&r&4▪_&4Rey lore:&cTriple_Tiro_I arrow_damage:26 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 373:8233 1
+    - 279 1 name:&r&4▪_&4Rey dig_speed:5 durability:3
+    - 277 1 name:&r&4▪_&4Rey dig_speed:5 durability:3
+    - 373:8226 1
+    - 364 16
+    - 262 64
+  emperador:
+    delay: 86400
+    items:
+    - 276 1 name:&r&6▪_&6Emperador lore:&cCeguera_I damage_all:9 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:5
+    - 310 1 name:&r&6▪_&6Emperador lore:&cLentitud_Enemiga_I protection_environmental:8 durability:4 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&6▪_&6Emperador lore:&cLentitud_Enemiga_II protection_environmental:8 durability:4 custom enchantment:0
+    - 312 1 name:&r&6▪_&6Emperador lore:&cLentitud_Enemiga_I protection_environmental:8 durability:4 custom enchantment:0
+    - 313 1 name:&r&6▪_&6Emperador lore:&cLentitud_Enemiga_II protection_environmental:8 protection_fall:4 durability:4 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&6▪_&6Emperador lore:&cPrisa_I dig_speed:13 durability:4 loot_bonus_blocks:6 custom enchantment:0
+    - 322:1 22
+    - 322 32
+    - 261 1 name:&r&6▪_&6Emperador arrow_damage:26 arrow_knockback:3 durability:2 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 364 16
+    - 373:8226 1
+    - 279 1 name:&r&6▪_&6Emperador dig_speed:6 durability:3
+    - 277 1 name:&r&6▪_&6Emperador dig_speed:6 durability:3
+    - 373:8233 1
+    - 262 64
+  inframundo:
+    delay: 0
+    items:
+    - 385 1 name:&r&4▪_&l&nINFRAMUNDO lore:&r&r&8|&r&4»_Información:|&r&fConsigue_está_piedra_en_eventos|&r&fde_&4"paquetes/boss"_&fy_compra|&r&flas_cosas_más_legendarias._&4✔|&r&f|&r&fModo_de_uso:_&4&n/intercambios durability:1
+  vip:
+    delay: 86400
+    items:
+    - 276 1 name:&r&a▪_&a&lVIP lore:&cParalizador_I damage_all:5 durability:3 fire_aspect:2 loot_bonus_mobs:3 custom enchantment:0
+    - 310 1 name:&r&a▪_&a&lVIP lore:&cAutorepair_I protection_environmental:4 durability:3 oxygen:3 custom enchantment:0
+    - 311 1 name:&r&a▪_&a&lVIP lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 312 1 name:&r&a▪_&a&lVIP lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 313 1 name:&r&a▪_&a&lVIP lore:&cAutorepair_I protection_environmental:4 protection_fall:3 durability:3 custom enchantment:0 water_worker:2
+    - 322 26
+    - 322:1 16
+    - 261 1 name:&r&a▪_&a&lVIP arrow_damage:15 arrow_knockback:2 durability:2 arrow_fire:1
+    - 364 16
+    - 373:8233 1
+    - 373:8226 1
+    - 279 1 name:&r&a▪_&a&lVIP dig_speed:4 durability:3
+    - 278 1 name:&r&a▪_&a&lVIP dig_speed:9 durability:3 loot_bonus_blocks:4
+    - 262 64
+  elite:
+    delay: 86400
+    items:
+    - 276 1 name:&r&b▪_&b&lELITE lore:&cAerial_I damage_all:6 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:4
+    - 310 1 name:&r&b▪_&b&lELITE lore:&cAutorepair_I protection_environmental:5 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&b▪_&b&lELITE lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 312 1 name:&r&b▪_&b&lELITE lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 313 1 name:&r&b▪_&b&lELITE lore:&cAutorepair_I protection_environmental:5 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&b▪_&b&lELITE dig_speed:10 durability:4 loot_bonus_blocks:4
+    - 322 28
+    - 322:1 18
+    - 261 1 name:&r&b▪_&b&lELITE arrow_damage:18 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1
+    - 373:8226 1
+    - 364 16
+    - 279 1 name:&r&b▪_&b&lELITE dig_speed:4 durability:3
+    - 277 1 name:&r&b▪_&b&lELITE dig_speed:4 durability:3
+    - 373:8233 1
+    - 262 64
+  heroe:
+    delay: 86400
+    items:
+    - 276 1 name:&r&e▪_&e&lHEROE lore:&cCarga_I|&cWither_I damage_all:7 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:4
+    - 310 1 name:&r&e▪_&e&lHEROE lore:&cAutorepair_II protection_environmental:5 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&e▪_&e&lHEROE lore:&cAutorepair_II protection_environmental:5 durability:3 custom enchantment:0
+    - 312 1 name:&r&e▪_&e&lHEROE lore:&cAutorepair_II protection_environmental:5 durability:3 custom enchantment:0
+    - 313 1 name:&r&e▪_&e&lHEROE lore:&cAutorepair_II protection_environmental:5 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 261 1 name:&r&e▪_&e&lHEROE arrow_damage:22 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1
+    - 278 1 name:&r&e▪_&e&lHEROE dig_speed:11 durability:4 loot_bonus_blocks:5
+    - 322 32
+    - 322:1 20
+    - 277 1 name:&r&e▪_&e&lHEROE dig_speed:4 durability:3
+    - 279 1 name:&r&e▪_&e&lHEROE dig_speed:4 durability:3
+    - 364 16
+    - 373:8233 1
+    - 373:8226 1
+    - 262 64
+  titan:
+    delay: 172800
+    items:
+    - 276 1 name:&r&7▪_&7&lTITAN lore:&cBloqueo_II|&cCeguera_I damage_all:8 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:5
+    - 310 1 name:&r&7▪_&7&lTITAN lore:&cAutorepair_II protection_environmental:6 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&7▪_&7&lTITAN lore:&cAutorepair_II protection_environmental:6 durability:3 custom enchantment:0
+    - 312 1 name:&r&7▪_&7&lTITAN lore:&cAutorepair_II protection_environmental:6 durability:3 custom enchantment:0
+    - 313 1 name:&r&7▪_&7&lTITAN lore:&cAutorepair_II protection_environmental:6 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&7▪_&7&lTITAN dig_speed:12 durability:4 loot_bonus_blocks:5
+    - 322:1 22
+    - 322 32
+    - 261 1 name:&r&7▪_&7&lTITAN lore:&cTriple_Tiro_I arrow_damage:26 arrow_knockback:2 durability:2 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 373:8233 1
+    - 279 1 dig_speed:5 durability:3
+    - 277 1 dig_speed:5 durability:3
+    - 373:8226 1
+    - 364 16
+    - 262 64
+  leyenda:
+    delay: 172800
+    items:
+    - 276 1 name:&r&d▪_&d&lLEYENDA lore:&cVampiro_I|&cDecapitador_I damage_all:9 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:5
+    - 310 1 name:&r&d▪_&d&lLEYENDA lore:&cAutorepair_III protection_environmental:7 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&d▪_&d&lLEYENDA lore:&cAutorepair_III protection_environmental:7 durability:3 custom enchantment:0
+    - 312 1 name:&r&d▪_&d&lLEYENDA lore:&cAutorepair_III protection_environmental:7 durability:3 custom enchantment:0
+    - 313 1 name:&r&d▪_&d&lLEYENDA lore:&cAutorepair_III protection_environmental:7 protection_fall:4 durability:3 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&d▪_&d&lLEYENDA dig_speed:13 durability:4 loot_bonus_blocks:6 custom enchantment:0
+    - 322:1 22
+    - 322 32
+    - 261 1 name:&r&d▪_&d&lLEYENDA lore:&cTriple_Tiro_I arrow_damage:26 arrow_knockback:3 durability:2 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 373:8233 1
+    - 277 1 name:&r&d▪_&d&lLEYENDA dig_speed:6 durability:3
+    - 279 1 name:&r&d▪_&d&lLEYENDA dig_speed:6 durability:3
+    - 373:8226 1
+    - 364 16
+    - 262 64
+  maestro:
+    delay: 259200
+    items:
+    - 276 1 name:&r&c▪_&c&lMAESTRO lore:&cIce_Aspect_I|&cVeneno_I damage_all:10 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:6
+    - 310 1 name:&r&c▪_&c&lMAESTRO lore:&cAutorepair_III protection_environmental:8 durability:4 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&c▪_&c&lMAESTRO lore:&cAutorepair_III protection_environmental:8 durability:4 custom enchantment:0
+    - 312 1 name:&r&c▪_&c&lMAESTRO lore:&cAutorepair_III protection_environmental:8 durability:4 custom enchantment:0
+    - 313 1 name:&r&c▪_&c&lMAESTRO lore:&cAutorepair_III protection_environmental:8 protection_fall:4 durability:4 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&c▪_&c&lMAESTRO lore:&cPrisa_I dig_speed:14 durability:4 loot_bonus_blocks:7 custom enchantment:0
+    - 322:1 26
+    - 322 32
+    - 261 1 name:&r&c▪_&c&lMAESTRO lore:&cTriple_Tiro_I arrow_damage:30 arrow_knockback:3 durability:2 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 364 16
+    - 373:8226 1
+    - 279 1 name:&r&c▪_&c&lMAESTRO dig_speed:6 durability:3
+    - 277 1 name:&r&c▪_&c&lMAESTRO dig_speed:6 durability:3
+    - 373:8233 1
+    - 262 64
+  ultimate:
+    delay: 345600
+    items:
+    - 276 1 name:&r&6▪_&6&lULTIMATE lore:&cDesangramiento_I|&cRobo_de_vida_I damage_all:11 durability:3 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:7
+    - 310 1 name:&r&6▪_&6&lULTIMATE lore:&cAutorepair_IV protection_environmental:9 durability:4 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&6▪_&6&lULTIMATE lore:&cAutorepair_IV protection_environmental:9 durability:4 custom enchantment:0
+    - 312 1 name:&r&6▪_&6&lULTIMATE lore:&cAutorepair_IV protection_environmental:9 durability:4 custom enchantment:0
+    - 313 1 name:&r&6▪_&6&lULTIMATE lore:&cAutorepair_IV protection_environmental:9 protection_fall:4 durability:4 custom enchantment:0 water_worker:3
+    - 278 1 name:&r&6▪_&6&lULTIMATE lore:&cPrisa_II dig_speed:15 durability:4 loot_bonus_blocks:7 custom enchantment:0
+    - 322:1 32
+    - 322 32
+    - 261 1 name:&r&6▪_&6&lULTIMATE lore:&cTriple_Tiro_I arrow_damage:30 arrow_knockback:3 durability:3 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 364 16
+    - 373:8226 1
+    - 279 1 name:&r&6▪_&6&lULTIMATE dig_speed:7 durability:3
+    - 277 1 name:&r&6▪_&6&lULTIMATE dig_speed:7 durability:3
+    - 373:8233 1
+    - 262 64
+  PicoOP:
+    delay: 0
+    items:
+    - 278 1 name:&r&e▪_&lPICO_MINEVY_&n✔ lore:&eHeavy_Mining_1 dig_speed:40 durability:30 loot_bonus_blocks:20
+  '1':
+    delay: 0
+    items:
+    - 310 1 protection_environmental:1 durability:1
+    - 311 1 protection_environmental:1 durability:1
+    - 312 1 protection_environmental:1 durability:1
+    - 313 1 protection_environmental:1 durability:1
+  '2':
+    delay: 0
+    items:
+    - 310 1 protection_environmental:2 durability:2
+    - 311 1 protection_environmental:2 durability:2
+    - 312 1 protection_environmental:2 durability:2
+    - 313 1 protection_environmental:2 durability:2
+  '3':
+    delay: 0
+    items:
+    - 310 1 protection_environmental:3 durability:2
+    - 311 1 protection_environmental:3 durability:2
+    - 312 1 protection_environmental:3 durability:2
+    - 313 1 protection_environmental:3 durability:2
+  '4':
+    delay: 0
+    items:
+    - 310 1 name:&r&7▪_&lGOLEM lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 311 1 name:&r&7▪_&lGOLEM lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 312 1 name:&r&7▪_&lGOLEM lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+    - 313 1 name:&r&7▪_&lGOLEM lore:&cAutorepair_I protection_environmental:4 durability:3 custom enchantment:0
+  '5':
+    delay: 0
+    items:
+    - 310 1 name:&r&c▪_&lQUIMERA lore:&cEmbrujado_I protection_environmental:5 durability:3 custom enchantment:0
+    - 311 1 name:&r&c▪_&lQUIMERA lore:&cEmbrujado_I protection_environmental:5 durability:3 custom enchantment:0
+    - 312 1 name:&r&c▪_&lQUIMERA lore:&cEmbrujado_I protection_environmental:5 durability:3 custom enchantment:0
+    - 313 1 name:&r&c▪_&lQUIMERA lore:&cEmbrujado_I protection_environmental:5 durability:3 custom enchantment:0
+  '6':
+    delay: 0
+    items:
+    - 310 1 name:&r&3▪_&lMINOTAURO lore:&cBrujo_I protection_environmental:6 durability:3 custom enchantment:0
+    - 311 1 name:&r&3▪_&lMINOTAURO lore:&cBrujo_I protection_environmental:6 durability:3 custom enchantment:0
+    - 312 1 name:&r&3▪_&lMINOTAURO lore:&cBrujo_I protection_environmental:6 durability:3 custom enchantment:0
+    - 313 1 name:&r&3▪_&lMINOTAURO lore:&cBrujo_I protection_environmental:6 durability:3 custom enchantment:0
+  '7':
+    delay: 0
+    items:
+    - 310 1 name:&r&e▪_&lFENIX lore:&cLentitud_Enemiga_I protection_environmental:7 durability:4 custom enchantment:0
+    - 311 1 name:&r&e▪_&lFENIX lore:&cLentitud_Enemiga_I protection_environmental:7 durability:4 custom enchantment:0
+    - 312 1 name:&r&e▪_&lFENIX lore:&cLentitud_Enemiga_I protection_environmental:7 durability:4 custom enchantment:0
+    - 313 1 name:&r&e▪_&lFENIX lore:&cLentitud_Enemiga_I protection_environmental:7 durability:4 custom enchantment:0
+  '8':
+    delay: 0
+    items:
+    - 310 1 name:&r&5▪_&lMETALIQUIDO lore:&cAutorepair_II protection_environmental:8 durability:4 custom enchantment:0
+    - 311 1 name:&r&5▪_&lMETALIQUIDO lore:&cAutorepair_II protection_environmental:8 durability:4 custom enchantment:0
+    - 312 1 name:&r&5▪_&lMETALIQUIDO lore:&cAutorepair_II protection_environmental:8 durability:4 custom enchantment:0
+    - 313 1 name:&r&5▪_&lMETALIQUIDO lore:&cAutorepair_II protection_environmental:8 durability:4 custom enchantment:0
+  '9':
+    delay: 0
+    items:
+    - 310 1 name:&r&4▪_&lSNOVY lore:&cAutorepair_III protection_environmental:9 durability:4 custom enchantment:0
+    - 311 1 name:&r&4▪_&lSNOVY lore:&cAutorepair_III protection_environmental:9 durability:4 custom enchantment:0
+    - 312 1 name:&r&4▪_&lSNOVY lore:&cAutorepair_III protection_environmental:9 durability:4 custom enchantment:0
+    - 313 1 name:&r&4▪_&lSNOVY lore:&cAutorepair_III protection_environmental:9 durability:4 custom enchantment:0
+  golem:
+    delay: 0
+    items:
+    - 276 1 name:&r&7▪_&lGOLEM lore:&cIce_Aspect_II damage_all:6 durability:3 custom enchantment:0 loot_bonus_mobs:3
+  minotauro:
+    delay: 0
+    items:
+    - 276 1 name:&r&3▪_&lMINOTAURO lore:&cParalizador_I|&cRobo_de_vida_I damage_all:5 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:5
+  Verdugo:
+    delay: 604800
+    items:
+    - 276 1 name:&r&e▪_&lVERDUGO lore:&cDecapitador_I|&cBloqueo_III|&cAerial_III damage_all:6 durability:3 fire_aspect:2 custom enchantment:0 loot_bonus_mobs:2
+    - 261 1 name:&r&e▪_&lVERDUGO lore:&cTeletransporte_I arrow_damage:15 arrow_knockback:2 durability:3 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 310 1 name:&r&e▪_&lVERDUGO lore:&cAutorepair_I|&cEscudo_Regenerador_I protection_environmental:5 durability:3 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&e▪_&lVERDUGO lore:&cAutorepair_I|&cEscudo_Regenerador_I protection_environmental:5 durability:3 custom enchantment:0
+    - 312 1 name:&r&e▪_&lVERDUGO lore:&cAutorepair_I|&cEscudo_Regenerador_I protection_environmental:5 durability:3 custom enchantment:0
+    - 313 1 name:&r&e▪_&lVERDUGO lore:&cAutorepair_I|&cEscudo_Regenerador_I protection_environmental:5 protection_fall:2 durability:3 custom enchantment:0 water_worker:2
+    - 278 1 name:&r&e▪_&lVERDUGO lore:&cHorneado_I dig_speed:8 durability:4 loot_bonus_blocks:3 custom enchantment:0
+    - 279 1 name:&r&e▪_&lVERDUGO lore:&cPrisa_I dig_speed:5 durability:3 custom enchantment:0
+    - 277 1 name:&r&e▪_&lVERDUGO lore:&cPrisa_I dig_speed:5 durability:3 custom enchantment:0
+    - 322:1 8
+    - 322 5
+    - 364 6
+    - 373:8233 1
+    - 373:8226 1
+    - 262 64
+  victym:
+    delay: 604800
+    items:
+    - 276 1 name:&r&a▪_&lVICTYM lore:&cDecapitador_I|&cCeguera_I|&cBloqueo_IV|&cWither_I damage_all:7 durability:4 fire_aspect:3 custom enchantment:0 loot_bonus_mobs:3
+    - 261 1 name:&r&a▪_&lVICTYM lore:&cTriple_Tiro_I arrow_damage:18 arrow_knockback:2 durability:3 arrow_fire:1 arrow_infinite:1 custom enchantment:0
+    - 310 1 name:&r&a▪_&lVICTYM lore:&cAutorepair_I|&cResplandor_Final_II|&cMaldito_I protection_environmental:6 durability:4 custom enchantment:0 oxygen:3
+    - 311 1 name:&r&a▪_&lVICTYM lore:&cAutorepair_I|&cResplandor_Final_II|&cMaldito_I protection_environmental:6 durability:4 custom enchantment:0
+    - 312 1 name:&r&a▪_&lVICTYM lore:&cAutorepair_I|&cResplandor_Final_II|&cMaldito_I protection_environmental:6 durability:4 custom enchantment:0
+    - 313 1 name:&r&a▪_&lVICTYM lore:&cAutorepair_I|&cResplandor_Final_II|&cMaldito_I protection_environmental:6 protection_fall:2 durability:4 custom enchantment:0 water_worker:2
+    - 278 1 name:&r&a▪_&lVICTYM lore:&cHorneado_I|&cPrisa_I dig_speed:10 durability:4 loot_bonus_blocks:4 custom enchantment:0
+    - 277 1 name:&r&a▪_&lVICTYM lore:&cPrisa_I dig_speed:7 durability:3 custom enchantment:0
+    - 279 1 name:&r&a▪_&lVICTYM lore:&cPrisa_I dig_speed:7 durability:3 custom enchantment:0
+    - 322:1 16
+    - 322 10
+    - 364 12
+    - 373:8233 1
+    - 373:8226 1
+    - 262 64
+  bandido:
+    delay: 604800
+    items:
+    - 276 1 name:&r&d&l▪_BANDIDO lore:&cDecapitador_I|&cBloqueo_I|&cCarga_I|&cVeneno_I damage_all:8 durability:5 fire_aspect:4 custom enchantment:0 loot_bonus_mobs:4
+    - 261 1 name:&r&d&l▪_BANDIDO lore:&cTriple_Tiro_I arrow_damage:22 arrow_knockback:2 durability:5 arrow_fire:2 arrow_infinite:1 custom enchantment:0
+    - 310 1 name:&r&d&l▪_BANDIDO lore:&cAutorepair_II|&cIluminado_II|&cEmbrujado_I protection_environmental:7 durability:5 custom enchantment:0 oxygen:4
+    - 311 1 name:&r&d&l▪_BANDIDO lore:&cAutorepair_II|&cIluminado_II|&cEmbrujado_I protection_environmental:7 durability:5 custom enchantment:0
+    - 312 1 name:&r&d&l▪_BANDIDO lore:&cAutorepair_II|&cIluminado_II|&cEmbrujado_I protection_environmental:7 durability:5 custom enchantment:0
+    - 313 1 name:&r&d&l▪_BANDIDO lore:&cAutorepair_II|&cIluminado_II|&cEmbrujado_I protection_environmental:7 protection_fall:3 durability:5 custom enchantment:0 water_worker:2
+    - 278 1 name:&r&d&l▪_BANDIDO lore:&cHorneado_I|&cPrisa_I dig_speed:12 durability:4 loot_bonus_blocks:5 custom enchantment:0
+    - 277 1 name:&r&d&l▪_BANDIDO lore:&cPrisa_I dig_speed:7 durability:3 custom enchantment:0
+    - 279 1 name:&r&d&l▪_BANDIDO lore:&cPrisa_I dig_speed:7 durability:3 custom enchantment:0
+    - 322:1 24
+    - 322 12
+    - 364 24
+    - 373:8226 1
+    - 373:8233 1
+    - 262 64
+  renegado:
+    delay: 604800
+    items:
+    - 276 1 name:&r&7▪_&lRENEGADO lore:&cDecapitador_I|&cCarga_II|&cIce_Aspect_II|&cBloqueo_II|&cRobo_de_vida_I damage_all:9 durability:5 fire_aspect:4 custom enchantment:0 loot_bonus_mobs:5
+    - 310 1 name:&r&7▪_&lRENEGADO lore:&cAutorepair_III|&cEscudo_Regenerador_II|&cAturdido_I|&cBrujo_II protection_environmental:8 durability:5 custom enchantment:0 oxygen:4
+    - 311 1 name:&r&7▪_&lRENEGADO lore:&cAutorepair_III|&cEscudo_Regenerador_II|&cAturdido_I|&cBrujo_II protection_environmental:8 durability:5 custom enchantment:0
+    - 312 1 name:&r&7▪_&lRENEGADO lore:&cAutorepair_III|&cEscudo_Regenerador_II|&cAturdido_I|&cBrujo_II protection_environmental:8 durability:5 custom enchantment:0
+    - 313 1 name:&r&7▪_&lRENEGADO lore:&cAutorepair_III|&cEscudo_Regenerador_II|&cAturdido_I|&cBrujo_II protection_environmental:8 protection_fall:3 durability:5 custom enchantment:0 water_worker:2
+    - 261 1 name:&r&7▪_&lRENEGADO lore:&cTriple_Tiro_II arrow_damage:24 arrow_knockback:3 durability:5 arrow_fire:3 arrow_infinite:1 custom enchantment:0
+    - 278 1 name:&r&7▪_&lRENEGADO lore:&cHorneado_I|&cPrisa_II dig_speed:15 durability:5 loot_bonus_blocks:6 custom enchantment:0
+    - 279 1 name:&r&7▪_&lRENEGADO lore:&cPrisa_I dig_speed:8 durability:3 custom enchantment:0
+    - 277 1 name:&r&7▪_&lRENEGADO lore:&cPrisa_I dig_speed:8 durability:3 custom enchantment:0
+    - 322:1 32
+    - 322 24
+  nuke:
+    delay: 604800
+    items:
+    - 276 1 name:&9&l▪_&9&lNUKE lore:&cDecapitador_I|&cBloqueo_V|&cAerial_II|&cVampiro_I|&cRobo_de_vida_II damage_all:10 durability:6 fire_aspect:5 custom enchantment:0 loot_bonus_mobs:6
+    - 261 1 name:&9&l▪_&9&lNUKE lore:&cTriple_Tiro_II arrow_damage:26 arrow_knockback:3 durability:5 arrow_fire:3 arrow_infinite:1 custom enchantment:0
+    - 310 1 name:&9&l▪_&9&lNUKE lore:&cAutorepair_III|&cEndurecido_I|&cBrujo_I|&cLentitud_Enemiga_II protection_environmental:9 durability:5 custom enchantment:0 oxygen:4
+    - 311 1 name:&9&l▪_&9&lNUKE lore:&cAutorepair_III|&cEndurecido_I|&cBrujo_I|&cLentitud_Enemiga_II protection_environmental:9 durability:5 custom enchantment:0
+    - 312 1 name:&9&l▪_&9&lNUKE lore:&cAutorepair_III|&cEndurecido_I|&cBrujo_I|&cLentitud_Enemiga_II protection_environmental:9 durability:5 custom enchantment:0
+    - 313 1 name:&9&l▪_&9&lNUKE lore:&cAutorepair_III|&cEndurecido_I|&cBrujo_I|&cLentitud_Enemiga_II protection_environmental:9 protection_fall:4 durability:5 custom enchantment:0 water_worker:2
+    - 278 1 name:&9&l▪_&9&lNUKE lore:&cHorneado_I|&cPrisa_II dig_speed:17 durability:7 loot_bonus_blocks:7 custom enchantment:0
+    - 279 1 name:&9&l▪_&9&lNUKE lore:&cPrisa_I dig_speed:9 durability:3 custom enchantment:0
+    - 277 1 name:&9&l▪_&9&lNUKE lore:&cPrisa_I dig_speed:9 durability:3 custom enchantment:0
+    - 322:1 48
+    - 322 36
+    - 364 64
+    - 373:8226 1
+    - 373:8233 1
+    - 262 64
+  elemental:
+    delay: 604800
+    items:
+    - 276 1 name:&r&3▪_&lELEMENTAL lore:&cDecapitador_I|&cParalizador_I|&cAerial_I|&cIce_Aspect_I|&cDesangramiento_I damage_all:11 durability:7 fire_aspect:5 custom enchantment:0 loot_bonus_mobs:7
+    - 261 1 name:&r&3▪_&lELEMENTAL lore:&cTriple_Tiro_II arrow_damage:30 arrow_knockback:3 durability:5 arrow_fire:4 arrow_infinite:1 custom enchantment:0
+    - 310 1 name:&r&3▪_&lELEMENTAL lore:&cAutorepair_IV|&cEmbrujado_II|&cEndurecido_II|&cLentitud_Enemiga_I protection_environmental:10 durability:6 custom enchantment:0 oxygen:4
+    - 311 1 name:&r&3▪_&lELEMENTAL lore:&cAutorepair_IV|&cEmbrujado_II|&cEndurecido_II|&cLentitud_Enemiga_I protection_environmental:10 durability:6 custom enchantment:0
+    - 312 1 name:&r&3▪_&lELEMENTAL lore:&cAutorepair_IV|&cEmbrujado_II|&cEndurecido_II|&cLentitud_Enemiga_I protection_environmental:10 durability:6 custom enchantment:0
+    - 313 1 name:&r&3▪_&lELEMENTAL lore:&cAutorepair_IV|&cEmbrujado_II|&cEndurecido_II|&cLentitud_Enemiga_I protection_environmental:10 protection_fall:5 durability:6 custom enchantment:0 water_worker:2
+    - 278 1 name:&r&3▪_&lELEMENTAL lore:&cHorneado_I|&cPrisa_II dig_speed:20 durability:9 loot_bonus_blocks:8 custom enchantment:0
+    - 277 1 name:&r&3▪_&lELEMENTAL lore:&cPrisa_II dig_speed:10 durability:3 custom enchantment:0
+    - 279 1 name:&r&3▪_&lELEMENTAL lore:&cPrisa_II dig_speed:10 durability:3 custom enchantment:0
+    - 322:1 64
+    - 322 64
+    - 373:8226 1
+    - 364 64
+    - 373:8233 1
+    - 262 64
+  snoobrigde:
+    delay: 604800
+    items:
+    - 276 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cVampiro_I|&cVeneno_I|&cAerial_II|&cCeguera_I damage_all:12 durability:8 fire_aspect:5 custom enchantment:0 loot_bonus_mobs:6
+    - 310 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cAutorepair_V|&cIluminado_I|&cBrujo_II|&cEscudo_Regenerador_III protection_environmental:11 durability:7 custom enchantment:0 oxygen:5
+    - 311 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cAutorepair_V|&cIluminado_I|&cBrujo_II|&cEscudo_Regenerador_III protection_environmental:11 protection_fire:7 durability:7 custom enchantment:0
+    - 312 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cAutorepair_V|&cIluminado_I|&cBrujo_II|&cEscudo_Regenerador_III protection_environmental:11 protection_fire:7 durability:7 custom enchantment:0
+    - 313 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cAutorepair_V|&cIluminado_I|&cBrujo_II|&cEscudo_Regenerador_III protection_environmental:11 protection_fall:5 durability:7 custom enchantment:0 water_worker:3
+    - 278 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cHorneado_I|&cPrisa_II dig_speed:22 durability:10 loot_bonus_blocks:9 custom enchantment:0
+    - 277 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cPrisa_II dig_speed:12 durability:7 custom enchantment:0
+    - 279 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cPrisa_II dig_speed:12 durability:7 custom enchantment:0
+    - 261 1 name:&f&k&lX_&r&4&l▪_&4&lSNOOBRIDGE_&f&k&lX lore:&cTriple_Tiro_III arrow_damage:34 arrow_knockback:4 durability:7 arrow_fire:4 arrow_infinite:1 custom enchantment:0
+    - 262 64
+    - 373:8233 1
+    - 322 64
+    - 373:8226 1
+    - 364 64
+  Farmero:
+    delay: 604800
+    items:
+    - 310 1 name:&2&lFARMERO lore:&cAutorepair_III|&cEscudo_Regenerador_I protection_environmental:9 durability:6 custom enchantment:0
+    - 311 1 name:&2&lFARMERO lore:&cAutorepair_III|&cEscudo_Regenerador_I protection_environmental:9 durability:6 custom enchantment:0
+    - 312 1 name:&2&lFARMERO lore:&cAutorepair_III|&cEscudo_Regenerador_I protection_environmental:9 durability:6 custom enchantment:0
+    - 313 1 name:&2&lFARMERO lore:&cAutorepair_III|&cEscudo_Regenerador_I protection_environmental:9 durability:6 custom enchantment:0
+    - 276 1 name:&2&lFARMERO lore:&cAerial_I|&cDesangramiento_I damage_all:9 durability:3 custom enchantment:0 loot_bonus_mobs:10
+    - 322:1 64
+    - 278 1 name:&r&e▪_&lPICO_MINEVY_&n✔ lore:&eHeavy_Mining_1 dig_speed:40 durability:30 loot_bonus_blocks:20
+    - 373:8233 1
+    - 373:8226 1
+  Arquero:
+    delay: 604800
+    items:
+    - 276 1 name:&1&lARQUERO lore:&cAerial_II|&cIce_Aspect_II damage_all:8 durability:3 custom enchantment:0 loot_bonus_mobs:7
+    - 310 1 name:&1&lARQUERO lore:&cAutorepair_III|&cEscudo_Regenerador_II protection_environmental:7 durability:5 custom enchantment:0
+    - 311 1 name:&1&lARQUERO lore:&cAutorepair_III|&cEscudo_Regenerador_II protection_environmental:7 durability:5 custom enchantment:0
+    - 312 1 name:&1&lARQUERO lore:&cAutorepair_III|&cEscudo_Regenerador_II protection_environmental:7 durability:5 custom enchantment:0
+    - 313 1 name:&1&lARQUERO lore:&cAutorepair_III|&cEscudo_Regenerador_II protection_environmental:7 durability:5 custom enchantment:0
+    - 261 1 name:&1&lARQUERO lore:&cTriple_Tiro_II arrow_damage:30 arrow_knockback:5 durability:3 arrow_fire:3 arrow_infinite:1 custom enchantment:0
+    - 322:1 64
+    - 373:8233 1
+    - 373:8226 1
+    - 262 64

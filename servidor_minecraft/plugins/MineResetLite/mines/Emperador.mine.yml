@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 1789
+  maxY: 104
+  maxX: 1270
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 69
+  resetWarnings: []
+  minX: 1242
+  composition:
+    '57:0': 0.34
+    '1:0': 0.32
+    '133:0': 0.34
+  name: Emperador
+  resetClock: 3
+  minZ: 1761
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

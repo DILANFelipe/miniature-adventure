@@ -1,0 +1,29 @@
+Settings:
+  enabled: false              # Is the autospawn section enabled?
+
+  onBossTimeCommand:                    # The settings for when the /boss time command is used.
+    enabled: true                       # This represents if the /boss time command is enabled.
+    whichSectionToTime: '1'             # This refers to the section which will be displayed in /boss time.
+
+AutoSpawns:                               # The main configuration section for the autospawns.
+  '1':                                    # The section key used when setting the whichSectionToTime in settings.
+    Coords:                               # Where the boss will get spawned.
+      world: SiPvP                        # The world to spawn in.
+      x: 974                                # the X coordinate.
+      y: 100                              # the Y coordinate.
+      z: 276                                # the Z coordinate.
+
+    PossibleSpawns:                       # This refers to the list of bosses to choose from when the timer hits 0.
+    - ZOMBIE
+    - GOLEM
+
+    Settings:                                         # The settings for each individual autospawned boss section.
+      spawnIfChunkIsntLoaded: false                   # Should the boss be spawned if the chunk isn't loaded? (COULD CAUSE PROBLEMS)
+      maxSpawned: 1                                   # The max amount of bosses to be in the world at once.
+      bossesPerInterval: 1                            # The amount of bosses to be spawned on each interval.
+      spawnRate: 8h                                  # The spawn rate (must be a number then a time representing character). Available time characters are: s, m, h
+      spawnType: INTERVAL                             # Whether it should be exactly the time above or a random time. Available spawnTypes are: INTERVAL and RANDOM
+      holographicPlaceholder: '{custombosses_1}'      # The placeholder used when using plugins like HolographicDisplays.
+
+    message:                                                                            # The list of messages for when the boss is spawned.
+    - ''

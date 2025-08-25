@@ -1,0 +1,22 @@
+location: NoPvP:-3.5:92.650:-30.5
+enabled: true
+display-range: 32
+update-range: 32
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8(&a&l&nVIAJA POR EL MUNDO&8)&r'
+    height: 0.3
+  - content: '&7'
+    height: 0.25
+  - content: '&f¡Aventúrate por todo el mundo!'
+    height: 0.25
+  - content: '&fViaja a lugares aleatorios por el'
+    height: 0.25
+  - content: '&fmundo de manera &a&nrápida y segura.'
+    height: 0.45
+  - content: '&a&nClick der-izq para viajar ✔'
+    height: 0.4
+  actions: {}

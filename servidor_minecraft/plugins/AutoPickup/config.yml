@@ -1,0 +1,59 @@
+ConfigVersion: 1.2
+#############################################################################################################
+#                          _             _____    _          _                                              #
+#          /\             | |           |  __ \  (_)        | |                                             #
+#         /  \     _   _  | |_    ___   | |__) |  _    ___  | | __  _   _   _ __                            #
+#        / /\ \   | | | | | __|  / _ \  |  ___/  | |  / __| | |/ / | | | | | '_ \                           #
+#       / ____ \  | |_| | | |_  | (_) | | |      | | | (__  |   <  | |_| | | |_) |                          #
+#      /_/    \_\  \__,_|  \__|  \___/  |_|      |_|  \___| |_|\_\  \__,_| | .__/                           #
+#                                                                          | |                              #
+#                                                                          |_|                              #
+#############################################################################################################
+# By: BUTTERFIELD8 & The Zircon Network                                                                     #
+# Discord: https://discord.gg/ncHH4FP                                                                       #
+#############################################################################################################
+
+#Message Prefix
+msgPrefix: "&8(&e&lSURVIVAL&8) &8&l▸"
+
+#Toggle Message - /auto
+msgAutoPickupEnable: "&f¡Has activado la recogida automática!"
+msgAutoPickupDisable: "&f¡Has desactivado la recogida automática!"
+
+#Toggle Message - /autosmelt
+msgAutoSmeltEnable: "&f¡Has activado la función de autofusión!"
+msgAutoSmeltDisable: "&f¡Has desactivado la función de autofusión!"
+
+#Toggle Message - /drops
+msgAutoMobDropsEnable: "&f¡Has activado las caídas automáticas!"
+msgAutoMobDropsDisable: "&f¡Has activado las caídas automáticas!"
+
+#Aditional toggling messages
+msgAutoEnable: "&f¡Has activado la recogida automática!"
+doAutoEnableMSG: true
+msgEnabledJoinMSG: "&f¡Has activado la recogida automática!"
+doEnabledOnJoinMSG: true
+
+#reload Config Message
+msgReload: "&cReloaded Config"
+
+#Fully Inventory Message
+msgFullInv: "&f¡Tu inventario está lleno!"
+doFullInvMSG: true
+titlebar:
+  doTitleBar: true
+  line1: "&c&lALERTA"
+  line2: "&f¡Tu inventario está lleno!"
+
+#This is most useful for prison servers! -- This setting is not normally recommended
+#This feature voids any extra blocks broken when /auto is enabled and the inventory is full!
+voidOnFullInv: false
+
+#Plase does not have permission
+msgNoperms: "&f¡No tienes permiso para usar este comando!"
+
+#Require Permissions | Do players require permission to run commands?
+requirePerms:
+  autopickup: false
+  auto-reload: true
+

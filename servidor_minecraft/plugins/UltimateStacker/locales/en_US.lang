@@ -1,0 +1,16 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&a&lSURVIVAL »'
+# Command Messages
+command:
+  give:
+    success: '&f¡Has recibido un &6%type%!'
+# Event Messages
+event:
+  general:
+    nopermission: '&f¡No puedes hacer esto!'
+  egg:
+    needmore: '&7You need &6%amount% &7Monster Eggs to convert this spawner.'
+    sametype: '&7This already spawns &6%type%s&7.'

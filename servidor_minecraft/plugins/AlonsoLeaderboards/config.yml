@@ -1,0 +1,131 @@
+#        _   _                  _                _         _                      _
+#       /_\ | |___ _ _  ___ ___| |   ___ __ _ __| |___ _ _| |__  ___  __ _ _ _ __| |___
+#      / _ \| / _ \ ' \(_-</ _ \ |__/ -_) _` / _` / -_) '_| '_ \/ _ \/ _` | '_/ _` (_-<
+#     /_/ \_\_\___/_||_/__/\___/____\___\__,_\__,_\___|_| |_.__/\___/\__,_|_| \__,_/__/
+#                                  by AlonsoAliaga
+#                 https://www.spigotmc.org/resources/authors/281176/
+#       If you like our plugin consider donating to us https://paypal.me/AlonsoAliaga
+
+Messages:
+  No-permission: '&cYou don''t have permission to do this.'
+  Reloaded: '&aSome messages and options have been reloaded. Other may require a restart!'
+  Invalid-player: '&cPlayer is not online!'
+  Create:
+    Invalid-leaderboard: '&cThere aren''t leaderboards with identifier ''{IDENTIFIER}''
+      registered. Make sure the plugin that adds those leaderboard is installed correctly!'
+    Created-leaderboard: '&aYou successfully created a ''{IDENTIFIER}'' leaderboard
+      for ranking {RANKING}.'
+    Cancelled: '&cSign creation was cancelled by other plugin!'
+  Remove:
+    Removed-leaderboard: '&cYou removed successfully ''{IDENTIFIER}'' leaderboard
+      for ranking {RANKING}.'
+    Removed-head-leaderboard: '&cYou removed successfully head from ''{IDENTIFIER}''
+      leaderboard for ranking {RANKING}.'
+    Removed-armorstand-leaderboard: '&cYou removed successfully armorstand from ''{IDENTIFIER}''
+      leaderboard for ranking {RANKING}.'
+  Help:
+    Admin:
+    - '&9 /alonsoleaderboards open <identifier> &f- &bCreate placeholder leaderboard'
+    - '&9 /alonsoleaderboards create <identifier> <placeholder> <interval> <order?>
+      <decimal?> &f- &bCreate placeholder leaderboard'
+    - '&9 /alonsoleaderboards createlinked <identifier> <placeholder> <display-placeholder>
+      <interval> <order?> <decimal?> &f- &bCreate linked placeholder leaderboard'
+    - '&9 /alonsoleaderboards setupholo <lb-identifier> <holo-identifier> <tops> <line1|line2|etc>
+      &f- &bSetup holo for specific leaderboard'
+    - '&9 /alonsoleaderboards setupholotime <lb-identifier> <holo-identifier> <tops>
+      <line1|line2|etc> &f- &bSetup holo for specific leaderboard and time'
+    - '&9 /alonsoleaderboards armorstand <small/normal> &f- &bCreate armorstand for
+      specific leaderboard'
+    - '&9 /alonsoleaderboards npc &f- &bCreate a NPC for specific leaderboard'
+    - '&9 /alonsoleaderboards reload &f- &bReload configuration (Restart recommended)'
+    User: []
+  Holo:
+    Disabled-placeholderapi: '&cPlaceholderAPI is not enabled in this server. You
+      cannot create holo leaderboards :('
+    Disabled-holographic-displays: '&cHolographicDisplays is not enabled in this server.
+      You cannot create holo leaderboards :('
+    Disabled-holographic-extension: '&cHolographicExtension is not enabled in this
+      server. Leaderboard will not update correctly, install it!'
+    Disabled-holographic-placeholders: '&cHolographicPlaceholders is not enabled in
+      this server. Leaderboard will not update correctly, install it!'
+    OP-required: '&cIn order to prevent unwanted use or issues with permissions. You
+      must be OP when performing this command!'
+    Created: '&aHolo leaderboard for ''{IDENTIFIER}'' leaderboard has been created
+      for top {TOP}! Check holographic list to modify it /hd list. Remember not to
+      use the same holo identifier or lines will duplicate!'
+    Invalid-identifier: '&cIdentifier is not a valid leaderboard!'
+    Top-must-be-greater-than-one: '&cTop number must be at least 1!'
+    Top-must-be-lower-than-twenty: '&cTop number must be lower equal than 20!'
+  Placeholder-leaderboard:
+    Created: '&aSuccessfully created placeholder leaderboard ''{IDENTIFIER}''. Plugin
+      will now track data!'
+    Error: '&cError creating placeholder leaderboard. Identifier might be already
+      in use, if issue persists contact developer.'
+    Wrong-order: '&cDecrease option must be true or false. (Default true)'
+    Wrong-decimal: '&cDecimal option must be true or false. (Default false)'
+    Disabled-placeholderapi: '&cPlaceholderAPI is not enabled in this server. You
+      cannot create placeholders leaderboards :('
+    Disabled-citizens: '&cCitizens is not enabled in this server. You cannot create
+      NPC for leaderboards :('
+  Linked-placeholder-leaderboard:
+    Created: '&aSuccessfully created linked placeholder leaderboard ''{IDENTIFIER}''.
+      Plugin will now track data!'
+    Error: '&cError creating linked placeholder leaderboard. Identifier might be already
+      in use, if issue persists contact developer.'
+    Wrong-order: '&cDecrease option must be true or false. (Default true)'
+    Wrong-decimal: '&cDecimal option must be true or false. (Default false)'
+    Disabled-placeholderapi: '&cPlaceholderAPI is not enabled in this server. You
+      cannot create linked placeholders leaderboards :('
+    Disabled-citizens: '&cCitizens is not enabled in this server. You cannot create
+      NPC for leaderboards :('
+  Open:
+    Invalid-amount: '&cAmount is not a valid page number.'
+    Invalid-identifier: '&cIdentifier is not a valid leaderboard :('
+Permissions:
+  Main: none
+  Admin: alonsoleaderboards.admin
+  Place: alonsoleaderboards.place
+  Break: alonsoleaderboards.break
+  Open: none
+Options:
+  Aliases:
+  - alonsoleaderboard
+  - aleaderboard
+  - aleaderboards
+  Debug-mode: false
+  Default-skin: AlonsoAliaga
+  Default-npc-skin: AlonsoAliaga
+  Delay: 30
+  Async-mode-warning: DO NOT ENABLE ASYNC MODE IF YOU DON'T KNOW WHAT IT DOES. YOU HAVE BEEN WARNED. SUPPORT WON'T BE GIVEN WHEN THIS MODE IS ENABLED AS MOST ERRORS ARE PROBABLY CAUSED BY OTHER PLUGINS NOT SUPPORTING ASYNC PLACEHOLDER PARSE.
+  Async-mode: false
+  GUI:
+    Rows: 6
+    Slots: 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,46,47,48,49,50,51,52
+    Previous:
+      Slot: 45
+      Material: ARROW
+      Displayname: '&ePrevious page'
+    Next:
+      Slot: 53
+      Material: ARROW
+      Displayname: '&ePrevious page'
+    Empty-top:
+      Enabled: false
+      Custom-model-data: 0
+      Color: RED
+    Frame:
+      Enabled: false
+      Custom-model-data: 0
+      Color: BLACK
+  Open-leaderboard:
+    Sign: true
+    Armorstand: true
+    Head: true
+    NPC: true
+Updates:
+  Auto-update-configuration: true
+  Check-updates: true
+  Notify-updates: true
+  Permission: alonsoleaderboards.update
+  Message: '&9[AlonsoLeaderboards] &eA new update has been found! You are using version
+    {CURRENT}. Download version {NEW} here &c{LINK}'

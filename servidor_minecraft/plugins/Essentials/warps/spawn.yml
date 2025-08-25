@@ -1,9 +1,9 @@
-world: bfcc9491-a06a-42f1-ba58-7dfccdadadbf
-world-name: spawn
+world: 8721b8fa-a5d4-4c77-8705-0a7e866f479b
+world-name: NoPvP
 x: 0.5
-y: 100.0
+y: 80.0
 z: 0.5
-yaw: -178.23263549804688
-pitch: -7.35915470123291
+yaw: 359.9707946777344
+pitch: -4.716533660888672
 name: spawn
-lastowner: 1f94f176-d12e-4907-86fb-439e3fb36d02
+lastowner: 7e7cccbf-176d-44c3-88a2-2f279d24f2e5

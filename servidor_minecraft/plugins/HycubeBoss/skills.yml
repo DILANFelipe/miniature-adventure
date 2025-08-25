@@ -1,0 +1,364 @@
+#---------------------------------------------------------------------------------------------------------------------------------
+# Available skill modes:
+#
+# ALL - The skill will be applied to everyone within the radius.
+# RANDOM - The skill will be applied to random people within the radius, with a 50% chance per person for it to happen to them.
+# ONE - Will only effect the closest person to the boss.
+# BOSS - The skill will only effect the boss.
+#
+#---------------------------------------------------------------------------------------------------------------------------------
+# Available skill types:
+#
+# POTION - It's just a potion effect so it'll just apply the specified potions to the player.
+# CUSTOM - It's a custom skill which requires a custom .java class, when this is used please add "customType: {type}" on the line
+#          underneath the type.
+# COMMAND - Just runs specified commands in the commands list.
+#
+#---------------------------------------------------------------------------------------------------------------------------------
+#
+# If you add a customMessage section then it will use that message instead of the one that's defaulted on the boss.
+# Here is an example:
+#
+#  BLIND1:
+#    mode: ALL
+#    type: POTION
+#    radius: 10
+#    showName: 'BLIND'
+#    customMessage: '{boss} Used Blind'
+#
+#---------------------------------------------------------------------------------------------------------------------------------
+
+Skills:
+  BLIND1:
+    mode: ALL
+    type: POTION
+    radius: 10
+    showName: 'CEGADOR'
+
+    Potions:
+      '1':
+        type: POISON
+        level: 2
+        duration: 5
+      '2':
+        type: BLINDNESS
+        level: 2
+        duration: 5
+
+  BLIND2:
+    mode: ALL
+    type: POTION
+    radius: 10
+    showName: 'CEGADOR'
+
+    Potions:
+      '1':
+        type: POISON
+        level: 4
+        duration: 5
+      '2':
+        type: BLINDNESS
+        level: 2
+        duration: 5
+
+  CAGE1:
+    mode: ALL
+    type: CUSTOM
+    customType: CAGE
+    radius: 10
+    showName: 'TRAMPA'
+
+    Cage:
+      Flat: IRON_BLOCK
+      Wall: IRON_FENCE
+      Inside: STATIONARY_LAVA
+
+  CAGE2:
+    mode: ALL
+    type: CUSTOM
+    customType: CAGE
+    radius: 10
+    showName: 'TRAMPA'
+
+    Cage:
+      Flat: IRON_BLOCK
+      Wall: IRON_FENCE
+      Inside: STATIONARY_WATER
+
+  KNOCKBACK1:
+    mode: ALL
+    type: CUSTOM
+    customType: KNOCKBACK
+    radius: 10
+    showName: 'A VOLAR'
+
+    multiplier: 2.5
+
+  KNOCKBACK2:
+    mode: ALL
+    type: CUSTOM
+    customType: KNOCKBACK
+    radius: 10
+    showName: 'A VOLAR'
+
+    multiplier: 3
+
+  DISARM1:
+    mode: ONE
+    type: CUSTOM
+    customType: DISARM
+    radius: 10
+    showName: 'desarmar'
+
+  WARP1:
+    mode: ONE
+    type: CUSTOM
+    customType: WARP
+    radius: 10
+    showName: 'combo magico'
+
+  EXPLOSION1:
+    mode: ALL
+    type: POTION
+    radius: 10
+    showName: 'explosion oscura'
+
+    Potions:
+      '1':
+        type: WITHER
+        level: 3
+        duration: 2
+      '2':
+        type: BLINDNESS
+        level: 3
+        duration: 3
+
+  MINIONS1:
+    mode: BOSS
+    type: CUSTOM
+    customType: MINIONS
+    radius: 5
+    showName: 'goblins temerarios'
+
+    Boss:
+      type: BABY_ZOMBIE
+      name: '&a&lMini-Zombie'
+      health: 100
+      Armor:
+        type: LEATHER
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:20
+        - DURABILITY:100
+      Weapon:
+        type: STONE
+        enchants:
+        - DAMAGE_ALL:5
+        - DURABILITY:5
+      Potions:
+        '1':
+          type: SPEED
+          level: 5
+          duration: -1
+        '2':
+          type: FIRE_RESISTANCE
+          level: 5
+          duration: -1
+
+  MINIONS2:
+    mode: BOSS
+    type: CUSTOM
+    customType: MINIONS
+    radius: 5
+    showName: 'goblins temerarios'
+
+    Boss:
+      type: SKELETON
+      name: '&a&lEsqueletos Esclavos'
+      health: 100
+      Armor:
+        type: IRON
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:20
+        - DURABILITY:100
+      Weapon:
+        type: STONE
+        enchants:
+        - DAMAGE_ALL:5
+        - DURABILITY:5
+      Potions:
+        '1':
+          type: SPEED
+          level: 7
+          duration: -1
+        '2':
+          type: FIRE_RESISTANCE
+          level: 5
+          duration: -1
+
+  MINIONS3:
+    mode: BOSS
+    type: CUSTOM
+    customType: MINIONS
+    radius: 5
+    showName: 'goblins temerarios'
+
+    Boss:
+      type: CAVE_SPIDER
+      name: '&a&lMini-Arañas'
+      health: 100
+      Armor:
+        type: LEATHER
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:20
+        - DURABILITY:100
+      Weapon:
+        type: STONE
+        enchants:
+        - DAMAGE_ALL:5
+        - DURABILITY:5
+      Potions:
+        '1':
+          type: SPEED
+          level: 5
+          duration: -1
+        '2':
+          type: INCREASE_DAMAGE
+          level: 3
+          duration: -1
+        '3':
+          type: FIRE_RESISTANCE
+          level: 5
+          duration: -1
+
+  INSIDIOUS1:
+    mode: ALL
+    type: CUSTOM
+    customType: INSIDIOUS
+    radius: 10
+
+    burnDuration: 4
+
+  INSIDIOUS2:
+    mode: ALL
+    type: CUSTOM
+    customType: INSIDIOUS
+    radius: 10
+
+    burnDuration: 6
+
+###################################################################################################
+## PERSONALIZADOS
+###################################################################################################
+
+  THUNDER1:
+    mode: ALL
+    type: COMMAND
+    radius: 5
+    showName: 'MEGA RAYOS'
+    commands:
+    - 'thor {p}'
+    - 'thor {p}'
+    - 'thor {p}'
+    - 'thor {p}'
+    - 'thor {p}'
+
+  INFERNAL:
+    mode: ALL
+    type: COMMAND
+    radius: 5
+    showName: 'INFERNAL'
+    commands:
+    - 'kit inframundo {p}'
+
+  DINERO:
+    mode: ALL
+    type: COMMAND
+    radius: 10
+    showName: 'DINERO'
+    commands:
+    - 'eco give {p} 500000'
+
+  ICE1:
+    mode: ALL
+    type: POTION
+    radius: 10
+    showName: 'CONGELAMIENTO'
+
+    Potions:
+      '1':
+        type: SLOW
+        level: 10
+        duration: 1
+      '2':
+        type: SLOW_DIGGING
+        level: 10
+        duration: 2
+
+  MINIONS5:
+    mode: BOSS
+    type: CUSTOM
+    customType: MINIONS
+    radius: 50
+    showName: 'ESCLAVOS'
+
+    Boss:
+      type: BABY_ZOMBIE
+      name: 'Dinnerbone'
+      health: 100
+      Armor:
+        type: IRON
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:5
+        - DURABILITY:10
+      Weapon:
+        type: DIAMOND
+        enchants:
+        - DAMAGE_ALL:120
+        - DURABILITY:13
+      Potions:
+        '1':
+          type: SPEED
+          level: 2
+          duration: -1
+        '2':
+          type: FIRE_RESISTANCE
+          level: 3
+          duration: -1
+        '3':
+          type: INCREASE_DAMAGE
+          level: 5
+          duration: -1
+  MINIONS6:
+    mode: BOSS
+    type: CUSTOM
+    customType: MINIONS
+    radius: 50
+    showName: 'CARRY'
+
+    Boss:
+      type: ZOMBIE
+      name: 'Carry'
+      health: 100
+      Armor:
+        type: IRON
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:5
+        - DURABILITY:10
+      Weapon:
+        type: DIAMOND
+        enchants:
+        - DAMAGE_ALL:15
+        - DURABILITY:13
+      Potions:
+        '1':
+          type: SPEED
+          level: 1
+          duration: -1
+        '2':
+          type: FIRE_RESISTANCE
+          level: 3
+          duration: -1
+        '3':
+          type: INCREASE_DAMAGE
+          level: 6
+          duration: -1

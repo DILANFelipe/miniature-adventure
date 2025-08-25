@@ -1,0 +1,18 @@
+format-version: '2'
+config:
+  msgToConsole: true
+  enableLeftClick: false
+armor_stands:
+  loc(0,89,-30): {}
+  loc(14,86,-19):
+    commands:
+    - 'rRlL-player clan '
+  loc(2,89,-30):
+    commands:
+    - 'rRlL-player ayuda '
+  loc(-3,89,-30):
+    commands:
+    - 'rRlL-player rtp '
+  loc(-15,86,-19):
+    commands:
+    - 'rRlL-player rewards '

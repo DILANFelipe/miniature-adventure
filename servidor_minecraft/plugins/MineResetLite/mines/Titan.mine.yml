@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 1178
+  maxY: 79
+  maxX: 1959
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 45
+  resetWarnings: []
+  minX: 1925
+  composition:
+    '57:0': 0.3
+    '1:0': 0.4
+    '133:0': 0.3
+  name: Titan
+  resetClock: 3
+  minZ: 1144
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

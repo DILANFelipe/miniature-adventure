@@ -13,11 +13,15 @@
 # Website: https://papermc.io/
 
 _version: 29
+adaptative-chunk-gc: true
+allow-map-decorations: false
 block-updates:
   disable-chorus-plant-updates: false
   disable-mushroom-block-updates: false
   disable-noteblock-updates: false
   disable-tripwire-updates: false
+book:
+  max_pages: 5
 chunk-loading-advanced:
   auto-config-send-distance: true
   player-max-concurrent-chunk-generates: 0
@@ -41,6 +45,13 @@ console:
   enable-brigadier-completions: true
   enable-brigadier-highlighting: true
   has-all-permissions: false
+disconnect-spam:
+  addition: 5
+  enabled: true
+durability-multiplier: 1.0
+hopper:
+  fire-inventory-move-item-event: true
+  push-based: true
 item-validation:
   book:
     author: 8192
@@ -52,16 +63,22 @@ item-validation:
   display-name: 8192
   lore-line: 8192
   resolve-selectors-in-books: false
+knockback:
+  extra-horizontal: 0.5
+  extra-vertical: 0.1
+  friction: 2.0
+  horizontal: 0.4
+  vertical: 0.4
+  vertical-limit: 0.4
 logging:
   deobfuscate-stacktraces: true
 messages:
   kick:
     authentication-servers-down: <lang:multiplayer.disconnect.authservers_down>
     connection-throttle: Connection throttled! Please wait before reconnecting.
-    flying-player: <lang:multiplayer.disconnect.flying>
-    flying-vehicle: <lang:multiplayer.disconnect.flying>
-  no-permission: <red>I'm sorry, but you do not have permission to perform this command.
-    Please contact the server administrators if you believe that this is in error.
+    flying-player: Fly no permitido
+    flying-vehicle: Fly no permitido
+  no-permission: <red>Â¡Comando no permitido!
   use-display-name-in-quit-message: false
 misc:
   chat-threads:
@@ -70,8 +87,9 @@ misc:
   client-interaction-leniency-distance: default
   compression-level: default
   fix-entity-position-desync: true
+  lag-compensate-block-breaking: true
   load-permissions-yml-before-plugins: true
-  max-joins-per-tick: 5
+  max-joins-per-tick: 3
   region-file-cache-size: 256
   strict-advancement-dimension-check: false
   use-alternative-luck-formula: false
@@ -87,8 +105,12 @@ packet-limiter:
       action: DROP
       interval: 4.0
       max-packet-rate: 5.0
+pearl-passthrough:
+  fence_gate: true
+  slab: true
+  tripwire: true
 player-auto-save:
-  max-per-tick: -1
+  max-per-tick: 10
   rate: -1
 proxies:
   bungee-cord:
@@ -114,6 +136,8 @@ timings:
   enabled: true
   hidden-config-entries:
   - database
+  - settings.bungeecord-addresses
+  - settings.velocity-support.secret
   - proxies.velocity.secret
   history-interval: 300
   history-length: 3600

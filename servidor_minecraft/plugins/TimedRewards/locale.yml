@@ -1,0 +1,54 @@
+# Timed Rewards by ImABradley (Ibiza).
+#
+# /Contact
+# Spigot: https://www.spigotmc.org/members/292138/
+
+
+# Use {prefix} in any of the messages and it will
+# be replaced with the below.
+prefix: '&8(&6&lRECOMPENSAS&8) &8&l▸'
+
+
+command:
+  no-permission: '{prefix} &fComando no encontrado.'
+  unknown: '{prefix} &fUsa: &c/trs help &fpara ver la lista de comandos.'
+  invalid: '{prefix} &fUsa: &c/{args}&f.'
+
+  unknown-reward: '{prefix} &cRecompensa desconocida&f: &b{reward}.'
+
+  # /trs blankmessage
+  tr-blankmsg-invalid-player: '{prefix} &bJugador desconocido&f: &a{player}.'
+
+  # /trs reload
+  tr-reload-complete: '{prefix} &f¡Se ha &arecargado el plugin correctamente&f! &8(&e{time}ms&8).'
+
+  # /trs resetclaimtime
+  tr-resetclaimtime-invalid-user: '{prefix} &eJugador incorrecto&f: &c{player}&f.'
+  tr-resetclaimtime-reset: '{prefix} &fHas &arestablecido el cooldown &fde la &brecompensa&f: &c{reward} &fa &4{user}.'
+
+  # /rewards
+  rewards-disabled: '&8(&e&lSURVIVAL&8) &8&l▸ &fComando desconocido.'
+
+
+config-change-available: '{prefix} &fHay una &cnueva versión&f. &aActual: &2{current} &bNueva: &3{new}.'
+
+
+reward-no-permission: '{prefix} &f¡No puedes reclamar este premio!'
+reward-already-claimed: '{prefix} &f¡Has reclamado eso el día de hoy!'
+
+reward-cooldown:
+
+  # If a reward can be claimed, the format will be replaced with the below.
+  now: '&e&n¡Haz click para reclamar!&f &e&l✔'
+
+  # Here you can define your own placeholders which can be used for
+  # reward item lores. For example, to use the cooldown_digital format
+  # in your unclaimed lore, simply use {cooldown_digital}.
+  #
+  # Placeholders:
+  # {days}, {hours}, {minutes}, {seconds}
+  formats:
+    cooldown_digital: '&c¡Disponible en {hours}h, {minutes}m, {seconds}s!'
+    cooldown_digital_short: '&c¡Disponible en {hours}h, {minutes}m, {seconds}s!'
+    cooldown_long: '&c¡Disponible en {hours}h, {minutes}m, {seconds}s!'
+    your_own_custom_one: '&c¡Disponible en {hours}h, {minutes}m, {seconds}s!'

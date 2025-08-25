@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 2497
+  maxY: 127
+  maxX: -925
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 93
+  resetWarnings: []
+  minX: -959
+  composition:
+    '57:0': 0.45
+    '1:0': 0.1
+    '133:0': 0.45
+  name: Exclusiva
+  resetClock: 3
+  minZ: 2463
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

@@ -1,0 +1,68 @@
+descriptions:
+  help: Hilfreiche Befehle fÃ¼r VoteParty.
+  setcounter: Setzt den aktuellen StimmenzÃ¤hler.
+  addvote: Add a vote to a player with the ability to trigger or not the rewards.
+  addpartyvote: Add a vote to the party
+  startparty: Erzwingt eine VoteParty.
+  givecrate: Versorge ein Player mit einem Vote.
+  giveparty: FÃ¼hrt eine Private Vote Party fÃ¼r einen Spieler durch.
+  reload: LÃ¤dt die KonÂ­fiÂ­guÂ­raÂ­tiÂ­on und die Sprach Daten erneut.
+  checkvotes: Checkt die Anzahl der Votes die ein Spieler hat.
+  totalvotes: Erhalte die Gesamtanzahl an Stimmen, die ein Spieler hat.
+  resetvotes: Setze die Anzahl der Stimmen zurÃ¼ck, die ein Spieler hat.
+  claim: Beanspruchen der Belohnung fÃ¼r Offline Votes.
+  claimall: Claim all rewards from offline votes at once.
+error:
+  invalid-number: '&fEntschuldige, aber diese Zahl muss positiv sein, um korrekt zu
+    funktionieren!'
+  disabled-world: '&fEntschuldige, aber dieser Spieler ist derzeit in einer deaktivierten
+    Welt!'
+  user-not-found: '&fEntschuldige, dieser Spieler konnte nicht gefunden werden!'
+info:
+  votes-needed: '&d%voteparty_votes_required_party% Votes &fbenÃ¶tigt fÃ¼r die nÃ¤chste
+    Party.'
+  reloaded: '&fDie KonÂ­fiÂ­guÂ­raÂ­tiÂ­on wurde neu geladen!'
+  player-total-votes: '&d%player_name% &fhat &d%voteparty_player_votes% &fvote(s)!'
+  player-check-votes: '&d%player_name% &f hat in &d{count} &fZeit der letzten &d{amount}
+    {unit}&d &fgevotet!'
+  vote-count-reset: '&d%player_name%&f''s Stimmenanzahl wurde zurÃ¼ckgesetzt auf &d0&f!'
+party:
+  force-start-successful: '&fDu hast eine &dVote Party gestartet &ffÃ¼r alle Spieler
+    online!'
+  requirements-not-met: '&fSorry, but you did not meet the requirements to join this
+    party!'
+votes:
+  votes-needed-updated: '&fNeue erforderlichen Stimmen wurden gesetzt! &d%voteparty_votes_required_party%
+    Votes &fwerden benÃ¶tigt fÃ¼r die nÃ¤chste Party.'
+  vote-counter-updated: '&fAktuell Votes wurden geupdated zu &d%voteparty_votes_recorded%&f!'
+  private-party-given: '&fDu gibst eine Private &dVote Party &ffÃ¼r &d%player_name%&f!'
+  private-party-received: '&fDu hast eine private &dVote Party&f erhalten!'
+  added-to-player: '&fDu hast {count} Stimmen fÃ¼r %player_name% gegeben!'
+  inventory-full: '&fDein Inventar scheint voll zu sein! Wir haben deine Vote Belohnung
+    in dein Rucksack gepackt! Mache /vp claim, sobald dein Inventar nicht voll ist!'
+crate:
+  crate-given: '&fDu hast &d%player_name% &fvote bekommen oder erstellt!'
+  crate-received: Du hast ein Vote erstellt!
+claim:
+  success: '&fDu hast erfolgreich die Belohnungen von deiner Offline-Abstimmung abgeholt!
+    Du hast &d{claim} &fnoch zur abzuholen.'
+  success-all: '&fYou successfully claimed the rewards for all offline votes!'
+  none: '&fDu hast keine Belohnungen von Offline-Votes!'
+  notify: '&fHey! Du scheinst offline abgestimmt zu haben! Du hast eine oder einige
+    Belohnungen! Sammle sie durch die Verwendung von &d/vp claim&f &fein!'
+  full: '&aDein Inventar ist voll! Mache platz und versuche es erneut!'
+  full-all: '&aYour inventory is full! Make some space and try again! You have claimed
+    &d{claimed} &aoffline rewards. You have &d{claim} &aleft to claim.'
+help:
+  header: <strikethrough><dark_purple>      </strikethrough> <light_purple>VoteParty Hilfe <strikethrough><dark_purple>      </dark_purple></strikethrough>
+  line-text: |
+    <dark_gray>â€¢ <hover:show_text:'{line-hover}'><light_purple>/vp</light_purple> <white>{cmd}</white></hover>
+  line-hover: |-
+    <light_purple>{text}
+    <white>{desc}
+
+    <gray>/vp {cmd} <white>{args}
+    <dark_gray>{perm}</dark_gray>
+  footer: |-
+    <strikethrough><dark_purple>                               </dark_purple></strikethrough>
+    <italic><gray>Hover for more info</gray></italic>

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.121.115.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691478407369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691478448570
+  login: 1691478274143
+money: '10000'
+last-account-name: Namecito
+lastlocation:
+  world: 8721b8fa-a5d4-4c77-8705-0a7e866f479b
+  world-name: NoPvP
+  x: 1242.9131935996952
+  y: 116.54102143488296
+  z: 1773.1818950500362
+  yaw: 143.26698303222656
+  pitch: 7.3273162841796875
+logoutlocation:
+  world: 8721b8fa-a5d4-4c77-8705-0a7e866f479b
+  world-name: NoPvP
+  x: -24.875291245670557
+  y: 101.91595734294853
+  z: 32.63678208804096
+  yaw: 115.24293518066406
+  pitch: 8.121320724487305

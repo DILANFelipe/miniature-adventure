@@ -1,0 +1,23 @@
+# MessageAnnouncer v1.12.2 Main configuration
+announcer_enabled: true
+announcer_random: false
+announce_interval: 36000
+sound:
+  enabled: true
+  sound_name: NOTE_PLING
+  volume: 1
+  pitch: 1
+interval_announcement_list:
+- default
+announcements:
+  default:
+  - '{"text": "&f"}'
+  - '{"text": "         &e&nâ™º&r  &e&lSURVIVAL OP  &e&nâ™º&r"}'
+  - '{"text": "&f"}'
+  - '{"text": "&f    Â¡Nos encontramos en &6&lBETA!"}'
+  - '{"text": "&f El survival es demasiado nuevo"}'
+  - '{"text": "&f  por lo tanto les agradecemos"}'
+  - '{"text": "&f   sus &esugerencias y reportes âœ”"}'
+  - '{"text": "&f"}'
+  - '{"text": "&6          &ndiscord.gg/minevy"}'
+  - '{"text": "&f"}'

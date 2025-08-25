@@ -1,0 +1,188 @@
+# 
+# PAGINA 1
+location: NoPvP:2.0:84.600:16.5
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c&l&nASESINATOS&r'
+    height: 0.29
+  - content: '&7(Gana dinero jugando)'
+    height: 0.2
+  - content: '&r'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_1%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_2%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_3%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_4%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_5%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_6%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_7%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_8%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_9%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topkills_10%'
+    height: 0.2
+  - content: '&r'
+    height: 0.27
+  - content: '&c&n(Haz click para cambiar)'
+    height: 0.29
+  actions:
+    LEFT:
+    - PAGE:tops:2
+    - SOUND:CLICK
+    RIGHT:
+    - PAGE:tops:2
+    - SOUND:CLICK
+- lines:
+  - content: '&b&l&nTIEMPO JUGADO'
+    height: 0.29
+  - content: '&7(Gana dinero jugando)'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_1%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_2%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_3%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_4%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_5%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_6%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_7%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_8%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_9%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_horas_10%'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&b&n(Haz click para cambiar)'
+    height: 0.29
+  actions:
+    LEFT:
+    - PAGE:tops:3
+    - SOUND:CLICK
+    RIGHT:
+    - PAGE:tops:3
+    - SOUND:CLICK
+- lines:
+  - content: '&a&l&nBLOQUES MINADOS'
+    height: 0.29
+  - content: '&7(Gana dinero jugando)'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_1%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_2%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_3%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_4%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_5%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_6%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_7%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_8%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_9%'
+    height: 0.27
+  - content: '%alonsoleaderboards_ranking_topbloques_10%'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&a&n(Haz click para cambiar)'
+    height: 0.29
+  actions:
+    LEFT:
+    - PAGE:tops:4
+    - SOUND:CLICK
+    RIGHT:
+    - PAGE:tops:4
+    - SOUND:CLICK
+- lines:
+  - content: '&r'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&e&l&nKOTH CAPTURADOS&r &e(Jugador)'
+    height: 0.29
+  - content: '&7(Gana dinero jugando)'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: §e1. §f%koth_topplayer_1% §7- §e%koth_topplayer_1_amount%
+    height: 0.3
+  - content: §e2. §f%koth_topplayer_2% §7- §e%koth_topplayer_2_amount%
+    height: 0.3
+  - content: §e3. §f%koth_topplayer_3% §7- §e%koth_topplayer_3_amount%
+    height: 0.3
+  - content: §e4. §f%koth_topplayer_4% §7- §e%koth_topplayer_4_amount%
+    height: 0.3
+  - content: §e5. §f%koth_topplayer_5% §7- §e%koth_topplayer_5_amount%
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&e&n(Haz click para cambiar)'
+    height: 0.29
+  actions:
+    LEFT:
+    - PAGE:tops:5
+    - SOUND:CLICK
+    RIGHT:
+    - PAGE:tops:5
+    - SOUND:CLICK
+- lines:
+  - content: '&r'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&6&l&nKOTH CAPTURADOS&r &6(Clan)'
+    height: 0.29
+  - content: '&7(Gana dinero jugando)'
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: §e1. §f%koth_topteam_1% §7- §e%koth_topteam_1_amount%
+    height: 0.3
+  - content: §e2. §f%koth_topteam_2% §7- §e%koth_topteam_2_amount%
+    height: 0.3
+  - content: §e3. §f%koth_topteam_3% §7- §e%koth_topteam_3_amount%
+    height: 0.3
+  - content: §e4. §f%koth_topteam_4% §7- §e%koth_topteam_4_amount%
+    height: 0.3
+  - content: §e5. §f%koth_topteam_5% §7- §e%koth_topteam_5_amount%
+    height: 0.27
+  - content: '&r'
+    height: 0.27
+  - content: '&6&n(Haz click para cambiar)'
+    height: 0.29
+  actions:
+    LEFT:
+    - PAGE:tops:1
+    - SOUND:CLICK
+    RIGHT:
+    - PAGE:tops:1
+    - SOUND:CLICK

@@ -1,0 +1,83 @@
+# see https://github.com/okx-code/Rankup3/wiki/Rank-format      
+
+# this name doesn't matter
+1:
+  rank: 'default'
+  next: 'granjero'
+  requirements:
+    - 'money 20000'
+2:
+  rank: 'granjero'
+  next: 'campesino'
+  requirements:
+    - 'money 40000'
+3:
+  rank: 'campesino'
+  next: 'comerciante'
+  requirements:
+    - 'money 100000'
+4:
+  rank: 'comerciante'
+  next: 'guerrero'
+  requirements:
+    - 'money 200000'
+5:
+  rank: 'guerrero'
+  next: 'caballero'
+  requirements:
+    - 'money 400000'
+6:
+  rank: 'caballero'
+  next: 'mercenario'
+  requirements:
+    - 'money 1000000'
+7:
+  rank: 'mercenario'
+  next: 'brujo'
+  requirements:
+    - 'money 2000000'
+8:
+  rank: 'brujo'
+  next: 'noble'
+  requirements:
+    - 'money 4000000'
+9:
+  rank: 'noble'
+  next: 'baron'
+  requirements:
+    - 'money 8000000'
+10:
+  rank: 'baron'
+  next: 'marques'
+  requirements:
+    - 'money 10000000'
+11:
+  rank: 'marques'
+  next: 'conde'
+  requirements:
+    - 'money 30000000'
+12:
+  rank: 'conde'
+  next: 'duque'
+  requirements:
+    - 'money 50000000'
+13:
+  rank: 'duque'
+  next: 'principe'
+  requirements:
+    - 'money 80000000'
+14:
+  rank: 'principe'
+  next: 'monarca'
+  requirements:
+    - 'money 120000000'
+15:
+  rank: 'monarca'
+  next: 'rey'
+  requirements:
+    - 'money 180000000'
+16:
+  rank: 'rey'
+  next: 'emperador'
+  requirements:
+    - 'money 300000000'

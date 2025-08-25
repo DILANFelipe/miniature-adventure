@@ -1,0 +1,104 @@
+menu_title: '&8Menú | &a&lMASCOTAS'
+update_interval: 1
+open_command:
+- mascotas
+- mascota
+- pets
+- pet
+size: 45
+items:
+  '1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5ZWE2ZTM2ZjllNTc5ZjU4NmFkYjE5MzdiYjE0Mzc3YjBkNzQwMzRmZmNiMjU1NmEyYWNiNDM1NjcxNDQ4ZiJ9fX0='
+    slot: 10
+    display_name: '&d&l▐ &dHabilidades'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fSelecciona una habilidad'
+    - '&fpara tu nueva mascota.'
+    - ''
+    - '&d • &fComando: &d&n/pcst'
+    - ''
+    - '&d&n(Haz click para acceder)'
+    left_click_commands:
+    - '[player] pcst'
+    - '[close]'
+    right_click_commands:
+    - '[player] pcst'
+    - '[close]'
+ 
+  '2':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAwYmY0YmYxNGM4Njk5YzBmOTIwOWNhNzlmZTE4MjUzZTkwMWU5ZWMzODc2YTJiYTA5NWRhMDUyZjY5ZWJhNyJ9fX0='
+    slot: 12
+    display_name: '&e&l▐ &eRenombrar mascota'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fCambiale el nombre a tu mascota'
+    - '&fpara que sea totalmente única.'
+    - ''
+    - '&e • &fComando: &e&n/petname'
+    - ''
+    - '&e&n(Haz click para renombrar)'
+    left_click_commands:
+    - '[player] petname'
+    - '[close]'
+    right_click_commands:
+    - '[player] petname'
+    - '[close]'
+ 
+  '3':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA2MmQ4ZDcyZjU4OTFjNzFmYWIzMGQ1MmUwNDgxNzk1YjNkMmQzZDJlZDJmOGI5YjUxN2Q3ZDI4MjFlMzVkNiJ9fX0='
+    slot: 14
+    display_name: '&c&l▐ &cAleja a tu mascota'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAleja a tu mascota un rato'
+    - '&fpara que no te moleste.'
+    - ''
+    - '&c • &fComando: &c&n/petsendaway'
+    - ''
+    - '&c&n(Haz click para alejar)'
+    left_click_commands:
+    - '[player] petsendaway'
+    - '[close]'
+    right_click_commands:
+    - '[player] petsendaway'
+    - '[close]'
+ 
+  '4':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4NWEyOTk1N2Q0MGZhNTY0ZDVlMzFjYmQ5MDVlMzY5NGE2MTYzOTNjZTEzNzEwYmZjMzFiMWI4YjBhNTIyZCJ9fX0='
+    slot: 16
+    display_name: '&a&l▐ &aSuelta a tu mascota'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fYa no será más tu mascota, ten'
+    - '&fcuidado, la perderás totalmente.'
+    - ''
+    - '&a • &fComando: &a&n/petrelease'
+    - ''
+    - '&a&n(Haz click para liberar)'
+    left_click_commands:
+    - '[player] petrelease'
+    - '[close]'
+    right_click_commands:
+    - '[player] petrelease'
+    - '[close]'
+  'Minaespoja':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk3ZjVhODExZjI0ZDkyZTc2NmVhNTk4NWExNTQwNThmMmYzZWQ2NWZjOWI0NmUwMGNkMjBjNGM0MGViNWFkZCJ9fX0='
+    slot: 31
+    priority: 2
+    display_name: '&e¿Cómo obtener una mascota?'
+    lore:
+    - '&7Asesina a el mob que quieras'
+    - '&7de mascota con una soga.'
+    - ''
+    - '&c • &c&lTIP:'
+    - '&fUna mascota te agrega más'
+    - '&fhabilidades en tu Survival.'
+    left_click_commands:
+    - '[close]'
+    right_click_commands:
+    - '[close]'

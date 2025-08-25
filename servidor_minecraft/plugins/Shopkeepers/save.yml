@@ -1,0 +1,3161 @@
+'17':
+  uniqueId: ae042983-db19-4d0a-a5c6-689396743882
+  name: ''
+  world: NoPvP
+  x: -36
+  y: 79
+  z: -14
+  type: admin
+  object:
+    type: villager
+    uuid: ac0a63bd-88e2-46f8-8365-a5713b4b0741
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 32
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREBALL
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7l\xa7nINFRAMUNDO"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa74\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fConsigue est\xe1 piedra en eventos"
+          - "\xa7r\xa7fde \xa74\"paquetes/boss\" \xa7fy compra"
+          - "\xa7r\xa7flas cosas m\xe1s legendarias. \xa74\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa74\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+'18':
+  uniqueId: 5fa3ef19-69cb-43fb-a650-0e8785c8eb34
+  name: ''
+  world: NoPvP
+  x: -38
+  y: 79
+  z: -14
+  type: admin
+  object:
+    type: villager
+    uuid: 5e7e98b7-d675-4a59-b358-f2273a45e241
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 6
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7a\u25aa \xa7lEVERYONE \xa77(Nivel I)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: YELLOW_FLOWER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa76\u25aa \xa7lPOWERVY"
+          lore:
+          - "\xa78Informaci\xf3n"
+          - ''
+          - "\xa7fAhorra tiempo en combate"
+          - "\xa7fcon esta flor m\xe1gica. \xa7e\u2714"
+          - ''
+          - "\xa7e\u2590 \xa7fTiempo: \xa7e60s"
+          - "\xa77\xbb \xa7fVelocidad: \xa7b2"
+          - "\xa77\xbb \xa7fFuerza: \xa7c2"
+          - ''
+          - "\xa77\xa7n\xa1Haz click-derecho!"
+          enchants:
+            LUCK: 1
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+          internal: H4sIAAAAAAAAAONiYOBgYC/LL03OSC1iYPXNz0utZAAAwBFq/hUAAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa74\u25aa \xa7lPOWERVY+"
+          lore:
+          - "\xa78Informaci\xf3n"
+          - ''
+          - "\xa7fMata a todos tus enemigos"
+          - "\xa7fcon este fuerte hechizo."
+          - ''
+          - "\xa7e\u2590 \xa7fTiempo: \xa7e150s"
+          - "\xa77\xbb \xa7fVelocidad: \xa7b2"
+          - "\xa77\xbb \xa7fFuerza: \xa7c2"
+          - ''
+          - "\xa77\xa7n\xa1Haz click-derecho!"
+          enchants:
+            LUCK: 1
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+          internal: H4sIAAAAAAAAAONiYOBgYC/LL03OSC1iYPPNz0utLGYAAPpqBcMWAAAA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        damage: 8233
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREBALL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7l\xa7nINFRAMUNDO"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa74\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fConsigue est\xe1 piedra en eventos"
+          - "\xa7r\xa7fde \xa74\"paquetes/boss\" \xa7fy compra"
+          - "\xa7r\xa7flas cosas m\xe1s legendarias. \xa74\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa74\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7b\u25aa \xa7lSUPER POCIMA"
+          lore:
+          - "\xa78Informaci\xf3n"
+          - ''
+          - "\xa7e\u2590 \xa7fTiempo: \xa7e120s"
+          - "\xa77\xbb \xa7fVelocidad: \xa762"
+          - "\xa77\xbb \xa7fFuerza: \xa763"
+          - ''
+          - "\xa77\xa7n\xa1Haz click-derecho!"
+          enchants:
+            LUCK: 1
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+          internal: H4sIAAAAAAAAAONiYOBgYC/LL03OSC1iYPfNz0utLDZkAAAU4o9eFwAAAA==
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SILK_TOUCH: 1
+'19':
+  uniqueId: 610e432e-8441-4aa4-a4e2-545b897783ee
+  name: ''
+  world: NoPvP
+  x: -40
+  y: 79
+  z: -14
+  type: admin
+  object:
+    type: villager
+    uuid: 320cdf30-82d0-4563-b434-32d563168885
+    prof: FARMER
+  recipes: {}
+'20':
+  uniqueId: 2e463972-98a6-416d-94a1-1673c87a6c5e
+  name: ''
+  world: NoPvP
+  x: -57
+  y: 82
+  z: -35
+  type: admin
+  object:
+    type: villager
+    uuid: 41073c8b-2989-4a6c-963b-56d65ab28535
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa79\u25aa \xa7lOCULTISTA"
+          lore:
+          - "\xa7cVampiro I"
+          enchants:
+            DAMAGE_ALL: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 1
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7a\u25aa \xa7lEVERYONE \xa77(Nivel I)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 1
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lDRAPONE \xa77(Nivel II)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 2
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa79\u25aa \xa7lOCULTISTA"
+          enchants:
+            ARROW_DAMAGE: 10
+'21':
+  uniqueId: 63bb3e3b-bcd9-4e2f-bda2-203abd506cda
+  name: ''
+  world: NoPvP
+  x: -55
+  y: 82
+  z: -36
+  type: admin
+  object:
+    type: villager
+    uuid: f4993df8-74d5-4271-88eb-63e06634be20
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7lMEDIEVAL"
+          lore:
+          - "\xa7cCarga II"
+          - "\xa7cAerial III"
+          enchants:
+            DAMAGE_ALL: 4
+            DURABILITY: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 2
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lDRAPONE \xa77(Nivel II)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 2
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lAVANZADO \xa77(Nivel III)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 6
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 2
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7lMEDIEVAL"
+          enchants:
+            ARROW_DAMAGE: 20
+'22':
+  uniqueId: 8dec90aa-49d9-4896-a51f-93110d24ad77
+  name: ''
+  world: NoPvP
+  x: -53
+  y: 82
+  z: -36
+  type: admin
+  object:
+    type: villager
+    uuid: 2849a035-d7dc-4e89-83c2-00a1f6698cd6
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa72\u25aa \xa7lVERDUGO"
+          lore:
+          - "\xa7cRobo de vida II"
+          - "\xa7cDesangramiento I"
+          - "\xa7cIce Aspect I"
+          enchants:
+            DAMAGE_ALL: 3
+            FIRE_ASPECT: 1
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7l\xa7nMONEVY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7e\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna moneda muy com\xfan, ve al"
+          - "\xa7r\xa7fmercado a ver si consigues"
+          - "\xa7r\xa7fcomprar alguna espada \xa7e\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7e\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lAVANZADO \xa77(Nivel III)"
+          lore:
+          - "\xa7dExperiencia I"
+          enchants:
+            DIG_SPEED: 6
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 2
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGRmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpILkGQBbjmlCMAAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7lHEROICO \xa77(Nivel IV)"
+          lore:
+          - "\xa7dExperiencia I"
+          - "\xa7dDetonaci\xf3n I"
+          enchants:
+            DIG_SPEED: 8
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpALlGZkZxNHkU1JL8vMSS8CyDABnqel2TgAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa72\u25aa \xa7lVERDUGO"
+          lore:
+          - "\xa7cDebilitado I"
+          enchants:
+            ARROW_DAMAGE: 30
+            Custom Enchantment: 0
+'23':
+  uniqueId: 091707fb-3eb2-4974-92dc-7fee42b617d2
+  name: ''
+  world: NoPvP
+  x: -58
+  y: 81
+  z: -13
+  type: admin
+  object:
+    type: villager
+    uuid: cdd5ce8b-30c7-4f25-8d50-70a4ef05cc0e
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cIce Aspect II"
+          - "\xa7cAerial II"
+          enchants:
+            DAMAGE_ALL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cAutorepair I"
+          - "\xa7cEscudo Regenerador II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cAutorepair I"
+          - "\xa7cEscudo Regenerador II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cAutorepair I"
+          - "\xa7cEscudo Regenerador II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cAutorepair I"
+          - "\xa7cEscudo Regenerador II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7lHEROICO \xa77(Nivel IV)"
+          lore:
+          - "\xa7dExperiencia I"
+          - "\xa7dDetonaci\xf3n I"
+          enchants:
+            DIG_SPEED: 8
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpALlGZkZxNHkU1JL8vMSS8CyDABnqel2TgAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7a\u25aa \xa7lREALEZA \xa77(Nivel V)"
+          lore:
+          - "\xa7dExperiencia I"
+          - "\xa7dDetonaci\xf3n I"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 4
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpALlGZkZxNHkU1JL8vMSS8CyDABnqel2TgAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cDebilitado II"
+          enchants:
+            ARROW_DAMAGE: 35
+            DURABILITY: 3
+            Custom Enchantment: 0
+'24':
+  uniqueId: af860864-efc7-419e-827c-f7af02768fe3
+  name: ''
+  world: NoPvP
+  x: -60
+  y: 81
+  z: -13
+  type: admin
+  object:
+    type: villager
+    uuid: 7d7b90f9-d3ae-46c0-8db2-9e4010dc6516
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 9
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cVeneno I"
+          - "\xa7cDecapitador I"
+          enchants:
+            DAMAGE_ALL: 7
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 6
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cEmbrujado I"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cEmbrujado I"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cEmbrujado I"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa76\u25aa \xa7l\xa7nONLY"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa76\xbb Informaci\xf3n:"
+          - "\xa7r\xa76\xa7l\xa1ES ORO!\xa7f est\xe1 moneda parece"
+          - "\xa7r\xa7fser muy cara, ve al mercado"
+          - "\xa7r\xa7fpara ver que te ofrecen. \xa76\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa76\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cEmbrujado I"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7a\u25aa \xa7lREALEZA \xa77(Nivel V)"
+          lore:
+          - "\xa7dExperiencia I"
+          - "\xa7dDetonaci\xf3n I"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 10
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 4
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpALlGZkZxNHkU1JL8vMSS8CyDABnqel2TgAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7d\u25aa \xa7lLEGEND \xa77(Nivel VI)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n I"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 12
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 5
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS0CyjAwA2KH2v04AAAA=
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 9
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cBlaze I"
+          enchants:
+            ARROW_DAMAGE: 40
+            ARROW_INFINITE: 1
+            Custom Enchantment: 0
+'25':
+  uniqueId: a051718b-1c88-4e14-b112-acb8fc8e11ea
+  name: ''
+  world: NoPvP
+  x: -62
+  y: 81
+  z: -13
+  type: admin
+  object:
+    type: villager
+    uuid: fefd86bf-d66d-4c48-af18-89c0cdad7593
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cParalizador I"
+          - "\xa7cRobo de vida I"
+          - "\xa7cAerial I"
+          enchants:
+            DAMAGE_ALL: 5
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 5
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cBrujo I"
+          - "\xa7cLentitud Enemiga I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cBrujo I"
+          - "\xa7cLentitud Enemiga I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cBrujo I"
+          - "\xa7cLentitud Enemiga I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cBrujo I"
+          - "\xa7cLentitud Enemiga I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cTriple Tiro I"
+          enchants:
+            ARROW_DAMAGE: 40
+            ARROW_KNOCKBACK: 1
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+            Custom Enchantment: 0
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7d\u25aa \xa7lLEGEND \xa77(Nivel VI)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n I"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 12
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 5
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS0CyjAwA2KH2v04AAAA=
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lOVERLORD \xa77(Nivel VII)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 14
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 5
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+'26':
+  uniqueId: 25380f71-af64-4877-bda3-0c60c297c0f6
+  name: ''
+  world: NoPvP
+  x: -66
+  y: 82
+  z: -17
+  type: admin
+  object:
+    type: villager
+    uuid: 0731ce5f-ac54-4292-b9ed-d98f56da5f1f
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cAerial II"
+          - "\xa7cIce Aspect I"
+          enchants:
+            DAMAGE_ALL: 9
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 4
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cLentitud Enemiga I"
+          - "\xa7cAutorepair V"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cLentitud Enemiga I"
+          - "\xa7cAutorepair V"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cLentitud Enemiga I"
+          - "\xa7cAutorepair V"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cLentitud Enemiga I"
+          - "\xa7cAutorepair V"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lOVERLORD \xa77(Nivel VII)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 14
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 5
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa72\u25aa \xa7lPICKERO \xa77(Nivel VIII)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 16
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 6
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          enchants:
+            ARROW_DAMAGE: 40
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            ARROW_INFINITE: 1
+            Custom Enchantment: 0
+'27':
+  uniqueId: c482ff33-0441-4dee-ad77-d89312466d98
+  name: ''
+  world: NoPvP
+  x: -68
+  y: 82
+  z: -17
+  type: admin
+  object:
+    type: villager
+    uuid: df9f642d-fdf1-4cb0-83d9-2fb89a8cca5f
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 13
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cRobo de vida II"
+          - "\xa7cDesangramiento I"
+          enchants:
+            DAMAGE_ALL: 9
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cAutorepair II"
+          - "\xa7cEmbrujado II"
+          - "\xa7cLentitud Enemiga II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cAutorepair II"
+          - "\xa7cEmbrujado II"
+          - "\xa7cLentitud Enemiga II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cAutorepair II"
+          - "\xa7cEmbrujado II"
+          - "\xa7cLentitud Enemiga II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7l\xa7nGEMA"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa7c\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fUna piedra digna de gente con"
+          - "\xa7r\xa7fmucho poder, puedes comprar"
+          - "\xa7r\xa7flas cosas m\xe1s poderosas. \xa7c\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa7c\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cAutorepair II"
+          - "\xa7cEmbrujado II"
+          - "\xa7cLentitud Enemiga II"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa72\u25aa \xa7lPICKERO \xa77(Nivel VIII)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa I"
+          enchants:
+            DIG_SPEED: 16
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 6
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa79\u25aa \xa7l\xa7nSTROMER\xa7r \xa77(Nivel IX)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa II"
+          enchants:
+            DIG_SPEED: 18
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 6
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 13
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cTriple Tiro I"
+          enchants:
+            ARROW_DAMAGE: 42
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            DURABILITY: 3
+            ARROW_INFINITE: 1
+            Custom Enchantment: 0
+'28':
+  uniqueId: 3ba983ba-9a72-48c2-a848-0df3440654c5
+  name: ''
+  world: NoPvP
+  x: -70
+  y: 82
+  z: -17
+  type: admin
+  object:
+    type: villager
+    uuid: 29133e4e-558e-446c-9fa6-1d622dcb79eb
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 21
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAerial I"
+          - "\xa7cIce Aspect II"
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAutorepair III"
+          - "\xa7cLentitud Enemiga II"
+          - "\xa7cEscudo Regenerador II"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAutorepair III"
+          - "\xa7cLentitud Enemiga II"
+          - "\xa7cEscudo Regenerador II"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAutorepair III"
+          - "\xa7cLentitud Enemiga II"
+          - "\xa7cEscudo Regenerador II"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAutorepair III"
+          - "\xa7cLentitud Enemiga II"
+          - "\xa7cEscudo Regenerador II"
+          - "\xa7cMaldito I"
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 9
+            DURABILITY: 4
+            Custom Enchantment: 0
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa79\u25aa \xa7l\xa7nSTROMER\xa7r \xa77(Nivel IX)"
+          lore:
+          - "\xa7dExperiencia II"
+          - "\xa7dDetonaci\xf3n II"
+          - "\xa7cPrisa II"
+          enchants:
+            DIG_SPEED: 18
+            DURABILITY: 5
+            LOOT_BONUS_BLOCKS: 6
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpELkxdHkU1JL8vMSS8CyDAAb8tuUTgAAAA==
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7l\xa7nVYMERO\xa7r \xa77(Nivel X)"
+          lore:
+          - "\xa7dExperiencia III"
+          - "\xa7dDetonaci\xf3n III"
+          - "\xa7cPrisa II"
+          enchants:
+            DIG_SPEED: 20
+            DURABILITY: 6
+            LOOT_BONUS_BLOCKS: 6
+            Custom Enchantment: 0
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZmBgYGJmkExMjU/NS85IzCvJTc0rsU6tKEgtygSKpALlmZkZxNHkU1JL8vMSS8CyDADwxhp8TgAAAA==
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 21
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cTriple Tiro II"
+          enchants:
+            ARROW_DAMAGE: 42
+            ARROW_KNOCKBACK: 2
+            ARROW_FIRE: 1
+            DURABILITY: 3
+            ARROW_INFINITE: 1
+            Custom Enchantment: 0
+'29':
+  uniqueId: 0fbc3333-e34d-4764-924d-380d2ccc102b
+  name: ''
+  world: NoPvP
+  x: -75
+  y: 85
+  z: -28
+  type: admin
+  object:
+    type: villager
+    uuid: 7c45d6fd-2ab9-4ec0-9946-499ddf8dde9e
+    prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM"
+          lore:
+          - "\xa7cIce Aspect II"
+          - "\xa7cAerial II"
+          enchants:
+            DAMAGE_ALL: 6
+            DURABILITY: 3
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa77\u25aa \xa7lGOLEM \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cAerial II"
+          - "\xa7cDesangramiento I"
+          - "\xa7cParalizador I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA"
+          lore:
+          - "\xa7cVeneno I"
+          - "\xa7cDecapitador I"
+          enchants:
+            DAMAGE_ALL: 7
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 6
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7c\u25aa \xa7lQUIMERA \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cCarga I"
+          - "\xa7cRobo de vida I"
+          - "\xa7cVeneno I"
+          - "\xa7cCeguera I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO"
+          lore:
+          - "\xa7cParalizador I"
+          - "\xa7cRobo de vida I"
+          enchants:
+            DAMAGE_ALL: 5
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 5
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa73\u25aa \xa7lMINOTAURO \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cCeguera I"
+          - "\xa7cParalizador I"
+          - "\xa7cRobo de vida II"
+          - "\xa7cDecapitador I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX"
+          lore:
+          - "\xa7cAerial II"
+          - "\xa7cIce Aspect I"
+          enchants:
+            DAMAGE_ALL: 9
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 4
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa7e\u25aa \xa7lFENIX \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cWither I"
+          - "\xa7cDecapitador I"
+          - "\xa7cCarga I"
+          - "\xa7cVampiro I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO"
+          lore:
+          - "\xa7cRobo de vida II"
+          - "\xa7cDesangramiento I"
+          enchants:
+            DAMAGE_ALL: 9
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7lMETALIQUIDO \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cBloqueo V"
+          - "\xa7cVampiro I"
+          - "\xa7cWither I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY"
+          lore:
+          - "\xa7cAerial I"
+          - "\xa7cIce Aspect II"
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 28
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa75\u25aa \xa7l\xa7nVYCOIN"
+          lore:
+          - "\xa7r\xa7r\xa78"
+          - "\xa7r\xa75\xbb Informaci\xf3n:"
+          - "\xa7r\xa7fLa moneda m\xe1s legendaria "
+          - "\xa7r\xa7fde todo el servidor, con ella"
+          - "\xa7r\xa7fpuedes comprar todo el mundo. \xa75\u2714"
+          - "\xa7r\xa7f"
+          - "\xa7r\xa7fModo de uso: \xa75\xa7n/intercambios"
+          enchants:
+            DURABILITY: 1
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7r\xa74\u25aa \xa7lSNOVY \xa76\xa7l\xa7n\xa1FULL!"
+          lore:
+          - "\xa7cVeneno I"
+          - "\xa7cBloqueo II"
+          - "\xa7cIce Aspect II"
+          - "\xa7cDesangramiento I"
+          enchants:
+            DAMAGE_ALL: 11
+            DURABILITY: 3
+            FIRE_ASPECT: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 5
+          internal: H4sIAAAAAAAAAONiYGBmYC3OyS8pZgABAJ5E5u8QAAAA
+'30':
+  uniqueId: 4ed6ff0b-8457-4577-af85-07de8285b1d3
+  name: ''
+  world: NoPvP
+  x: -75
+  y: 85
+  z: -30
+  type: admin
+  object:
+    type: villager
+    uuid: 241b208a-165c-4a8e-bafb-6410b35f3845
+    prof: FARMER
+  recipes: {}

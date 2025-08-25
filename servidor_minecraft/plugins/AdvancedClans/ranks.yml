@@ -1,0 +1,39 @@
+ranks:
+  Lider:
+    id: 3
+    display-name: '&4Lider' 
+    prefix: '&c&l%clan%&r'
+    ladderPosition: 3
+    permissions:
+    - ALL
+  Colider:
+    id: 2
+    display-name: '&cColider'
+    prefix: '&6&l%clan%&r'
+    ladderPosition: 2
+    permissions:
+    - ALL
+  Veterano:
+    id: 1
+    display-name: '&eVeterano'
+    prefix: '&e&l%clan%&r'
+    ladderPosition: 1
+    permissions:
+    - BANK_DEPOSIT
+    - BANK_WITHDRAW
+    - BANK_BALANCE
+    - BASE
+    - CHEST
+    - CHAT
+  Miembro:
+    id: 0
+    display-name: '&aMiembro'
+    prefix: '&a&l%clan%&r'
+    ladderPosition: 0
+    default: true
+    permissions:
+    - BANK_DEPOSIT
+    - BANK_WITHDRAW
+    - BANK_BALANCE
+    - BASE
+    - CHAT

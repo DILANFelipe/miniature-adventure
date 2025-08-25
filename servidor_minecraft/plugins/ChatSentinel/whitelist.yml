@@ -1,0 +1,7 @@
+# This plugin uses Regex for checking messages.
+# Set to [] to disable whitelist completely.
+expressions:
+  # Server Domains
+  - (minevy)([.])(net)
+  # Long Youtube Links
+  - (no)([no])(no)(/no)

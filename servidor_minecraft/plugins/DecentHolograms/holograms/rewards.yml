@@ -1,0 +1,22 @@
+location: NoPvP:-15.5:90.550:-19.5
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8(&e&l&nRECOMPENSA DIARIA&8)&r'
+    height: 0.3
+  - content: '&7'
+    height: 0.25
+  - content: '&f¡Conéctate diario y gana premios!'
+    height: 0.25
+  - content: '&fAccede al menú de recompensas para'
+    height: 0.25
+  - content: '&freclamar monedas, dinero y experiencia.'
+    height: 0.45
+  - content: '&e&nClick der-izq para abrir ✔'
+    height: 0.4
+  actions: {}

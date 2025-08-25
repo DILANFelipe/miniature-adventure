@@ -1,0 +1,47 @@
+# The configuration for all Messages.
+
+NoPermission: '&c&lJEFES Â» &fNo tienes permisos para hacer eso.'
+MustBePlayer: '&c&lJEFES Â» &fDebes ser un jugador para hacer eso.'
+InvalidInteger: '&c&lJEFES Â» &fEspecifica un numero valido.'
+InvalidDouble: '&c&lJEFES Â» &fComando mal redactado.'
+InventorySpace: '&c&lJEFES Â» &fNo tienes suficiente espacio en tu inventario.'
+NotOnline: '&c&lJEFES Â» &fEl jugador estÃ¡ desconectado.'
+ITEMSTACK:
+  MIN: '&c&lJEFES Â» &fEl minimo de stack es 1.'
+  MAX: '&c&lJEFES Â» &fEl maximo de stack es 64.'
+COMMAND:
+  BOSS:
+    INVALIDARGS: '&c&lJEFES Â» &fPor favor, usa &e/boss help&f para mas ayuda.'
+    HELP: |2-
+       &4
+      &e/boss spawn (jefe) (x) (y) (z) (mundo) &7- &fGenera un jefe en una localizacion especifica.
+      &e/boss spawn (jefe) (player) &7- &fGenera un jefe en un jugador.
+      &e/boss time &7- &fMira el tiempo de generacion del proximo jefe.
+      &e/boss reload &7- &fRecarga la configuracion del plugin.
+      &e/boss killall &7- &fMata a todos los jefes actuales.
+      &e/boss list &8- &fAbre el menu de jefes.
+      &e/giveegg (jugador) (jefe) (cantidad) &7- &fObten una cantidad de generador de jefe.
+       &4
+    RELOAD: '&c&lJEFES Â» &fPlugin recargado correctamente.'
+    KILLALLBLOCKED: '&c&lJEFES Â» &fEste comando estÃ¡ bloqueado.'
+    KILLALLWORLD: '&c&lJEFES Â» &fEse mundo no existe.'
+    KILLALL: '&c&lJEFES Â» &fHas matado a todos los jefes generados.'
+    LIST: '&c&lJEFES Â» &fAbriendo menu la lista de jefes...'
+    SPAWN:
+      INVALIDBOSS: '&c&lJEFES Â» &fEse jefe no existe.'
+      INVALIDWORLD: '&c&lJEFES Â» &fEse mundo no existe.'
+      INVALIDLOCATION: '&c&lJEFES Â» &fLa localizaciÃ³n no es valida.'
+      SPAWNED: '&c&lJEFES Â» &fSe ha generado el jefe correctamente.'
+    TIME:
+      NOTENABLED: '&c&lJEFES Â» &fEsto ha sido desactivado temporalmente.'
+      TIME: '&c&lJEFES Â» &fEl proximo jefe aparecerÃ¡ en &e{s}'
+  GIVEEGG:
+    INVALIDARGS: '&c&lJEFES Â» &fPor favor, usa &e/giveegg (jugador) (jefe) (cantidad)'
+    INVALIDTYPE: '&c&lJEFES Â» &fEse jefe no existe.'
+    SENDER: '&c&lJEFES Â» &fSe ha enviado &ex{i} &fgenerador de jefe al jugador &e{p}&f.'
+    RECEIVER: '&c&lJEFES Â» &fHas recibido un generador de jefe.'
+CANNOT:
+  SPAWN: '&c&lJEFES Â» &fNo puedes generar un jefe en esta zona.'
+DISARM: '&c&lJEFES Â» &fÂ¡Has sido desarmado! Tu arma ha sido tirada por al rededor
+  tuyo.'
+PERCENTAGETOOLOW: '&c&lJEFES Â» &fTu daÃ±o ha sido muy bajo para recibir una recompensa.'

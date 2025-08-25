@@ -1,0 +1,136 @@
+# ##################################################################################
+#                                                                                  #
+# __      ______ _____ _____   _____ _    _ ______  _____ _______                  #
+# \ \    / / __ \_   _|  __ \ / ____| |  | |  ____|/ ____|__   __|                 #
+#  \ \  / / |  | || | | |  | | |    | |__| | |__  | (___    | |                    #
+#   \ \/ /| |  | || | | |  | | |    |  __  |  __|  \___ \   | |                    #
+#    \  / | |__| || |_| |__| | |____| |  | | |____ ____) |  | |                    #
+#     \/   \____/_____|_____/ \_____|_|  |_|______|_____/   |_|                    #
+#                                                                                  #
+# ##################################################################################
+
+# Items:
+#   <material>
+#    price: <price>
+Items:
+  DIRT:
+    price: 1.8
+  STONE:
+    price: 6.5
+  GRANITE:
+    price: 6.7
+  DIORITE:
+    price: 6.6
+  ANDESITE:
+    price: 6.6
+  OAK_LOG:
+    price: 953.3
+  SPRUCE_LOG:
+    price: 953.3
+  BIRCH_LOG:
+    price: 953.3
+  JUNGLE_LOG:
+    price: 953.3
+  COBBLESTONE:
+    price: 5.8
+  MELON:
+    price: 289.6
+  APPLE:
+    price: 312
+  CARROT:
+    price: 593.7
+  PUMPKIN_PIE:
+    price: 251.7
+  BREAD:
+    price: 93.7
+  COOKED_CHICKEN:
+    price: 93.7
+  BAKED_POTATO:
+    price: 93.7
+  COOKIE:
+    price: 37.5
+  COOKED_FISH:
+    price: 6000.7
+  COOKED_SALMON:
+    price: 6000.7
+  COOKED_RABBIT:
+    price: 93.7
+  COOKED_MUTTON:
+    price: 93.7
+  COOKED_BEEF:
+    price: 46.8
+  COOKED_PORKCHOP:
+    price: 93.7
+  COAL:
+    price: 26
+  REDSTONE:
+    price: 22
+  LAPIS_LAZULI:
+    price: 22
+  IRON_INGOT:
+    price: 22
+  GOLD_INGOT:
+    price: 32
+  DIAMOND:
+    price: 46
+  EMERALD:
+    price: 46
+  QUARTZ:
+    price: 26
+  QUARTZ:
+    price: 26
+  ROTTEN_FLESH:
+    price: 40.0
+  BONE:
+    price: 47.2
+  STRING:
+    price: 34.7
+  SPIDER_EYE:
+    price: 52.6
+  FEATHER:
+    price: 241.2
+  BLAZE_ROD:
+    price: 343.5
+  LEATHER:
+    price: 218.7
+  RABBIT_HIDE:
+    price: 250
+  MAGMA_CREAM:
+    price: 6250.5
+  CACTUS:
+    price: 539.75
+  COCOA_BEANS:
+    price: 503.0
+  NETHER_WART:
+    price: 503.0
+  SUGAR_CANE:
+    price: 406.5
+  PUMPKIN:
+    price: 251.2
+  HOPPER:
+    price: 3500
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+# Shop-Specific:
+#   <voidchest_name>:
+#     <material>:
+#       price: <price>
+Shop-Specific:
+  default:
+    diamond:
+      price: 20
+    diamond_block:
+      price: 95

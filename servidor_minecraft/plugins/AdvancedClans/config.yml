@@ -1,0 +1,127 @@
+config-version: 1.0.5
+database:
+  type: SQLite
+  host: localhost
+  port: 3306
+  user: root
+  password: ''
+  database: clans
+settings:
+  debug: true
+  blacklisted-worlds:
+  - example
+  ignore-pvp-worlds:
+  - no_pvpcheck_world
+  enable-clan-chat: true
+  color-selector-enabled: true
+  colors-enabled:
+    red: true
+    dark_green: true
+    light_purple: true
+    aqua: true
+    green: true
+    dark_purple: true
+    dark_aqua: true
+    dark_gray: true
+    gray: true
+    gold: true
+    yellow: true
+  allow-name-in-colors: false
+  create-cost: 100000
+  max-name-length: 16
+  min-name-length: 3
+  default-level: 1
+  default-slots: 16
+  confirm-delete-time: 10
+  max-enemy-clans: 20
+  max-allies: 4
+  permission-to-bypass-base-cooldown: clans.bypass.base
+  base-teleport-delay: 3
+  blacklisted-worlds-for-bases:
+  - example
+  exp-for-kill: 4
+  max-level-clan: 35
+  slots-per-level: 8
+  clan-chest-size: 54
+  clan-chest-name: '&8Clan | &6&lMOCHILA'
+  save-task:
+    enabled: true
+    time: 1
+  sounds:
+    error: VILLAGER_NO;10;2
+    clan-level-up: LEVEL_UP;10;3
+    chest-break: ITEM_BREAK;10;3
+  chat:
+    clan-chat:
+      clan-chat-format: '&c&lCLAN CHAT &7Â» &f%player% &7Â» &a%msg%'
+      chat-ally-format: '&c&lCLAN CHATALLY &7Â» &7(%player-clan%) &f%player% &7Â»
+        &a%msg%'
+      spy-chat-format: '&c&lSPY CHAT &7Â» &7(%clan%) &f%player% &7Â» &a%msg%'
+    prefixes:
+      before-player-prefix: true
+      use-placeholder-only: false
+  bank:
+    min-withdraw: 10
+    max-withdraw: 999999999
+    min-deposit: 10
+    max-deposit: 999999999
+  unique-server-name: Survival-1
+  server-sync:
+    enabled: false
+    redis-host: localhost
+    redis-port: 6379
+    redis-password: ''
+  colors-unlock-level:
+    red: 40
+    dark_green: 30
+    light_purple: 25
+    aqua: 20
+    green: 15
+    dark_purple: 12
+    dark_aqua: 10
+    dark_gray: 8
+    gray: 5
+    gold: 3
+    yellow: 1
+  slots-system:
+    level-10: 20
+    level-20: 30
+    level-30: 40
+  anti-spam-kills:
+    enabled: true
+    kills-to-activate: 2
+    kills-in-time: 150
+    time-to-deactivate: 60
+  default-color: c
+  colors-slots:
+    red: 1
+    dark_green: 2
+    light_purple: 3
+    aqua: 4
+    green: 5
+    dark_purple: 6
+    dark_aqua: 7
+    dark_gray: 8
+    gray: 9
+    gold: 10
+    yellow: 11
+  clans-blacklist:
+  - fuck
+  - fvck
+  - rape
+  items-blacklist:
+  - BEDROCK
+  - ENDER_PORTAL
+  premium-server: false
+  create-with-items: false
+  item-cost:
+  - OBSIDIAN;32
+  - LEATHER;10
+  disable-pvp-message: false
+  prefix-regex: ^[a-zA-z0-9@#%&*]*$
+  prefix-min-length: 1
+  prefix-max-length: 6
+  experience-needed-formula: '%level%*50'
+  set-new-color-automatic: false
+  create-regex: '[a-zA-z0-9@#%&*]*$'
+  require-prefix-on-creation: true

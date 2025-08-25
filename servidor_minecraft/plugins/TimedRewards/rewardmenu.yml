@@ -1,0 +1,320 @@
+menu:
+  title: '&8Survival | &6&lPREMIO DIARIO'
+  size: 54
+  items:
+    Usuario:
+      slot: 11
+      item:
+        amount: 1
+        material: '342'
+        name: '&e▪ Miembro'
+        lore:
+        - '&8Información'
+        - ''
+        - '&7» &fRango necesario: &cN/A'
+        - '&7▐ &fReclama cada: &e&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $8,000'
+        - '&a- x200 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 8000'
+      - '[CONSOLE]xp give {player} 200'
+    Guerrero:
+      slot: 12
+      item:
+        amount: 1
+        material: '342'
+        name: '&6▪ Guerrero'
+        lore:
+        - '&8Información'
+        - ''
+        - '&7» &fRango necesario: &6Guerrero'
+        - '&7▐ &fReclama cada: &6&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $12,000'
+        - '&a- x600 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 12000'
+      - '[CONSOLE]xp give {player} 600'
+      permission: timedrewards.guerrero
+    Noble:
+      slot: 13
+      item:
+        amount: 1
+        material: '342'
+        name: '&d▪ Noble'
+        lore:
+        - '&8Información'
+        - ''
+        - '&7» &fRango necesario: &dNoble'
+        - '&7▐ &fReclama cada: &d&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $22,000'
+        - '&a- x1,000 XP'
+        - '&6- x1 Inframundo'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 22000'
+      - '[CONSOLE]xp give {player} 1000'
+      - '[CONSOLE]kit inframundo {player}'
+      permission: timedrewards.noble
+    Duque:
+      slot: 14
+      item:
+        amount: 1
+        material: '342'
+        name: '&2▪ Duque'
+        lore:
+        - '&8Información'
+        - ''
+        - '&7» &fRango necesario: &2Duque'
+        - '&7▐ &fReclama cada: &2&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $30,000'
+        - '&a- x1,800 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 30000'
+      - '[CONSOLE]xp give {player} 1800'
+      permission: timedrewards.Duque
+    Emperador:
+      slot: 15
+      item:
+        amount: 1
+        material: '342'
+        name: '&6▪ Emperador'
+        lore:
+        - '&8Información'
+        - ''
+        - '&7» &fRango necesario: &6Emperador'
+        - '&7▐ &fReclama cada: &6&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $50,000'
+        - '&a- x3,000 XP'
+        - '&6- x2 Inframundo'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 50000'
+      - '[CONSOLE]xp give {player} 3000'
+      - '[CONSOLE]kit inframundo {player}'
+      - '[CONSOLE]kit inframundo {player}'
+      permission: timedrewards.Emperador
+###########################################
+# RANGOS
+###########################################
+    Vip:
+      slot: 29
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&a▪ &lVIP'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &a&lVIP'
+        - '&7▐ &fReclama cada: &a&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $22,000'
+        - '&a- x1,200 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 22000'
+      - '[CONSOLE]xp give {player} 1200'
+      permission: timedrewards.vip
+    Elite:
+      slot: 30
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&b▪ &lELITE'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &b&lELITE'
+        - '&7▐ &fReclama cada: &b&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $32,000'
+        - '&a- x1,400 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 32000'
+      - '[CONSOLE]xp give {player} 1400'
+      permission: timedrewards.elite
+    heroe:
+      slot: 31
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&e▪ &lHEROE'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &e&lHEROE'
+        - '&7▐ &fReclama cada: &e&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $40,000'
+        - '&a- x1,600 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 40000'
+      - '[CONSOLE]xp give {player} 1600'
+      permission: timedrewards.heroe
+    titan:
+      slot: 32
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&7▪ &lTITAN'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &7&lTITAN'
+        - '&7▐ &fReclama cada: &7&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $50,000'
+        - '&a- x1,800 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 50000'
+      - '[CONSOLE]xp give {player} 2800'
+      permission: timedrewards.titan
+    Leyenda:
+      slot: 33
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&d▪ &lLEYENDA'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &d&lLEYENDA'
+        - '&7▐ &fReclama cada: &d&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $60,000'
+        - '&a- x2,000 XP'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 60000'
+      - '[CONSOLE]xp give {player} 2000'
+      permission: timedrewards.leyenda
+    Maestro:
+      slot: 39
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&c▪ &lMAESTRO'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &c&lMAESTRO'
+        - '&7▐ &fReclama cada: &c&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $72,000'
+        - '&a- x2,400 XP'
+        - '&6- x1 Inframundo'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 72000'
+      - '[CONSOLE]xp give {player} 2400'
+      - '[CONSOLE]kit inframundo {player}'
+      permission: timedrewards.maestro
+    Ultimate:
+      slot: 41
+      item:
+        amount: 1
+        material: ENDER_CHEST
+        damage: 0
+        name: '&6▪ &lULTIMATE'
+        lore:
+        - '&8Información'
+        - ''
+        - '&f¡Esto es &a&l&nPREMIUM!'
+        - '&atienda.minevy.xyz'
+        - ''
+        - '&7» &fRango necesario: &6&lULTIMATE'
+        - '&7▐ &fReclama cada: &6&n24h'
+        - ''
+        - '&a▪ Contenido:'
+        - '&a- $80,000'
+        - '&a- x3,200 XP'
+        - '&6- x2 Inframundo'
+        - ''
+        - '&a{cooldown_digital}'
+      cooldown: 86400
+      commands:
+      - '[CONSOLE]timedrewards blankmsg {player} &8(&6&lRECOMPENSAS&8) &8&l▸ &f¡Has reclamado tu premio diario!'
+      - '[CONSOLE]eco give {player} 80000'
+      - '[CONSOLE]xp give {player} 3200'
+      - '[CONSOLE]kit inframundo {player}'
+      - '[CONSOLE]kit inframundo {player}'
+      permission: timedrewards.ULTIMATE

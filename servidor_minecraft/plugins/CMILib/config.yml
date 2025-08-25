@@ -4,13 +4,9 @@ Language: EN
 # You can disable this if you are using EN or you already have your locale setup and you dont need to have other languages being downloaded
 LanguageDownload: true
 # When enabled plugin will try to keep CMILib up to date automatically
-AutoUpdate: false
-ExploitPatcher:
-  Placeholders:
-    blocked:
-      # By default we are blocking PAPI %checkitem_...% placeholder to avoid potential serious issues with it
-      # Only disable this if you have dedicated protection for it
-      checkItem: true
+AutoUpdate: true
+# When enabled plugin will try to clean up outdated CMILib files. This only works when autoUpdate is enabled
+AutoFileRemoval: true
 GlobalGui:
   # Defines item type in empty fields in GUI when its needed to be filled up
   EmptyField: BLACK_STAINED_GLASS_PANE
@@ -47,7 +43,7 @@ Images:
 Colors:
   # When enabled plugin will try to detect simplified hex color codes like #f6f6f6 or #ff6 in adition to {#f6f6f6} and {#red}
   # Keep in mind that this adds extra checks and simplified format will not support gradients or named colors so you will still need to use more complex format for those
-  OfficialHex: true
+  OfficialHex: false
   # When enabled plugin will try to detect quirky hex color codes like &#f6f6f6 or &#ff6 in adition to {#f6f6f6} and {#red}
   # Keep in mind that this adds extra checks and quirky format will not support gradients or named colors so you will still need to use more complex format for those
-  QuirkyHex: true
+  QuirkyHex: false

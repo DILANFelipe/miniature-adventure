@@ -1,0 +1,1011 @@
+Global:
+  CreateExplosions: true
+  Updates:
+    ShowPercentageOnUpdate: true
+    CheckOnStartup: true
+    CheckDelay: 300
+  Logging:
+    Enabled: false
+    MinimumMsForLog: 3000
+    LogEvents: true
+    LogItems: true
+    LogEnchantments: true
+  Runecrafting:
+    Enabled: true
+    Disenchanting: false
+    CanStackEnchantments: true
+    TransformationEffect: true
+  Books:
+    Name: '&8* &5&lMAGIA &8*'
+  Enchantments:
+    CEnchantmentColor: RED
+    CEnchantmentTable: false
+    CEnchantingProbability: 0
+    GlowEnchantmentID: 300
+    MaximumCustomEnchantments: 3000
+    UseCustomEnchantmentProbability: false
+    RequirePermissions: true
+  Runecraftin:
+    Enabled: true
+    Disenchanting: false
+    CanStackEnchantments: true
+    TransformationEffect: true
+Enchantments:
+  Gooey:
+    Enabled: false
+    DisplayName: Impulso
+    EnchantmentMaxLevel: 6
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    HeightMultiplier: 3
+    EnchantmentProbability: 5.555555555555555
+  Volley:
+    Enabled: true
+    DisplayName: Triple Tiro
+    EnchantmentMaxLevel: 3
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Blind:
+    Enabled: true
+    DisplayName: Ceguera
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 3
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 25
+    EnchantmentProbability: 5.555555555555555
+  Smelting:
+    Enabled: true
+    DisplayName: Horneado
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    EnchantmentProbability: 25.0
+  Shielded:
+    Enabled: true
+    DisplayName: Escudo Regenerador
+    EnchantmentMaxLevel: 3
+    OccurrenceChance: 1
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    BaseStrength: 3
+    StrengthPerLevel: 1
+    Cooldown: 15
+    EnchantmentProbability: 7.142857142857143
+  Berserker:
+    Enabled: false
+    DisplayName: Berserker
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    DurationPerLevel: 200
+    BaseStrength: 5
+    HpToTrigger: 4
+    Cooldown: 6000
+    EnchantmentProbability: 7.142857142857143
+  Block:
+    Enabled: true
+    DisplayName: Bloqueo
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 20
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    Strength: 1
+    Cooldown: 600
+    EnchantmentProbability: 5.555555555555555
+  Molten:
+    Enabled: false
+    DisplayName: Ardiente
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 60
+    EnchantmentProbability: 7.142857142857143
+  Obsidian Shield:
+    Enabled: true
+    DisplayName: Escudo de Fuego
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 20
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 7.142857142857143
+  Deepwounds:
+    Enabled: true
+    DisplayName: Desangramiento
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 6
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 15
+    BleedChance: 20
+    EnchantmentProbability: 5.555555555555555
+  Wither:
+    Enabled: true
+    DisplayName: Wither
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 40
+    Strength: 1
+    EnchantmentProbability: 5.555555555555555
+  Quickening:
+    Enabled: true
+    DisplayName: Velocidad al Romper
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Strength: 3
+    Duration: 40
+    EnchantmentProbability: 25.0
+  Gears:
+    Enabled: false
+    DisplayName: Velocidad
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    SpeedBoost: 1
+    EnchantmentProbability: 5.882352941176471
+  Implants:
+    Enabled: true
+    DisplayName: AutoFeed
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    FoodBurstDelay: 20
+    EnchantmentProbability: 6.25
+  Revulsion:
+    Enabled: true
+    DisplayName: Embrujado
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 25
+    EnchantmentProbability: 7.142857142857143
+  Energizing:
+    Enabled: true
+    DisplayName: Prisa
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 80
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Strength: 2
+    Duration: 60
+    EnchantmentProbability: 25.0
+  Poison:
+    Enabled: true
+    DisplayName: Veneno
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 25
+    Strength: 1
+    EnchantmentProbability: 5.555555555555555
+  Vampire:
+    Enabled: true
+    DisplayName: Vampiro
+    OccurrenceChance: 25
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    DamageHealFraction: 2
+    Cooldown: 300
+    EnchantmentProbability: 5.555555555555555
+  Bombardment:
+    Enabled: false
+    DisplayName: Bombardment
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    BaseTNTAmount: 3
+    Volume: 1
+    EnchantmentProbability: 6.666666666666667
+  Cursed:
+    Enabled: true
+    DisplayName: Maldito
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 25
+    Strength: 1
+    EnchantmentProbability: 7.142857142857143
+  Firework:
+    Enabled: false
+    DisplayName: Fuegos Artificiales
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    FireworkAmount: 30
+    Delay: 5
+    EnchantmentProbability: 6.666666666666667
+  Poisoned:
+    Enabled: true
+    DisplayName: Brujo
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 25
+    Strength: 1
+    EnchantmentProbability: 7.142857142857143
+  Glowing:
+    Enabled: true
+    DisplayName: VisiÃ³n Nocturna
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    EnchantmentProbability: 6.25
+  Piercing:
+    Enabled: false
+    DisplayName: Piercing
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Endershift:
+    Enabled: true
+    DisplayName: Resplandor Final
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 15
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 250
+    Strength: 5
+    HpToTrigger: 4
+    Cooldown: 6000
+    EnchantmentProbability: 7.142857142857143
+  Enlighted:
+    Enabled: true
+    DisplayName: Iluminado
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 20
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 40
+    Strength: 1
+    EnchantmentProbability: 7.142857142857143
+  Lightning:
+    Enabled: true
+    DisplayName: Rayo
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 5
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    LightningChance: 0
+    EnchantmentProbability: 6.666666666666667
+  Molotov:
+    Enabled: true
+    DisplayName: Lluvia de Flechas
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 20
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Cloaking:
+    Enabled: true
+    DisplayName: Sigilo
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    DurationPerLevel: 60
+    Cooldown: 200
+    EnchantmentProbability: 7.142857142857143
+  Cripple:
+    Enabled: true
+    DisplayName: Paralizador
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    Duration: 40
+    Strength: 1
+    EnchantmentProbability: 5.555555555555555
+  Healing:
+    Enabled: false
+    DisplayName: Healing
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Shuffle:
+    Enabled: true
+    DisplayName: Teletransporte
+    OccurrenceChance: 10
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Charge:
+    Enabled: true
+    DisplayName: Carga
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 5
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    DamageIncreasePercentagePerLevel: 25
+    EnchantmentProbability: 5.555555555555555
+  Explosive:
+    Enabled: true
+    DisplayName: Explosivo
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 80
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    Radius: 3
+    LargerRadius: true
+    DropItems: true
+    EnchantmentProbability: 300.0
+  Bounty Hunter:
+    Enabled: false
+    DisplayName: Bounty Hunter
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    MaximumBounty: 8
+    Cooldown: 600
+    ChanceEmerald: 2.5
+    ChanceDiamond: 5
+    ChanceGold: 15
+    ChanceIron: 27.5
+    EnchantmentProbability: 6.666666666666667
+  Aerial:
+    Enabled: true
+    DisplayName: Aerial
+    EnchantmentMaxLevel: 3
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    DamageIncreasePercentagePerLevel: 35
+    EnchantmentProbability: 5.555555555555555
+  Drunk:
+    Enabled: true
+    DisplayName: Aturdido
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    DurationPerLevel: 30
+    BaseStrength: 1
+    EnchantmentProbability: 7.142857142857143
+  Lifesteal:
+    Enabled: true
+    DisplayName: Robo de vida
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Heal: 2
+    EnchantmentProbability: 5.555555555555555
+  Blaze:
+    Enabled: true
+    DisplayName: Blaze
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    EnchantmentProbability: 6.666666666666667
+  Paralyze:
+    Enabled: true
+    DisplayName: Debilitado
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 25
+    Strength: 5
+    Cooldown: 200
+    EnchantmentProbability: 6.666666666666667
+  Hardened:
+    Enabled: true
+    DisplayName: Endurecido
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 25
+    Strength: 1
+    EnchantmentProbability: 7.142857142857143
+  Springs:
+    Enabled: false
+    DisplayName: Super Salto
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    Strength: 4
+    EnchantmentProbability: 5.882352941176471
+  Stomp:
+    Enabled: true
+    DisplayName: Aterrizaje
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    DamageReductionFraction: 4
+    DamageApplicationFraction: 2
+    EnchantmentProbability: 5.882352941176471
+  Frozen:
+    Enabled: true
+    DisplayName: Lentitud Enemiga
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 2
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Duration: 25
+    Strength: 1
+    EnchantmentProbability: 7.142857142857143
+  Shockwave:
+    Enabled: false
+    DisplayName: Shockwave
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    Cooldown: 200
+    ForbiddenMaterials: BEDROCK, WATER, STATIONARY_WATER, LAVA, STATIONARY_LAVA, CACTUS, CAKE_BLOCK, CROPS, TORCH, ENDER_PORTAL, PISTON_MOVING_PIECE, MELON_STEM, NETHER_WARTS, MOB_SPAWNER, CHEST, SIGN, WALL_SIGN, SIGN_POST, ITEM_FRAME
+    EnchantmentProbability: 5.555555555555555
+  Thunderingblow:
+    Enabled: false
+    DisplayName: Thor
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    LightningChance: 20
+    EnchantmentProbability: 5.555555555555555
+  Self Destruct:
+    Enabled: false
+    DisplayName: Self Destruct
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 30
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    ExplosionDelay: 40
+    EnchantmentProbability: 7.142857142857143
+  Ice Aspect:
+    Enabled: true
+    DisplayName: Ice Aspect
+    EnchantmentMaxLevel: 2
+    OccurrenceChance: 8
+    Cost:
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    SlowStrength: 2
+    SlowDuration: 30
+    ChanceFreeze: 60
+    SpecialFreeze: true
+    SpecialFreezeDuration: 50
+    ChanceSpecialFreeze: 30
+    EnchantmentProbability: 99.55555555555556
+  Disarming:
+    Enabled: false
+    DisplayName: Disarming
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    EnchantmentProbability: 5.555555555555555
+  Autorepair:
+    Enabled: true
+    DisplayName: Autorepair
+    EnchantmentMaxLevel: 5
+    OccurrenceChance: 5
+    Cost:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    - 0LVL&0$
+    HealAmount: 1
+    HealFully: false
+    EnchantmentProbability: 5.555555555555555
+  Deathbringer:
+    Enabled: false
+    DisplayName: Duplicador de DaÃ±o
+    EnchantmentMaxLevel: 1
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    TrueDamagePerHit: 2
+    EnchantmentProbability: 5.555555555555555
+  Headless:
+    Enabled: true
+    DisplayName: Headless
+    OccurrenceChance: 100
+    Cost:
+    - 0.0
+    RunecraftingCost:
+    - 0LVL&0$
+    EnchantmentProbability: 5.555555555555555
+Items:
+  Druid Boots:
+    Enabled: true
+    DisplayName: Druid Boots
+    Color: DARK_GREEN
+    Description: Let the nature rejuvenate you!
+    Cooldown: 0
+    Cost: 0
+    SpeedDuration: 300
+    SpeedLevel: 5
+    RegenerationDuration: 300
+    RegenerationLevel: 5
+  Thor's Axe:
+    Enabled: true
+    DisplayName: Â§bÂ§lâ–� HACHA DE THOR
+    Color: GOLD
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Haz click-derecho en el suelo para lanzar
+      un;Â§7rayo el cual quemarÃ¡ todo a su paso.;Â§f ;Â§bâ–� Â§fCalidad: Â§5Epico'
+    Cooldown: 100
+    Cost: 0
+    FireDuration: 10
+  Hookshot Bow:
+    Enabled: true
+    DisplayName: Hookshot Bow
+    Color: AQUA
+    Description: Everyone is just one hook away
+    Cooldown: 0
+    Cost: 0
+  Necromancer's Staff of Destruction:
+    Enabled: true
+    DisplayName: Â§4Â§lâ–� VARA DE LA DESTRUCCIÃ“N
+    Color: AQUA
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7PodrÃ¡s lanzar truenos, invocar un esbirro
+      y;Â§7lanzar una bola de fuego. Para cambiar;Â§7el modo, haz click izquierdo.;Â§7
+      ;Â§4â–� Â§fCalidad: Â§6Legendario'
+    Cooldown: 0
+    Cost: 0
+    Fuel: 0
+    WitherCost: 0
+    WitherCooldown: 100
+    FireballCost: 0
+    FireballCooldown: 100
+    LightningCost: 0
+    LightningCooldown: 100
+  Powergloves:
+    Enabled: true
+    DisplayName: Powergloves
+    Color: AQUA
+    Description: Throw all your problems away!
+    Cooldown: 500
+    Cost: 0
+    ThrowSpeedMultiplier: 60
+    ThrowDelayAfterGrab: 20
+    MaxGrabtime: 30
+  Healing Shovel:
+    Enabled: true
+    DisplayName: Healing Shovel
+    Color: GREEN
+    Description: Smacking other people in the face;has never been healthier!
+    Cooldown: 600
+    Cost: 0
+    Heal: 4
+  Rocket Boots:
+    Enabled: true
+    DisplayName: Rocket Boots
+    Color: AQUA
+    Description: 'Up we go!; ;WARNING: May cause dismemberment,;            death;            and
+      explosions'
+    Cooldown: 0
+    Cost: 0
+  Livefire Boots:
+    Enabled: true
+    DisplayName: Â§cÂ§lâ–� PASO ARDIENTE
+    Color: DARK_RED
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Deja un rastro de fuego;Â§7por donde vayas
+      caminando.;Â§f ;Â§câ–� Â§fCalidad: Â§5Epico'
+    Cooldown: 0
+    Cost: 0
+    FlameDuration: 10
+    FireResistanceLevel: 2
+  Landmine:
+    Enabled: true
+    DisplayName: Landmine
+    Color: GRAY
+    Description: Just don't trigger it yourself, please.
+    Cooldown: 0
+    Cost: 0
+    ExplosionStrength: 5
+  Assassin's Blade:
+    Enabled: true
+    DisplayName: Assassin's Blade
+    Color: AQUA
+    Description: Sneak up on your enemies and hit them hard!; ;(High chance of failure against Hacked Clients)
+    Cooldown: 400
+    Cost: 0
+    InvisibilityDuration: 200
+    AmbushDmgMultiplier: 4
+    WeaknessLevel: 6
+    WeaknessLength: 500
+  Prickly Block:
+    Enabled: true
+    DisplayName: Prickly Block
+    Color: LIGHT_PURPLE
+    Description: Just build a labyrinth out of these,;people will love you for it!
+    Cooldown: 0
+    Cost: 0
+    Damage: 3
+    NauseaLevel: 2
+    NauseaDuration: 200
+  Firecracker:
+    Enabled: true
+    DisplayName: Â§aÂ§lâ–� BOLA EXPLOSIVA
+    Color: DARK_RED
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Lanza una bola explosiva de colores.;Â§f
+      ;Â§aâ–� Â§fCalidad: Â§aNormal'
+    Cooldown: 0
+    Cost: 0
+  Piranha Trap:
+    Enabled: true
+    DisplayName: Piranha Trap
+    Color: GRAY
+    Description: Who came up with this?
+    Cooldown: 0
+    Cost: 0
+    BleedDuration: 120
+    FishAmount: 20
+    FishDuration: 200
+  Potion Launcher:
+    Enabled: true
+    DisplayName: Â§dÂ§lâ–� CAÃ‘ON DE POCIONES
+    Color: DARK_GRAY
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Lanza una pociÃ³n a donde quiera;Â§7que
+      apuntes, solo debes tenerla al lado;Â§7derecho del caÃ±on de pociones.;Â§7 ;Â§dâ–�
+      Â§fCalidad: Â§eRara'
+    Cooldown: 20
+    Cost: 0
+    ProjectileSpeedMultiplier: 4
+  Hermes Boots:
+    Enabled: true
+    DisplayName: Hermes Boots
+    Color: GOLD
+    Description: These boots are made for walkin'
+    Cooldown: 300
+    Cost: 0
+    SpeedLevel: 5
+  Medikit:
+    Enabled: true
+    DisplayName: Medikit
+    Color: GREEN
+    Description: Treats most of your ailments,;it even has a box of juice!
+    Cooldown: 2000
+    Cost: 0
+    HealAmount: 30
+  Firework-Battery:
+    Enabled: true
+    DisplayName: Firework-Battery
+    Color: DARK_RED
+    Description: Make the sky shine bright with colors!
+    Cooldown: 0
+    Cost: 0
+  Bandage:
+    Enabled: true
+    DisplayName: Bandage
+    Color: GREEN
+    Description: It has little hearts on it,;so you know it's good
+    Cooldown: 3000
+    Cost: 0
+    TotalHealAmount: 30
+    TotalHealTime: 200
+    StopAtFullHealth: true
+  Deathscythe:
+    Enabled: true
+    DisplayName: Deathscythe
+    Color: DARK_GRAY
+    Description: An ancient evil lies within...
+    Cooldown: 400
+    Cost: 0
+    Range: 30
+    MaximumHookTime: 240
+  Flamethrower:
+    Enabled: true
+    DisplayName: Â§6Â§lâ–� ALIENTO DE FUEGO
+    Color: DARK_RED
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Lanza fuego por donde estes apuntando.;Â§f
+      ;Â§6â–� Â§fCalidad: Â§5Epico'
+    Cooldown: 100
+    Cost: 0
+    IsReloadable: true
+    BurnDuration: 5
+    FireBlocksPerBurst: 30
+  Poison Ivy:
+    Enabled: true
+    DisplayName: Poison Ivy
+    Color: DARK_GREEN
+    Description: If you're too cheap to afford ladders,;just take this, it'll work just fine!
+    Cooldown: 0
+    Cost: 0
+    PoisonDuration: 300
+    PoisonLevel: 2
+  Minigun:
+    Enabled: true
+    DisplayName: Â§eÂ§lâ–� MINIGUN
+    Color: YELLOW
+    Description: 'Â§8InformaciÃ³n;Â§f ;Â§7Dispara rafagas de flechas;Â§7hacia donde
+      estes apuntando.;Â§f ;Â§eâ–� Â§fCalidad: Â§6Legendario'
+    Cooldown: 0
+    Cost: 0
+    ArrowCountPerVolley: 20
+    ShotsPerSecond: 20
+  Pyroaxe:
+    Enabled: true
+    DisplayName: Pyroaxe
+    Color: DARK_RED
+    Description: Are your enemies burning?;Do you want to make their situation worse?;Then this is just perfect for you!
+    Cooldown: 0
+    Cost: 0
+    DamageMultiplier: 2
+  Bear Trap:
+    Enabled: true
+    DisplayName: Bear Trap
+    Color: GRAY
+    Description: Just hope that it does not contain bears...
+    Cooldown: 0
+    Cost: 0
+    BleedDuration: 300
+    SlowLevel: 2
+    SlowDuration: 300
+    WeaknessLevel: 4
+    WeaknessDuration: 300
+  Beastmaster's Bow:
+    Enabled: true
+    DisplayName: Beastmaster's Bow
+    Color: AQUA
+    Description: Tame the wilderness;and turn nature against your foes!
+    Cooldown: 0
+    Cost: 0
+    MaximumMobs: 5
+    MobAppearanceChance: 90
+    DamageMultiplication: 5

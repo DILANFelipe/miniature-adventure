@@ -1,0 +1,221 @@
+menu-settings:
+  name: '&8Survival | &9&lARMADURAS'
+  rows: 5
+  commands:
+  - sets
+  - armaduras
+  - armadura
+  - set
+  - armamento
+  - armamentos
+  auto-refresh: 0
+  open-actions:
+  - 'sound: note pling'
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+
+################################################
+# 1
+################################################
+
+Set1:
+  ACTIONS:
+  - 'console: kit 1 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&a&l▐&a Armadura &7| &a&l#1'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&a&l▐ &aEncantamientos:'
+  - '&7&l   ▸ &fProtección: &a1'
+  - '&7&l   ▸ &fIrrompibilidad: &a1'
+  - ' '
+  - '&a&l▐ &aCostos:'
+  - '&7&l   ▸ &fMonetario: &a$90,000'
+  - ' '
+  - '&a&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"4f728f66-e701-42e1-8bfa-b4ac5dd344db",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjRjNDU3NGY2ZGViZTYwYTFkYTExN2E4ZjVlODY2YzZjMTZhNDg0NjE1ZTg4NDk2YzIxMDQ1Mjk2OGI0Y2NkMSJ9fX0="}]}}}'
+  POSITION-X: 2
+  POSITION-Y: 2
+  PRICE: 90000
+  KEEP-OPEN: true
+  DURABILITY: 3
+
+Set2:
+  ACTIONS:
+  - 'console: kit 2 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&a&l▐&a Armadura &7| &a&l#2'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&a&l▐ &aEncantamientos:'
+  - '&7&l   ▸ &fProtección: &a2'
+  - '&7&l   ▸ &fIrrompibilidad: &a2'
+  - ' '
+  - '&a&l▐ &aCostos:'
+  - '&7&l   ▸ &fMonetario: &a$300,000'
+  - ' '
+  - '&a&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"4b6365cf-7e63-45a6-8d04-d1b21521b4e8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTdkYTdiYzJlN2Q0YjNkYjhiMzg4MTg3YWY2ODNmNTZhMTIxYzk2MWQ3ODdjNmY4NTFiYmI5Njc0YzkzNzQ2YiJ9fX0="}]}}}'
+  POSITION-X: 2
+  POSITION-Y: 3
+  PRICE: 300000
+  KEEP-OPEN: true
+  DURABILITY: 3
+
+Set3:
+  ACTIONS:
+  - 'console: kit 3 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&a&l▐&a Armadura &7| &a&l#3'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&a&l▐ &aEncantamientos:'
+  - '&7&l   ▸ &fProtección: &a3'
+  - '&7&l   ▸ &fIrrompibilidad: &a2'
+  - ' '
+  - '&a&l▐ &aCostos:'
+  - '&7&l   ▸ &fMonetario: &a$900,000'
+  - ' '
+  - '&a&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"f1a1e2ba-6e03-4027-a820-5b0e6bc1a7d5",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc0ZjkxMGNhN2VkNzNkOGM1ZmRjODQ3NmQxYmVkN2FlNGUxOGY4ZTFkZjZiODAwZDE2YjNiZTNkMzNlYmJmYyJ9fX0="}]}}}'
+  POSITION-X: 2
+  POSITION-Y: 4
+  PRICE: 900000
+  KEEP-OPEN: true
+  DURABILITY: 3
+  
+################################################
+# 2
+################################################
+
+Set4:
+  ACTIONS:
+  - 'console: kit 4 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&b&l▐&b Armadura &7| &b&l#4'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&b&l▐ &bEncantamientos:'
+  - '&7&l   ▸ &fProtección: &b4'
+  - '&7&l   ▸ &fIrrompibilidad: &b3'
+  - '&7&l   ▸ &cAutorepair I'
+  - ' '
+  - '&b&l▐ &bCostos:'
+  - '&7&l   ▸ &fMonetario: &b$2,000,000'
+  - ' '
+  - '&b&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"5d571551-1016-43ee-b66a-af565666e47f",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJkMDMxNzk1NzUwNmE4MjdmYzhlMGE4ZTJlYTJjNjI3NDhkMGU5NmFmY2QwYmM2MDRlMjdhMDRiYjcxN2EwZiJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 2
+  PRICE: 2000000
+  KEEP-OPEN: true
+  DURABILITY: 3
+
+Set5:
+  ACTIONS:
+  - 'console: kit 5 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&b&l▐&b Armadura &7| &b&l#5'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&b&l▐ &bEncantamientos:'
+  - '&7&l   ▸ &fProtección: &b5'
+  - '&7&l   ▸ &fIrrompibilidad: &b3'
+  - '&7&l   ▸ &cEmbrujado I'
+  - ' '
+  - '&b&l▐ &bCostos:'
+  - '&7&l   ▸ &fMonetario: &b$3,000,000'
+  - ' '
+  - '&b&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"efa7aada-eb03-4064-a96c-8691f2ca8a01",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFlYjNhOWMyYTY0N2M2ODA4YTg4YzY5Mjg5NmY0ODI5NGQzYjU5YzljYTllOGNhNjI2NWI4NDg0MGQxZmU5YSJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 3
+  PRICE: 3000000
+  KEEP-OPEN: true
+  DURABILITY: 3
+
+Set6:
+  ACTIONS:
+  - 'console: kit 6 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&b&l▐&b Armadura &7| &b&l#6'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&b&l▐ &bEncantamientos:'
+  - '&7&l   ▸ &fProtección: &b6'
+  - '&7&l   ▸ &fIrrompibilidad: &b3'
+  - '&7&l   ▸ &cBrujo I'
+  - ' '
+  - '&b&l▐ &bCostos:'
+  - '&7&l   ▸ &fMonetario: &b$5,000,000'
+  - ' '
+  - '&b&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"1bb33280-b788-46a9-92bf-5ec48878b359",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyZmRiM2YwYWY4OTViZTE5ODY3ODlhYWMxZjNmMDVkMDAwYjkxMTEyODRlNjAwNTU4NTlkNTNhZjRiYmYyNCJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 4
+  PRICE: 5000000
+  KEEP-OPEN: true
+  DURABILITY: 3
+  
+################################################
+# 3
+################################################
+
+Set7:
+  ACTIONS:
+  - 'console: kit 7 {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una armadura!'
+  NAME: '&c&l▐&c Armadura &7| &c&l#7'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&c&l▐ &cEncantamientos:'
+  - '&7&l   ▸ &fProtección: &c7'
+  - '&7&l   ▸ &fIrrompibilidad: &c4'
+  - '&7&l   ▸ &cLentitud Enemiga I'
+  - ' '
+  - '&c&l▐ &cCostos:'
+  - '&7&l   ▸ &fMonetario: &c$7,000,000'
+  - ' '
+  - '&c&n(Haz click para comprarla)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"1662ec13-5df7-4613-94a5-be645d8f5678",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTNjYTQ2M2EyYTk0YWI1NTFlNzRhMzcwZWFjZWFlZTEzNmQxOTAxMzFiZDA1Nzk3Yjg2NTNiYjY5N2Y5MDk5NSJ9fX0="}]}}}'
+  POSITION-X: 8
+  POSITION-Y: 2
+  PRICE: 7000000
+  KEEP-OPEN: true
+  DURABILITY: 3
+
+espadas:
+  ACTIONS:
+  - 'open: espadas.yml'
+  NAME: '&e▪ &e&lESPADAS &7(Tienda)'
+  LORE:
+  - '&8Información'
+  - ' '
+  - '&fLa mejor tienda de espadas'
+  - '&fdel servidor, adquiere una'
+  - '&fespada que se ajuste a tu'
+  - '&fpresupuesto y tus gustos.'
+  - ' '
+  - '&e&n(Haz click para entrar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"d0da0b87-4965-473e-9584-eee48534a01f",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg0ZTVkZTc0N2I1YWRmYjM4NzQzZDk1YTNhYjYyYzYwMGJkNmMzNzBiOTlmOGMyZDEzMDhkODMzMDgxMTUxOCJ9fX0="}]}}}'
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  DURABILITY: 3

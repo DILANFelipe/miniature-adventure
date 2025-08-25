@@ -1,0 +1,260 @@
+menu-settings:
+  name: '&8Menú | &a&lMENAS'
+  rows: 6
+  commands:
+  - menas
+  - protecciones
+  auto-refresh: 0
+  open-actions:
+  - 'sound: note pling'
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+Usuario: null
+Cuarzo:
+  ACTIONS:
+  - 'console: karenprotect give QUARTZ_ORE {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una mena de protección!'
+  NAME: '&7▪ &lMENA &7&n(Nivel /)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&7▐ &fPrecio: &7$20,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&7» &fRadio: &78x8'
+  - '&7▐ &fMineral: &7Cuarzo'  
+  - ''
+  - '&7(Haz click para comprar)' 
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"78ea2185-5960-4881-af30-450f777beebb",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NTc5ZjIyYjhiNGU5ZjlmYTdmZjg4MWQzZWYyMWYzZTVmOTE5ZTQ0NjlmODJiYmMwOGVkYzI0YjU4ZDM3NCJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 2
+  PRICE: 20000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Carbon:
+  ACTIONS:
+  - 'console: karenprotect give COAL_ORE {player}'
+  - 'tell: &8(&e&lTIENDA&8) &8&l▸ &f¡Has comprado una mena de protección!'
+  NAME: '&a▪ &lMENA &7&n(Nivel I)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&a▐ &fPrecio: &a$50,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&a» &fRadio: &a12x12'
+  - '&a▐ &fMineral: &aCarbón'  
+  - ''
+  - '&a(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"3d4393d0-491a-4220-a604-e3be4d0e11a9",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg2NDRiMDhkNmI2ZDdlMWJhYWMxNWE3ZjQzOTIyN2Q3ZWYxYThhMDEwZDdmNDZjZGZiMjQ3NjNhNTU0ZjhkNiJ9fX0="}]}}}'
+  POSITION-X: 3
+  POSITION-Y: 3
+  PRICE: 50000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Lapis:
+  ACTIONS:
+  - 'console: karenprotect give LAPIS_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&e▪ &lMENA &7&n(Nivel II)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&e▐ &fPrecio: &a$120,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&e» &fRadio: &e18x18'
+  - '&e▐ &fMineral: &eLapislázuli'  
+  - ''
+  - '&e(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"5d571551-1016-43ee-b66a-af565666e47f",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJkMDMxNzk1NzUwNmE4MjdmYzhlMGE4ZTJlYTJjNjI3NDhkMGU5NmFmY2QwYmM2MDRlMjdhMDRiYjcxN2EwZiJ9fX0="}]}}}'
+  POSITION-X: 4
+  POSITION-Y: 3
+  PRICE: 120000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Hierro:
+  ACTIONS:
+  - 'console: karenprotect give IRON_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&6▪ &lMENA &7&n(Nivel III)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&6▐ &fPrecio: &a$360,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&6» &fRadio: &632x32'
+  - '&6▐ &fMineral: &6Hierro'  
+  - ''
+  - '&6(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"ff1460f1-1e7e-4b8b-8000-88fb0d4f5196",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM3NjI4ZTg5N2NiNGM5MzEyZjgwMmYyOGMyZWM0NjZkN2U3MjFlYzM3MDEwMzc4Y2M0NWRkMmRjNjg4MTBjMyJ9fX0="}]}}}'
+  POSITION-X: 5
+  POSITION-Y: 3
+  PRICE: 360000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Redstone:
+  ACTIONS:
+  - 'console: karenprotect give REDSTONE_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&c▪ &lMENA &7&n(Nivel VI)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&c▐ &fPrecio: &c$620,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&c» &fRadio: &c42x42'
+  - '&c▐ &fMineral: &cRestone'  
+  - ''
+  - '&c(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"6e98f4f0-e673-4614-b2bf-573cfe9bcf2c",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNlMWNjZjM3NTdkODNiNmNmMWM1Zjc0YTdmNjQzNWY1YWEwNGZkOGFiNmUyZTBjZWU3OWMwYjkwNzAzY2M2ZiJ9fX0="}]}}}'
+  POSITION-X: 6
+  POSITION-Y: 3
+  PRICE: 620000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Oro:
+  ACTIONS:
+  - 'console: karenprotect give GOLD_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&4▪ &lMENA &7&n(Nivel V)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&4▐ &fPrecio: &4$960,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&4» &fRadio: &452x52'
+  - '&4▐ &fMineral: &4Oro'  
+  - ''
+  - '&4(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"b4032f80-0e37-4ce3-9733-29bff1af126e",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ1YTQ3ZmIxNjc1OTQ1MGE4MDY4MDZmNGQ4N2QxYzQyYjVlMzg5OTQ5MDM5MTNhNzBjYmZhM2EwNTdhNjI1YyJ9fX0="}]}}}'
+  POSITION-X: 7
+  POSITION-Y: 3
+  PRICE: 960000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Diamante:
+  ACTIONS:
+  - 'console: karenprotect give DIAMOND_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&b▪ &lMENA &7&n(Nivel VIP)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&b▐ &fPrecio: &b$1,420,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&b» &fRadio: &b62x62'
+  - '&b▐ &fMineral: &bDiamante'  
+  - ''
+  - '&b(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"efa7aada-eb03-4064-a96c-8691f2ca8a01",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFlYjNhOWMyYTY0N2M2ODA4YTg4YzY5Mjg5NmY0ODI5NGQzYjU5YzljYTllOGNhNjI2NWI4NDg0MGQxZmU5YSJ9fX0="}]}}}'
+  POSITION-X: 3
+  POSITION-Y: 5
+  PRICE: 1420000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Esmeralda:
+  ACTIONS:
+  - 'console: karenprotect give EMERALD_ORE {player}'
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &f¡Has comprado una protección!'
+  NAME: '&9▪ &lMENA &7&n(Nivel VIP+)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&9▐ &fPrecio: &9$1,800,000'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&9» &fRadio: &972x72'
+  - '&9▐ &fMineral: &9Esmeralda'  
+  - ''
+  - '&9(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"4b6365cf-7e63-45a6-8d04-d1b21521b4e8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTdkYTdiYzJlN2Q0YjNkYjhiMzg4MTg3YWY2ODNmNTZhMTIxYzk2MWQ3ODdjNmY4NTFiYmI5Njc0YzkzNzQ2YiJ9fX0="}]}}}'
+  POSITION-X: 4
+  POSITION-Y: 5
+  PRICE: 1800000
+  KEEP-OPEN: true
+  DURABILITY: 3
+Obsidiana:
+  ACTIONS:
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &fAdquiere tu protección en &ahycubes.tebex.io'
+  NAME: '&5▪ &lMENA &7&n(Nivel MVP)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&5▐ &fPrecio: &5$8.00 USD'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&5» &fRadio: &5162x162'
+  - '&5▐ &fMineral: &5Obsidiana'  
+  - ''
+  - '&5(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"6d402f82-a72c-4eb7-aea7-3544b9a2bf1c",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg2ZDgxODA1YzE3NmY3MTFiNDRiMzE1YjRmOWMwYzNiMGI3NDk2ZGU4OWRiN2E5NzQ0OTk0ZWExODJmZjg4YSJ9fX0="}]}}}'
+  POSITION-X: 6
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  DURABILITY: 3
+Piedradelfin:
+  ACTIONS:
+  - 'tell: &8(&9&lMENAS&8) &8&l▸ &fAdquiere tu protección en &ahycubes.tebex.io'
+  NAME: '&6▪ &lMENA &7&n(Nivel MVP+)'
+  LORE:
+  - '&8Información'
+  - ''
+  - '&6▐ &fPrecio: &6$16.00 USD'
+  - ''
+  - '&e&l¡MODO DE USO! &n✔'
+  - '&7Colócala en el centro de la'
+  - '&7zona que quieres proteger.'
+  - ''
+  - '&6» &fRadio: &6282x282'
+  - '&6▐ &fMineral: &6Piedradelfin'  
+  - ''
+  - '&6(Haz click para comprar)'
+  MATERIAL: skull
+  NBT-DATA: '{SkullOwner:{Id:"9f6a0f7d-b6a4-405a-8040-241e3e0acb35",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFlOGUyOTRhYTZhMzg4NzQzZDZiMGRjNTllOGIxYzI1YTljNjM2ZjI5MzFlNzgwNzIwZjMxODBmYmE5MTAzNiJ9fX0="}]}}}'
+  POSITION-X: 7
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  DURABILITY: 3

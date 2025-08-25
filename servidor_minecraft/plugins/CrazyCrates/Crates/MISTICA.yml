@@ -1,0 +1,474 @@
+Crate:
+  CrateType: CSGO
+  CrateName: '&BMISTICA'
+  Preview-Name: '&8Survival | &b&lPREMIOS'
+  StartingKeys: 0
+  InGUI: false
+  Slot: 21
+  OpeningBroadCast: false
+  BroadCast: '&b&lCAJAS &8* &b%Player% &festa abriendo una caja &f&lMISTICA'
+  Item: CHEST
+  Glowing: false
+  Name: '&bMISTICA'
+  Lore:
+  - '&7This crate contains strange objects.'
+  - '&7You have &6%Keys% keys &7to open this crate with.'
+  - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  Preview:
+    Toggle: true
+    ChestLines: 6
+    Glass:
+      Toggle: false
+      Item: STAINED_GLASS_PANE:8
+  PhysicalKey:
+    Name: '&eMISTICA'
+    Lore:
+    - '&f'
+    - '&5» &fCalidad: &dAlta'
+    Item: TRIPWIRE_HOOK
+    Glowing: true
+  Hologram:
+    Toggle: true
+    Height: 2.92
+    Message:
+    - '&c&lMISTICA&r &7(Exclusiva)'
+    - ''
+    - '&fUna de las cajas más misteriosas'
+    - '&fdel survival, prueba tu suerte.'
+    - '&7[&a■■■■■■&7■■■■&7]'
+    - ''
+    - '&a&n¡Haz click para ver el contenido!'
+  Prizes:
+    '1':
+      DisplayName: '&a$3,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 3000000
+    '2':
+      DisplayName: '&a$6,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 6000000
+    '3':
+      DisplayName: '&a$10,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 10000000
+    '4':
+      DisplayName: '&a$12,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 12000000
+    '5':
+      DisplayName: '&a$15,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 15000000
+    '6':
+      DisplayName: '&a$20,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 20000000
+    '7':
+      DisplayName: '&c&l▪ MAESTRO&r &7(10 días)'
+      DisplayItem: BOOK:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 5
+      Commands:
+      - lp user %Player% parent addtemp maestro 10d
+    '8':
+      DisplayName: '&4&l▪ SNOVERY&r &7(10 días)'
+      DisplayItem: BOOK:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Commands:
+      - lp user %Player% parent addtemp snovery 10d
+    '9':
+      DisplayName: '&7&l▪ TITAN&r &7(Permanente 1T)'
+      DisplayItem: BOOK:0
+      DisplayAmount: 1
+      MaxRange: 10000
+      Chance: 1
+      Commands:
+      - lp user %Player% parent add titan
+    '10':
+      DisplayName: '&e▪ &lx1 ELEMENTAL&r &7(Llave)'
+      DisplayItem: 131
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Commands:
+      - crate give virtual elemental 1 %Player%
+    '11':
+      DisplayName: '&e▪ &lx3 VOTE&r &7(Llave)'
+      DisplayItem: 131
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 30
+      Commands:
+      - crate give virtual vote 3 %Player%
+    '12':
+      DisplayName: '&e▪ &lx5 VOTE&r &7(Llave)'
+      DisplayItem: 131
+      DisplayAmount: 5
+      MaxRange: 100
+      Chance: 30
+      Commands:
+      - crate give virtual vote 5 %Player%
+    '13':
+      DisplayName: '&6▪ &lACCESO A &n/FLY&r &7(3 días)'
+      DisplayItem: 288
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Commands:
+      - lp user %Player% permission settemp essentials.fly true 3d
+    '14':
+      DisplayName: '&e▪ &lVERDUGO &7(GKIT)'
+      DisplayItem: 311
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 20
+      Commands:
+      - kit verdugo %Player%
+    '15':
+      DisplayName: '&e▪ &lBANDIDO &7(GKIT)'
+      DisplayItem: 311
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 15
+      Commands:
+      - kit bandido %Player%
+    '16':
+      DisplayName: '&b▪ &lx3 SUPER POCIMA'
+      DisplayItem: '38:1'
+      Lore:
+      - §8Información
+      - ''
+      - '§e▐ §fTiempo: §e120s'
+      - '§7» §fVelocidad: §62'
+      - '§7» §fFuerza: §63'
+      - ''
+      - §7§n¡Haz click-derecho!
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 20
+      Commands:
+      - vouch give Moneys1 3 %Player%
+    '17':
+      DisplayName: '&b▪ &lx6 SUPER POCIMA'
+      DisplayItem: '38:1'
+      Lore:
+      - §8Información
+      - ''
+      - '§e▐ §fTiempo: §e120s'
+      - '§7» §fVelocidad: §62'
+      - '§7» §fFuerza: §63'
+      - ''
+      - §7§n¡Haz click-derecho!
+      DisplayAmount: 6
+      MaxRange: 100
+      Chance: 20
+      Commands:
+      - vouch give Moneys1 6 %Player%
+    '18':
+      DisplayName: '&b▪ &lx12 SUPER POCIMA'
+      DisplayItem: '38:1'
+      Lore:
+      - §8Información
+      - ''
+      - '§e▐ §fTiempo: §e120s'
+      - '§7» §fVelocidad: §62'
+      - '§7» §fFuerza: §63'
+      - ''
+      - §7§n¡Haz click-derecho!
+      DisplayAmount: 12
+      MaxRange: 100
+      Chance: 20
+      Commands:
+      - vouch give Moneys1 12 %Player%
+    '19':
+      DisplayName: §r§6▪ §l§nONLY
+      Lore:
+      - §r§r§8
+      - '§r§6» Información:'
+      - §r§6§l¡ES ORO!§f está moneda parece
+      - §r§fser muy cara, ve al mercado
+      - §r§fpara ver que te ofrecen. §6✔
+      - §r§f
+      - '§r§fModo de uso: §6§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: DOUBLE_PLANT:0
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6▪ §l§nONLY
+          lore:
+          - §r§r§8
+          - '§r§6» Información:'
+          - §r§6§l¡ES ORO!§f está moneda parece
+          - §r§fser muy cara, ve al mercado
+          - §r§fpara ver que te ofrecen. §6✔
+          - §r§f
+          - '§r§fModo de uso: §6§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '20':
+      DisplayName: §r§c▪ §l§nGEMA
+      Lore:
+      - §r§r§8
+      - '§r§c» Información:'
+      - §r§fUna piedra digna de gente con
+      - §r§fmucho poder, puedes comprar
+      - §r§flas cosas más poderosas. §c✔
+      - §r§f
+      - '§r§fModo de uso: §c§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: MAGMA_CREAM:0
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §l§nGEMA
+          lore:
+          - §r§r§8
+          - '§r§c» Información:'
+          - §r§fUna piedra digna de gente con
+          - §r§fmucho poder, puedes comprar
+          - §r§flas cosas más poderosas. §c✔
+          - §r§f
+          - '§r§fModo de uso: §c§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '21':
+      DisplayName: §r§5▪ §l§nVYCOIN
+      Lore:
+      - §r§r§8
+      - '§r§5» Información:'
+      - '§r§fLa moneda más legendaria '
+      - §r§fde todo el servidor, con ella
+      - §r§fpuedes comprar todo el mundo. §5✔
+      - §r§f
+      - '§r§fModo de uso: §5§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: NETHER_STAR:0
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§5▪ §l§nVYCOIN
+          lore:
+          - §r§r§8
+          - '§r§5» Información:'
+          - '§r§fLa moneda más legendaria '
+          - §r§fde todo el servidor, con ella
+          - §r§fpuedes comprar todo el mundo. §5✔
+          - §r§f
+          - '§r§fModo de uso: §5§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '22':
+      DisplayName: §r§4▪ §l§nINFRAMUNDO
+      Lore:
+      - §r§r§8
+      - '§r§4» Información:'
+      - §r§fConsigue está piedra en eventos
+      - §r§fde §4"paquetes/boss" §fy compra
+      - §r§flas cosas más legendarias. §4✔
+      - §r§f
+      - '§r§fModo de uso: §4§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: FIREBALL:0
+      DisplayAmount: 3
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: FIREBALL
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§4▪ §l§nINFRAMUNDO
+          lore:
+          - §r§r§8
+          - '§r§4» Información:'
+          - §r§fConsigue está piedra en eventos
+          - §r§fde §4"paquetes/boss" §fy compra
+          - §r§flas cosas más legendarias. §4✔
+          - §r§f
+          - '§r§fModo de uso: §4§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '23':
+      DisplayName: §r§c▪ §lMISTICA §7(Crate)
+      Lore:
+      - §cCarga II
+      - §cAerial III
+      DisplayEnchantments:
+      - DAMAGE_ALL:7
+      - DURABILITY:2
+      - Custom Enchantment:0
+      - LOOT_BONUS_MOBS:2
+      DisplayItem: DIAMOND_SWORD:0
+      DisplayAmount: 1
+      MaxRange: 10000
+      Chance: 1
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lMISTICA §7(Crate)
+          lore:
+          - §cCarga II
+          - §cAerial III
+          enchants:
+            DAMAGE_ALL: 7
+            DURABILITY: 2
+            Custom Enchantment: 0
+            LOOT_BONUS_MOBS: 2
+    '24':
+      DisplayName: §r§c▪ §lMISTICA §7(Crate)
+      Lore:
+      - §cLentitud Enemiga II
+      DisplayEnchantments:
+      - PROTECTION_ENVIRONMENTAL:15
+      - DURABILITY:8
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_HELMET:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lMISTICA §7(Crate)
+          lore:
+          - §cLentitud Enemiga II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            Custom Enchantment: 0
+            DURABILITY: 8
+    '25':
+      DisplayName: §r§c▪ §lMISTICA §7(Crate)
+      Lore:
+      - §cLentitud Enemiga II
+      DisplayEnchantments:
+      - PROTECTION_ENVIRONMENTAL:15
+      - DURABILITY:8
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_CHESTPLATE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lMISTICA §7(Crate)
+          lore:
+          - §cLentitud Enemiga II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            Custom Enchantment: 0
+            DURABILITY: 8
+    '26':
+      DisplayName: §r§c▪ §lMISTICA §7(Crate)
+      Lore:
+      - §cLentitud Enemiga II
+      DisplayEnchantments:
+      - PROTECTION_ENVIRONMENTAL:15
+      - DURABILITY:8
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_LEGGINGS:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lMISTICA §7(Crate)
+          lore:
+          - §cLentitud Enemiga II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            Custom Enchantment: 0
+            DURABILITY: 8
+    '27':
+      DisplayName: §r§c▪ §lMISTICA §7(Crate)
+      Lore:
+      - §cLentitud Enemiga II
+      DisplayEnchantments:
+      - PROTECTION_ENVIRONMENTAL:15
+      - DURABILITY:8
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_BOOTS:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 10
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lMISTICA §7(Crate)
+          lore:
+          - §cLentitud Enemiga II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            Custom Enchantment: 0
+            DURABILITY: 8

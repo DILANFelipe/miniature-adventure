@@ -1,0 +1,137 @@
+#general message configuration for user experience
+# supports bukkit color codes and hex color codes
+# supports PlaceholderAPI references
+
+#list of additional placeholders
+# format: Pn - where n is the index in this list
+placeholders:
+  - '&8(&a&lMUNDO&8) &8&l▸&f' #P0
+
+#when teleporting, say this
+alreadyTeleporting: '[P0] Ya estas siendo teletransportado.'
+delayMessage: '[P0] ¡Teletransportando, no te muevas! &a✔'
+chunkLoading: '[P0] ¡Cargando! Por favor, espera.'
+teleportMessage: '[P0] Teletransporte ejecutado con éxito.'
+#if teleport is cancel
+teleportCancel: '[P0] ¡Teletransporte cancelado!'
+
+#if no safe places after reaching max attempts
+unsafe: '[P0] No se ha encontrado una localización segura en un total de &a[attempts]
+  &fintentos.'
+
+# when the player is on cooldown
+cooldownMessage: '&e[P0] Debes esperar &a[remainingCooldown] &fpara volver a usar
+  esto.'
+
+#if the region doesn't have any locations queued and the player doesn't have rtp.unqueued permission
+noLocationsQueued: '[P0] No hay localizaciones en estos momentos.'
+
+#when the line shifts
+queueUpdate: '[P0] ¡Teletransportando, no te muevas! &a✔'
+
+#if the player doesn't have enough money to teleport in the region
+# placeholder: [money] - how much money is required for the command
+notEnoughMoney: '&e[P0] Necesitas $[money] para usar esto.'
+
+# for time placeholders, what to call days, hours, minutes, seconds
+days: d
+hours: h
+minutes: m
+seconds: s
+millis: ms
+
+# a configuration file 'version' is lower than the latest
+# placeholder: [filename] - name of file, including file extension
+oldFile: '&b[P0] Archivo antiguo [filename] detectado, actualización necesaria.'
+
+# detected a bukkit world that isn't in the config file
+# placeholder: [world] - the world detected
+newWorld: '&b[P0] Se ha detectado un nuevo mundo: &e[world]'
+
+# world doesn't exist in bukkit
+invalidWorld: '&e[P0] No se ha encontrado el mundo &e[world]'
+
+#configuration updates
+updatingWorlds: '&b[P0] Actualizando la configuración de los mundos...'
+updatedWorlds: '&b[P0] Se ha actualizado la configuración de los mundos.'
+
+updatingRegions: '&b[P0] Actualizando la configuración de regiones...'
+updatedRegions: '&b[P0] Se ha actualizado la configuración de regiones.'
+
+# plugin reload text
+reloading: '&b[P0] Cargando [filename]...'
+reloaded: '&b[P0] Se ha cargado [filename].'
+updating: '&a[P0] Actualizando [filename]...'
+updated: '&a[P0] Se ha actualizado [filename].'
+
+# plugin doesn't have the command the user requested
+# placeholder: [arg] - the argument attempted
+badArg: '&c[P0] Faltan argumentos: &e[arg]'
+
+# user doesn't have permission for the command requested
+noPerms: '&8(&b&lSURVIVAL&8) &8&l▸ &fComando desconocido. &3(/ayuda)'
+
+# user tried to wake a world that doesn't send messages to their location, without perms
+# placeholder: [world] - the world attempted in the command
+noGlobalPerms: '&8(&b&lSURVIVAL&8) &8&l▸ &fComando desconocido. &3(/ayuda)'
+
+fillStart: '&a[P0] fill task started for region [region]'
+fillCancel: '&e[P0] fill task cancelled for region [region]'
+fillPause: '#A020F0[P0] fill task paused for region [region]'
+fillResume: '#10A5F5[P0] fill task resumed for region [region]'
+fillRunning: '&c[P0] fill task already running for region [region]'
+fillNotRunning: '&c[rtp] fill task not running for region [region]'
+fillStatus: '&a[P0] completed [chunks] / [totalChunks] chunks for region [region].
+  [cps] cps. ETA: [eta]'
+
+#info command
+infoTitle: '&a======RTP Info======'
+infoChunks: '#D4AF37Chunks currently loaded by RTP: [chunks]'
+infoWorldHeader: '#008080Worlds:'
+infoWorld: '  #21ADA8[world]'
+infoRegionHeader: '#63C5DARegions:'
+infoRegion: '  #52B2BF[region]'
+
+#sub-info
+worldInfo:
+  - '#21ADA8[world]:'
+  - '#99EEBB  name: [name]'
+  - '#99EEBB  region: [region]'
+  - '#99EEBB  requirePermission: [requirePermission]'
+  - '#99EEBB  override: [override]'
+
+regionInfo:
+  - '#52B2BF[region]:'
+  - '#58CCED  world: [world]'
+  - '#58CCED  shape: [shape]'
+  - '#58CCED  requirePermission: [requirePermission]'
+  - '#58CCED  worldBorderOverride: [worldBorderOverride]'
+  - '#58CCED  cacheCap: [cacheCap]'
+  - '#58CCED  cached: [cached]'
+
+#command descriptions
+rtp: '&a» Información:'
+help: '&7 - &a/rtp &7(Viaja por el mundo)'
+reload: '&e/rtp reload &7- &fRecarga los archivos de configuración.'
+fill: '&e/rtp fill &7- &fPruebe todas las ubicaciones de regiones posibles para mejorar
+  los tiempos de carga.'
+
+#player teleport status placeholders for PAPI
+PLAYER_AVAILABLE: '&aDISPONIBLE'
+PLAYER_COOLDOWN: '&eEN ESPERA'
+PLAYER_SETUP: '&bBUSCANDO'
+PLAYER_LOADING: '&bCARGANDO CHUNKS'
+PLAYER_TELEPORTING: '&bTELETRANSPORTANDO'
+
+#show title
+# remove or set title to "" to disable
+# PlaceholderAPI is recommended for coordinates
+title: '&b&lSURVIVAL'
+subtitle: '&f¡Mundo encontrado! &a&n✔'
+fadeIn: 0
+stay: 40
+fadeOut: 20
+
+actionbar: ''
+
+version: '1.0'

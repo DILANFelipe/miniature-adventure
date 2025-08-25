@@ -1,0 +1,151 @@
+Bosses:
+ ZOMBIE:
+    Item:
+      type: '383:54'
+      name: '&6&lRey Cerbie'
+      lore:
+      - '&8Información'
+      - ''
+      - '&7Pon el huevo para'
+      - '&7aparecer el jefe.'
+      - ''
+      - '&c&n¡Solo poner en /warp boss!'
+    Boss:
+      type: PIG_ZOMBIE
+      name: '&6&l&nSNOVERY'
+      health: 2000
+      Armor:
+        enabled: true
+        type: GOLD
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:680
+        - DURABILITY:680
+      Weapon:
+        enabled: true
+        type: DIAMOND_AXE
+        enchants:
+        - DAMAGE_ALL:22
+        - DURABILITY:100
+      Skills:
+        overallChance: 80.0
+        message: '&8(&6&lBOSS&8) &8&l▸ &6¡{boss} &fha usado su ataque especial &6&l{skill}!'
+        skills:
+        - 50:ICE1
+        - 40:THUNDER1
+        - 30:INFERNAL
+        - 60:DINERO
+        - 40:KNOCKBACK2
+        - 40:BLIND1
+        - 85:MINIONS5
+        - 65:MINIONS6
+        - 30:EXPLOSION1
+        - 30:CAGE1
+        - 20:WARP1
+      Potions:
+        '1':
+          type: FIRE_RESISTANCE
+          level: 5
+          duration: -1
+        '2':
+          type: SPEED
+          level: 5
+          duration: -1
+        '3':
+          type: INCREASE_DAMAGE
+          level: 4
+          duration: -1
+    Drops:
+      NaturalDrops: false
+      DropTable:
+        enabled: true
+        table: ImpossibleKey
+    Messages:
+      onSpawn:
+      - '&8(&6&lBOSS&8) &8&l▸ &f¡Un jefe ha aparecido en la zona de guerra! Usa &6/warp boss &fpara ir a matarlo.'
+      onDeath:
+      - ' '
+      - '&6&l{boss} » &fVolveré...'
+      - '¡Y me vengaré de todos ustedes!... &c¡Debiles humanos!'
+      - '&r{format}'
+      onDeathFormat: '&a&l» &6&l#{position} &7- &f{player} &7- &e{%}% /n'
+    Commands:
+      onSpawn: {}
+      onDeath:
+      - 'thor *'
+      
+###################################################################
+
+ GOLEM:
+    Item:
+      type: '383'
+      name: '&6&lGolem Electrico'
+      lore:
+      - '&8Información'
+      - ''
+      - '&7Pon el huevo para'
+      - '&7aparecer el jefe.'
+      - ''
+      - '&c&n¡Solo poner en /warp boss!'
+    Boss:
+      type: IRON_GOLEM
+      name: '&6&lGolem Electrico'
+      health: 2000
+      Armor:
+        enabled: false
+        type: DIAMOND
+        enchants:
+        - PROTECTION_ENVIRONMENTAL:20
+        - DURABILITY:30
+      Weapon:
+        enabled: true
+        type: DIAMOND_SWORD
+        enchants:
+        - DAMAGE_ALL:30
+        - DURABILITY:100
+      Skills:
+        overallChance: 30.0
+        message: '&c&lJEFES » &f¡{boss} &fha usado su ataque especial &e{skill}&f!'
+        skills:
+        - 50:ICE1
+        - 40:THUNDER1
+        - 40:KNOCKBACK2
+        - 40:BLIND1
+        - 30:MINIONS5
+        - 30:EXPLOSION1
+        - 30:CAGE1
+        - 20:WARP1
+      Potions:
+        '1':
+          type: FIRE_RESISTANCE
+          level: 5
+          duration: -1
+        '2':
+          type: SPEED
+          level: 3
+          duration: -1
+        '3':
+          type: DAMAGE_RESISTANCE
+          level: 1
+          duration: -1
+        '4':
+          type: INCREASE_DAMAGE
+          level: 6
+          duration: -1
+    Drops:
+      NaturalDrops: false
+      DropTable:
+        enabled: true
+        table: ImpossibleKey
+    Messages:
+      onSpawn:
+      - '&8(&6&lBOSS&8) &8&l▸ &f¡Un jefe ha aparecido en la zona de guerra! Usa &e/warp boss &fpara ir a matarlo.'
+      onDeath:
+      - ' '
+      - '&6&l{boss} » &fVolveré...'
+      - '¡Con un ejercito enorme!... &c¡Y MORIRAN!'
+      - '&r{format}'
+      onDeathFormat: '&a&l» &6&l#{position} &7- &f{player} &7- &e{%}% /n'
+    Commands:
+      onSpawn: {}
+      onDeath:
+      - 'thor *'

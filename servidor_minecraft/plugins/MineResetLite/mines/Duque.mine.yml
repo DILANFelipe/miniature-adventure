@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 794
+  maxY: 165
+  maxX: 311
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 132
+  resetWarnings: []
+  minX: 279
+  composition:
+    '57:0': 0.3
+    '1:0': 0.4
+    '133:0': 0.3
+  name: Duque
+  resetClock: 3
+  minZ: 762
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

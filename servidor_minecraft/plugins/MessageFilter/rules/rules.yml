@@ -1,0 +1,90 @@
+test:
+  type: EQUAL
+  message-mask: testmessage
+  replace-to: test-replacement
+  cooldown-time: 10s
+  use-formating: false
+Transferir:
+  type: EQUAL
+  message-mask: '&b&lCRATES &7» &c/Crate Transfer <Crate> <Player> [Amount]'
+  replace-to: '&b&lCRATES &7» &fUsa: &b/kpay &b<crate> &b<jugador> &b<cantidad>'
+  cooldown-time: ''
+  use-formating: true
+es1:
+  type: EQUAL
+  message-mask: es1message
+  replace-to: es1-replacement
+  cooldown-time: 10s
+  use-formating: false
+es2:
+  type: EQUAL
+  message-mask: 'Your bloodloss makes you stronger!'
+  replace-to: '&c&l☣ ¡HAS RECIBIDO FUERZA III! ☣'
+  cooldown-time: ''
+  use-formating: true
+e1:
+  type: EQUAL
+  message-mask: e1message
+  replace-to: e1-replacement
+  cooldown-time: 10s
+  use-formating: false
+e2:
+  type: EQUAL
+  message-mask: '&cYou are Bleeding!'
+  replace-to: '&c&l⚠ ¡TE HAN LASTIMADO, ESTAS SANGRANDO! ⚠'
+  cooldown-time: ''
+  use-formating: true
+eq1:
+  type: EQUAL
+  message-mask: eq1message
+  replace-to: eq1-replacement
+  cooldown-time: 10s
+  use-formating: false
+eq2:
+  type: EQUAL
+  message-mask: '&aYou have stopped Bleeding!'
+  replace-to: '&a&l✔ ¡TE HAS CURADO, YA NO ESTAS SANGRANDO! ✔'
+  cooldown-time: ''
+  use-formating: true
+esq1:
+  type: EQUAL
+  message-mask: esq1message
+  replace-to: esq1-replacement
+  cooldown-time: 10s
+  use-formating: false
+esq2:
+  type: EQUAL
+  message-mask: '&cCorrect Usage: /ce <Reload/List/Remove/Enchant/Menu/Change/Give/Update>'
+  replace-to: '&e&lSURVIVAL → &f¡Comando desconocido, usa &e/ayuda!'
+  cooldown-time: ''
+  use-formating: true
+varadeladestruccion1:
+  type: EQUAL
+  message-mask: 'Changed Spell to Wither''s Apprentice.'
+  replace-to: '&4&lVARA » &f¡Ahora lanzarás un esbirro explosivo!'
+  cooldown-time: ''
+  use-formating: false
+varadeladestruccion2:
+  type: EQUAL
+  message-mask: 'Changed Spell to Lightning Strike.'
+  replace-to: '&4&lVARA » &f¡Ahora lanzarás rayos!'
+  cooldown-time: ''
+  use-formating: false
+varadeladestruccion3:
+  type: EQUAL
+  message-mask: 'Changed Spell to Fireball.'
+  replace-to: '&4&lVARA » &f¡Ahora lanzarás bolas de fuego!'
+  cooldown-time: ''
+  use-formating: false
+canondepociones1:
+  type: EQUAL
+  message-mask: 'You need a Potion in the slot to the right of the Potion Launcher!'
+  replace-to: '&d&lCAÑON » &f¡Necesitas tener una poción al lado derecho del cañon de pociones!'
+  cooldown-time: ''
+  use-formating: false
+minigun:
+  type: EQUAL
+  message-mask: 'Out of ammo!'
+  replace-to: '&e&lMINIGUN » &f¡Te has quedado sin munición!'
+  cooldown-time: ''
+  use-formating: false

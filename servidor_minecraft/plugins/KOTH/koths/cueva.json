@@ -1,0 +1,163 @@
+koth: |-
+  {
+    "name": "Cueva",
+    "active": false,
+    "tempDisabled": false,
+    "kothLoc": {
+      "world": "SiPvP",
+      "x1": -129,
+      "y1": 35,
+      "z1": 163,
+      "x2": -136,
+      "y2": 43,
+      "z2": 170
+    },
+    "kothSchedule": {
+      "scheduledKOTHs": [
+        {
+          "id": 0,
+          "requiredTime": 240,
+          "playersRequired": 0,
+          "maxRunTime": 3800,
+          "maxPoints": 0,
+          "date": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 4,
+                "day": 19
+              },
+              "time": {
+                "hour": 6,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": -18000
+            },
+            "zone": {
+              "id": "America/Mexico_City"
+            }
+          },
+          "scheduleType": "DAILY"
+        },
+        {
+          "id": 1,
+          "requiredTime": 240,
+          "playersRequired": 0,
+          "maxRunTime": 3800,
+          "maxPoints": 0,
+          "date": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 4,
+                "day": 19
+              },
+              "time": {
+                "hour": 12,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": -18000
+            },
+            "zone": {
+              "id": "America/Mexico_City"
+            }
+          },
+          "scheduleType": "DAILY"
+        },
+        {
+          "id": 2,
+          "requiredTime": 240,
+          "playersRequired": 0,
+          "maxRunTime": 3800,
+          "maxPoints": 0,
+          "date": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 4,
+                "day": 19
+              },
+              "time": {
+                "hour": 18,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": -18000
+            },
+            "zone": {
+              "id": "America/Mexico_City"
+            }
+          },
+          "scheduleType": "DAILY"
+        },
+        {
+          "id": 3,
+          "requiredTime": 240,
+          "playersRequired": 0,
+          "maxRunTime": 3800,
+          "maxPoints": 0,
+          "date": {
+            "dateTime": {
+              "date": {
+                "year": 2023,
+                "month": 4,
+                "day": 19
+              },
+              "time": {
+                "hour": 23,
+                "minute": 0,
+                "second": 0,
+                "nano": 0
+              }
+            },
+            "offset": {
+              "totalSeconds": -18000
+            },
+            "zone": {
+              "id": "America/Mexico_City"
+            }
+          },
+          "scheduleType": "DAILY"
+        }
+      ],
+      "nextId": 4,
+      "randomSchedule": false
+    },
+    "kothDetails": {
+      "runTime": 295,
+      "maxRunTime": 3800,
+      "maxPoints": 0,
+      "captureTime": 0,
+      "requiredTime": 240,
+      "syncTaskID": 7,
+      "asyncTaskID": 8,
+      "chatDelay": 3,
+      "disableChat": true,
+      "rewardCmds": [
+        "eco give %player% 2000000 ",
+        "kit inframundo %player% ",
+        "give %player% sponge 1 "
+      ]
+    },
+    "kothLoot": {
+      "lootItems": [],
+      "lootLocations": [],
+      "lootType": "INVENTORY"
+    },
+    "kothAutoStart": {
+      "players": 0,
+      "runTime": 0
+    },
+    "kothPoints": {}
+  }

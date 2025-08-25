@@ -1,22 +1,26 @@
-# DeluxeMenus 1.14.1-DEV-184 main configuration file
-#
+# DeluxeMenus 1.13.3-Release main configuration file
+# 
 # A full wiki on how to use this plugin can be found at:
-# https://wiki.helpch.at/clips-plugins/deluxemenus
+# https://github.com/help-chat/DeluxeMenus/wiki
 
 debug: false
 check_updates: true
 gui_menus:
-  Rules:
-    file: Rules.yml
-  Warp-Menu:
-    file: Warps.yml
-  Warp-RTP:
-    file: RTP.yml
-  Warp-Server:
-    file: Server_Warps.yml
-  Ranks-Menu:
-    file: Ranks.yml
-  Points_Menu:
-    file: Points_Shop.yml
-  Help:
-    file: Help.yml
+  trabajos:
+    file: jobs.yml
+  warps:
+    file: warps.yml
+  minas:
+    file: minas.yml
+  menu:
+    file: menu.yml
+  kits1:
+    file: kits1.yml
+  kits2:
+    file: kits2.yml
+  ranks:
+    file: ranks.yml
+  mascotas:
+    file: mascotas.yml
+  tesoros:
+    file: tesoros.yml

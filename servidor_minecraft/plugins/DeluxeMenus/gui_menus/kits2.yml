@@ -1,0 +1,345 @@
+menu_title: '&8Survival | &6&lPREMIUM'
+update_interval: 1
+open_command:
+- kits2
+size: 54
+items:
+  'Anterior':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjg0ZjU5NzEzMWJiZTI1ZGMwNThhZjg4OGNiMjk4MzFmNzk1OTliYzY3Yzk1YzgwMjkyNWNlNGFmYmEzMzJmYyJ9fX0='
+    slot: 45
+    display_name: '&cPágina anterior'
+    lore:
+    - '&7&n¡Haz click-izquierdo!'
+    left_click_commands:
+    - '[player] kits'
+    right_click_commands:
+    - '[player] kits'
+
+
+#########################################
+# LINEA 2
+#########################################
+
+  '1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 10
+    display_name: '&a▪ &a&lVIP'
+    lore:
+    - '&8Información'
+    - ''
+    - '&a▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &a&lVIP'
+    - '&7▐ &fReclama cada: &724 horas'
+    - ''
+    - '&a&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit vip'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit vip'
+  '2':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 11
+    display_name: '&b▪ &b&lELITE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&b▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &b&lELITE'
+    - '&7▐ &fReclama cada: &724 horas'
+    - ''
+    - '&b&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit elite'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit elite'
+  '3':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 12
+    display_name: '&e▪ &e&lHEROE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&e▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &e&lHEROE'
+    - '&7▐ &fReclama cada: &724 horas'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit heroe'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit heroe'
+  '4':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 13
+    display_name: '&7▪ &7&lTITAN'
+    lore:
+    - '&8Información'
+    - ''
+    - '&7▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &7▪ &7&lTITAN'
+    - '&7▐ &fReclama cada: &72 días'
+    - ''
+    - '&7&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit titan'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit titan'
+  '5':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 14
+    display_name: '&d▪ &d&lLEYENDA'
+    lore:
+    - '&8Información'
+    - ''
+    - '&d▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &d&lLEYENDA'
+    - '&7▐ &fReclama cada: &72 días'
+    - ''
+    - '&d&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit leyenda'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit leyenda'
+  '6':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 15
+    display_name: '&c▪ &c&lMAESTRO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&c▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &c&lMAESTRO'
+    - '&7▐ &fReclama cada: &73 días'
+    - ''
+    - '&c&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit maestro'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit maestro'
+  '7':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 16
+    display_name: '&6▪ &6&lULTIMATE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&6▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &6&lULTIMATE'
+    - '&7▐ &fReclama cada: &74 días'
+    - ''
+    - '&6&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit ultimate'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit ultimate'
+  '79':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI0YTVjMjlkOTAxNzIxODUxZDg4NjhiOTA3NWY0OWM0NzZhODk0MDk4YzdlZjI2NjU4MTNjNTUyYmJjOWFkZCJ9fX0='
+    slot: 22
+    display_name: '&4▪ &4&lSNOVERY'
+    lore:
+    - '&8Información'
+    - ''
+    - '&4▪ &ntienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &4&lSNOVERY'
+    - '&7▐ &fReclama cada: &75 días'
+    - ''
+    - '&4&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit ultimate'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit ultimate'
+  '8':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 28
+    display_name: '&e▪ &lVERDUGO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit verdugo'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit verdugo'
+  '9':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 29
+    display_name: '&a▪ &lVYCTIM'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit vyctim'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit vyctim'
+  '10':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 30
+    display_name: '&d▪ &lBANDIDO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit bandido'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit bandido'
+  '11':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 32
+    display_name: '&7▪ &lRENEGADO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit renegado'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit renegado'
+  '12':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 33
+    display_name: '&9▪ &lNUKE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit nuke'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit nuke'
+  '13':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 34
+    display_name: '&3▪ &lELEMENTAL'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit elemental'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit elemental'
+  '14':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 38
+    display_name: '&4▪ &lSNOOBRIDGE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit snoobrigde'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit snoobrigde'
+  '15':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 40
+    display_name: '&6▪ &lARQUERO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit arquero'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit arquero'
+  '16':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAzMjdmYjM0MzE5Zjg5YWM1YWI0OGI0ZDc5MjUxZjEzZjA2N2ViZWE3ZGE1Zjg4Yjc1ZjQ3OWE3Mzg5OTI0ZSJ9fX0='
+    slot: 42
+    display_name: '&5▪ &lFARMERO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fAdquiere un &e&lGKIT &fen la'
+    - '&ftienda oficial del servidor.'
+    - ''
+    - '&6▐ &fReclama cada: &6&n7 días'
+    - ''
+    - '&e&n(Haz click para reclamar)'
+    left_click_commands:
+    - '[close]'
+    - '[player] kit arquero'
+    right_click_commands:
+    - '[close]'
+    - '[player] kit arquero'

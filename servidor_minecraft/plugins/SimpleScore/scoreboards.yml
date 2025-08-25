@@ -1,0 +1,42 @@
+## Scoreboards (https://github.com/r4g3baby/SimpleScore/blob/main/src/main/resources/scoreboards.yml)
+# This is where you create your scoreboards to be displayed.
+
+# You can create a scoreboard by creating a node with the scoreboard name and then specifying a default "updateTime",
+#  "renderTime" and a list of "titles" and "scores".
+#
+# "updateTime": the default update time in ticks (optional and defaults to 20 ticks/1 second)
+#  This controls how long it takes for each frame to stay on the scoreboard
+# "renderTime": the default render time in ticks (optional and defaults to 10 ticks/0.5 seconds)
+#  This controls how long it takes before rendering each frame, placeholders and variables will only get applied each
+#   time a render occurs (the lower the render time is the heavier it will be on server performance)
+# "titles": text to display or a list of frames*
+# "scores": the score number/value followed by the text to display or a list of frames* or a map with the "conditions"
+#  (list of conditions*) and "frames" (list of frames*) keys
+#
+# *conditions: can be prefixed with a "!" (exclamation mark) to negate the condition
+# *frames: is a list of strings or list of maps with the "text" (text to display),
+#  "update" (time to stay visible, optional and defaults to "updateTime") and
+#  "render" (time to wait before rendering, optional and defaults to "renderTime") keys
+#
+# Check out the examples bellow for more information.
+
+# This is a simple scoreboard with only the top and bottom lines animated
+simple:
+  titles: '&e&lSURVIVAL OP'
+  scores:
+    16: '&7          %server_time_dd/MM/yyyy%    &7'
+    15: ''     
+    14: '&8(&6%player%&8)'
+    13: ''
+    12: '&7» &fRango: %tab_tabprefix%'
+    11: '&e▐ &fDinero: &e$%vault_eco_balance_formatted%'
+    10: '&e▐ &fConexión: &e%player_ping%ms'
+    9: ''
+    8: '&f &6▪ &fVoteParty: &6&n%voteparty_votes_recorded%/%voteparty_votes_required_total%'
+    7: ''
+    6: '&7» &fMejora: %luckperms_prefix_element_highest_on_track_rankups%' 
+    5: '&e▐ &fAsesinatos: &e%statistic_player_kills%'
+    4: '&e▐ &fMuertes: &e%statistic_deaths%'
+    3: ''  
+    2: '&6play.minevy.xyz'
+

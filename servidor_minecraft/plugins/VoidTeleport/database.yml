@@ -1,0 +1,7 @@
+worlds:
+  NoPvP:
+    spawnpoint: NoPvP:-0.5:88.0:-35.5:-0.16199848:-8.981635
+    y-void: 0.0
+    enabled: true
+    keep-inventory: true
+    nether: false

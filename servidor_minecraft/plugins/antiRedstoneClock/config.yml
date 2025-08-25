@@ -1,0 +1,44 @@
+version: 0.9
+metrics: true
+MaxPulses: 600
+Delay: 120
+NotifyAdmins: false
+DropItems: true
+CreateSignWhenClockIsBreak: true
+Sign:
+  Line1: '&c&lÂ¡PROHIBIDO!'
+  Line2: '&0No puedes hacer'
+  Line3: '&0mecanismos con'
+  Line4: '&0redstone...'
+IgnoreWorlds: redstoneWorld/survival
+IgnoreRegions: redstone/admins
+plotSquaredSupport: true
+worldGuardSupport: true
+checkedClock:
+  comparator: true
+  observer: false
+  piston: true
+  redstoneAndRepeater: true
+AutomaticallyBreakDetectedClock: true
+SummonLigthningAtRedstoneLocation: true
+teleportCMD: tp $x $y $z $world
+checkTPS:
+  minimumTPS: -1
+  maximumTPS: -1
+  intervalInSecond: 15
+disableRedstoneClockCheckAbove: 255
+Msg:
+  default:
+    prefix: '&8(&c&lALERTA&8) &8&lâ–¸ &f'
+    error: '&8(&c&lALERTA&8) &8&lâ–¸ &f'
+    no_permission: Comando desconocido.
+    command_use: '&8(&c&lALERTA&8) &8&lâ–¸ &fÂ¡Uso correcto del comando!: &c/arc'
+  message:
+    MsgToAdmin: Â¡Ha sido encontrado un &c&lRELOJ!&7 (Click aquÃ­)
+    unknownCmd: '&8(&e&lSURVIVAL&8) &8&lâ–¸ &fComando no encontrado.'
+    reloadSuccess: Reload Success! Redstone listener and third party plugin are not affected!!!
+    newValueInConfig: The new value of $setting is $value
+    RedStoneClockListHeader: 'RedstoneClockList: $page'
+    RedStoneClockListFooter: ''
+  Exception:
+    duplicate_object: This list already contains this redstone

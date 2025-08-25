@@ -1,0 +1,90 @@
+# DOCS BEGIN #
+# Commands:
+#  - /tafk <wand/save/reload/item> (aliases: /afk)
+#  - /silentgive {player} <item> <amount>(optional, by default it's 1)
+#    -> (if you use this inside commands to give to afk players, you can even give NBT items too!)
+#    -> (if you want to give custom items from the items(configuration section) you will need to put the name inside { }
+#    -> e.g.: /sgive {player} {test3} 2
+# DOCS END #
+check_for_update: false
+default_afk_time: 1800
+afk_times:
+  default: 1800
+region:
+  locations:
+    world: NoPvP
+    loc1:
+      x: 3.0
+      y: 77.0
+      z: -4.0
+    loc2:
+      x: -5.0
+      y: 81.0
+      z: 4.0
+placeholder_not_in_afk_region: Not in AFK Zone
+show_xp_bar: true
+save_xp_inside_region: true
+silent_player_inventory_full: '&8(&e&lAFK&8) &8&l▸ &f¡Tu inventario está lleno, por
+  lo tanto no recibirás nada!'
+actionbar:
+  show: false
+  messages:
+    sg_day: ' day, '
+    pl_day: ' days, '
+    sg_hour: ' hour, '
+    pl_hour: ' hours, '
+    sg_minute: ' minute, '
+    pl_minute: ' minutes, '
+    0_seconds: ' Resetting!'
+    sg_second: ' second.'
+    pl_second: ' seconds.'
+    before_msg: '{player} >> time left >> '
+loading_screen:
+  totalTiles: 10
+  symbol: '|'
+  loading_color: '&7'
+  loading_complete: '&a'
+bossbar:
+  show: false
+  color: RED
+  style: SOLID
+  text: Idk
+title_screen:
+  show: false
+  title: '&7[{loadingScreenBar}&7]'
+  subtitle: '&c{loadingScreenPercentage}%'
+commands:
+- eco give {player} 1200000
+- tm message {player} &e&lAFK &NPREMIOS\n&f¡Has recibido &e&lPREMIOS!
+random_commands:
+  times: 1
+  list:
+  - msg {player} random 1
+  - vouch give Moneys1 {player}
+  - msg {player} random 6
+  - vouch give Moneys1 {player}
+  - msg {player} random 7
+  - msg {player} random 8
+  - msg {player} random 9
+  - kit inframundo {player}
+  - msg {player} random 3
+  - msg {player} random 4
+  - msg {player} random 5
+  - vouch give Moneys1 {player}
+on_command_deny: '&8(&e&lAFK&8) &8&l▸ &f¡No puedes usar comandos!'
+denied_commands:
+- /shop
+- /potis
+- /pociones
+- /tolvas
+- /recolector
+- /recolectores
+- /sets
+- /armaduras
+- /armadura
+- /set
+- /armamento
+- /spawners
+- /ss
+- /spawner
+items: {}

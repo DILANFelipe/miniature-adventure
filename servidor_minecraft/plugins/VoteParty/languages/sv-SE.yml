@@ -1,0 +1,67 @@
+descriptions:
+  help: HjÃ¤lpsamma kommandon till VoteParty.
+  setcounter: Ange nuvarande rÃ¶stantal.
+  addvote: Add a vote to a player with the ability to trigger or not the rewards.
+  addpartyvote: Add a vote to the party
+  startparty: TvÃ¥ngs kÃ¶r ett VoteParty.
+  givecrate: FÃ¶rse en spelare med en rÃ¶stlÃ¥da.
+  giveparty: Aktivera ett privat Vote Party fÃ¶r en spelare.
+  reload: Ladda om konfigurations filerna.
+  checkvotes: Kontrollera antalet rÃ¶ster en spelare har.
+  totalvotes: FÃ¥ totala antalet rÃ¶ster en spelare har.
+  resetvotes: NollstÃ¤ll antalet rÃ¶ster en spelare har.
+  claim: HÃ¤mta belÃ¶ningar frÃ¥n offline rÃ¶ster.
+  claimall: Claim all rewards from offline votes at once.
+error:
+  invalid-number: '&fTyvÃ¤rr, men det mÃ¥ste vara ett positivt heltal fÃ¶r att det
+    ska fungera korrekt!'
+  disabled-world: '&fTyvÃ¤rr, men den spelaren Ã¤r i en avstÃ¤ngd vÃ¤rld!'
+  user-not-found: '&fTyvÃ¤rr, men spelaren hittades ej!'
+info:
+  votes-needed: '&d%voteparty_votes_required_party% RÃ¶ster &fbehÃ¶vs fÃ¶r nÃ¤sta
+    party.'
+  reloaded: '&fKonfigurationen config har laddats om!'
+  player-total-votes: '&d%player_name% &fhar ett totalt antal av &d%voteparty_player_votes%
+    &frÃ¶st(er)!'
+  player-check-votes: '&d%player_name% &fhar rÃ¶stat &d{count} gÃ¥nger under de senaste
+    &d{amount} {unit}&d!'
+  vote-count-reset: '&d%player_name%&f''s rÃ¶ster har Ã¥terstÃ¤llts till &d0&f!'
+party:
+  force-start-successful: '&fDu tvingade igÃ¥ng ett &dVote Party &ffÃ¶r alla onlinespelare!'
+  requirements-not-met: '&fSorry, but you did not meet the requirements to join this
+    party!'
+votes:
+  votes-needed-updated: '&fNya nÃ¶dvÃ¤ndiga rÃ¶ster har Ã¤ndrats! &d%voteparty_votes_required_party%
+    RÃ¶ster &fbehÃ¶vda fÃ¶r nÃ¤sta party.'
+  vote-counter-updated: '&fNuvarande rÃ¶ster uppdaterades till &d%voteparty_votes_recorded%&f!'
+  private-party-given: '&fDu har skÃ¤nkt ett privat &dVote Party &ftill &d%player_name%&f!'
+  private-party-received: '&fDu har fÃ¥tt ett privat &dVote Party&f!'
+  added-to-player: '&fDu har gett {count} rÃ¶ster till %player_name%!'
+  inventory-full: '&fYour inventory seems to be full! We''ve put this vote in your
+    claimables! Do /vp claim once your inventory isn''t full!'
+crate:
+  crate-given: '&fDu har gett &d%player_name% rÃ¶stlÃ¥dor!'
+  crate-received: '&fDu har fÃ¥tt en rÃ¶stlÃ¥da!'
+claim:
+  success: '&fDu har lyckats hÃ¤mtat belÃ¶ningarna frÃ¥n en offlinerÃ¶st! Du har &d{claim}
+    &fkvar att hÃ¤mta.'
+  success-all: '&fYou successfully claimed the rewards for all offline votes!'
+  none: '&fDu har inga belÃ¶ningar frÃ¥n offlinerÃ¶ster att hÃ¤mta!'
+  notify: '&fHej dÃ¤r! Du har rÃ¶stat nÃ¤r du varit offline! Du har belÃ¶ningar att
+    hÃ¤mta! Samla in dem genom kommandot &d/vp claim&f!'
+  full: '&aYour inventory is full! Make some space and try again!'
+  full-all: '&aYour inventory is full! Make some space and try again! You have claimed
+    &d{claimed} &aoffline rewards. You have &d{claim} &aleft to claim.'
+help:
+  header: <strikethrough><dark_purple>      </strikethrough> <light_purple>VoteParty Help <strikethrough><dark_purple>      </dark_purple></strikethrough>
+  line-text: |
+    <dark_gray>â€¢ <hover:show_text:'{line-hover}'><light_purple>/vp</light_purple> <white>{cmd}</white></hover>
+  line-hover: |-
+    <light_purple>{text}
+    <white>{desc}
+
+    <gray>/vp {cmd} <white>{args}
+    <dark_gray>{perm}</dark_gray>
+  footer: |-
+    <strikethrough><dark_purple>                               </dark_purple></strikethrough>
+    <italic><gray>Hover for more info</gray></italic>

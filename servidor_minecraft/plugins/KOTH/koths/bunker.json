@@ -1,0 +1,41 @@
+koth: |-
+  {
+    "name": "Bunker",
+    "active": false,
+    "tempDisabled": false,
+    "kothLoc": {
+      "world": "SiPvP",
+      "x1": -151,
+      "y1": 29,
+      "z1": 86,
+      "x2": -145,
+      "y2": 25,
+      "z2": 80
+    },
+    "kothSchedule": {
+      "scheduledKOTHs": [],
+      "nextId": 0,
+      "randomSchedule": false
+    },
+    "kothDetails": {
+      "runTime": 1176,
+      "maxRunTime": 0,
+      "maxPoints": 0,
+      "captureTime": 0,
+      "requiredTime": 240,
+      "syncTaskID": 11,
+      "asyncTaskID": 12,
+      "chatDelay": 3,
+      "disableChat": true
+    },
+    "kothLoot": {
+      "lootItems": [],
+      "lootLocations": [],
+      "lootType": "INVENTORY"
+    },
+    "kothAutoStart": {
+      "players": 0,
+      "runTime": 0
+    },
+    "kothPoints": {}
+  }

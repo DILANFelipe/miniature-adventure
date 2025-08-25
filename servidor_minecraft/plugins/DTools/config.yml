@@ -1,0 +1,215 @@
+###############################################################
+# +---------------------------------------------------------+ #
+# |                      DTools v0.7                        | #
+# |                    Author: Delzaros                     | #
+# +---------------------------------------------------------+ #
+###############################################################
+
+# Make sure your config file is the same version as the actual plugin, if they differ some features might cause errors! Avoid using old configs!!!
+# For more info about the config or plugin you can visit the following web page: http://dev.bukkit.org/bukkit-plugins/delztools/
+
+###############################################################
+# +---------------------------------------------------------+ #
+# |                     Recipes                             | #
+# +---------------------------------------------------------+ #
+###############################################################
+
+# Here you can set whether you want the recipe's enabled or not. (Requires server restart/reload)
+enableRecipeHM: true
+enableRecipeHL: true
+enableRecipeHE: true
+enableRecipeHF: true
+
+# Here you can set the recipe shapes and ingredients.
+# Iron Pickaxe
+ironHM:
+  slot1: iron_ingot
+  slot2: iron_ingot
+  slot3: iron_ingot
+#  slot4:
+  slot5: iron_pickaxe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+# Diamond Pickaxe
+diaHM:
+  slot1: diamond
+  slot2: diamond
+  slot3: diamond
+#  slot4:
+  slot5: diamond_pickaxe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+# Iron Axe
+ironHL:
+  slot1: iron_ingot
+  slot2: iron_ingot
+#  slot3:
+  slot4: iron_ingot
+  slot5: iron_axe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+# Diamond Axe
+
+diaHL:
+  slot1: diamond
+  slot2: diamond
+#  slot3:
+  slot4: diamond
+  slot5: diamond_axe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+# Iron Shovel
+ironHE:
+#  slot1:
+  slot2: iron_ingot
+#  slot3:
+  slot4: iron_ingot
+  slot5: iron_spade
+  slot6: iron_ingot
+#  slot7:
+#  slot8:
+#  slot9:
+
+# Diamond Shovel
+diaHE:
+#  slot1:
+  slot2: diamond
+#  slot3:
+  slot4: diamond
+  slot5: diamond_spade
+  slot6: diamond
+#  slot7:
+#  slot8:
+#  slot9:
+  
+# Iron Hoe
+ironHF:
+  slot1: iron_ingot
+#  slot2:
+  slot2: iron_ingot
+#  slot3:
+  slot5: iron_hoe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+
+# Diamond Hoe
+diaHF:
+  slot1: diamond
+#  slot2:
+  slot2: diamond
+#  slot3:
+  slot5: diamond_hoe
+#  slot6:
+#  slot7:
+#  slot8:
+#  slot9:
+
+###############################################################
+# +---------------------------------------------------------+ #
+# |           Durability & tool break protection            | #
+# +---------------------------------------------------------+ #
+###############################################################
+  
+# Here you can set how much durability the tools lose for the extra blocks that are affected by it.
+# Set "True" if you want the durability loss to be per block.
+# Set "false" to remove durability loss for the extra blocks.
+extraDurabilityLoss: false
+
+# Here you can set how much durability the unbreaking enchant retracts from the total durability loss. (1-8 min/max)
+# This setting only applies if extraDurability is set to "true".
+unbreaking1: 1
+unbreaking2: 3
+unbreaking3: 5
+
+# Here you can set whether you want to protect DelzTools from breaking, when a tool reaches critical durability.
+# This will prevent the tool from breaking but will also make the tool useless until repaired.
+toolBreakProtection: true
+
+###############################################################
+# +---------------------------------------------------------+ #
+# |                     Block Lists                         | #
+# +---------------------------------------------------------+ #
+###############################################################
+
+# Here you can set what blocks(materials) are affected by the tools effects
+# List for 3x3 Heavy Pickaxe, Heavy Mining.
+blocksHM:
+  stone:             true
+  cobblestone:       true
+  mossy_cobblestone: true
+  # All the slabs are in 1 material type, which means you will enable all the stone slabs for this tool if set to true!
+  stone_slabs:       true
+  brick:             true
+  stone_brick:       true
+  sandstone:         true
+  # Red_sandstone has been added with 1.8, disable it if you use a previous version of Minecraft prior to 1.8.
+  red_sandstone:     false
+  stained_clay:      true
+  hardened_clay:     true
+  coal_ore:          true
+  coal_block:        true
+  iron_ore:          true
+  iron_block:        true
+  gold_ore:          true
+  gold_block:        true
+  redstone_ore:      true
+  redstone_block:    false
+  lapis_ore:         true
+  lapis_block:       true
+  emerald_ore:       true
+  emerald_block:     true
+  diamond_ore:       true
+  diamond_block:     true
+  netherrack:        true
+  nether_brick:      true
+  quartz_ore:        true
+  quartz_block:      true
+  glowstone:         true
+  endstone:          true
+  prismarine:        true
+
+# List for 3x3 Heavy Axe, Heavy Lumbering.
+blocksHL:
+  log:         true
+  wood:        true
+  # All the slabs are in 1 material type, which means you will enable all the wood slabs for this tool if set to true!
+  wood_slabs:  true
+  fences:      true
+  fence_gates: true
+
+# List for 3x3 Heavy Shovel, Heavy Excavating.
+blocksHE:
+  grass:      true
+  dirt:       true
+  sand:       true
+  gravel:     true
+  clay:       true
+  snow:       true
+  snow_block: true
+  soul_sand:  true
+  mycelium:   true
+
+###############################################################
+# +---------------------------------------------------------+ #
+# |                 BanHammer announcement                  | #
+# +---------------------------------------------------------+ #
+###############################################################
+
+# Set true or false whether you want to announce a server message to everyone when someone gets banned by the banhammer.
+# When set to "false" only ops and members with the permission dt.announceBan will be able to see it.
+banAnnounce: true

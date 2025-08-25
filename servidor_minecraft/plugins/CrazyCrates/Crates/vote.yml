@@ -1,0 +1,641 @@
+Crate:
+  CrateType: CSGO
+  CrateName: '&eVOTE'
+  Preview-Name: '&8Survival | &e&lPREMIOS'
+  StartingKeys: 0
+  InGUI: false
+  Slot: 21
+  OpeningBroadCast: false
+  BroadCast: '&b&lCAJAS &8* &b%Player% &festa abriendo una caja &f&lVOTE'
+  Item: CHEST
+  Glowing: false
+  Name: '&eVote'
+  Lore:
+  - '&7This crate contains strange objects.'
+  - '&7You have &6%Keys% keys &7to open this crate with.'
+  - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  Preview:
+    Toggle: true
+    ChestLines: 6
+    Glass:
+      Toggle: false
+      Item: STAINED_GLASS_PANE:8
+  PhysicalKey:
+    Name: '&eVote'
+    Lore:
+    - '&f'
+    - '&5» &fCalidad: &dAlta'
+    Item: TRIPWIRE_HOOK
+    Glowing: true
+  Hologram:
+    Toggle: true
+    Height: 2.92
+    Message:
+    - '&e&lVOTE&r &7(/vote)'
+    - ''
+    - '&fVota por el servidor para ganar'
+    - '&fmuchas recompensas en esta caja.'
+    - '&7[&a■■&7■■■■■■■■&7]'
+    - ''
+    - '&a&n¡Haz click para ver el contenido!'
+  Prizes:
+    '1':
+      DisplayName: '&a$120,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 120000
+    '2':
+      DisplayName: '&a$380,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 380000
+    '3':
+      DisplayName: '&a$500,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 40
+      Commands:
+      - eco give %Player% 500000
+    '4':
+      DisplayName: '&a$1,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Commands:
+      - eco give %Player% 1000000
+    '5':
+      DisplayName: '&a$2,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 20
+      Commands:
+      - eco give %Player% 2000000
+    '6':
+      DisplayName: '&a$4,000,000&r'
+      DisplayItem: PAPER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - eco give %Player% 4000000
+    '7':
+      DisplayName: '&e&l▪ HEROE &8| &f3 días&r'
+      DisplayItem: BOOK:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 5
+      Commands:
+      - lp user %Player% parent addtemp heroe 3d
+    '8':
+      DisplayName: '&c&l▪ MAESTRO &8| &f3 días&r'
+      DisplayItem: BOOK:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 3
+      Commands:
+      - lp user %Player% parent addtemp maestro 3d
+    '9':
+      DisplayItem: EMERALD_BLOCK:0
+      DisplayAmount: 64
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 64
+    '10':
+      DisplayItem: DIAMOND_BLOCK:0
+      DisplayAmount: 64
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 64
+    '11':
+      DisplayItem: SPONGE:0
+      DisplayAmount: 2
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 2
+    '12':
+      DisplayItem: SPONGE:0
+      DisplayAmount: 4
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 4
+    '13':
+      DisplayItem: SPONGE:0
+      DisplayAmount: 6
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        amount: 6
+    '14':
+      DisplayName: '&bx6,000 puntos de &l&nXP'
+      DisplayItem: 384
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - xp give %Player% 6000
+    '15':
+      DisplayName: '&bx9,000 puntos de &l&nXP'
+      DisplayItem: 384
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - xp give %Player% 9000
+    '16':
+      DisplayName: '&bx12,000 puntos de &l&nXP'
+      DisplayItem: 384
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Commands:
+      - xp give %Player% 12000
+    '17':
+      DisplayItem: GOLDEN_APPLE:0
+      DisplayAmount: 8
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        amount: 8
+    '18':
+      DisplayItem: GOLDEN_APPLE:0
+      DisplayAmount: 12
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        amount: 12
+    '19':
+      DisplayItem: GOLDEN_APPLE:0
+      DisplayAmount: 16
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        amount: 16
+    '20':
+      DisplayItem: GOLDEN_APPLE:1
+      DisplayAmount: 2
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 2
+    '21':
+      DisplayItem: GOLDEN_APPLE:1
+      DisplayAmount: 4
+      MaxRange: 100
+      Chance: 40
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 4
+    '22':
+      DisplayItem: GOLDEN_APPLE:1
+      DisplayAmount: 6
+      MaxRange: 100
+      Chance: 30
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 6
+    '23':
+      DisplayName: §r§9▪ §lOCULTISTA
+      Lore:
+      - §cHorneado I
+      DisplayEnchantments:
+      - DIG_SPEED:3
+      - LOOT_BONUS_BLOCKS:8
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_PICKAXE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9▪ §lOCULTISTA
+          lore:
+          - §cHorneado I
+          enchants:
+            DIG_SPEED: 3
+            Custom Enchantment: 0
+            LOOT_BONUS_BLOCKS: 8
+    '24':
+      DisplayName: §r§6▪ §lMEDIEVAL
+      Lore:
+      - §cExplosivo I
+      DisplayEnchantments:
+      - DIG_SPEED:5
+      - LOOT_BONUS_BLOCKS:2
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_PICKAXE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6▪ §lMEDIEVAL
+          lore:
+          - §cExplosivo I
+          enchants:
+            DIG_SPEED: 5
+            Custom Enchantment: 0
+            LOOT_BONUS_BLOCKS: 2
+    '25':
+      DisplayName: §r§2▪ §lVERDUGO
+      Lore:
+      - §cHorneado I
+      DisplayEnchantments:
+      - DIG_SPEED:7
+      - DURABILITY:1
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_PICKAXE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§2▪ §lVERDUGO
+          lore:
+          - §cHorneado I
+          enchants:
+            DIG_SPEED: 7
+            Custom Enchantment: 0
+            DURABILITY: 1
+    '26':
+      DisplayName: §r§7▪ §lGOLEM
+      Lore:
+      - §cHorneado I
+      DisplayEnchantments:
+      - DIG_SPEED:8
+      - DURABILITY:3
+      - LOOT_BONUS_BLOCKS:3
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_PICKAXE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§7▪ §lGOLEM
+          lore:
+          - §cHorneado I
+          enchants:
+            DIG_SPEED: 8
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+            Custom Enchantment: 0
+    '27':
+      DisplayName: §r§c▪ §lQUIMERA
+      Lore:
+      - §cHorneado I
+      - §cPrisa I
+      DisplayEnchantments:
+      - DIG_SPEED:9
+      - DURABILITY:3
+      - LOOT_BONUS_BLOCKS:4
+      - Custom Enchantment:0
+      DisplayItem: DIAMOND_PICKAXE:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 20
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §lQUIMERA
+          lore:
+          - §cHorneado I
+          - §cPrisa I
+          enchants:
+            DIG_SPEED: 9
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 4
+            Custom Enchantment: 0
+    '28':
+      DisplayName: §r§4▪ §l§nINFRAMUNDO
+      Lore:
+      - §r§r§8
+      - '§r§4» Información:'
+      - §r§fConsigue está piedra en eventos
+      - §r§fde §4"paquetes/boss" §fy compra
+      - §r§flas cosas más legendarias. §4✔
+      - §r§f
+      - '§r§fModo de uso: §4§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: FIREBALL:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 15
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: FIREBALL
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§4▪ §l§nINFRAMUNDO
+          lore:
+          - §r§r§8
+          - '§r§4» Información:'
+          - §r§fConsigue está piedra en eventos
+          - §r§fde §4"paquetes/boss" §fy compra
+          - §r§flas cosas más legendarias. §4✔
+          - §r§f
+          - '§r§fModo de uso: §4§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '29':
+      DisplayName: §r§e▪ §l§nMONEVY
+      Lore:
+      - §r§r§8
+      - '§r§e» Información:'
+      - §r§fUna moneda muy común, ve al
+      - §r§fmercado a ver si consigues
+      - §r§fcomprar alguna espada §e✔
+      - §r§f
+      - '§r§fModo de uso: §e§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: GOLD_NUGGET:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§e▪ §l§nMONEVY
+          lore:
+          - §r§r§8
+          - '§r§e» Información:'
+          - §r§fUna moneda muy común, ve al
+          - §r§fmercado a ver si consigues
+          - §r§fcomprar alguna espada §e✔
+          - §r§f
+          - '§r§fModo de uso: §e§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '30':
+      DisplayName: §r§6▪ §l§nONLY
+      Lore:
+      - §r§r§8
+      - '§r§6» Información:'
+      - §r§6§l¡ES ORO!§f está moneda parece
+      - §r§fser muy cara, ve al mercado
+      - §r§fpara ver que te ofrecen. §6✔
+      - §r§f
+      - '§r§fModo de uso: §6§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: DOUBLE_PLANT:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 20
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DOUBLE_PLANT
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6▪ §l§nONLY
+          lore:
+          - §r§r§8
+          - '§r§6» Información:'
+          - §r§6§l¡ES ORO!§f está moneda parece
+          - §r§fser muy cara, ve al mercado
+          - §r§fpara ver que te ofrecen. §6✔
+          - §r§f
+          - '§r§fModo de uso: §6§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '31':
+      DisplayName: §r§c▪ §l§nGEMA
+      Lore:
+      - §r§r§8
+      - '§r§c» Información:'
+      - §r§fUna piedra digna de gente con
+      - §r§fmucho poder, puedes comprar
+      - §r§flas cosas más poderosas. §c✔
+      - §r§f
+      - '§r§fModo de uso: §c§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: MAGMA_CREAM:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 15
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§c▪ §l§nGEMA
+          lore:
+          - §r§r§8
+          - '§r§c» Información:'
+          - §r§fUna piedra digna de gente con
+          - §r§fmucho poder, puedes comprar
+          - §r§flas cosas más poderosas. §c✔
+          - §r§f
+          - '§r§fModo de uso: §c§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '32':
+      DisplayName: §r§5▪ §l§nVYCOIN
+      Lore:
+      - §r§r§8
+      - '§r§5» Información:'
+      - '§r§fLa moneda más legendaria '
+      - §r§fde todo el servidor, con ella
+      - §r§fpuedes comprar todo el mundo. §5✔
+      - §r§f
+      - '§r§fModo de uso: §5§n/intercambios'
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: NETHER_STAR:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 8
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STAR
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§5▪ §l§nVYCOIN
+          lore:
+          - §r§r§8
+          - '§r§5» Información:'
+          - '§r§fLa moneda más legendaria '
+          - §r§fde todo el servidor, con ella
+          - §r§fpuedes comprar todo el mundo. §5✔
+          - §r§f
+          - '§r§fModo de uso: §5§n/intercambios'
+          enchants:
+            DURABILITY: 1
+    '33':
+      DisplayName: §r§5▪ §lPOTENCIADOR
+      DisplayEnchantments:
+      - DURABILITY:1
+      DisplayItem: GHAST_TEAR:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 50
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§5▪ §lPOTENCIADOR
+          enchants:
+            DURABILITY: 1
+    '34':
+      DisplayName: §6▪ §lPOWERVY
+      Lore:
+      - §8Información
+      - ''
+      - §fAhorra tiempo en combate
+      - §fcon esta flor mágica. §e✔
+      - ''
+      - '§e▐ §fTiempo: §e60s'
+      - '§7» §fVelocidad: §b2'
+      - '§7» §fFuerza: §c2'
+      - ''
+      - §7§n¡Haz click-derecho!
+      DisplayEnchantments:
+      - LUCK:1
+      DisplayItem: YELLOW_FLOWER:0
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: YELLOW_FLOWER
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6▪ §lPOWERVY
+          lore:
+          - §8Información
+          - ''
+          - §fAhorra tiempo en combate
+          - §fcon esta flor mágica. §e✔
+          - ''
+          - '§e▐ §fTiempo: §e60s'
+          - '§7» §fVelocidad: §b2'
+          - '§7» §fFuerza: §c2'
+          - ''
+          - §7§n¡Haz click-derecho!
+          enchants:
+            LUCK: 1
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+          internal: H4sIAAAAAAAAAONiYOBgYC/LL03OSC1iYPXNz0utZAAAwBFq/hUAAAA=
+    '35':
+      DisplayName: §4▪ §lPOWERVY+
+      Lore:
+      - §8Información
+      - ''
+      - §fMata a todos tus enemigos
+      - §fcon este fuerte hechizo.
+      - ''
+      - '§e▐ §fTiempo: §e150s'
+      - '§7» §fVelocidad: §b2'
+      - '§7» §fFuerza: §c2'
+      - ''
+      - §7§n¡Haz click-derecho!
+      DisplayEnchantments:
+      - LUCK:1
+      DisplayItem: RED_ROSE:4
+      DisplayAmount: 1
+      MaxRange: 100
+      Chance: 30
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 4
+        amount: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4▪ §lPOWERVY+
+          lore:
+          - §8Información
+          - ''
+          - §fMata a todos tus enemigos
+          - §fcon este fuerte hechizo.
+          - ''
+          - '§e▐ §fTiempo: §e150s'
+          - '§7» §fVelocidad: §b2'
+          - '§7» §fFuerza: §c2'
+          - ''
+          - §7§n¡Haz click-derecho!
+          enchants:
+            LUCK: 1
+          ItemFlags: !!set
+            HIDE_ENCHANTS: null
+          internal: H4sIAAAAAAAAAONiYOBgYC/LL03OSC1iYPPNz0utLGYAAPpqBcMWAAAA

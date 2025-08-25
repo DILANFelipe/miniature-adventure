@@ -1,0 +1,193 @@
+SQLite: true
+sql:
+  host: 127.0.0.1
+  port: '3306'
+  database: database
+  user: user
+  pass: password
+auction:
+  listingPrice: 3
+  listingHours: 24
+  unclaimedHours: 240
+  preventCreativeSale: false
+  maxSellPrice: 999999999999999
+  taxPercentage: 0
+  maxPermissionIncludeExpired: true
+  useAuctionNoAHPermission: false
+  allowDamagedArmorOrWeapons: true
+blacklist:
+- '386'
+- '387'
+blacklistLore:
+- Blacklisted Line Of Lore
+language:
+  mainMenuName: '&8Survival | &b&lSUBASTAS'
+  currentListingsMenuName: '&8ArtÃ­culos en venta'
+  expiredMenuName: '&8ArtÃ­culos caducados'
+  purchaseItemMenuName: '&aÂ¿Seguro?'
+  menuItemText:
+    listedItem:
+      lore:
+      - '&8ArtÃ­culo en venta'
+      - '&7'
+      - '&bÂ»&f &fPrecio: &b$%price%'
+      - '&bâ–� &fVendedor: &b%seller%'
+      - '&3&nÂ¡Expira en %time%! âœ—'
+      - '&7'
+      - '&b(Haz click para comprar)'
+    yourListedItem:
+      lore:
+      - '&8ArtÃ­culo en venta'
+      - '&7'
+      - '&bâ–�&f &fPrecio: &b$%price%'
+      - '&3&nÂ¡Expira en %time%! âœ—'
+      - '&7'
+      - '&b(Haz click para recoger)'
+    yourExpiredItem:
+      lore:
+      - '&8ArtÃ­culo caducado'
+      - ''
+      - '&câ–� &lÂ¡ADVERTENCIA!'
+      - '&fRecoge este artÃ­culo que no'
+      - '&fpudo ser vendido antes de que'
+      - '&fsea eliminado por el servidor. &c&nâœ˜'
+      - ''
+      - '&c(Haz click para recogerlo)'
+    yourListedItems:
+      id: '340'
+      name: '&aÂ» &lÂ¡COSAS EN VENTA! &nâœ”'
+      lore:
+      - '&8CategorÃ­a'
+      - ''
+      - '&fOrganiza tus artÃ­culos en venta'
+      - '&fdesde aquÃ­, tambiÃ©n puedes sacar'
+      - '&fcosas que ya no quieras vender.'
+      - ''
+      - '&a(Haz click para entrar)'
+    yourExpiredItems:
+      id: '395'
+      name: '&eÂ» &lÂ¡COSAS CADUCADAS! &nâœ˜'
+      lore:
+      - '&8CategorÃ­a'
+      - ''
+      - '&fAquÃ­ encontraras los artÃ­culos'
+      - '&fque no fueron vendidos o has'
+      - '&fcancelado para recogerlos.'
+      - ''
+      - '&e(Haz click para entrar)'
+    returnAllItems:
+      id: '390'
+      name: '&bÂ» &b&lÂ¡RECOGE TODO! &nâž¹'
+      lore:
+      - '&8Atajo rÃ¡pido'
+      - ''
+      - '&fConsigue todos los artÃ­culos'
+      - '&fque estÃ¡n en este menÃº de una'
+      - '&fmanera mÃ¡s fÃ¡cil y rÃ¡pida. &b&nâœ”'
+      - ''
+      - '&b(Haz click para recoger todo)'
+    previousPage:
+      id: '262'
+      name: '&cAtrÃ¡s'
+    refreshPage:
+      id: '175'
+      name: '&eRefrescar'
+    nextPage:
+      id: '262'
+      name: '&aSiguiente'
+    backButton:
+      id: '262'
+      name: '&6Anterior'
+    howToSell:
+      id: '351:10'
+      name: '&bÂ» &lÂ¡PRIMERA VENTA! &nâš‘'
+      lore:
+      - '&8InformaciÃ³n'
+      - ''
+      - '&fColoca el artÃ­culo que quieres vender'
+      - '&fen tu mano principal, despuÃ©s coloca'
+      - '&fel comando &b"/ah sell"&f y el precio. &b&nâœ”'
+      - '&7'
+      - '&bâ–� &fComando: &b&n/ah sell (precio)'
+    mainWhatIsThisPage:
+      id: '351:1'
+      name: '&cÂ» &lÂ¡AVISO IMPORTANTE! &nâš”'
+      lore:
+      - '&8InformaciÃ³n'
+      - ''
+      - '&fMucho cuidado, antes de hacer una'
+      - '&fcompra revisa con calma el artÃ­culo'
+      - '&fque quieres comprar, ya que no hay'
+      - '&fforma de rembolsar el artÃ­cullo. &c&nâ„¹'
+      - ''
+      - '&c&nÂ¡Lee con cuidado, infÃ³rmate siempre!'
+    yourListedWhatIsThisPage:
+      id: '351:1'
+      name: '&cÂ» &lÂ¡AVISO IMPORTANTE! &nâš”'
+      lore:
+      - '&8InformaciÃ³n'
+      - ''
+      - '&fMucho cuidado, antes de hacer una'
+      - '&fcompra revisa con calma el artÃ­culo'
+      - '&fque quieres comprar, ya que no hay'
+      - '&fforma de rembolsar el artÃ­cullo. &c&nâ„¹'
+      - ''
+      - '&c&nÂ¡Lee con cuidado, infÃ³rmate siempre!'
+    expiredWhatIsThisPage:
+      id: '351:1'
+      name: '&cÂ» &lÂ¡AVISO IMPORTANTE! &nâš”'
+      lore:
+      - '&8InformaciÃ³n'
+      - ''
+      - '&fMucho cuidado, antes de hacer una'
+      - '&fcompra revisa con calma el artÃ­culo'
+      - '&fque quieres comprar, ya que no hay'
+      - '&fforma de rembolsar el artÃ­cullo. &c&nâ„¹'
+      - ''
+      - '&c&nÂ¡Lee con cuidado, infÃ³rmate siempre!'
+    purchaseConfirm:
+      name: '&aConfirmar'
+    purchaseCancel:
+      name: '&cCancelar'
+    purchaseItem:
+      lore:
+      - '&8InformaciÃ³n'
+      - '&f'
+      - '&bÂ» &fPrecio &b$%price%'
+      - '&3â–� &fVendedor: &3%seller%'
+    recentSalesLog:
+      id: '266'
+      name: '&eÂ» &lÂ¡MEJORES VENTAS!'
+      logLineFormat: '&6%item%'
+      noneSoldLore: '&cNo hay ventas'
+  clickFails:
+    clickFailItem: '152'
+    notEnoughInventory: '&c&lÂ¡NO TIENES ESPACIO! &nâœ˜'
+    cannotPurchaseSelf: '&c&lÂ¡NO PUEDES COMPRAR ESO! &nâœ˜'
+    notExists: '&c&lÂ¡NO DISPONIBLE! &nâœ˜'
+    cannotAfford: '&c&lÂ¡NO TIENES SUFICIENTE DINERO! &nâœ˜'
+    noListingsToReturn: ''
+  chatMessages:
+    itemPurchased: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡Has comprado un artÃ­culo con Ã©xito!'
+    buyerPurchased: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &bÂ¡%buyer% &fcompro tu artÃ­culo
+      en &b$%taxedPrice%!'
+    listedItem: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡Has puesto un artÃ­culo en subastas!'
+    listingCancel: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡Has cancelado la venta de un artÃ­culo!'
+    adminRemoveListing: ''
+    expiredReturned: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fHas recogido tu artÃ­culo &c&ncancelado.'
+    notEnoughInventory: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No tienes espacio sufiente!'
+    returnedAll: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡Has recogido tus artÃ­culos &c&ncancelados!'
+    unknownCommand: '&8(&e&lSURVIVAL&8) &8&lâ–¸ &fComando no encontrado.'
+    notHoldingItem: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡Debes tener un artÃ­culo en la
+      mano!'
+    inCreative: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fNo puedes vender en creativo.'
+    noMore: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes vender mÃ¡s artÃ­culos! &b&ntienda.minevy.xyz'
+    max: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes vender mÃ¡s artÃ­culos! &b&ntienda.minevy.xyz'
+    invalidPrice: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes colocar ese precio!'
+    maxMoney: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes colocar ese precio!'
+    maxSetMoney: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes colocar ese precio!'
+    notEnoughMoney: ''
+    getHelp: '&a/ah sell <precio> &7- &fSubasta un artÃ­culo.'
+    isBlacklisted: '&8(&b&lSUBASTAS&8) &8&lâ–¸ &fÂ¡No puedes vender este artÃ­culo!'
+    help:
+    - '&b/ah sell <precio> &f(Pon a la venta un artÃ­culo)'

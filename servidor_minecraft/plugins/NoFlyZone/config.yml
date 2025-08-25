@@ -1,0 +1,15 @@
+# NoFlyZone version: 2.0.0 Main Configuration
+# 
+# List regions below that will disable players from flying when they enter them
+
+no_fly_worlds:
+- SiPvP
+no_fly_message: '&e&lMINEVY &8* &fSe removio el Fly'
+auto_fly_message: '&e&lMINEVY &8* &fSe removio el Fly'
+no_fly_regions:
+  world:
+  - testflyregion
+  SurvivalT:
+  - karen215x36y4648z
+  SiPvP:
+  - boss

@@ -1,0 +1,22 @@
+location: NoPvP:2.5:92.650:-30.5
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8(&6&l&nCOMANDOS DE AYUDA&8)&r'
+    height: 0.3
+  - content: '&7'
+    height: 0.25
+  - content: '&f¿Tienes dudas de como comenzar?'
+    height: 0.25
+  - content: '&fHabla conmigo y te mostraré algunos'
+    height: 0.25
+  - content: '&fcomandos para que puedas comenzar.'
+    height: 0.45
+  - content: '&6&nClick der-izq para abrir ✔'
+    height: 0.4
+  actions: {}

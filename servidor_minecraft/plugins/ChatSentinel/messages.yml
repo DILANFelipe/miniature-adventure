@@ -1,0 +1,35 @@
+# You can add as many languages as you want.
+# The language will change depending on the client language.
+# Supported Languages: https://minecraft.gamepedia.com/Language
+default: "en"
+
+# You can add as many languages as you want.
+langs:
+  en:
+    cleared: "&7&lCHAT &8✕ &fEl chat fue limpiado por el jugador &7%player%"
+    reload: "&c&lCS: &aPlugin recargado correctamente!"
+    help: |-
+      &aComandos de ChatSentinel:
+      &e/chatsentinel help &7- &aMira este mensaje de ayuda!
+      &e/chatsentinel reload &7- &aRecarga el plugin!
+    unknown_command: "&cComando desconocido. Usa /chatsentinel help para ver comandos disponibles!"
+    no_permission: "&a&lSURVIVAL &8✕ &fComando desconocido"
+    blacklist_warn_message: "&7&lCHAT &8✕ &f¡No puedes escribir eso!"
+    caps_warn_message: "&7&lCHAT &8✕ &f¡No puedes usar tantas mayúsculas!"
+    cooldown_warn_message: "&7&lCHAT &8✕ &f¡No escribas tan rápido!"
+    flood_warn_message: ""
+    syntax_warn_message: "&7&lCHAT &8✕ &f¡No puedes escribir eso!"
+  es:
+    cleared: "&7&lCHAT → &fEl chat fue limpiado por el jugador &7%player%"
+    reload: "&c&lCS: &aPlugin recargado correctamente!"
+    help: |-
+      &aComandos de ChatSentinel:
+      &e/chatsentinel help &7- &aMira este mensaje de ayuda!
+      &e/chatsentinel reload &7- &aRecarga el plugin!
+    unknown_command: "&cComando desconocido. Usa /chatsentinel help para ver comandos disponibles!"
+    no_permission: "&a&lSURVIVAL → &fComando desconocido"
+    blacklist_warn_message: "&7&lCHAT → &f¡No puedes escribir eso!"
+    caps_warn_message: "&7&lCHAT → &f¡No puedes usar tantas mayúsculas!"
+    cooldown_warn_message: "&7&lCHAT → &f¡No escribas tan rápido!"
+    flood_warn_message: ""
+    syntax_warn_message: "&7&lCHAT &8✕ &f¡No puedes escribir eso!"

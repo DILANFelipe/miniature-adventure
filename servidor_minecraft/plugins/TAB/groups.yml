@@ -1,25 +1,245 @@
-#Owner:
-#  tabprefix: "&0&l[&a&lOwner&0&l] &a"
-#  tagprefix: "&2&lOwner &a"
-Player:
-  tabprefix: "&0&l[&7&lPlayer&0&l] &3"
-  tagprefix: "&2&lPlayer &3"
-example_group:
-  header:
-    - "This is an example of per-group header/footer"
-  footer:
-    - "applied to a group"
-
- # default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
-_DEFAULT_:
-  tabprefix: "%luckperms-prefix%"
-  tagprefix: "%luckperms-prefix%"
-  customtabname: "%player%"
-  tabsuffix: "%luckperms-suffix%"
-  tagsuffix: "%luckperms-suffix%"
-
-per-world:
-  world1:
-    Owner:
-      tabprefix: "&0&l[&a&lOwner&0&l] &a"
-      tagprefix: "&2&lOwner &a"
+Default:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+granjero:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+campesino:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+comerciante:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+guerrero:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+caballero:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+mercenario:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+brujo:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+noble:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+baron:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+marques:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+conde:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+duque:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+principe:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+monarca:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+rey:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+emperador:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Vip:
+  tabprefix: '&a&lVIP&r &f'
+  tagprefix: '&a&lVIP&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Elite:
+  tabprefix: '&b&lELITE&r &f'
+  tagprefix: '&b&lELITE&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Heroe:
+  tabprefix: '&e&lHEROE&r &f'
+  tagprefix: '&e&lHEROE&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Titan:
+  tabprefix: '&7&lTITAN&r &f'
+  tagprefix: '&7&lTITAN&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Leyenda:
+  tabprefix: '&d&lLEYENDA&r &f'
+  tagprefix: '&d&lLEYENDA&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Maestro:
+  tabprefix: '&c&lMAESTRO&r &f'
+  tagprefix: '&c&lMAESTRO&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Ultimate:
+  tabprefix: '&6&lULTIMATE&r '
+  tagprefix: '&6&lULTIMATE&r '
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Snovery:
+  tabprefix: '&4&lSNOVERY&r '
+  tagprefix: '&4&lSNOVERY&r '
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Media:
+  tabprefix: '&b&lMEDIA&r &f'
+  tagprefix: '&b&lMEDIA&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Famoso:
+  tabprefix: '&d&lFAMOSO&r &f'
+  tagprefix: '&d&lFAMOSO&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Partner:
+  tabprefix: '&5&lPARTNER&r &f'
+  tagprefix: '&5&lPARTNER&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Builder:
+  tabprefix: '&6&lBUILDER&r &f'
+  tagprefix: '&6&lBUILDER&r &f'
+  tagsuffix: ''
+  tagsuffix: ''
+  abovename: '%alonsotags_tag_tab% &8| %clans_prefix%'
+  belowname: '%health% &c❤&r'
+Helper:
+  tabprefix: '&e&lHELPER&r &f'
+  tagprefix: '&e&lHELPER&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Helper+:
+  tabprefix: '&6&lHELPER+&r &f'
+  tagprefix: '&6&lHELPER+&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Mod:
+  tabprefix: '&b&lMOD&r &f'
+  tagprefix: '&b&lMOD&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Mod+:
+  tabprefix: '&9&lMOD+&r &f'
+  tagprefix: '&9&lMOD+&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Admin:
+  tabprefix: '&c&lADMIN&r &f'
+  tagprefix: '&c&lADMIN&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Manager:
+  tabprefix: '&f&lMANAGER&r &f'
+  tagprefix: '&f&lMANAGER&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''
+Owner:
+  tabprefix: '&4&lOWNER&r &f'
+  tagprefix: '&4&lOWNER&r &f'
+  tabsuffix: ''
+  tagsuffix: ''
+  abovename: ''

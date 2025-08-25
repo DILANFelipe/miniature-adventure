@@ -1,0 +1,32 @@
+Leaderboard:
+  Identifier: topkills
+  Placeholder: '%statistic_player_kills%'
+  Relational: false
+  Descending: true
+  Decimal: false
+  Effect: MOBSPAWNER_FLAMES
+  Signs:
+    Empty:
+    - '§c--§e #{RANKING} §c--'
+    - §cNo player
+    - §bUnknown
+    - §c-------------
+    Rank:
+    - '§c--§e #{RANKING} §c--'
+    - §f{PLAYER}
+    - §b{SCORE}
+    - §c-------------
+  Entry-available: §c{RANKING}. §f{PLAYER} §7- §c{SCORE}
+  No-data-available: §7Sin información
+  No-name-available: §7Desconocido
+  No-score-available: §7Sin información
+  First-delay: 1
+  Update-interval: 60
+  NPCs:
+    Rank: '&e#{RANKING} &b{PLAYER} &7- &e{SCORE}'
+    Empty: none
+  GUI:
+    Title: §8Top players ({PAGE}/{MAX})
+    Displayname: '§eRanking #{RANKING}'
+    Lore:
+    - §b{PLAYER} §7- §e{SCORE}

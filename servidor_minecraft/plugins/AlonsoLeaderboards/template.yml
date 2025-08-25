@@ -1,0 +1,41 @@
+Default:
+  Signs:
+    Empty:
+    - "&c--&e #{RANKING} &c--"
+    - "&cNo player"
+    - "&bUnknown"
+    - "&c-------------"
+    Rank:
+    - "&c--&e #{RANKING} &c--"
+    - "&f{PLAYER}"
+    - "&b{SCORE}"
+    - "&c-------------"
+  Entry-available: "&e{RANKING}. &b{PLAYER} &7- &e{SCORE}"
+  No-data-available: "&7No data available"
+  No-name-available: "&7Unknown"
+  No-score-available: "&7Unknown"
+  #Effect created when updating leaderboard sign.
+  #Effects you can use are available here:
+  # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Effect.html
+  #REMINDER! Remember some effects are not available in old versions as they were added in newer versions.
+  #Recommended to leave as default or set to "none" to disable effect.
+  #Do not modify if you don't understand what its written in the comments above.
+  Effect: "MOBSPAWNER_FLAMES"
+  NPCs:
+    #Set to none to remove name above player.
+    Empty: "none"
+    #Available placeholders:
+    # {RANKING} replaced with leaderboard ranking
+    # {PLAYER} replaced with player name
+    # {SCORE} replaced with score
+    #Set to none to remove name above player.
+    Rank: "&e#{RANKING} &b{PLAYER} &7- &e{SCORE}"
+  GUI:
+    Title: "&8Top players ({PAGE}/{MAX})"
+    #Available placeholders:
+    # {RANKING} replaced with leaderbaord ranking
+    # {PLAYER} replaced with player name
+    # {SCORE} replaced with score
+    Displayname: "&eRanking #{RANKING}"
+    Lore:
+    - "&b{PLAYER} &7- &e{SCORE}"

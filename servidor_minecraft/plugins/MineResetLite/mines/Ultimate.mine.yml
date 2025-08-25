@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 2467
+  maxY: 133
+  maxX: -103
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 100
+  resetWarnings: []
+  minX: -135
+  composition:
+    '57:0': 0.43
+    '1:0': 0.14
+    '133:0': 0.43
+  name: Ultimate
+  resetClock: 3
+  minZ: 2435
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

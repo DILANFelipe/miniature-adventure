@@ -1,0 +1,332 @@
+#-------------------------------------------------------------------------------------------------------------------#
+#							  MyCommand Commands config file (last update v5.6.4)									#
+#																													#
+#  Plugin Documentation : https://dev.bukkit.org/projects/mycommand/pages/getstarted    							#
+#  Spigot https://www.spigotmc.org/resources/mycommand.22272/  Bukkit : https://dev.bukkit.org/projects/mycommand/	#
+#																													#
+#	How to make a command :	(See an example command below)															#
+#		First, decide your command name placing it in the first row (no duplicates!)  "mycommand:"					#
+#		Now set the "command:" field. This will trigger the command. Don't forget the '/' before your command.		#
+#		Now choose your command type from a predefined list and put it after the "type" field						#
+#	COMMAND TYPE LIST :																								#
+#		TEXT , BROADCAST_TEXT, RAW_TEXT , BROADCAST_RAW_TEXT, ALIAS , RUN_COMMAND , RUN_CONSOLE , RUN_COMMAND_TASK  #
+#       RUN_COMMAND_RANDOM , RUN_CONSOLE_RANDOM , RUN_AS_OPERATOR , ADD_PERMISSION , ADD_COST , WARMUP , COOLDOWN   #
+#       WARMUP_AND_COOLDOWN , BLOCK_PATTERN ,  BAR_API_TEXT , BAR_API_BROADCAST_TEXT , CALL_URL , EXP_BAR			#
+#       ICON_MENU , MERCHANT , SCOREBOARD , BUNGEE_TP , TITLE, BROADCAST_TITLE , ACTION_BAR , BROADCAST_ACTION_BAR	#
+#		HOLOGRAPHIC_TEXT , BROADCAST_HOLOGRAPHIC_TEXT , LIVE_CHAT , BOOK , RAW_BOOK, ANVIL_GUI , SIGN_MENU 			#
+#																													#
+#	If your command is "TEXT" type, you can put multiple line of text below this parameter							#
+#	You can do the same thing with the "RUN_COMMAND" type, but instead of text, puts commands in this list			#
+#	For delayed command(s) add $delay$ before the command in runcmd Example : - $delay$/list						#
+#	Set delay time with delaytimer: 5 (5 = seconds) | 																#
+#   If you are using the Vault plugin, you can put the "cost: 123.0" with this line. 								#
+#	You can customize your permission node by placing "permission-node:" field in a command							#
+#	Change the permission error message with "permission-error:" or create a command without permission required	#
+#   with "permission-required: false". Custom error-message for invalid args, use "error-message:"					#
+#   You can use itemcost : 'ID:AMOUNT' for set a cost with items. 													#
+#   Register REAL commands putting "register: true" below the command. Those are recognized from other plugins.    	#
+#   With register commands you can use the "tab_completer: - Hi - Hello!"											#
+#   For Scripts and more features, find more on the bukkitdev page													#
+#-------------------------------------------------------------------------------------------------------------------#
+gamemode_alias:
+  command: /gm
+  type: ALIAS
+  alias: /gamemode
+  permission-required: true
+#-------------------------------------------------------------------------------------------------------------------#
+#							  MyCommand Commands config file (last update v5.6.4)									#
+#																													#
+#  Plugin Documentation : https://dev.bukkit.org/projects/mycommand/pages/getstarted    							#
+#  Spigot https://www.spigotmc.org/resources/mycommand.22272/  Bukkit : https://dev.bukkit.org/projects/mycommand/	#
+#																													#
+#	How to make a command :	(See an example command below)															#
+#		First, decide your command name placing it in the first row (no duplicates!)  "mycommand:"					#
+#		Now set the "command:" field. This will trigger the command. Don't forget the '/' before your command.		#
+#		Now choose your command type from a predefined list and put it after the "type" field						#
+#	COMMAND TYPE LIST :																								#
+#		TEXT , BROADCAST_TEXT, RAW_TEXT , BROADCAST_RAW_TEXT, ALIAS , RUN_COMMAND , RUN_CONSOLE , RUN_COMMAND_TASK  #
+#       RUN_COMMAND_RANDOM , RUN_CONSOLE_RANDOM , RUN_AS_OPERATOR , ADD_PERMISSION , ADD_COST , WARMUP , COOLDOWN   #
+#       WARMUP_AND_COOLDOWN , BLOCK_PATTERN ,  BAR_API_TEXT , BAR_API_BROADCAST_TEXT , CALL_URL , EXP_BAR			#
+#       ICON_MENU , MERCHANT , SCOREBOARD , BUNGEE_TP , TITLE, BROADCAST_TITLE , ACTION_BAR , BROADCAST_ACTION_BAR	#
+#		HOLOGRAPHIC_TEXT , BROADCAST_HOLOGRAPHIC_TEXT , LIVE_CHAT , BOOK , RAW_BOOK, ANVIL_GUI , SIGN_MENU 			#
+#																													#
+#	If your command is "TEXT" type, you can put multiple line of text below this parameter							#
+#	You can do the same thing with the "RUN_COMMAND" type, but instead of text, puts commands in this list			#
+#	For delayed command(s) add $delay$ before the command in runcmd Example : - $delay$/list						#
+#	Set delay time with delaytimer: 5 (5 = seconds) | 																#
+#   If you are using the Vault plugin, you can put the "cost: 123.0" with this line. 								#
+#	You can customize your permission node by placing "permission-node:" field in a command							#
+#	Change the permission error message with "permission-error:" or create a command without permission required	#
+#   with "permission-required: false". Custom error-message for invalid args, use "error-message:"					#
+#   You can use itemcost : 'ID:AMOUNT' for set a cost with items. 													#
+#   Register REAL commands putting "register: true" below the command. Those are recognized from other plugins.    	#
+#   With register commands you can use the "tab_completer: - Hi - Hello!"											#
+#   For Scripts and more features, find more on the bukkitdev page													#
+#-------------------------------------------------------------------------------------------------------------------#
+Comandos:
+  command: /ayuda
+  type: TEXT
+  text:
+    - '&f'
+    - '   &6&n✔&r  &6&lCOMANDOS &6&lSURVIVAL&r  &6&n✔&r'
+    - '&a'
+    - '&e/warps &f(Menú de teletransportes)'
+    - '&e/rankup &f(Sube de rango) &e/ranks'
+    - '&e/sellall &f(Vende cosas por dinero)'
+    - '&e/sethome &f(Guarda el lugar de tu casa)'
+    - '&e/menas &f(Protecciones para tu casa)'
+    - '&e/rtp &f(Viaja por el mundo)'
+    - '&e/sets &f(Compra armaduras o espadas)'
+    - '&e/kp stats &f(Ubicación de tus protecciones)'
+    - '&e/recolectores &f(Crea granjas automáticas)'
+Comandos1:
+  command: /comandos
+  type: TEXT
+  text:
+    - '&f'
+    - '   &6&n✔&r  &6&lCOMANDOS &6&lSURVIVAL&r  &6&n✔&r'
+    - '&a'
+    - '&e/warps &f(Menú de teletransportes)'
+    - '&e/rankup &f(Sube de rango) &e/ranks'
+    - '&e/sellall &f(Vende cosas por dinero)'
+    - '&e/sethome &f(Guarda el lugar de tu casa)'
+    - '&e/menas &f(Protecciones para tu casa)'
+    - '&e/rtp &f(Viaja por el mundo)'
+    - '&e/sets &f(Compra armaduras o espadas)'
+    - '&e/kp stats &f(Ubicación de tus protecciones)'
+    - '&e/recolectores &f(Crea granjas automáticas)'
+Sellall:
+  command: /sellall
+  type: RUN_COMMAND
+  runcmd:
+  - /sell all
+votex:
+  command: /vote
+  type: TEXT
+  text:
+    - ''
+    - '         &e&n❤&r  &e&lENLACES PARA VOTAR  &e&n❤&r'
+    - '                      &7Información'
+    - ''
+    - '&6&nhttps://minecraftservers.org/vote/649191'
+    - ''
+Discord:
+  command: /discord
+  type: TEXT
+  text:
+    - ''
+    - '&a&l &b&l» DISCORD Y REDES'
+    - '&f'
+    - '&b&l▐ &fUnete a la aventura ingresando'
+    - '&b&l▐ &fa el discord oficial de Hycube.'
+    - '&b&l▐ &bhttp://discord.gg/minevy'
+Trabajos:
+  command: /trabajos
+  type: TEXT
+  text:
+    - ''
+    - '&6&l               TRABAJOS'
+    - ''
+    - '&e➡ &fBienvenido, usa los comandos:'
+    - ''
+    - '&e➡ &e/jobs join miner - &f¡Te uniras al trabajo minero!'
+    - '&e➡ &e/jobs join brewer - &f¡Te uniras al trabajo de pociones!'
+    - '&e➡ &e/jobs join builder - &f¡Te uniras al trabajo constructor!'
+    - ''
+    - '&e➡ &e/jobs leave - &f¡Sal de tu trabajo!'
+Koth:
+  command: /koths
+  type: RUN_COMMAND
+  runcmd:
+  - /warp minapvp
+Envoy:
+  command: /tesoros
+  type: RUN_COMMAND
+  runcmd:
+  - /envoy
+Envoy1:
+  command: /tesoro
+  type: RUN_COMMAND
+  runcmd:
+  - /envoy
+Envoy3:
+  command: /tesoros ignore
+  type: RUN_COMMAND
+  runcmd:
+  - /envoy ignore
+Envoy2:
+  command: /paquetes
+  type: RUN_COMMAND
+  runcmd:
+  - /envoy
+Tiendita:
+  command: /tienda
+  type: RUN_COMMAND
+  runcmd:
+  - /buy
+Transferir:
+  command: /kpay
+  type: RUN_COMMAND
+  runcmd:
+  - /crazycrates transfer $multiargs 
+Keys:
+  command: /llaves
+  type: TEXT
+  text:
+    - ''
+    - '&f  &b۩ &F &3&lCOMANDOS DE CRATES &f &b۩'
+    - ''
+    - '&3&l➜ &b/kpay &3| &fEnvía llaves a otro jugador.'
+    - '&3&l➜ &b/keys &3| &fVerifica cuantas llaves tienes.'
+    - '&3&l➜ &b/kbuy &3| &fTienda de llaves &c&lPROXIMAMENTE'
+    - ''
+    - '&3&l➜ &b/buy &3| &fCompra llaves en la tienda oficial.'
+Keyss:
+  command: /llave
+  type: TEXT
+  text:
+    - ''
+    - '&f  &b۩ &F &3&lCOMANDOS DE CRATES &f &b۩'
+    - ''
+    - '&3&l➜ &b/kpay &3| &fEnvía llaves a otro jugador.'
+    - '&3&l➜ &b/keys &3| &fVerifica cuantas llaves tienes.'
+    - '&3&l➜ &b/kbuy &3| &fTienda de llaves &c&lPROXIMAMENTE'
+    - ''
+    - '&3&l➜ &b/buy &3| &fCompra llaves en la tienda oficial.'
+Youtube:
+  command: /youtube
+  type: TEXT
+  text:
+    - ''
+    - '&7&l           ⬆   &c&lYoutube   &7&l⬆'
+    - ''
+    - '&7&l➡  &chttps://www.youtube.com/@iLyke'
+
+Live:
+  command: /live
+  type: BROADCAST_TEXT
+  text:
+  - '&8 '
+  - '&d&l▐ &d$player &festá en directo.'
+  - '&d&l▐ &fLink: &d&n$arg1'
+  - '&8 '
+  required_args: 1
+  error-message: '&d&lLIVE » &fNecesitas ingresar un link.'
+  permission-required: true
+  permission-node: hycube.announcer.live
+  permission-error: '&d&lLIVE » &f¡Necesitas tener rango media o superior para usar este comando!'
+  cooldown: 1200
+  cooldown-message: '&d&lLIVE » &fNecesitas esperar &c$minutes &fpara usar esto nuevamente.'
+
+Video:
+  command: /video
+  type: BROADCAST_TEXT
+  text:
+  - '&8 '
+  - '&c&l▐ &c$player &fha publicado un video.'
+  - '&c&l▐ &fLink: &c&n$arg1'
+  - '&8 '
+  required_args: 1
+  error-message: '&c&lVIDEO » &fNecesitas ingresar un link.'
+  permission-required: true
+  permission-node: hycube.announcer.video
+  permission-error: '&c&lVIDEO » &f¡Necesitas tener rango media o superior para usar este comando!'
+  cooldown: 240
+  cooldown-message: '&c&lVIDEO » &fNecesitas esperar &c$minutes &fpara usar esto nuevamente.'
+   
+   
+
+soundall1:
+  command: /dragonspawn
+  type: RUN_COMMAND
+  permission-required: true
+  permission-node: hycube.command.dragonsound
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  runcmd:
+  - /playsound mob.enderdragon.growl @a $target_X $target_Y $target_Z 100 1
+
+soundall2:
+  command: /dragondeath
+  type: RUN_COMMAND
+  permission-required: true
+  permission-node: hycube.command.dragonsound
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  runcmd:
+  - /playsound mob.enderdragon.end @a $target_X $target_Y $target_Z 100 1
+  
+reclute:
+  command: /clan reclute
+  type: BROADCAST_RAW_TEXT
+  text:
+  - '&8 '
+  - '&4&l▐ &fEl clan &c&l%clans_name% &festá reclutando.'
+  - '&4&l▐ &f¡Envía un mensaje a &e$player!'
+  - ''
+  - '&e &n(Haz click para enviar mensaje);&e¡Click aqui!;/msg $player'
+  - '&8 '
+  error-message: '&6&lCLANES » &fComando incorrecto.'
+  permission-required: true
+  permission-node: advancedclans.reclute
+  permission-error: '&6&lCLANES » &f¡Necesitas ser colider del clan para usar este comando!'
+  cooldown: 3600
+  cooldown-message: '&6&lCLANES » &fNecesitas esperar &c$minutes &fpara usar esto nuevamente.'
+  
+  
+
+events:
+  command: /events
+  type: TEXT
+  permission-required: true
+  permission-node: hycube.command.events
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  text:
+  - ''
+  - '&e/events start &7- &fApaga un evento.'
+  - '&e/events announcer &7- &fEnvía un anuncio de evento.'
+  - '&e/events end &7- &fApaga un evento.'
+  - ''
+
+events1:
+  command: /events start
+  type: RUN_CONSOLE
+  permission-required: true
+  permission-node: hycube.command.events
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  runcmd:
+  - '/dh l set eventos 1 6 &e&l▐ &fEstado: &a&lDISPONIBLE'
+  - '$text$&d&lEVENTOS » &f¡Has iniciado un evento! Usa &e/events announcer &fpara anunciarlo.'
+
+events2:
+  command: /events end
+  type: RUN_CONSOLE
+  permission-required: true
+  permission-node: hycube.command.events
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  runcmd:
+  - '/dh l set eventos 1 6 &e&l▐ &fEstado: &c&lNO HAY EVENTOS'
+  - '$text$&d&lEVENTOS » &fSe ha apagado el evento correctamente.'
+
+events3:
+  command: /events announcer
+  type: BROADCAST_TEXT
+  permission-required: true
+  permission-node: hycube.command.events
+  permission-error: '&c&lSURVIVAL » Comando desconocido.'
+  text:
+  - '&8 '
+  - '&d&l▐ &d$player &festá realizando un evento.'
+  - '&d&l▐ &f¡Ven a &d/warp eventos &fpara participar!'
+  - '&8 '
+12:
+  command: /12
+  type: TEXT
+  text:
+    - ''
+    - '&3CoreProtect &f- Lookup searching. Please wait...'
+    - '&f----- &3CoreProtect Lookup Results &f-----'
+    - '&70.10/h ago &f- &3pxcao: &f/clan disband'
+    - '&70.13/h ago &f- &3pxcao: &f/clan disband'
+    - '&70.13/h ago &f- &3pxcao: &f/clan disband'
+    - '&70.14/h ago &f- &3pxcao: &f/clan disband'
+    - '&70.16/h ago &f- &3pxcao: &f/home casa'
+    - '&70.18/h ago &f- &3pxcao: &f/sellall'

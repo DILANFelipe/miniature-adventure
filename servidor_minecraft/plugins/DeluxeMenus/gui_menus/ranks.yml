@@ -1,0 +1,247 @@
+menu_title: '&8Menú | &a&lRANGOS'
+update_interval: 1
+open_command:
+- ranks
+size: 54
+items:
+
+#########################################
+# TIER 1
+#########################################
+  '1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4NWEyOTk1N2Q0MGZhNTY0ZDVlMzFjYmQ5MDVlMzY5NGE2MTYzOTNjZTEzNzEwYmZjMzFiMWI4YjBhNTIyZCJ9fX0='
+    slot: 10
+    display_name: '&a&l▐ &aGranjero'
+    lore:
+    - '&8Información'
+    - ''
+    - '&a&l▐ &fRango necesario: &7Usuario'
+    - '&a&l▐ &fCosto: &e$20,000'
+    - ''
+    - '&a&l▐ &aBeneficios:'
+    - '&a✔ &fKit Granjero'
+
+  '2':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTE4OWYzNDdmNDI0NTBjZDJhMmU5YjhhNTM5ODgwN2QyOGM3ZjQyNTRiZDk5YThhNDk5Y2U1NDM1MzIwOTU1In19fQ=='
+    slot: 11
+    display_name: '&6&l▐ &6Campesino'
+    lore:
+    - '&8Información'
+    - ''
+    - '&6&l▐ &fRango necesario: &aGranjero'
+    - '&6&l▐ &fCosto: &e$40,000'
+    - ''
+    - '&6&l▐ &6Beneficios:'
+    - '&a✔ &fKit Campesino'
+
+  '3':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5ZWE2ZTM2ZjllNTc5ZjU4NmFkYjE5MzdiYjE0Mzc3YjBkNzQwMzRmZmNiMjU1NmEyYWNiNDM1NjcxNDQ4ZiJ9fX0='
+    slot: 12
+    display_name: '&d&l▐ &dComerciante'
+    lore:
+    - '&8Información'
+    - ''
+    - '&d&l▐ &fRango necesario: &6Campesino'
+    - '&d&l▐ &fCosto: &e$100,000'
+    - ''
+    - '&d&l▐ &dBeneficios:'
+    - '&a✔ &fKit Comerciante'
+
+#########################################
+# TIER 2
+#########################################
+
+  '4':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBmYjFmMTNlY2I3ZmJiMmZhNDljZDAzZDM1N2ZhN2UyNzg1MDJiNzg3MzA2MDJhYWExMDY1NWU0ZDk0OTBlMSJ9fX0='
+    slot: 19
+    display_name: '&3&l▐ &3Guerrero'
+    lore:
+    - '&8Información'
+    - ''
+    - '&3&l▐ &fRango necesario: &dComerciante'
+    - '&3&l▐ &fCosto: &e$200,000'
+    - ''
+    - '&3&l▐ &3Beneficios:'
+    - '&a✔ &fKit Guerrero'
+    - '&a✔ &fAcceso a 5 recolectores'
+
+  '5':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I1MTA2YjA2MGVhZjM5ODIxNzM0OWYzY2ZiNGYyYzdjNGZkOWEwYjAzMDdhMTdlYmE2YWY3ODg5YmUwZmJlNiJ9fX0='
+    slot: 20
+    display_name: '&9&l▐ &9Caballero'
+    lore:
+    - '&8Información'
+    - ''
+    - '&9&l▐ &fRango necesario: &3Guerrero'
+    - '&9&l▐ &fCosto: &e$400,000'
+    - ''
+    - '&9&l▐ &9Beneficios:'
+    - '&a✔ &fKit Caballero'
+
+  '6':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4NWEyOTk1N2Q0MGZhNTY0ZDVlMzFjYmQ5MDVlMzY5NGE2MTYzOTNjZTEzNzEwYmZjMzFiMWI4YjBhNTIyZCJ9fX0='
+    slot: 21
+    display_name: '&a&l▐ &aMercenario'
+    lore:
+    - '&8Información'
+    - ''
+    - '&a&l▐ &fRango necesario: &9Caballero'
+    - '&a&l▐ &fCosto: &e$1,000,000'
+    - ''
+    - '&a&l▐ &aBeneficios:'
+    - '&a✔ &fKit Mercenario'
+    - '&a✔ &fAcceso Mina Mercenario'
+
+#########################################
+# TIER 3
+#########################################
+
+  '9':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY3ZjJiNTA2MzcwYzFlODRmOTBmYmYyOWM4MGUwY2I3ZTJhYzkzMjMwMzAxYjVkOGU0MmM2OGZkZGU4OWZlMCJ9fX0='
+    slot: 14
+    display_name: '&5&l▐ &5Brujo'
+    lore:
+    - '&8Información'
+    - ''
+    - '&5&l▐ &fRango necesario: &aMercenario'
+    - '&5&l▐ &fCosto: &e$2,000,000'
+    - ''
+    - '&5&l▐ &5Beneficios:'
+    - '&a✔ &fKit Brujo'
+    - '&a✔ &fAcceso a 5 protecciones'
+
+  '10':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAwYmY0YmYxNGM4Njk5YzBmOTIwOWNhNzlmZTE4MjUzZTkwMWU5ZWMzODc2YTJiYTA5NWRhMDUyZjY5ZWJhNyJ9fX0='
+    slot: 15
+    display_name: '&e&l▐ &eNoble'
+    lore:
+    - '&8Información'
+    - ''
+    - '&e&l▐ &fRango necesario: &5Brujo'
+    - '&e&l▐ &fCosto: &e$4,000,000'
+    - ''
+    - '&e&l▐ &eBeneficios:'
+    - '&a✔ &fKit Noble'
+    - '&a✔ &fAcceso a 8 recolectores'
+
+  '11':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5ZWE2ZTM2ZjllNTc5ZjU4NmFkYjE5MzdiYjE0Mzc3YjBkNzQwMzRmZmNiMjU1NmEyYWNiNDM1NjcxNDQ4ZiJ9fX0='
+    slot: 16
+    display_name: '&d&l▐ &dBaron'
+    lore:
+    - '&8Información'
+    - ''
+    - '&d&l▐ &fRango necesario: &eNoble'
+    - '&d&l▐ &fCosto: &e$8,000,000'
+    - ''
+    - '&d&l▐ &dBeneficios:'
+    - '&a✔ &fKit Baron'
+
+#########################################
+# TIER 4
+#########################################
+
+  '12':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM5ZTYwMWVkOTE5OGRiYjM0YzUxZGRmMzIzOTI5ZjAxYTVmOTU4YWIxMTEzM2UzZTA0MDdiNjk4MzkzYjNmIn19fQ=='
+    slot: 23
+    display_name: '&2&l▐ &2Marques'
+    lore:
+    - '&8Información'
+    - ''
+    - '&2&l▐ &fRango necesario: &dBaron'
+    - '&2&l▐ &fCosto: &e$10,000,000'
+    - ''
+    - '&2&l▐ &2Beneficios:'
+    - '&a✔ &fKit Merques'
+
+  '13':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4NWEyOTk1N2Q0MGZhNTY0ZDVlMzFjYmQ5MDVlMzY5NGE2MTYzOTNjZTEzNzEwYmZjMzFiMWI4YjBhNTIyZCJ9fX0='
+    slot: 24
+    display_name: '&a&l▐ &aConde'
+    lore:
+    - '&8Información'
+    - ''
+    - '&a&l▐ &fRango necesario: &2Merques'
+    - '&a&l▐ &fCosto: &e$30,000,000'
+    - ''
+    - '&a&l▐ &aBeneficios:'
+    - '&a✔ &fKit Conde'
+
+  '14':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U3YWI3MTJjODdmNjdkNDhiOThmNzA2MzRkMWRjZmNkNTk4MGMzZDZmMGQ2MjJjZGMzMjMwOTEyMzYxYjU0ZSJ9fX0='
+    slot: 25
+    display_name: '&1&l▐ &1Duque'
+    lore:
+    - '&8Información'
+    - ''
+    - '&1&l▐ &fRango necesario: &aConde'
+    - '&1&l▐ &fCosto: &e$50,000,000'
+    - ''
+    - '&1&l▐ &1Beneficios:'
+    - '&a✔ &fKit Duque'
+    - '&a✔ &fAcceso Mina Duque'
+    - '&a✔ &fAcceso a 6 protecciones'
+    - '&a✔ &fAcceso a 10 recolectores'
+
+#########################################
+# TIER 5
+#########################################
+
+  '15':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBmYjFmMTNlY2I3ZmJiMmZhNDljZDAzZDM1N2ZhN2UyNzg1MDJiNzg3MzA2MDJhYWExMDY1NWU0ZDk0OTBlMSJ9fX0='
+    slot: 38
+    display_name: '&3&l▐ &3Principe'
+    lore:
+    - '&8Información'
+    - ''
+    - '&3&l▐ &fRango necesario: &1Duque'
+    - '&3&l▐ &fCosto: &e$80,000,000'
+    - ''
+    - '&3&l▐ &3Beneficios:'
+    - '&a✔ &fKit Principe'
+
+  '16':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY3ZjJiNTA2MzcwYzFlODRmOTBmYmYyOWM4MGUwY2I3ZTJhYzkzMjMwMzAxYjVkOGU0MmM2OGZkZGU4OWZlMCJ9fX0='
+    slot: 39
+    display_name: '&5&l▐ &5Monarca'
+    lore:
+    - '&8Información'
+    - ''
+    - '&5&l▐ &fRango necesario: &3Principe'
+    - '&5&l▐ &fCosto: &e$120,000,000'
+    - ''
+    - '&5&l▐ &5Beneficios:'
+    - '&a✔ &fKit Monarca'
+
+  '17':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY1ZjNiYWUwZDIwM2JhMTZmZTFkYzNkMTMwN2E4NmE2MzhiZTkyNDQ3MWYyM2U4MmFiZDlkNzhmOGEzZmNhIn19fQ=='
+    slot: 41
+    display_name: '&4&l▐ &4Rey'
+    lore:
+    - '&8Información'
+    - ''
+    - '&4&l▐ &fRango necesario: &5Monarca'
+    - '&4&l▐ &fCosto: &e$180,000,000'
+    - ''
+    - '&4&l▐ &4Beneficios:'
+    - '&a✔ &fKit Rey'
+    - '&a✔ &fAcceso a /ec'
+
+  '18':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTE4OWYzNDdmNDI0NTBjZDJhMmU5YjhhNTM5ODgwN2QyOGM3ZjQyNTRiZDk5YThhNDk5Y2U1NDM1MzIwOTU1In19fQ=='
+    slot: 42
+    display_name: '&6&l▐ &6Emperador'
+    lore:
+    - '&8Información'
+    - ''
+    - '&6&l▐ &fRango necesario: &4Rey'
+    - '&6&l▐ &fCosto: &e$300,000,000'
+    - ''
+    - '&6&l▐ &6Beneficios:'
+    - '&a✔ &fKit Emperador'
+    - '&a✔ &fAcceso Mina Emperador'
+    - '&a✔ &fAcceso 5 hogares'
+    - '&a✔ &fAcceso a /fly'
+    - '&a✔ &fAcceso a /repair'
+    - '&a✔ &fLimite de 5 objetos en subastas'
+    - '&a✔ &fAcceso a 12 recolectores'

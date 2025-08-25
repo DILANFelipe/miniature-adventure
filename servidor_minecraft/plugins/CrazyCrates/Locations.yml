@@ -1,0 +1,31 @@
+Locations:
+  '1':
+    Crate: vote
+    World: NoPvP
+    X: -12
+    Y: 80
+    Z: -24
+  '2':
+    Crate: ELEMENTAL
+    World: NoPvP
+    X: 10
+    Y: 80
+    Z: -24
+  '4':
+    Crate: SUMERY
+    World: NoPvP
+    X: 4
+    Y: 80
+    Z: -27
+  '3':
+    Crate: MISTICA
+    World: NoPvP
+    X: -6
+    Y: 80
+    Z: -27
+  '5':
+    Crate: MINEVY
+    World: NoPvP
+    X: -1
+    Y: 80
+    Z: -28

@@ -1,0 +1,206 @@
+# This is the main configuration file for PaperSpigot.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# 
+# If you need help with the configuration or have any questions related to PaperSpigot,
+# join us at the IRC.
+# 
+# IRC: #paperspigot @ irc.spi.gt ( http://irc.spi.gt/iris/?channels=PaperSpigot )
+
+config-version: 9
+hopper:
+  push-based: true
+  fire-inventory-move-item-event: true
+data-value-allowed-items: []
+durability-multiplier: 1.0
+stackable-buckets:
+  water: false
+  milk: false
+  lava: false
+allow-map-decorations: false
+pearl-passthrough:
+  slab: true
+  tripwire: true
+  fence_gate: true
+warnWhenSettingExcessiveVelocity: true
+adaptative-chunk-gc: true
+settings:
+  baby-zombie-movement-speed: 0.5
+  limit-player-interactions: true
+  max-joins-per-tick: 3
+  track-plugin-scoreboards: false
+  fix-entity-position-desync: true
+  load-permissions-yml-before-plugins: true
+  region-file-cache-size: 256
+  enable-player-collisions: true
+  save-empty-scoreboard-teams: false
+  bungee-online-mode: true
+  play-in-use-item-spam-threshold: 300
+  use-alternative-luck-formula: false
+  velocity-support:
+    enabled: false
+    online-mode: false
+    secret: ''
+  console-has-all-permissions: false
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: 10
+  lag-compensate-block-breaking: true
+  send-full-pos-for-hard-colliding-entities: true
+  log-player-ip-addresses: true
+  console:
+    enable-brigadier-highlighting: true
+    enable-brigadier-completions: true
+  suggest-player-names-when-null-tab-completions: true
+  watchdog:
+    early-warning-every: 5000
+    early-warning-delay: 10000
+  spam-limiter:
+    tab-spam-increment: 1
+    tab-spam-limit: 500
+    recipe-spam-increment: 1
+    recipe-spam-limit: 20
+  book-size:
+    page-max: 2560
+    total-multiplier: 0.98
+  loggers:
+    deobfuscate-stacktraces: true
+  item-validation:
+    display-name: 8192
+    loc-name: 8192
+    lore-line: 8192
+    book:
+      title: 8192
+      author: 8192
+      page: 16384
+  use-display-name-in-quit-message: false
+  incoming-packet-spam-threshold: 300
+  async-chunks:
+    threads: -1
+  unsupported-settings:
+    allow-permanent-block-break-exploits: false
+    allow-piston-duplication: false
+    allow-headless-pistons: false
+    allow-permanent-block-break-exploits-readme: This setting controls if players should be able to break bedrock, end portals and other intended to be permanent blocks.
+    allow-piston-duplication-readme: This setting controls if player should be able to use TNT duplication, but this also allows duplicating carpet, rails and potentially other items
+    allow-headless-pistons-readme: This setting controls if players should be able to create headless pistons.
+  packet-limiter:
+    kick-message: '&cSent too many packets'
+    limits:
+      all:
+        interval: 7.0
+        max-packet-rate: 500.0
+      PacketPlayInAutoRecipe:
+        interval: 4.0
+        max-packet-rate: 5.0
+        action: DROP
+disconnect-spam:
+  addition: 5
+  enabled: true
+knockback:
+  friction: 2.0
+  horizontal: 0.4
+  vertical: 0.4
+  vertical-limit: 0.4
+  extra-horizontal: 0.5
+  extra-vertical: 0.1
+book:
+  max_pages: 5
+effect-modifiers:
+  strength: 1.3
+  weakness: -0.5
+world-settings:
+  default:
+    verbose: true
+    optimize-explosions: true
+    nether-ceiling-void-damage: false
+    tnt-explosion-volume: 4.0
+    mob-spawner-tick-rate: 2
+    max-growth-height:
+      cactus: 3
+      reeds: 3
+    player-blocking-damage-multiplier: 0.5
+    falling-block-height-nerf: 0
+    lava-flow-speed:
+      normal: 30
+      nether: 10
+    water-over-lava-flow-speed: 5
+    tnt-entity-height-nerf: 0
+    disable-explosion-knockback: false
+    fix-cannons: false
+    allow-block-location-tab-completion: true
+    generator-settings:
+      canyon: true
+      caves: true
+      dungeon: true
+      fortress: true
+      mineshaft: true
+      monument: true
+      stronghold: true
+      temple: true
+      village: true
+      flat-bedrock: false
+    disable-mood-sounds: false
+    portal-search-radius: 128
+    disable-ice-and-snow: false
+    falling-blocks-collide-with-signs: false
+    all-chunks-are-slime-chunks: false
+    allow-undead-horse-leashing: false
+    container-update-tick-rate: 3
+    game-mechanics:
+      disable-end-credits: false
+      boats-drop-boats: false
+      disable-player-crits: false
+      disable-chest-cat-detection: true
+    keep-spawn-loaded: true
+    use-hopper-check: false
+    disable-thunder: false
+    tick-next-tick-list-cap: 10000
+    tick-next-tick-list-cap-ignores-redstone: false
+    use-async-lighting: false
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
+    fishing-time-range:
+      MinimumTicks: 100
+      MaximumTicks: 900
+    fast-drain:
+      lava: false
+      water: false
+    squid-spawn-height:
+      minimum: 45.0
+      maximum: 63.0
+    player-exhaustion:
+      block-break: 0.02500000037252903
+      swimming: 0.014999999664723873
+    despawn-ranges:
+      soft: 28
+      hard: 96
+    disable-teleportation-suffocation-check: false
+    cache-chunk-maps: false
+    remove-invalid-mob-spawner-tile-entities: true
+    load-chunks:
+      enderpearls: false
+      tnt-entities: false
+      falling-blocks: false
+verbose: false
+use-display-name-in-quit-message: false
+messages:
+  kick:
+    authentication-servers-down: ''
+    connection-throttle: Connection throttled! Please wait before reconnecting.
+    flying-player: Fly no permitido
+    flying-vehicle: Fly no permitido
+  no-permission: "&c\xc2\xa1Comando no permitido!"
+timings:
+  enabled: true
+  verbose: true
+  url: https://timin.gs/
+  server-name-privacy: false
+  hidden-config-entries:
+  - database
+  - settings.bungeecord-addresses
+  - settings.velocity-support.secret
+  history-interval: 300
+  history-length: 3600
+  server-name: Unknown Server

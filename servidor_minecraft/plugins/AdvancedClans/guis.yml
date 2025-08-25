@@ -1,0 +1,155 @@
+general:
+  nextPage:
+    material: ARROW
+    name: '&aSiguiente'
+    lore:
+    - '&7&nÂ¡Haz click-izquierdo!'
+  backPage:
+    material: ARROW
+    name: '&6Anterior'
+    lore:
+    - '&7&nÂ¡Haz click-izquierdo!'
+  decoration:
+    material: STAINED_GLASS_PANE
+    material-data: 15
+    name: '&a'
+bank:
+  logs:
+    title: '&8Clanes | &a&lBANCO'
+    action-withdraw: Retiro
+    action-deposit: Deposito
+    log-item:
+      material: PAPER
+      name: '&aFicha #%id%'
+      lore:
+      - '&7%date%'
+      - '&7'
+      - '&aâ–ª &fJugador: &a%executor%'
+      - '&aâ”‚ &fTipo: &a%action%'
+      - '&aâ”‚ &fCantidad: &a$%amount% â™ '
+    filter-item:
+      material: STAINED_GLASS_PANE
+      name: '&a'
+clan-info:
+  rows: 6
+  title: '&8Clan | &c&n%clan%'
+  info:
+    material: PAPER
+    name: '&aEstadÃ­sticas'
+    slot: 24
+    lore:
+    - '&8InformaciÃ³n'
+    - ''
+    - '&aâ”‚ &fAsesinatos: &a%kills%'
+    - '&7â–ª &fMuertes: &c%deaths%'
+    - '&eâ”‚ &fKDR: &e%kdr%'
+  exp:
+    material: EXP_BOTTLE
+    name: '&aNivel/Experiencia'
+    slot: 20
+    lore:
+    - '&8InformaciÃ³n'
+    - ''
+    - '&aâ”‚ &fNivel: &a#%level% âœ´'
+    - '&aâ”‚ &fExperiencia: &a%exp%/&a%max-exp%'
+  members:
+    material: SKULL_ITEM
+    skin: '%clan-owner%'
+    slot: 22
+    name: '&aLista de miembros'
+    lore:
+    - '&8InformaciÃ³n'
+    - ''
+    - '&fSube de nivel tu clan asesinando'
+    - '&fenemigos, hacer &cspam-kill&f puede'
+    - '&fbajar el nivel de todo tu clan.'
+    - ''
+    - '&7Â» &fMiembros: &a%members%/&a%max%'
+    - ''
+    - '&aâ–� Haz click para ingresar &nâœ”'
+  allys:
+    material: INK_SACK;10
+    slot: 30
+    name: '&aAliados:'
+    format: '&a%ally% âœ”'
+  enemys:
+    material: INK_SACK;1
+    slot: 32
+    name: '&cEnemigos:'
+    format: '&c%enemy% âœ˜'
+clan-list:
+  title: '&8Survival | &6&lCLANES'
+  name: '&7%clan%'
+  lore:
+  - ''
+  - '&aâ”‚ &fLider: &a%lider%'
+  - '&aâ”‚ &fMiembros: &a%members%/&a%max%'
+  - '&7Â» &fTipo: %privacy%'
+  - ''
+  - '&6â–� &fKDR: &6%kdr%'
+  no-clan:
+    material: BARRIER
+    name: '&cÂ¡No hay clanes disponibles!'
+    lore:
+    - '&7Â¡No hay registro!'
+color-selector:
+  title: '&8Clanes | &b&lCOLORES'
+  rows: 4
+  item-name: '&8â–¶ &fColor: %color%%available%'
+  lores:
+    selected:
+    - '&8â€¢ &fÂ¡Actualmente usas este color!'
+    locked:
+    - '&fÂ¡AÃºn no desbloqueas este color!'
+    - '&fNecesitas ser nivel: &a%level%'
+    select:
+    - '&a(Click para seleccionar el color)'
+tops:
+  empty-item:
+    name: '&a&lâ–ª TOP &a#%position%'
+    lore:
+    - '&7Â¡No hay registro!'
+  top-kills:
+    title: '&8Clanes | &c&lASESINATOS'
+    item:
+      name: '&a&lâ–ª TOP &a#%position%'
+      lore:
+      - ''
+      - '&fÂ» &fClan: &c%clan%'
+      - '&7â”‚ &fAsesinatos: &a%kills%'
+      - '&aâ”‚ &fMiembros: &a%members%'
+  top-level:
+    title: '&8Survival | &e&lNIVEL'
+    item:
+      name: '&a&lâ–ª TOP &a#%position%'
+      lore:
+      - ''
+      - '&fÂ» &fClan: &c%clan%'
+      - '&aâ”‚ &fNivel: &a%level%'
+      - '&aâ”‚ &fMiembros: &a%members%'
+members:
+  rows: 6
+  title: '&8Miembros | &c&n%clan%'
+  top-killers-format: '&a#%position% &f%player%: &a&n%kills% asesinatos.'
+  top-killers-empty: '&7#%position%: &7Â¡No hay registro!'
+  info:
+    material: PAPER
+    name: '&aTabla'
+    slot: 28
+    lore:
+    - '&8InformaciÃ³n'
+    - ''
+    - '%top-kills-1%'
+    - '%top-kills-2%'
+    - '%top-kills-3%'
+  item-format:
+    name: '&fLider: &a%player%'
+    lore:
+    - '&8InformaciÃ³n'
+    - ''
+    - '&7Â» &fEstado: %state%'
+    - '&7Â» &fRango: %rank%'
+    - ''
+    - '&aâ”‚ &fAsesinatos: &a%kills%'
+    - '&7â–ª &fMuertes: &c%deaths%'
+    - '&6â”‚ &fKDR: &6%kdr%'

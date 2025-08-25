@@ -1,0 +1,26 @@
+# DeluxeChat language file
+# You can edit all the messages here!
+# You must restart for changes to take affect when editing this file!
+no_permission: '&8(&e&lSURVIVAL&8) &8&l▸ &fNo tienes permisos, adquiérelos en &6tienda.minevy.xyz'
+msg_incorrect_usage: '&8(&e&lSURVIVAL&8) &8&l▸ &fUsa correctamente &e/msg [Jugador]
+  (Mensaje)'
+msg_recipient_not_online: '&8(&e&lSURVIVAL&8) &8&l▸ &e{0} &fno está en línea.'
+msg_recipient_ignoring_sender: '&8(&e&lSURVIVAL&8) &8&l▸ &e¡{0} &fte está ignorando!'
+msg_recipient_is_sender: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡No puedes hablar contigo mismo!'
+reply_incorrect_usage: '&8(&e&lSURVIVAL&8) &8&l▸ &fUsa correctamente &e/r (Mensaje)'
+reply_no_recipient: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡No tienes a quien contestar!'
+socialspy_toggle_on: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Modo espía &eactivado!'
+socialspy_toggle_off: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Modo espía &cdesactivado!'
+bungee_global_toggle_on: '&eChat set to global'
+bungee_global_toggle_off: '&eChat set to local'
+pm_toggle_on: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Mensajes privados &eactivados!'
+pm_toggle_off: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡Mensajes privados &cdesactivados!'
+pm_toggled_sender: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡No puedes envíar mensajes privados
+  por que los tienes desactivados!'
+pm_toggled_recipient: '&8(&e&lSURVIVAL&8) &8&l▸ &e¡{0} &ftiene los mensajes privados
+  desactivados!'
+url_incorrect_usage: Hover for url command usage info!
+url_incorrect_usage_tooltip_1: '&7/url <link>'
+url_incorrect_usage_tooltip_2: '&7/url <link> <message>'
+chat_illegal_characters: '&8(&e&lSURVIVAL&8) &8&l▸ &f¡No puedes envíar carácteres
+  especiales! &7(Contácta con un administrador)'

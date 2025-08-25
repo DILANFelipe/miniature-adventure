@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 139
+  maxY: 59
+  maxX: -148
+  ignoreLadders: false
+  fillMode: false
+  world: SiPvP
+  minY: 46
+  resetWarnings: []
+  minX: -177
+  composition:
+    '57:0': 0.7
+    '133:0': 0.3
+  name: PvP
+  resetClock: 3
+  minZ: 110
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0

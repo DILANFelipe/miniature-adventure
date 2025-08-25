@@ -1,0 +1,267 @@
+menu_title: '&8Survival | &e&lMINAS'
+open_command:
+- minas
+size: 54
+items:
+  'Normal':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTljOTU1NjIwMWJhZjQ1MDc5NDNlYzc3NjQyMzZlYzBhODM0ZTkxZTc3ZWM1NGVhZmI3MzUyZTI2ZjhkYTYxNSJ9fX0='
+    slot: 11
+    priority: 2
+    display_name: '&e▪ Mina &7(Miembro)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fComienza a generar unas'
+    - '&fcuantas monedas en está'
+    - '&fmina, vende con &e&n"/sellall"'
+    - ''
+    - '&7» &fRango necesario: &7N/a'
+    - '&7▐ &fIngresos: &e&n★'
+    - ''
+    - '&e(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp mina'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp mina'
+  'Mercenario':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjMzYWZkNTdlYTE2YmM2NmVlYjQ1NmE4YTdjMTIzNDY3OGQ1OTVhOTYwNDZjYWQzMzZjNGZkYzgxZjBkZmRmNSJ9fX0='
+    slot: 13
+    priority: 2
+    display_name: '&4▪ Mina &7(Mercenario)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que sube de rango.'
+    - ''
+    - '&7» &fRango necesario: &4Mercenario'
+    - '&7▐ &fIngresos: &4&n★★'
+    - ''
+    - '&4(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minamercenario'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minamercenario'
+  'Duque':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNkNjM2YjA0Zjk1N2ExZGVhMmJhYzRhNzgzOTVmNzFhNTM4ZmJlMTMxMDgyNDdiMWU4YWI4YmQwYmE0YTlkNyJ9fX0='
+    slot: 14
+    priority: 2
+    display_name: '&2▪ Mina &7(Duque)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que sube de rango.'
+    - ''
+    - '&7» &fRango necesario: &2Duque'
+    - '&7▐ &fIngresos: &2&n★★★'
+    - ''
+    - '&2(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaduque'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaduque'
+  'Emperador':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjczZTg3MjM1YTJmNjkxY2YxNGJiMGQ0MTRmZGEyNTYzZjA0MDg2NWM3NDI3M2JmMmM4YmMwOTVmZWNiMjI4In19fQ=='
+    slot: 15
+    priority: 2
+    display_name: '&6▪ Mina &7(Emperador)'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que sube de rango.'
+    - ''
+    - '&7» &fRango necesario: &6Emperador'
+    - '&7▐ &fIngresos: &6&n★★★★'
+    - ''
+    - '&6(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaemperador'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaemperador'
+  'Privada':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIwY2I3M2YyMDdiMDdkMjU5Y2ExZWVmN2NhZGUzMDJjN2VhMTA0YjhhMGMyNDBiODk3YTU3Nzk3MTEyMmU1NiJ9fX0='
+    slot: 41
+    priority: 2
+    display_name: '&9▪ &l&nMINA EXCLUSIVA'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fLa mejor mina del servidor, con'
+    - '&festa mina ganarás el doble de'
+    - '&fdinero cada que vendas. &9✔'
+    - '&9▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &9/buy'
+    - '&7▐ &fIngresos: &9¡Gana el doble!'
+    - ''
+    - '&9(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaexclusiva'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaexclusiva'
+  'VIP':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIxZWFjNDI5MDAwZWIyYzQxOGJlNDZlYTA2YWNkZWZlZDRiNzA1M2EwMGUzZTdmMTEyNzI4MzAwNjhmMjEifX19'
+    slot: 29
+    priority: 2
+    display_name: '&a▪ &a&l&nMINA VIP'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&a▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &a&lVIP'
+    - '&7▐ &fIngresos: &a&n★★★'
+    - ''
+    - '&a(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minavip'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minavip'
+  'Cube':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwNjQ5NjI2YzQxMDEzNTJjNTk5NWM1M2I0OGJmZjYwYTkzODIxMmI3Y2U5MDI0MTVmZWI3NmVhMjczYjM1ZiJ9fX0='
+    slot: 30
+    priority: 2
+    display_name: '&b▪ &b&l&nMINA ELITE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&b▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &b&lELITE'
+    - '&7▐ &fIngresos: &b&n★★★★'
+    - ''
+    - '&b(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaelite'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaelite'
+  'Héroe':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ5YTZkMzMwNDY1YmM5NGQ1NzM3MTY0MjhkYzY2MmNjMTZhY2QzYjgwNTM1YjUyMDI4YzY2NWY0ZGFmNjgyZSJ9fX0='
+    slot: 31
+    priority: 2
+    display_name: '&e▪ &e&l&nMINA HEROE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&e▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &e&lHEROE'
+    - '&7▐ &fIngresos: &e&n★★★★★'
+    - ''
+    - '&e(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaheroe'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaheroe'
+  'Cubeta':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRmYzYyY2Y0Nzc3YWJmMzU2NWE3MDk4NTI3NzhlMjQ4YWFhZTkzNmZkNTE1N2MzMWRiMmEzYzI0NzBhNjY1YyJ9fX0='
+    slot: 32
+    priority: 2
+    display_name: '&7▪ &7&l&nMINA TITAN'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&7▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &7&lTITAN'
+    - '&7▐ &fIngresos: &7&n★★★★★★'
+    - ''
+    - '&7(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minatitan'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minatitan'
+  'Maestro':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJiNWZlOWVhNTIzOTVhNDFhYzY4YzBjYjU3NTg2NGZlYjVmZGQ4ZWExNTgyNjJlOGY4MjkxMjVlYzMzZDQ4NyJ9fX0='
+    slot: 33
+    priority: 2
+    display_name: '&d▪ &d&l&nMINA LEYENDA'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&d▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &d&lLEYENDA'
+    - '&7▐ &fIngresos: &d&n★★★★★★★'
+    - ''
+    - '&d(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minamleyenda'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaleyenda'
+  'Cubero':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFkYmUzMGIwMjdhY2JjZWI2MTI1NjNiZDg3N2NkN2ViYjcxOWVhNmVkMTM5OTAyN2RjZWU1OGJiOTA0OWQ0YSJ9fX0='
+    slot: 39
+    priority: 2
+    display_name: '&c▪ &c&l&nMINA MAESTRO'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&c▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &c&lMAESTRO'
+    - '&7▐ &fIngresos: &c&n★★★★★★★★'
+    - ''
+    - '&c(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minamaestro'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minamaestro'
+  'Ultimate':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3ODM1ZmM5ZTZkYWY2MzIxNjBlOWI3ZmYzNzg3ODhhNDA4MDY0Y2M3NWViZjlmNTE1OGU2MTViZGQ1OTYwMyJ9fX0='
+    slot: 40
+    priority: 2
+    display_name: '&6▪ &6&l&nMINA ULTIMATE'
+    lore:
+    - '&8Información'
+    - ''
+    - '&fEstá mina es desbloqueada'
+    - '&fpor gente que compra rango.'
+    - '&6▪ tienda.minevy.xyz'
+    - ''
+    - '&7» &fRango necesario: &6&lULTIMATE'
+    - '&7▐ &fIngresos: &6&n★★★★★★★★★'
+    - ''
+    - '&6(Haz click para ir)'
+    left_click_commands:
+    - '[close]'
+    - '[player] warp minaultimate'
+    right_click_commands:
+    - '[close]'
+    - '[player] warp minaultimate'

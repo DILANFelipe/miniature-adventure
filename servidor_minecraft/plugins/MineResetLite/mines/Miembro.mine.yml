@@ -1,0 +1,29 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 15
+  surface: ''
+  maxZ: 380
+  maxY: 158
+  maxX: 730
+  ignoreLadders: false
+  fillMode: false
+  world: NoPvP
+  minY: 125
+  resetWarnings: []
+  minX: 698
+  composition:
+    '57:0': 0.1
+    '129:0': 0.1
+    '1:0': 0.25
+    '16:0': 0.12
+    '15:0': 0.15
+    '133:0': 0.1
+    '14:0': 0.15
+    '56:0': 0.1
+  name: Miembro
+  resetClock: 3
+  minZ: 348
+  isSilent: false
+  tpY: -1
+  tpX: 0
+  tpZ: 0
